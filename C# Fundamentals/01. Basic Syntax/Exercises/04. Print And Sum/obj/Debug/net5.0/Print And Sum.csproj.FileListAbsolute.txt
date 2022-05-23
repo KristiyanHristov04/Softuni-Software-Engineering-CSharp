@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\bin\Debug\net5.0\Print And Sum.exe
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\bin\Debug\net5.0\Print And Sum.deps.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\bin\Debug\net5.0\Print And Sum.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\bin\Debug\net5.0\Print And Sum.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\bin\Debug\net5.0\Print And Sum.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\bin\Debug\net5.0\Print And Sum.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\Print And Sum.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\Print And Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\Print And Sum.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\Print And Sum.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\Print And Sum.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\Print And Sum.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\refint\Print And Sum.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\Print And Sum.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\Print And Sum.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Print And Sum\obj\Debug\net5.0\ref\Print And Sum.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.exe
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.deps.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\refint\Padawan Equipment.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\net5.0\ref\Padawan Equipment.dll

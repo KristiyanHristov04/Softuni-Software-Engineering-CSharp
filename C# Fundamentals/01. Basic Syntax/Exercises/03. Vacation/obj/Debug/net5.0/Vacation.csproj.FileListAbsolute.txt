@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\net5.0\Vacation.exe
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\net5.0\Vacation.deps.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\net5.0\Vacation.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\net5.0\Vacation.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\Vacation.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\Vacation.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\Vacation.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\refint\Vacation.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\Vacation.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\Vacation.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\net5.0\ref\Vacation.dll

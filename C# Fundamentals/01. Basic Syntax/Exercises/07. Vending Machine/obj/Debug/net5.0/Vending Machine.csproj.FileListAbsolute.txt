@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\net5.0\Vending Machine.exe
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\net5.0\Vending Machine.deps.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\net5.0\Vending Machine.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\net5.0\Vending Machine.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\net5.0\Vending Machine.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\net5.0\Vending Machine.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\Vending Machine.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\Vending Machine.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\Vending Machine.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\Vending Machine.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\Vending Machine.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\refint\Vending Machine.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\Vending Machine.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\Vending Machine.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\net5.0\ref\Vending Machine.dll

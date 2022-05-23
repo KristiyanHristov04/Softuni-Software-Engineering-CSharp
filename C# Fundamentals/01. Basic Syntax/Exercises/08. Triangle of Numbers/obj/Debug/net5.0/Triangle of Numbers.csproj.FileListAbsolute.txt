@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.exe
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.deps.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\net5.0\Triangle of Numbers.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\refint\Triangle of Numbers.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\Triangle of Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\net5.0\ref\Triangle of Numbers.dll

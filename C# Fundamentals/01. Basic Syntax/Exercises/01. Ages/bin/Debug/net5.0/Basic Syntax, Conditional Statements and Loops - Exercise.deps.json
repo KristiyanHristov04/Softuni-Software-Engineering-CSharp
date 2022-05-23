@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Basic Syntax, Conditional Statements and Loops - Exercise/1.0.0": {
+        "runtime": {
+          "Basic Syntax, Conditional Statements and Loops - Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basic Syntax, Conditional Statements and Loops - Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

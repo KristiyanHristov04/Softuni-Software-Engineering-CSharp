@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\net5.0\Rage Expenses.exe
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\net5.0\Rage Expenses.deps.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\net5.0\Rage Expenses.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\net5.0\Rage Expenses.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\net5.0\Rage Expenses.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\bin\Debug\net5.0\Rage Expenses.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\Rage Expenses.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\Rage Expenses.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\Rage Expenses.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\Rage Expenses.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\refint\Rage Expenses.dll
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\Rage Expenses.pdb
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\Rage Expenses.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Basic Syntax, Conditional Statements and Loops - Exercise\Rage Expenses\obj\Debug\net5.0\ref\Rage Expenses.dll
