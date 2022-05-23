@@ -1,1 +1,1 @@
-# Softuni-Software-Engineering-CSharp
+# Softuni Software Engineering C#
