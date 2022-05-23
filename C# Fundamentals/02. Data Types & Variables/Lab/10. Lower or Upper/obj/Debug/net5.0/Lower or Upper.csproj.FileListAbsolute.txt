@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net5.0\Lower or Upper.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net5.0\Lower or Upper.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net5.0\Lower or Upper.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net5.0\Lower or Upper.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net5.0\Lower or Upper.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net5.0\Lower or Upper.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\Lower or Upper.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\Lower or Upper.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\Lower or Upper.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\Lower or Upper.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\refint\Lower or Upper.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\Lower or Upper.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\Lower or Upper.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net5.0\ref\Lower or Upper.dll

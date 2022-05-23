@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\bin\Debug\net5.0\01. Convert Meters To Kilometers.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\bin\Debug\net5.0\01. Convert Meters To Kilometers.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\bin\Debug\net5.0\01. Convert Meters To Kilometers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\bin\Debug\net5.0\01. Convert Meters To Kilometers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\bin\Debug\net5.0\01. Convert Meters To Kilometers.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\bin\Debug\net5.0\01. Convert Meters To Kilometers.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\01. Convert Meters To Kilometers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\01. Convert Meters To Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\01. Convert Meters To Kilometers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\01. Convert Meters To Kilometers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\01. Convert Meters To Kilometers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\01. Convert Meters To Kilometers.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\refint\01. Convert Meters To Kilometers.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\01. Convert Meters To Kilometers.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\01. Convert Meters To Kilometers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\01. Convert Meters To Kilometers\obj\Debug\net5.0\ref\01. Convert Meters To Kilometers.dll

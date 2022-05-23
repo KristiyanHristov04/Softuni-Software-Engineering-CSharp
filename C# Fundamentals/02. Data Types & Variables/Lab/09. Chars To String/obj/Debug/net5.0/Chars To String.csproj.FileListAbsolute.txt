@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\bin\Debug\net5.0\Chars To String.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\bin\Debug\net5.0\Chars To String.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\bin\Debug\net5.0\Chars To String.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\bin\Debug\net5.0\Chars To String.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\bin\Debug\net5.0\Chars To String.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\bin\Debug\net5.0\Chars To String.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\Chars To String.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\Chars To String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\Chars To String.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\Chars To String.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\Chars To String.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\Chars To String.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\refint\Chars To String.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\Chars To String.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\Chars To String.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Chars To String\obj\Debug\net5.0\ref\Chars To String.dll

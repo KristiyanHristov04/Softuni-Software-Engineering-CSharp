@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\bin\Debug\net5.0\Reversed Chars.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\bin\Debug\net5.0\Reversed Chars.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\bin\Debug\net5.0\Reversed Chars.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\bin\Debug\net5.0\Reversed Chars.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\bin\Debug\net5.0\Reversed Chars.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\bin\Debug\net5.0\Reversed Chars.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\Reversed Chars.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\Reversed Chars.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\Reversed Chars.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\Reversed Chars.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\refint\Reversed Chars.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\Reversed Chars.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\Reversed Chars.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Reversed Chars\obj\Debug\net5.0\ref\Reversed Chars.dll

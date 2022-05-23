@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\bin\Debug\net5.0\Exact Sum Of Real Numbers.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\bin\Debug\net5.0\Exact Sum Of Real Numbers.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\bin\Debug\net5.0\Exact Sum Of Real Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\bin\Debug\net5.0\Exact Sum Of Real Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\bin\Debug\net5.0\Exact Sum Of Real Numbers.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\bin\Debug\net5.0\Exact Sum Of Real Numbers.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\Exact Sum Of Real Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\Exact Sum Of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\Exact Sum Of Real Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\Exact Sum Of Real Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\Exact Sum Of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\Exact Sum Of Real Numbers.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\refint\Exact Sum Of Real Numbers.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\Exact Sum Of Real Numbers.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\Exact Sum Of Real Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Exact Sum Of Real Numbers\obj\Debug\net5.0\ref\Exact Sum Of Real Numbers.dll

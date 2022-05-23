@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\bin\Debug\net5.0\Concat Names.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\bin\Debug\net5.0\Concat Names.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\bin\Debug\net5.0\Concat Names.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\bin\Debug\net5.0\Concat Names.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\bin\Debug\net5.0\Concat Names.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\bin\Debug\net5.0\Concat Names.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\Concat Names.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\Concat Names.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\Concat Names.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\Concat Names.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\Concat Names.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\refint\Concat Names.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\Concat Names.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\Concat Names.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Concat Names\obj\Debug\net5.0\ref\Concat Names.dll

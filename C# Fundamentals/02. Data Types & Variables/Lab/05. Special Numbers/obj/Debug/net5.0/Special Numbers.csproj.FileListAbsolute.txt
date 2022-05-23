@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\bin\Debug\net5.0\Special Numbers.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\bin\Debug\net5.0\Special Numbers.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\bin\Debug\net5.0\Special Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\bin\Debug\net5.0\Special Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\bin\Debug\net5.0\Special Numbers.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\bin\Debug\net5.0\Special Numbers.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\Special Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\Special Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\Special Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\Special Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\Special Numbers.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\refint\Special Numbers.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\Special Numbers.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\Special Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Special Numbers\obj\Debug\net5.0\ref\Special Numbers.dll

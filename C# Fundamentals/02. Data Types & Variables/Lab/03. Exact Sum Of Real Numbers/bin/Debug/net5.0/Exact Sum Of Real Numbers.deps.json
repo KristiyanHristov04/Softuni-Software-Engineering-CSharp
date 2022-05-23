@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exact Sum Of Real Numbers/1.0.0": {
+        "runtime": {
+          "Exact Sum Of Real Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exact Sum Of Real Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

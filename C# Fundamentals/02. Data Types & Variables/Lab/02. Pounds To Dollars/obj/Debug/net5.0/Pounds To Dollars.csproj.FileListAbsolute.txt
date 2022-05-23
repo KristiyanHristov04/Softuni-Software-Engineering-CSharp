@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\bin\Debug\net5.0\Pounds To Dollars.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\bin\Debug\net5.0\Pounds To Dollars.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\bin\Debug\net5.0\Pounds To Dollars.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\bin\Debug\net5.0\Pounds To Dollars.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\bin\Debug\net5.0\Pounds To Dollars.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\bin\Debug\net5.0\Pounds To Dollars.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\Pounds To Dollars.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\Pounds To Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\Pounds To Dollars.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\Pounds To Dollars.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\Pounds To Dollars.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\Pounds To Dollars.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\refint\Pounds To Dollars.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\Pounds To Dollars.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\Pounds To Dollars.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Pounds To Dollars\obj\Debug\net5.0\ref\Pounds To Dollars.dll

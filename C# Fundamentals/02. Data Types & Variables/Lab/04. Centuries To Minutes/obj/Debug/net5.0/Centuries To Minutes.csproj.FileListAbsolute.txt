@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\bin\Debug\net5.0\Centuries To Minutes.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\bin\Debug\net5.0\Centuries To Minutes.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\bin\Debug\net5.0\Centuries To Minutes.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\bin\Debug\net5.0\Centuries To Minutes.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\bin\Debug\net5.0\Centuries To Minutes.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\bin\Debug\net5.0\Centuries To Minutes.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\Centuries To Minutes.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\Centuries To Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\Centuries To Minutes.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\Centuries To Minutes.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\Centuries To Minutes.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\Centuries To Minutes.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\refint\Centuries To Minutes.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\Centuries To Minutes.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\Centuries To Minutes.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Lab\Centuries To Minutes\obj\Debug\net5.0\ref\Centuries To Minutes.dll
