@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\bin\Debug\net5.0\From Left To Right.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\bin\Debug\net5.0\From Left To Right.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\bin\Debug\net5.0\From Left To Right.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\bin\Debug\net5.0\From Left To Right.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\bin\Debug\net5.0\From Left To Right.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\bin\Debug\net5.0\From Left To Right.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\From Left To Right.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\From Left To Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\From Left To Right.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\From Left To Right.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\From Left To Right.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\From Left To Right.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\refint\From Left To Right.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\From Left To Right.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\From Left To Right.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\From Left To Right\obj\Debug\net5.0\ref\From Left To Right.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\bin\Debug\net5.0\Decrypting Message.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\bin\Debug\net5.0\Decrypting Message.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\bin\Debug\net5.0\Decrypting Message.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\bin\Debug\net5.0\Decrypting Message.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\bin\Debug\net5.0\Decrypting Message.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\bin\Debug\net5.0\Decrypting Message.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\Decrypting Message.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\Decrypting Message.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\Decrypting Message.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\Decrypting Message.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\Decrypting Message.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\refint\Decrypting Message.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\Decrypting Message.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\Decrypting Message.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Decrypting Message\obj\Debug\net5.0\ref\Decrypting Message.dll

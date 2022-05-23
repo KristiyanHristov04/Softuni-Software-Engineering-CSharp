@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\bin\Debug\net5.0\Balanced Brackets.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\bin\Debug\net5.0\Balanced Brackets.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\bin\Debug\net5.0\Balanced Brackets.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\bin\Debug\net5.0\Balanced Brackets.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\bin\Debug\net5.0\Balanced Brackets.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\bin\Debug\net5.0\Balanced Brackets.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\Balanced Brackets.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\Balanced Brackets.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\Balanced Brackets.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\Balanced Brackets.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\refint\Balanced Brackets.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\Balanced Brackets.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\Balanced Brackets.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Balanced Brackets\obj\Debug\net5.0\ref\Balanced Brackets.dll

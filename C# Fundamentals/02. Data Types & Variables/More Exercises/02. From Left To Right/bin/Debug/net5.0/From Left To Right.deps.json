@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "From Left To Right/1.0.0": {
+        "runtime": {
+          "From Left To Right.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "From Left To Right/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

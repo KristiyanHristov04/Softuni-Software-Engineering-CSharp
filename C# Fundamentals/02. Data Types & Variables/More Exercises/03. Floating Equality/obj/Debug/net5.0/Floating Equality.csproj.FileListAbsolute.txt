@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\bin\Debug\net5.0\Floating Equality.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\bin\Debug\net5.0\Floating Equality.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\bin\Debug\net5.0\Floating Equality.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\bin\Debug\net5.0\Floating Equality.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\bin\Debug\net5.0\Floating Equality.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\bin\Debug\net5.0\Floating Equality.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\Floating Equality.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\Floating Equality.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\Floating Equality.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\Floating Equality.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\Floating Equality.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\refint\Floating Equality.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\Floating Equality.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\Floating Equality.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Floating Equality\obj\Debug\net5.0\ref\Floating Equality.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\bin\Debug\net5.0\Prime Checker.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\bin\Debug\net5.0\Prime Checker.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\bin\Debug\net5.0\Prime Checker.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\bin\Debug\net5.0\Prime Checker.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\bin\Debug\net5.0\Prime Checker.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\bin\Debug\net5.0\Prime Checker.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\Prime Checker.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\Prime Checker.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\Prime Checker.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\Prime Checker.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\Prime Checker.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\refint\Prime Checker.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\Prime Checker.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\Prime Checker.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - More Exercise\Prime Checker\obj\Debug\net5.0\ref\Prime Checker.dll
