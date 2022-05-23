@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQvp5ih/sPuQopi5jBrpS61feJelN/R0IVE//JrslFEE/0w0pwyHF285FZ68NLDotcaPJLGvZ6I0jyAXrsOx6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Basic Syntax, Conditional Statements and Loops - More Exercise\\01. Sort Number\\01. Sort Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

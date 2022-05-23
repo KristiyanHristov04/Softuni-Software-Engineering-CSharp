@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJQ3y73dlu3L4Rt+4ccc8t/heayVdyd4JOfnMxZJS3miDx+h1RNwnukqHgYQqi5KxNf7hA9Oy1O4afqydJpxVw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Basic Syntax, Conditional Statements and Loops - More Exercise\\03. Gaming Store\\03. Gaming Store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5g+6Csl/Vcj9hh3CtEX29T8a0+uaLZ/Ub8nA79PrTFqDn4IwxD20caz8Wvcvemh1W64gJH0si8JlbWHx+gqAA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Basic Syntax, Conditional Statements and Loops - More Exercise\\04. Reverse String\\04. Reverse String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
