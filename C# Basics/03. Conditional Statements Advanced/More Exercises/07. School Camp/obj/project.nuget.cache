@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tN/t+/zKYk07HTCttc/qctfCUO0y6Y+1WWwWs0PYxCO99qeLcN3+XFcE9eB4yDFyMwXiLxi23tJ3JgYm/2yUZw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - More Exercises\\07. School Camp\\07. School Camp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6QXmEIDGOrcdkm5Ar4waw62N/6x0zGJ2CAWoWfeCvclA60MLoGKH0skX4Ha5ay/lT8yOoIB9UE3KwSp3p3mEA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - Lab\\04. Personal Titles\\04. Personal Titles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

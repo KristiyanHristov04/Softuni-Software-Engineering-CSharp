@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9hXBZFgEJGi6VoSFkbJnFHICMI4pK1Yzie6kpAtF6hdh3ORL0F5FLv+/Ia+FEbyP91PxXdRxYrE4yQUGofUqA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

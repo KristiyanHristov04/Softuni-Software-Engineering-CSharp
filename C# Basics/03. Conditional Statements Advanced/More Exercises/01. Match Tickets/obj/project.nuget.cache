@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HytSOGmHMB1/KVlpS8tMdR8lgxMunIvD4mu/vm65W5Iw/49MqatXAr+i0wPCg7Bcj3XEYSU2UlcNqpRlQoLDGw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - More Exercises\\01. Match Tickets\\01. Match Tickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

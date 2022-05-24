@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDDZLx8w+x5ZqSS0qV3F3EBuldbFmYxPhHTBjVYx2zIeCKm8G34k673vCT5sp4Kl/YMp4inTTW45WgnvN9nzig==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - More Exercises\\02. Bike Race\\02. Bike Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

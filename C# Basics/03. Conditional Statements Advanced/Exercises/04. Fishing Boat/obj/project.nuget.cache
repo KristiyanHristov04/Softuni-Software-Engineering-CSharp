@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ks7B2kc1WnpMlnVvrTQpUIzrg0iRhuD6oIyxNytC8SmVpK2pIz3nkCT56KT0BbnuodCNahHCjOAFPrs68eglxw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\04. Fishing Boat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

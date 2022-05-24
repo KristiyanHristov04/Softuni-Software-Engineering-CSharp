@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YoVFsuqVjjdqRo1Gcs2V9YruG6GfLMU8D0GJ3Q2ggJGSvE7YXzjxmGvtG5+/kgti2tcIUFq8NQPOkZvPo58j8g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - Lab\\12. Trade Commissions\\12. Trade Commissions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

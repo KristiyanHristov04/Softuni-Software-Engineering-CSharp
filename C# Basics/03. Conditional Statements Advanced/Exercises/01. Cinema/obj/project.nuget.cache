@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6e5Hqu7mQKZc4Lwl9M4IYlV2+/7ZQ7e+Xg8yeZVNwCPMV2XQ/xM58P198/V6dktXIaTHgllN7d4Oc1X97rikQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

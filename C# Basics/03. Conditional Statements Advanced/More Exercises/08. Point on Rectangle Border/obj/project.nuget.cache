@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6lR6RTihPd+Qywyo45BtuI/wq1vICFRrsS+y3d68xhPUgCcbD7fT3ktP/uYyGHADuCGzuLn1IjMHZHOiV3kwgA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - More Exercises\\08. Point on Rectangle Border\\08. Point on Rectangle Border.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

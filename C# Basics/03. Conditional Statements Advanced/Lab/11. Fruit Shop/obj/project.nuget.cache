@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LiAB5ZaOI1bl+CC9y+hvFXkzNl0ODdcCD+mzqcMd6lu+dSU3Ja7bqM3XKFo1krOTy+MVQb9BlvRDa8+7JUnZZw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\11. Fruit Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

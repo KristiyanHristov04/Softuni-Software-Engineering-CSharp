@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "US9x8sBESx4QRbNX10j2NSv6x49ik3myycjv7hdnFNUITSSel1UQDOsSYc7qIGlxG9M5q2W4BWIQ02m9MwKD9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - More Exercises\\09. Numbers from 1 to 10\\09. Numbers from 1 to 10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

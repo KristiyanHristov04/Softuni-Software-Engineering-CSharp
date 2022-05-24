@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cOGBADEdp+72lxQDzMU7S3kmptFVCpy1bbIxZkbyYnm2CjsWNtxEafB1BEUORHJ3S0Zyoh0B80j/CpQDXVuTkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - More Exercises\\03. Flowers\\03. Flowers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

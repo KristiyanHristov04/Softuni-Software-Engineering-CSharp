@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9z7A7QrITArspqrQvfM926zc8P6GvVw36fEFD9z4n9Guysr74X/xkvuGO/oUspSqzAkjlG3Ej/AK8737OJVzuA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - More Exercises\\04. Car To Go\\04. Car To Go.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sP1zknVqWy1cq/pitg6KJ5bwhLUsowWUbs4SWT6QbgoFYaL0OluZKN1+T5WUBx+UlGJzN+xh1UK+gXMDWbQG3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements Advanced - Exercise\\07. Hotel Room\\07. Hotel Room.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
