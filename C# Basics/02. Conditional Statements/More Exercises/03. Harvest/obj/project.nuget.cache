@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rllBE0Iv+GcZLQ3f//kL4rIJ9qJvNwgOkNq1tGQIWA2n28clBqh7YFR7jkYxXZ9QdgX0Hmfh3XImoREJiBRvfA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - More Exercises\\03. Harvest\\03. Harvest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

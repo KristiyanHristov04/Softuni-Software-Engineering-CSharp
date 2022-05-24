@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "108SCoUinvEFnct3QvT4yMV6TrvDo1bYLLIUXk006Z2lxWThlgys/etIo/hxitZIhqbWuJxCszLOBDQdrjIhdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Exercise\\07. Shopping\\07. Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qcUogb4gSFOiaB9FCUwK3QgOOtsXhCb+JTswyrolwWPqRdYTU49WqsCjvjr9vuc1L6TeVj5NmWCkD4C8cX55CA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - More Exercises\\04. Transport Price\\04. Transport Price.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

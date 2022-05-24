@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CFECs7GCpMHQYCAwNsA8WXkzR/dOFDHCGsyGA8baSkdyABYTGdd7pANkeTIFXPpmoxVpK0ltcBp4EIWai2SEFg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Exercise\\08. Lunch Break\\08. Lunch Break.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

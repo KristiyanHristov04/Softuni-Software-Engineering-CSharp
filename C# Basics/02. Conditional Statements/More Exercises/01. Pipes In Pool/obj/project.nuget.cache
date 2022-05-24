@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfLAokVetCMqg4TAq8JBhZ4ttC1Q51nzDGNOD5ygDaH+X2moW9lqqazIdPD82DCNY2B537bhsJqZv8DHqs6m9w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - More Exercises\\01. Pipes In Pool\\01. Pipes In Pool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

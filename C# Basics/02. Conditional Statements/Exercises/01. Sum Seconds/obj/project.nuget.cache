@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kaqdB8+CV8bfi2G4StUNc9E93yC6bJT7Hq0Fu3alN9GVAei+mDFDc9CqZWgd7p8oh1JMI2jM9Z+1ltnqtqIqcg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Exercise\\01. Sum Seconds\\01. Sum Seconds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

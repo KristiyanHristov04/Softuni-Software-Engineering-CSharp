@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L/nL7smomgKAin6p0ItM03+AjlzaZFf6UUj2mXt7WdnPYOTFFSeQRNIp3YwzGwmNxgpYPxsmGpi43v4uVoqkyA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - More Exercises\\07. Fuel Tank\\07. Fuel Tank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

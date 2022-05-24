@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Io1Dpt0ng6uVAJHL/nq9AxTfHPw1oWXo49Xmx2B/WgrCEyGyLzZsMrov66cznt8iVQcUV2JyolXLjG0jw+7z3w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Exercise\\03. Time + 15 Minutes\\03. Time + 15 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

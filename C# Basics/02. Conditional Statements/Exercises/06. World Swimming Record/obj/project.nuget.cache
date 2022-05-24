@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVrgeFybvsYdJijXNrpLn74W1someu8Ey1PuhnBKd6baPoLwOaqiaX/ieHNPeN7z9hakzY56Y5hu1+xvQPyqcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Exercise\\06. World Swimming Record\\06. World Swimming Record.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcnU9l8a5DjQoyRfPd1G6JixQ+Yi8wwdwc/cWQilJAw8GPNm4itmvz+WGPIMFpwobFuaiUltBG01qfBsd9llVg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
