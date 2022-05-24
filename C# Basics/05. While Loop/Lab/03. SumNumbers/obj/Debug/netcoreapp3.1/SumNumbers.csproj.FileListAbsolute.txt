@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.genruntimeconfig.cache

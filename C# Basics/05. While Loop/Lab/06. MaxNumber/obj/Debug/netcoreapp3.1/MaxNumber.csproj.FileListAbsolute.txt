@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.genruntimeconfig.cache

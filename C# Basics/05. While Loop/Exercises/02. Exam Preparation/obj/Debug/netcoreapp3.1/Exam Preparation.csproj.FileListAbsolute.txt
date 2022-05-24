@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.genruntimeconfig.cache

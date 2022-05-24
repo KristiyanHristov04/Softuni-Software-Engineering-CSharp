@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\bin\Debug\netcoreapp3.1\Report System.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\bin\Debug\netcoreapp3.1\Report System.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\bin\Debug\netcoreapp3.1\Report System.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\bin\Debug\netcoreapp3.1\Report System.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\bin\Debug\netcoreapp3.1\Report System.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\bin\Debug\netcoreapp3.1\Report System.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\obj\Debug\netcoreapp3.1\Report System.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\obj\Debug\netcoreapp3.1\Report System.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\obj\Debug\netcoreapp3.1\Report System.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\obj\Debug\netcoreapp3.1\Report System.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\obj\Debug\netcoreapp3.1\Report System.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\obj\Debug\netcoreapp3.1\Report System.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Report System\obj\Debug\netcoreapp3.1\Report System.genruntimeconfig.cache

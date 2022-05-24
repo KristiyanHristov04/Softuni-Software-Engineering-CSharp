@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\SoftUniWhileLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniWhileLoopMoreExercises.genruntimeconfig.cache

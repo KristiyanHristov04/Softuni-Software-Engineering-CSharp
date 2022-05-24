@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache

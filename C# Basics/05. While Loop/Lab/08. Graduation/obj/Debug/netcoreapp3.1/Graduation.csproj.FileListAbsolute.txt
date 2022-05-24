@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\bin\Debug\netcoreapp3.1\Graduation.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\bin\Debug\netcoreapp3.1\Graduation.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\bin\Debug\netcoreapp3.1\Graduation.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\bin\Debug\netcoreapp3.1\Graduation.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\obj\Debug\netcoreapp3.1\Graduation.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\obj\Debug\netcoreapp3.1\Graduation.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Graduation\obj\Debug\netcoreapp3.1\Graduation.genruntimeconfig.cache

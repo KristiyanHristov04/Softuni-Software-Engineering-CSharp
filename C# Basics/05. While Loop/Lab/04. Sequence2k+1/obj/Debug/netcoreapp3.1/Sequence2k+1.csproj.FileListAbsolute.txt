@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.genruntimeconfig.cache

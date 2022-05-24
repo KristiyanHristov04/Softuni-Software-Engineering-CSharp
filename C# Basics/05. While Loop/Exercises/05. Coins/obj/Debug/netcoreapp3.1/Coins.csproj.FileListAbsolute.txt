@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\obj\Debug\netcoreapp3.1\Coins.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Coins\obj\Debug\netcoreapp3.1\Coins.genruntimeconfig.cache

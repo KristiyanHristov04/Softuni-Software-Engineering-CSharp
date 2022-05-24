@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exam Preparation/1.0.0": {
+        "runtime": {
+          "Exam Preparation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam Preparation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

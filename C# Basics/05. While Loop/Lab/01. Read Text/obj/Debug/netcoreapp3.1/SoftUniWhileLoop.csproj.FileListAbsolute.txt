@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\bin\Debug\netcoreapp3.1\SoftUniWhileLoop.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\bin\Debug\netcoreapp3.1\SoftUniWhileLoop.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\bin\Debug\netcoreapp3.1\SoftUniWhileLoop.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\bin\Debug\netcoreapp3.1\SoftUniWhileLoop.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\bin\Debug\netcoreapp3.1\SoftUniWhileLoop.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\bin\Debug\netcoreapp3.1\SoftUniWhileLoop.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\obj\Debug\netcoreapp3.1\SoftUniWhileLoop.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\obj\Debug\netcoreapp3.1\SoftUniWhileLoop.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\obj\Debug\netcoreapp3.1\SoftUniWhileLoop.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\obj\Debug\netcoreapp3.1\SoftUniWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\obj\Debug\netcoreapp3.1\SoftUniWhileLoop.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\obj\Debug\netcoreapp3.1\SoftUniWhileLoop.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\SoftUniWhileLoop\obj\Debug\netcoreapp3.1\SoftUniWhileLoop.genruntimeconfig.cache

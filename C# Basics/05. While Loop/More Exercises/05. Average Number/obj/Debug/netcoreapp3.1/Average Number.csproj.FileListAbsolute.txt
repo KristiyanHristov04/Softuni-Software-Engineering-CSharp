@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\bin\Debug\netcoreapp3.1\Average Number.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\bin\Debug\netcoreapp3.1\Average Number.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\bin\Debug\netcoreapp3.1\Average Number.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\bin\Debug\netcoreapp3.1\Average Number.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\bin\Debug\netcoreapp3.1\Average Number.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\bin\Debug\netcoreapp3.1\Average Number.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\obj\Debug\netcoreapp3.1\Average Number.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\obj\Debug\netcoreapp3.1\Average Number.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\obj\Debug\netcoreapp3.1\Average Number.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\obj\Debug\netcoreapp3.1\Average Number.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\obj\Debug\netcoreapp3.1\Average Number.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopMoreExercises\Average Number\obj\Debug\netcoreapp3.1\Average Number.genruntimeconfig.cache

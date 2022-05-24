@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.genruntimeconfig.cache

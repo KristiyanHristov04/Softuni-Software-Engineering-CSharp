@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoop\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.genruntimeconfig.cache

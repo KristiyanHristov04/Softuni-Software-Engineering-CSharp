@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\bin\Debug\netcoreapp3.1\Walking.exe
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\bin\Debug\netcoreapp3.1\Walking.deps.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\bin\Debug\netcoreapp3.1\Walking.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\bin\Debug\netcoreapp3.1\Walking.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\obj\Debug\netcoreapp3.1\Walking.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\obj\Debug\netcoreapp3.1\Walking.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\obj\Debug\netcoreapp3.1\Walking.dll
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\obj\Debug\netcoreapp3.1\Walking.pdb
+C:\Users\KrisPC\source\repos\SoftUniWhileLoopExercises\Walking\obj\Debug\netcoreapp3.1\Walking.genruntimeconfig.cache
