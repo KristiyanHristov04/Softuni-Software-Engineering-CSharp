@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQrCOa0zk9omWv9UP+WiPRu1TCaK+YExGTTOs3eZ222SmaK/ml7lnzCfXGx5/q2nJ/Nl5AUleOZHn2XzH+3s0A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Exercise\\02. Radians to Degrees\\02. Radians to Degrees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

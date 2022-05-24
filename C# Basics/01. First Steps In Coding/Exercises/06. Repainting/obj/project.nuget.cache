@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b5/iQAbPZDWYYr5crfGzl/T6uj6+p0rJU5T1Qwchfl89J5YGuznlOBMbD0EUjGQqhgdARXAMZKNZ0RApo51UMg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Exercise\\06. Repainting\\06. Repainting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9QOvqQpWQGOAxcFwJgXn/+xV4opPYWQxtFlArUteU5f8GwFzHcJuqaH6qW/he3zUGkI+S+O73Ti8kQ3Gcdrtw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Exercise\\08. Basketball Equipment\\08. Basketball Equipment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

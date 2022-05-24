@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xABpOssgf3u0fKxXpiQcygeCx5q55UE5zIA66dd6ItJbnVGoyQ0SALRe/vHwxb9ab+o6Q36exyMTUk9F3zLLTw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Exercise\\09. Fish Tank\\09. Fish Tank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

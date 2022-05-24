@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WYn/jjor4oEUUtWcBioFp5sDwE8u+t/OwzjY58hC7sD87p4zm7yEXBqmFyfFbwnbsq5HWvscSsXwvi6P1EHPA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Exercise\\03. Deposit Calculator\\03. Deposit Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

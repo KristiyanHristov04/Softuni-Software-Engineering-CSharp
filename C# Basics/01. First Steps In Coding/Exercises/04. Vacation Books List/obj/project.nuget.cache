@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NGgkDaWpS/CEj2HMwFlAMZSDFqN/6BuqfTLI9+newZjaqZbV50BoNlx+TfvJGKFH6mKQbNnBcZJaAagnVX46FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Exercise\\04. Vacation Books List\\04. Vacation Books List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
