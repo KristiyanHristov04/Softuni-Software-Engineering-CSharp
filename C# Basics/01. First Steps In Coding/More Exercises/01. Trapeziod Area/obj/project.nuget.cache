@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JByswEoy+N08TPanHjojqtyYdm1cBWJ5oIX3U6uCl5K7P4fhAdUZJX4YYvCr0hulkOVfoH3v130ehZ4FmTQbrg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps in Coding - More Exercises\\01. Trapeziod Area\\01. Trapeziod Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

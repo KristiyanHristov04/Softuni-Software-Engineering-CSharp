@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+7Hf2FvRD6EamTOrGBO21ea/+yPmNQkMiRP32aPfwCbQBllFFDd8IwlzchKpRIoQFHZG6r4OmQs6G26l/1REw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps in Coding - More Exercises\\08. Circle Area and Perimeter\\08. Circle Area and Perimeter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

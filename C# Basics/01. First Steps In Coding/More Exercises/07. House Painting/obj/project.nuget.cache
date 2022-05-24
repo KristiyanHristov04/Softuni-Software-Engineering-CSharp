@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2IDB6yf8xFRCWiJ2GnrkfSUjV55ZHe/sQLnogXNAf3TQFKjVTG6FWh7VAUJHfEu2cxIXCFSFNK6MWXpGEaSoQg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps in Coding - More Exercises\\07. House Painting\\07. House Painting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

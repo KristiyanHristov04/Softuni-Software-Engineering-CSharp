@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L6iJAiVN11z6RZrJWw6mRfkOQikKx4p7EnrNly5rhnrn9ICCbAVdUY7j0xnbgUBXvjr2nWKeHYn7Y/IyJMGk4w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps in Coding - More Exercises\\09. Weather Forecast\\09. Weather Forecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
