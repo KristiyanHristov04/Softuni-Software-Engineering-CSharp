@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FiIpgGHRSEIhUa+ujQLOldKUL3ozWE32uSlxfHBb/1x/GH9qC6HlgrT1yII1+8uoRVW0PyeAhTsaf3KKHCvgpw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Lab\\09. Yard Greening\\09. Yard Greening.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

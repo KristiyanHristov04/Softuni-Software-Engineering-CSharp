@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1vLbtnJtfLQttt/OdjdEJ0v1DsM5aixLlHJ3uvmvOyWwRFgoBiHhkKrPISbNwJcA9COihU8cD8GLkjFOj1yOg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Lab\\06. Concatenate Data\\06. Concatenate Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

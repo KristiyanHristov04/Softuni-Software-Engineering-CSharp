@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pB883KAfsmxTdibwn+Y1wWNut61dnuwK4JnTFAT4fItZnNbks0r7BINh0ucTpMRFe8yvpLos9QeZZgIew2agA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Lab\\01. Hello SoftUni\\01. Hello SoftUni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

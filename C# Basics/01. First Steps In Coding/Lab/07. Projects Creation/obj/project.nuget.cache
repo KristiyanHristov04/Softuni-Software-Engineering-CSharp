@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqJodlh+EnBMxsK4A6G9eyii21Qgzg/tNnEApaJkDoU2sTROimq4SPR0Cc5+u84/CiHMyjMd/c+dtWObWz2liw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Lab\\07. Projects Creation\\07. Projects Creation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

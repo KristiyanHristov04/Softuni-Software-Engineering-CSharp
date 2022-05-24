@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+3T3CUHeBhME0m5X9RhD4wPxIxJesnesWQSYL0EsfD8L7X4JS2xb58UqPqztxYausIdy5ukUIWvCTK12GoD3w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\First Steps In Coding - Lab\\05. Greeting by Name\\05. Greeting by Name.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
