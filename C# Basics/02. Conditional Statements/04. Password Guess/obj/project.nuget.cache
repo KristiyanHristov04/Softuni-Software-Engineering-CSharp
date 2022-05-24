@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7EsvG8DKo4BqDQFYF0yoccr+xLVn3//Lt5U87f0fo29RIAGU+xsoiy+U12RHIa6bVaLI+O92jMl+mTFQVq6yFw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Lab\\04. Password Guess\\04. Password Guess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

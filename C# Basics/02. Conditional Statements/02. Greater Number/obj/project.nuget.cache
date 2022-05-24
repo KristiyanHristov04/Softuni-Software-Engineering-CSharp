@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5uEtZ5RadwMo9obqutBTdkRzoh3+68AeS87u/CFlFiuxxr3FjJcV/N/tOrvvcuiu9VGfZaJ4kl11kg3NP+4iTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Lab\\02. Greater Number\\02. Greater Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

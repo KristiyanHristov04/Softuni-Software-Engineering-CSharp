@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOjYNjv/06SCFodSuXPfeR+gcsuD8DCEFMzCyYB6RxzOeqz7dE1uI9Mlk2PATUAeIV4IP2Wh4Nif4Mzw6hZiJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Lab\\06. Speed Info\\06. Speed Info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2TPwgLDuvCWxOFkQycXuxJhNSdGcOudZWo3YnUmoS781R6uBxgCAdZGMlTImDn/PZnqHdRZQMdLB19jrXgXrKA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Conditional Statements - Lab\\01. Excellent Result\\01. Excellent Result.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
