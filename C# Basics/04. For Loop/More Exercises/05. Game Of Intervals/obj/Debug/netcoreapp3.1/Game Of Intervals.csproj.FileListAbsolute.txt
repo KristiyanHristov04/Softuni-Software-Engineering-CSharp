@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\bin\Debug\netcoreapp3.1\Game Of Intervals.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\bin\Debug\netcoreapp3.1\Game Of Intervals.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\bin\Debug\netcoreapp3.1\Game Of Intervals.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\bin\Debug\netcoreapp3.1\Game Of Intervals.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\bin\Debug\netcoreapp3.1\Game Of Intervals.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\bin\Debug\netcoreapp3.1\Game Of Intervals.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\obj\Debug\netcoreapp3.1\Game Of Intervals.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\obj\Debug\netcoreapp3.1\Game Of Intervals.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\obj\Debug\netcoreapp3.1\Game Of Intervals.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\obj\Debug\netcoreapp3.1\Game Of Intervals.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\obj\Debug\netcoreapp3.1\Game Of Intervals.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Game Of Intervals\obj\Debug\netcoreapp3.1\Game Of Intervals.genruntimeconfig.cache

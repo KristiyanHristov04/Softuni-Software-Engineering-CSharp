@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.genruntimeconfig.cache

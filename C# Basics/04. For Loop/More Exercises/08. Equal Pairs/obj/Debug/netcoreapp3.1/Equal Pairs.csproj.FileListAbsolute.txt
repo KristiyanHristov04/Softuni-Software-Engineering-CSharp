@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.genruntimeconfig.cache

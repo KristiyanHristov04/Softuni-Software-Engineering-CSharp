@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.genruntimeconfig.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.csproj.AssemblyReference.cache

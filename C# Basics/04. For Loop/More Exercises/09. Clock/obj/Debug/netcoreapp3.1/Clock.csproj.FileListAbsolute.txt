@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.AssemblyReference.cache

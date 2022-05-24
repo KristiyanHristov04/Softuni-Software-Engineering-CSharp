@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\bin\Debug\netcoreapp3.1\Football League.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\bin\Debug\netcoreapp3.1\Football League.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\bin\Debug\netcoreapp3.1\Football League.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\bin\Debug\netcoreapp3.1\Football League.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\bin\Debug\netcoreapp3.1\Football League.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\bin\Debug\netcoreapp3.1\Football League.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\obj\Debug\netcoreapp3.1\Football League.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\obj\Debug\netcoreapp3.1\Football League.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\obj\Debug\netcoreapp3.1\Football League.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\obj\Debug\netcoreapp3.1\Football League.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\obj\Debug\netcoreapp3.1\Football League.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\obj\Debug\netcoreapp3.1\Football League.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Football League\obj\Debug\netcoreapp3.1\Football League.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\bin\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\SoftUniForLoopMoreExercises\obj\Debug\netcoreapp3.1\SoftUniForLoopMoreExercises.genruntimeconfig.cache

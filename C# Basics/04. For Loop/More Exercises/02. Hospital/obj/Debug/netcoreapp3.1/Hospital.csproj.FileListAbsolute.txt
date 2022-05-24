@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache

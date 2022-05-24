@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\bin\Debug\netcoreapp3.1\Bills.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\bin\Debug\netcoreapp3.1\Bills.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\bin\Debug\netcoreapp3.1\Bills.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\bin\Debug\netcoreapp3.1\Bills.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\bin\Debug\netcoreapp3.1\Bills.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\bin\Debug\netcoreapp3.1\Bills.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\obj\Debug\netcoreapp3.1\Bills.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\obj\Debug\netcoreapp3.1\Bills.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\obj\Debug\netcoreapp3.1\Bills.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\obj\Debug\netcoreapp3.1\Bills.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\obj\Debug\netcoreapp3.1\Bills.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\obj\Debug\netcoreapp3.1\Bills.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopMoreExercises\Bills\obj\Debug\netcoreapp3.1\Bills.genruntimeconfig.cache
