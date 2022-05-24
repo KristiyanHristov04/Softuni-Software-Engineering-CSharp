@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\bin\Debug\netcoreapp3.1\Histogram.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\bin\Debug\netcoreapp3.1\Histogram.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\bin\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\bin\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\obj\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\obj\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\obj\Debug\netcoreapp3.1\Histogram.genruntimeconfig.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.AssemblyReference.cache

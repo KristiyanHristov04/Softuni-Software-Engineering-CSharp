@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.genruntimeconfig.cache

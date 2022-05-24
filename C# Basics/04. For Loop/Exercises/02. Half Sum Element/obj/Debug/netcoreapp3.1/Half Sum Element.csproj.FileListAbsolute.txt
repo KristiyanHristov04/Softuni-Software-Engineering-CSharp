@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.genruntimeconfig.cache

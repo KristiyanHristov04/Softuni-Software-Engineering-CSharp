@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\bin\Debug\netcoreapp3.1\Clever Lily.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.genruntimeconfig.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Clever Lily\obj\Debug\netcoreapp3.1\Clever Lily.csproj.AssemblyReference.cache

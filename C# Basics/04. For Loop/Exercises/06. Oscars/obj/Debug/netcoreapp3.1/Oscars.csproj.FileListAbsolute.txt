@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\bin\Debug\netcoreapp3.1\Oscars.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\bin\Debug\netcoreapp3.1\Oscars.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\bin\Debug\netcoreapp3.1\Oscars.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\bin\Debug\netcoreapp3.1\Oscars.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\bin\Debug\netcoreapp3.1\Oscars.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\bin\Debug\netcoreapp3.1\Oscars.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\obj\Debug\netcoreapp3.1\Oscars.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\obj\Debug\netcoreapp3.1\Oscars.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\obj\Debug\netcoreapp3.1\Oscars.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\obj\Debug\netcoreapp3.1\Oscars.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\obj\Debug\netcoreapp3.1\Oscars.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\obj\Debug\netcoreapp3.1\Oscars.genruntimeconfig.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Oscars\obj\Debug\netcoreapp3.1\Oscars.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\bin\Debug\netcoreapp3.1\Salary.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\bin\Debug\netcoreapp3.1\Salary.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\bin\Debug\netcoreapp3.1\Salary.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\bin\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\obj\Debug\netcoreapp3.1\Salary.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\obj\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Salary\obj\Debug\netcoreapp3.1\Salary.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.genruntimeconfig.cache

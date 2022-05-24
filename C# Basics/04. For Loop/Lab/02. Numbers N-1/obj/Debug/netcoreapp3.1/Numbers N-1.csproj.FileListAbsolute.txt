@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\bin\Debug\netcoreapp3.1\Numbers N-1.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\bin\Debug\netcoreapp3.1\Numbers N-1.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\bin\Debug\netcoreapp3.1\Numbers N-1.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\bin\Debug\netcoreapp3.1\Numbers N-1.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\bin\Debug\netcoreapp3.1\Numbers N-1.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\bin\Debug\netcoreapp3.1\Numbers N-1.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\obj\Debug\netcoreapp3.1\Numbers N-1.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\obj\Debug\netcoreapp3.1\Numbers N-1.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\obj\Debug\netcoreapp3.1\Numbers N-1.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\obj\Debug\netcoreapp3.1\Numbers N-1.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\obj\Debug\netcoreapp3.1\Numbers N-1.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Numbers N-1\obj\Debug\netcoreapp3.1\Numbers N-1.genruntimeconfig.cache

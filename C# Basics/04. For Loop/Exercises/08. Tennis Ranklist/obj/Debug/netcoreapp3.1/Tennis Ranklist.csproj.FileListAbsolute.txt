@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\bin\Debug\netcoreapp3.1\Tennis Ranklist.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\bin\Debug\netcoreapp3.1\Tennis Ranklist.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\bin\Debug\netcoreapp3.1\Tennis Ranklist.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\bin\Debug\netcoreapp3.1\Tennis Ranklist.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\bin\Debug\netcoreapp3.1\Tennis Ranklist.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\bin\Debug\netcoreapp3.1\Tennis Ranklist.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\obj\Debug\netcoreapp3.1\Tennis Ranklist.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\obj\Debug\netcoreapp3.1\Tennis Ranklist.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\obj\Debug\netcoreapp3.1\Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\obj\Debug\netcoreapp3.1\Tennis Ranklist.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\obj\Debug\netcoreapp3.1\Tennis Ranklist.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Tennis Ranklist\obj\Debug\netcoreapp3.1\Tennis Ranklist.genruntimeconfig.cache

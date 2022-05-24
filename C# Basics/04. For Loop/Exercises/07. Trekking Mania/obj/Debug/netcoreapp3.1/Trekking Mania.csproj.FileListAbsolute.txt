@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.genruntimeconfig.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoopExercises\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.csproj.AssemblyReference.cache

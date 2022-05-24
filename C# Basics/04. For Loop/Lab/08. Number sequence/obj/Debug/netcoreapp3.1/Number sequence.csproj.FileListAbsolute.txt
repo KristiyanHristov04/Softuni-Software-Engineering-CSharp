@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.exe
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.deps.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.dll
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.pdb
+C:\Users\KrisPC\source\repos\SoftUniForLoop\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.genruntimeconfig.cache
