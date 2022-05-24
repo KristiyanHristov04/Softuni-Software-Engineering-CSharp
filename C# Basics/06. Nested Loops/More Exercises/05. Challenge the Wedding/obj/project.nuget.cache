@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EfSbZgSuGOBEKHUwJJjst6IyI990K8s4s+zMxUXBvu6RcM/4vQd3hwh6OWuIGkViuqDM9I3h65HQN1fC6wIW5g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Nested Loops - More Exercises\\05. Challenge the Wedding\\05. Challenge the Wedding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

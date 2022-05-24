@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w79tjoB0xyCE/fLpmtA/71C9z/qrN8uTcHGtNnGm41ZKqymqY8M0+9lLL4FM4JzcDJUL+UqD30E5krMucNLV9w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Nested Loops - More Exercises\\04. Car Number\\04. Car Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

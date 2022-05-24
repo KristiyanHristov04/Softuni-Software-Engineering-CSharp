@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxz3pRHdY6EcXoF7MCnZJlTyKzdkXbJwiceeewVIy3HdPO+MLUCR4bKj6diH/XvxJ8+SwG5Hmua08xEX3JzEkg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Nested Loops - More Exercises\\08. Secret Door's Lock\\08. Secret Door's Lock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

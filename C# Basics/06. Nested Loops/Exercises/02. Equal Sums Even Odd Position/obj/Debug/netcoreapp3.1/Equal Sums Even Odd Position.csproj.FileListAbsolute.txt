@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.exe
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.deps.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.genruntimeconfig.cache

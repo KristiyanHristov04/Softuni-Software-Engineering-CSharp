@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LDsiSM/kYFLE7fSQA1dNzvk3cm6vc4E6IHyrLQUS4sRfIAsFmjoEjomLXUXPOaqv1HCsONRdj30Xdf4idXhPRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Nested Loops - More Exercises\\09. Sum Of Two Numbers\\09. Sum Of Two Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

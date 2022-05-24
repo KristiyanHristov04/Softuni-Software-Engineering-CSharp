@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZnG1FP7kWjfb2IAWjMW692YK6Gm8o132ovjs6CIcuxCC1v/2Nupe5wqpDuIVbn8eWJM+laSxr3qFcZpW9IUdmg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Nested Loops - More Exercises\\12. The song of the wheels\\12. The song of the wheels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

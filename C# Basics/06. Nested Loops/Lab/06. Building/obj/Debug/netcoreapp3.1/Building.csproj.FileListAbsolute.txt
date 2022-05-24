@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\bin\Debug\netcoreapp3.1\Building.exe
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\bin\Debug\netcoreapp3.1\Building.deps.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\bin\Debug\netcoreapp3.1\Building.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\bin\Debug\netcoreapp3.1\Building.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\obj\Debug\netcoreapp3.1\Building.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\obj\Debug\netcoreapp3.1\Building.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\obj\Debug\netcoreapp3.1\Building.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Building\obj\Debug\netcoreapp3.1\Building.genruntimeconfig.cache

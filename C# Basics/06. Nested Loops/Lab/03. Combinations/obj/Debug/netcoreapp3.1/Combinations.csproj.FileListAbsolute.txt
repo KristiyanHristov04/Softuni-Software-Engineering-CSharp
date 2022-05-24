@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache

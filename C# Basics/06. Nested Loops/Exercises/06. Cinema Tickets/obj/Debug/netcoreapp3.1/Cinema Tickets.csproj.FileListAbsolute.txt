@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.exe
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.deps.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.exe
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.deps.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\bin\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.exe
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\bin\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.deps.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\bin\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\bin\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\bin\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\bin\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\obj\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\obj\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\obj\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\obj\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\obj\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\obj\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsLab\SoftUniNestedLoopsLab\obj\Debug\netcoreapp3.1\SoftUniNestedLoopsLab.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KLOzdlk32L/uZLwAGLkULykkEQfiwtoVk/RNyZk7vNCB7VhzanW4UfFxiAY9FtmUM+adbNfZV3e/MnFzehXlKg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Nested Loops - More Exercises\\13. Prime Pairs\\13. Prime Pairs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

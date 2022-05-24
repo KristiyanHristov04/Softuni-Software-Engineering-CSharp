@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O/qTy9F63xKqS2mKYmYBE7qnu63xxJWhAMDD6l4R/uKjIF3K25+BJBmx4R9fKOF3ATqlYBqXW+ZtbCpt0EaIAg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Nested Loops - More Exercises\\14. Password Generator\\14. Password Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

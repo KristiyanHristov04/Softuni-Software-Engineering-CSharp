@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.exe
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.deps.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.genruntimeconfig.cache

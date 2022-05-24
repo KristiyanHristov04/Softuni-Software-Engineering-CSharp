@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.exe
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.deps.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.runtimeconfig.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.dll
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.pdb
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.genruntimeconfig.cache
+C:\Users\KrisPC\source\repos\SoftUniNestedLoopsExercises\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.csproj.AssemblyReference.cache

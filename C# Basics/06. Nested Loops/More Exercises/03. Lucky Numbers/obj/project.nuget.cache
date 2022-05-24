@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJligD95rhHJqGLONsEEbuzs5F6ZJcDMe4PHurUvzizA8h7FNndN+921ojqitpejhzJMYcQTeReUGwOuDSxTxA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Nested Loops - More Exercises\\03. Lucky Numbers\\03. Lucky Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

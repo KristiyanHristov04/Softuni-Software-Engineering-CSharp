@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5RY6jxYwm641+5GEtb+KmUVUObMa94a18AlQTx0YmAJJ7prD8TwYHCnow3/dazvOeuIi1TaT5Rx8WP4EDN15UA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Nested Loops - More Exercises\\11. HappyCat Parking\\11. HappyCat Parking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
