@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRQXYWcPIMQWUd4KOYzrZvlcb3A4nIy6ziBDOTGB6cq8lM3caBqj1FBF0/21SzFzyQ3z9qqVTR6U8noUpVO84Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\source\\repos\\ExamSoftUni\\WorkOut\\WorkOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.exe
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.deps.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.runtimeconfig.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\bin\Debug\netcoreapp3.1\Football Kit.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\Football Kit\obj\Debug\netcoreapp3.1\Football Kit.genruntimeconfig.cache

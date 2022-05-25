@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\bin\Debug\netcoreapp3.1\Excursion Calculator.exe
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\bin\Debug\netcoreapp3.1\Excursion Calculator.deps.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\bin\Debug\netcoreapp3.1\Excursion Calculator.runtimeconfig.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\bin\Debug\netcoreapp3.1\Excursion Calculator.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\bin\Debug\netcoreapp3.1\Excursion Calculator.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\bin\Debug\netcoreapp3.1\Excursion Calculator.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\obj\Debug\netcoreapp3.1\Excursion Calculator.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\obj\Debug\netcoreapp3.1\Excursion Calculator.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\obj\Debug\netcoreapp3.1\Excursion Calculator.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\obj\Debug\netcoreapp3.1\Excursion Calculator.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\obj\Debug\netcoreapp3.1\Excursion Calculator.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\obj\Debug\netcoreapp3.1\Excursion Calculator.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\Excursion Calculator\obj\Debug\netcoreapp3.1\Excursion Calculator.genruntimeconfig.cache

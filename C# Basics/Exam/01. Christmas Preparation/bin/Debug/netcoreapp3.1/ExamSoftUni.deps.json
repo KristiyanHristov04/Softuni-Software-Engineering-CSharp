@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExamSoftUni/1.0.0": {
+        "runtime": {
+          "ExamSoftUni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamSoftUni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

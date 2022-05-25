@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\bin\Debug\netcoreapp3.1\Unique Pin Codes.exe
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\bin\Debug\netcoreapp3.1\Unique Pin Codes.deps.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\bin\Debug\netcoreapp3.1\Unique Pin Codes.runtimeconfig.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\bin\Debug\netcoreapp3.1\Unique Pin Codes.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\bin\Debug\netcoreapp3.1\Unique Pin Codes.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\bin\Debug\netcoreapp3.1\Unique Pin Codes.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\obj\Debug\netcoreapp3.1\Unique Pin Codes.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\obj\Debug\netcoreapp3.1\Unique Pin Codes.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\obj\Debug\netcoreapp3.1\Unique Pin Codes.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\obj\Debug\netcoreapp3.1\Unique Pin Codes.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\obj\Debug\netcoreapp3.1\Unique Pin Codes.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\obj\Debug\netcoreapp3.1\Unique Pin Codes.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\Unique Pin Codes\obj\Debug\netcoreapp3.1\Unique Pin Codes.genruntimeconfig.cache

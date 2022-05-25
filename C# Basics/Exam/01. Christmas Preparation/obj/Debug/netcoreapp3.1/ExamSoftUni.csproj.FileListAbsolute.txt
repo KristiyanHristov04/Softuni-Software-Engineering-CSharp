@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\bin\Debug\netcoreapp3.1\ExamSoftUni.exe
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\bin\Debug\netcoreapp3.1\ExamSoftUni.deps.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\bin\Debug\netcoreapp3.1\ExamSoftUni.runtimeconfig.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\bin\Debug\netcoreapp3.1\ExamSoftUni.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\bin\Debug\netcoreapp3.1\ExamSoftUni.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\bin\Debug\netcoreapp3.1\ExamSoftUni.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\obj\Debug\netcoreapp3.1\ExamSoftUni.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\obj\Debug\netcoreapp3.1\ExamSoftUni.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\obj\Debug\netcoreapp3.1\ExamSoftUni.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\obj\Debug\netcoreapp3.1\ExamSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\obj\Debug\netcoreapp3.1\ExamSoftUni.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\obj\Debug\netcoreapp3.1\ExamSoftUni.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\ExamSoftUni\obj\Debug\netcoreapp3.1\ExamSoftUni.genruntimeconfig.cache

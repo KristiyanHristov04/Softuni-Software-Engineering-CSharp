@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bIG2opQLFLgTKBLh64uzXtIaEPqslgXz5ssz15RgShT10MS3gUmoM98kjws3/pKrUrd2E+7/jPyu3CsutubYuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\source\\repos\\ExamSoftUni\\Excursion Calculator\\Excursion Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

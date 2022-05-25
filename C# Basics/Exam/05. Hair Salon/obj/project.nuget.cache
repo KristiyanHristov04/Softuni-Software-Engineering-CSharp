@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnUN9VtBmAdpsOKwCZN2WjSPop2d2EgTNkavoR31mHNEPNN0BGFH8L8CSKnidTB+rJoQTRLhPZ28+AtRoatJDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\source\\repos\\ExamSoftUni\\Hair Salon\\Hair Salon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

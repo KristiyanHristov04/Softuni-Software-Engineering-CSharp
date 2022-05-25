@@ -1,0 +1,13 @@
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\bin\Debug\netcoreapp3.1\WorkOut.exe
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\bin\Debug\netcoreapp3.1\WorkOut.deps.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\bin\Debug\netcoreapp3.1\WorkOut.runtimeconfig.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\bin\Debug\netcoreapp3.1\WorkOut.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\bin\Debug\netcoreapp3.1\WorkOut.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\bin\Debug\netcoreapp3.1\WorkOut.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\obj\Debug\netcoreapp3.1\WorkOut.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\obj\Debug\netcoreapp3.1\WorkOut.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\obj\Debug\netcoreapp3.1\WorkOut.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\obj\Debug\netcoreapp3.1\WorkOut.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\obj\Debug\netcoreapp3.1\WorkOut.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\obj\Debug\netcoreapp3.1\WorkOut.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\WorkOut\obj\Debug\netcoreapp3.1\WorkOut.genruntimeconfig.cache

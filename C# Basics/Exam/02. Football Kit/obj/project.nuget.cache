@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+NR5acop3Eul2y7a0Q75myPLeAeAEbaARA7A+LNbTlTGHR0u+PvGFyaKXD8LH2RM5z/YDytWxbGyHn05DWDMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\source\\repos\\ExamSoftUni\\Football Kit\\Football Kit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

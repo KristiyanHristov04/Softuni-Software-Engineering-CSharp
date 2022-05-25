@@ -1,0 +1,12 @@
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.exe
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.deps.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.runtimeconfig.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\bin\Debug\netcoreapp3.1\Hair Salon.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.dll
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.pdb
+C:\Users\KrisPC\source\repos\ExamSoftUni\Hair Salon\obj\Debug\netcoreapp3.1\Hair Salon.genruntimeconfig.cache
