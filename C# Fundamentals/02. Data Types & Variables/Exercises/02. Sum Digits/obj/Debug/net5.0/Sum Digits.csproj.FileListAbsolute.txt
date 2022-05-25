@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net5.0\Sum Digits.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net5.0\Sum Digits.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net5.0\Sum Digits.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net5.0\Sum Digits.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net5.0\Sum Digits.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net5.0\Sum Digits.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\Sum Digits.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\Sum Digits.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\Sum Digits.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\Sum Digits.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\Sum Digits.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\refint\Sum Digits.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\Sum Digits.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\Sum Digits.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net5.0\ref\Sum Digits.dll

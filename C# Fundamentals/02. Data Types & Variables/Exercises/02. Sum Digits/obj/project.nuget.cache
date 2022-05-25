@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDdA3HF7Q4uu/gKnhxiVy7mdd6a8qBdZLUiUshYYPsaq2SrtZ0EjjJebSLfDfn5tAUjanDkxwtppvgs1LPS80Q==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Data Types and Variables - Exercise\\Sum Digits\\Sum Digits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

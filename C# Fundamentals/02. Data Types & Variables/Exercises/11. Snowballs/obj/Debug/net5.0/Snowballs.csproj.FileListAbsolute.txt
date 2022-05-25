@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\bin\Debug\net5.0\Snowballs.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\bin\Debug\net5.0\Snowballs.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\bin\Debug\net5.0\Snowballs.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\bin\Debug\net5.0\Snowballs.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\bin\Debug\net5.0\Snowballs.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\bin\Debug\net5.0\Snowballs.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\Snowballs.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\Snowballs.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\Snowballs.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\Snowballs.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\refint\Snowballs.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\Snowballs.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\Snowballs.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Snowballs\obj\Debug\net5.0\ref\Snowballs.dll

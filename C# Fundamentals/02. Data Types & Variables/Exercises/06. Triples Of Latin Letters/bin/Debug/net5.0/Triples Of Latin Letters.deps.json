@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Triples Of Latin Letters/1.0.0": {
+        "runtime": {
+          "Triples Of Latin Letters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Triples Of Latin Letters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

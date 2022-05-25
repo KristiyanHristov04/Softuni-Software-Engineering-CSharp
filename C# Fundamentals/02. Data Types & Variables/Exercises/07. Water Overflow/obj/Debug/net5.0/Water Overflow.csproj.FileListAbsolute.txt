@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\refint\Water Overflow.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Water Overflow\obj\Debug\net5.0\ref\Water Overflow.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\bin\Debug\net5.0\Print Part Of ASCII Table.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\bin\Debug\net5.0\Print Part Of ASCII Table.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\bin\Debug\net5.0\Print Part Of ASCII Table.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\bin\Debug\net5.0\Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\bin\Debug\net5.0\Print Part Of ASCII Table.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\bin\Debug\net5.0\Print Part Of ASCII Table.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\Print Part Of ASCII Table.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\Print Part Of ASCII Table.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\refint\Print Part Of ASCII Table.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\Print Part Of ASCII Table.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\Print Part Of ASCII Table.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Print Part Of ASCII Table\obj\Debug\net5.0\ref\Print Part Of ASCII Table.dll

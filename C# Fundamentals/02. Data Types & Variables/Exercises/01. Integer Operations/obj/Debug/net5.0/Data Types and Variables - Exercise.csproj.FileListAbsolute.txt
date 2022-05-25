@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\net5.0\Data Types and Variables - Exercise.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\net5.0\Data Types and Variables - Exercise.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\net5.0\Data Types and Variables - Exercise.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\net5.0\Data Types and Variables - Exercise.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\net5.0\Data Types and Variables - Exercise.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\net5.0\Data Types and Variables - Exercise.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\Data Types and Variables - Exercise.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\Data Types and Variables - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\Data Types and Variables - Exercise.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\Data Types and Variables - Exercise.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\Data Types and Variables - Exercise.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\Data Types and Variables - Exercise.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\refint\Data Types and Variables - Exercise.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\Data Types and Variables - Exercise.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\Data Types and Variables - Exercise.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\net5.0\ref\Data Types and Variables - Exercise.dll

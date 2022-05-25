@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Spice Must Flow/1.0.0": {
+        "runtime": {
+          "Spice Must Flow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spice Must Flow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

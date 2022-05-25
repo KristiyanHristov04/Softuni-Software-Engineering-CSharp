@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Print Part Of ASCII Table/1.0.0": {
+        "runtime": {
+          "Print Part Of ASCII Table.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Print Part Of ASCII Table/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\bin\Debug\net5.0\Pokemon.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\bin\Debug\net5.0\Pokemon.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\bin\Debug\net5.0\Pokemon.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\bin\Debug\net5.0\Pokemon.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\bin\Debug\net5.0\Pokemon.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\bin\Debug\net5.0\Pokemon.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\Pokemon.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\Pokemon.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\Pokemon.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\Pokemon.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\refint\Pokemon.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\Pokemon.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\Pokemon.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Pokemon\obj\Debug\net5.0\ref\Pokemon.dll

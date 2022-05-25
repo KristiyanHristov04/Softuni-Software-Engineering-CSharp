@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LXF1g8rI8BJeEnPf9hvdQBe+YzCDq3v60XazdGFHWUf0BKCgALIewTWo9ldG/ehSRwc5IArR5ZeSzvJz3Ulbsg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Data Types and Variables - Exercise\\Elevator\\Elevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

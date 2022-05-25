@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "voPb0JNVClfOoQN0VGXlN6Pm8PWxCe0Jb185UOgT5Y0tsymKub8uChJLg1HgW3KzC3X/BJAzz8ygs0aYZRY6ww==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Data Types and Variables - Exercise\\Sum Of Chars\\Sum Of Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

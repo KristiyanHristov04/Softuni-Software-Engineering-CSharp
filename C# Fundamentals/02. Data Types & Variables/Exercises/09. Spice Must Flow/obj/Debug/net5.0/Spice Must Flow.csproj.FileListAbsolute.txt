@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net5.0\Spice Must Flow.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net5.0\Spice Must Flow.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net5.0\Spice Must Flow.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net5.0\Spice Must Flow.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net5.0\Spice Must Flow.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net5.0\Spice Must Flow.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\Spice Must Flow.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\Spice Must Flow.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\Spice Must Flow.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\Spice Must Flow.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\refint\Spice Must Flow.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\Spice Must Flow.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\Spice Must Flow.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net5.0\ref\Spice Must Flow.dll

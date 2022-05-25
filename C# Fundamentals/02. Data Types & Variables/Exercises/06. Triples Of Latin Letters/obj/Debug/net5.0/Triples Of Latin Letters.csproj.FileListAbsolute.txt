@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\bin\Debug\net5.0\Triples Of Latin Letters.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\bin\Debug\net5.0\Triples Of Latin Letters.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\bin\Debug\net5.0\Triples Of Latin Letters.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\bin\Debug\net5.0\Triples Of Latin Letters.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\bin\Debug\net5.0\Triples Of Latin Letters.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\bin\Debug\net5.0\Triples Of Latin Letters.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\Triples Of Latin Letters.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\Triples Of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\Triples Of Latin Letters.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\Triples Of Latin Letters.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\Triples Of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\Triples Of Latin Letters.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\refint\Triples Of Latin Letters.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\Triples Of Latin Letters.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\Triples Of Latin Letters.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Triples Of Latin Letters\obj\Debug\net5.0\ref\Triples Of Latin Letters.dll

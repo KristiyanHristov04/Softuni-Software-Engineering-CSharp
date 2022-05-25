@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWmx/aAniiS1c4QkYC4ag2aDllvSLPflmYIYlGZhoeuQrUAwqncp3Ejz5tsx947QiZvQkQNpymtRqjOCS/8vFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Data Types and Variables - Exercise\\Beer Kegs\\Beer Kegs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

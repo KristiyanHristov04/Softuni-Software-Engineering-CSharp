@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\bin\Debug\net5.0\Sum Of Chars.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\bin\Debug\net5.0\Sum Of Chars.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\bin\Debug\net5.0\Sum Of Chars.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\bin\Debug\net5.0\Sum Of Chars.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\bin\Debug\net5.0\Sum Of Chars.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\bin\Debug\net5.0\Sum Of Chars.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\Sum Of Chars.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\Sum Of Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\Sum Of Chars.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\Sum Of Chars.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\Sum Of Chars.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\Sum Of Chars.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\refint\Sum Of Chars.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\Sum Of Chars.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\Sum Of Chars.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Sum Of Chars\obj\Debug\net5.0\ref\Sum Of Chars.dll

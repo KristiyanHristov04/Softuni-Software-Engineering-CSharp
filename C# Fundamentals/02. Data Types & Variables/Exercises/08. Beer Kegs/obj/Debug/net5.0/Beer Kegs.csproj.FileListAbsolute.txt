@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\refint\Beer Kegs.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net5.0\ref\Beer Kegs.dll

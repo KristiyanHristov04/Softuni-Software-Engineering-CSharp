@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xHezSb6hParYJPRajVL5hzHWFS+YCmFJUyL3e2fWIlvtBC0sNf/Id7R3ZaRMnWgAmKI8BvjdVlnmwxdErNM0Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Data Types and Variables - Exercise\\Spice Must Flow\\Spice Must Flow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

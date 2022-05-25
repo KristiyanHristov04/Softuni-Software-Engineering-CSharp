@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\bin\Debug\net5.0\Elevator.exe
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\bin\Debug\net5.0\Elevator.deps.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\bin\Debug\net5.0\Elevator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\bin\Debug\net5.0\Elevator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\bin\Debug\net5.0\Elevator.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\bin\Debug\net5.0\Elevator.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\Elevator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\Elevator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\Elevator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\Elevator.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\refint\Elevator.dll
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\Elevator.pdb
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\Elevator.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Data Types and Variables - Exercise\Elevator\obj\Debug\net5.0\ref\Elevator.dll
