@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.exe
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\refint\06. Even and Odd Subtraction.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\net5.0\ref\06. Even and Odd Subtraction.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7ukg+rR5nu2Y8rSGpHOBCre78HhBY0OO/56VaI3JPViHGSYdYcasXWUp7K0bzdJn3eryVgVUq0EPAVpv6OUrA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Exercise\\02. Common Elements\\02. Common Elements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

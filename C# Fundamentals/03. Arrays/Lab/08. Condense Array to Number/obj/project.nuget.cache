@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8hBciuMRjljj1QULzDBZoF9BPPh9gRahxTt//M6OxJvBHsYRzAJNVaZxxizmiuD5RU5SOrd8E4RCvOeE/XL/g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Lab\\08. Condense Array to Number\\08. Condense Array to Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

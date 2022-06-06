@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.exe
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\refint\03. Zig-Zag Arrays.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\ref\03. Zig-Zag Arrays.dll

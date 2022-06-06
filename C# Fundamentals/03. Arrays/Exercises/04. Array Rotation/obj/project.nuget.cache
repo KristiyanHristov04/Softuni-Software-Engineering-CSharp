@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NOKqIw4BGWbe3FPEqp1PS/PVlz86dXLHxSNYpxAfuW407UTzYFh2Q8GZsoS1xWFiJv4dF5rOcmDrzsCiAp0VvA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Exercise\\04. Array Rotation\\04. Array Rotation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

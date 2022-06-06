@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGpy7c0Z0Gap1FaG7hanbhT9Hf5HOGStCxM8bh1hCoFFVZneyBaJDM5BLAESKIB8+EoO6IrnNLzv1HypUAcj+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

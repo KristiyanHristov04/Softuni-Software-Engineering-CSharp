@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.exe
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.deps.json
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\refint\01. Encrypt, Sort and Print Array.dll
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\ref\01. Encrypt, Sort and Print Array.dll

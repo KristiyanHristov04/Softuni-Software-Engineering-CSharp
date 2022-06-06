@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.exe
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\refint\03. Rounding Numbers.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\ref\03. Rounding Numbers.dll

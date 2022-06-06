@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zW3c6CPen5U7q1PkksCjVLHybHnnVWFjmy2qd76rXALnpl3eYkAIuP3Vj+Hgpwj8WBbMuID66VJ7Naag6c7MRA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - More Exercise\\03. Recursive Fibonacci\\03. Recursive Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.exe
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.deps.json
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.dll
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.pdb
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.dll
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\refint\04. Fold and Sum.dll
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.pdb
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\04. Fold and Sum\obj\Debug\net5.0\ref\04. Fold and Sum.dll

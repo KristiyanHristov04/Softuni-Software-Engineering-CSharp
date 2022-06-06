@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LATraO36pzx9w7lTS9VUOqcKAGoT4Bzbd6J9bWfycmuoELUl70H0/XcEgoMnndBiRIucP9wDII6/tmtQ+h3ojw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Exercise\\07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

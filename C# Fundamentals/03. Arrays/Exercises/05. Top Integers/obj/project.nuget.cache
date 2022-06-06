@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wnuw39NwgOQOfRB35zFOOB9yUS4Met6MBIGSVJuRH0is6kZq/Z/HV4aB3BkfqgwqPKCCZDI/j/d+cdnYsOwgDw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Exercise\\05. Top Integers\\05. Top Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

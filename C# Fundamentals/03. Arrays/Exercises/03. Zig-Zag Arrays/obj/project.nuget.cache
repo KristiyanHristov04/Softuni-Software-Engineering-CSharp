@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6uvzr10oefMQ5jmzVov1ZvBNIYcbvxHnu7cWIPnVX1ZdpkWD3ntxFLH4id05eIdKDj79R5kj61f7PK3G4GxGA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Exercise\\03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

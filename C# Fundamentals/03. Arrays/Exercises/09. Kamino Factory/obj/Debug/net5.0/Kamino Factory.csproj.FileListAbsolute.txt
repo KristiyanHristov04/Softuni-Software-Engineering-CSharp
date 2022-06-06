@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\bin\Debug\net5.0\Kamino Factory.exe
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\bin\Debug\net5.0\Kamino Factory.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\bin\Debug\net5.0\Kamino Factory.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\bin\Debug\net5.0\Kamino Factory.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\bin\Debug\net5.0\Kamino Factory.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\bin\Debug\net5.0\Kamino Factory.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\Kamino Factory.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\Kamino Factory.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\Kamino Factory.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\Kamino Factory.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\refint\Kamino Factory.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\Kamino Factory.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\Kamino Factory.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\Kamino Factory\obj\Debug\net5.0\ref\Kamino Factory.dll

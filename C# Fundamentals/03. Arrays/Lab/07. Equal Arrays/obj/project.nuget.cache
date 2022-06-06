@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWuB82jJtZ0mdCdVeRzWu2u7v4elytprMZ5VpIhkUqngGGzwy+QmaRLVQYANGajLvQ0LrcUn0G1HNvm77lveEw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Lab\\07. Equal Arrays\\07. Equal Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

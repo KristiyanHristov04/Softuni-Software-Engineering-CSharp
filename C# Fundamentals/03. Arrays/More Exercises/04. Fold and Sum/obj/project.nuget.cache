@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbmMl/DfidwtDbI4ffStGAFZLOQxVRoyqnCyrr0Zi+Hw8WPpkLSZbT/t0tL2vRenFrBfD3F2aGDjIHRaIaeyDg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - More Exercise\\04. Fold and Sum\\04. Fold and Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

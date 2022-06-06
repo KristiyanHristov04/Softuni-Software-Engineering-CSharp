@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.exe
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\refint\07. Max Sequence of Equal Elements.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\ref\07. Max Sequence of Equal Elements.dll

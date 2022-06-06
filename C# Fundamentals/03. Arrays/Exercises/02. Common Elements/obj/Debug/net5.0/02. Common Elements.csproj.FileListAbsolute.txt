@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.exe
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\refint\02. Common Elements.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\ref\02. Common Elements.dll

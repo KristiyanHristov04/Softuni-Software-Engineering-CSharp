@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.exe
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\refint\05. Sum Even Numbers.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\ref\05. Sum Even Numbers.dll

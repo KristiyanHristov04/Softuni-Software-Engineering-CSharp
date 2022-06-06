@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPbwLacEWKUMZjbM8oUCkFPoUwN+UnPoszM99uAeYabG3xrqRy2FJm0HTkB0uQVlrsrwP6sYjepGfk+j1m3YRw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Exercise\\10. LadyBugs\\10. LadyBugs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

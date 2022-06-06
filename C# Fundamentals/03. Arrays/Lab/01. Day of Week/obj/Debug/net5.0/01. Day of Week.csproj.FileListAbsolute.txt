@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.exe
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\refint\01. Day of Week.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\ref\01. Day of Week.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.exe
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\refint\05. Top Integers.dll
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.pdb
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\ref\05. Top Integers.dll

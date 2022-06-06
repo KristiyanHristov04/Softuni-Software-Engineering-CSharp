@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLQ9Fh1J1XFFvZP2hfu7xnGg6+p2dE/aRQADoMZJw3Xm71Pizv21EP3Q9Vuwi737Y/FtTe5H2afhCmebAt3SYw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Exercise\\Kamino Factory\\09. Kamino Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

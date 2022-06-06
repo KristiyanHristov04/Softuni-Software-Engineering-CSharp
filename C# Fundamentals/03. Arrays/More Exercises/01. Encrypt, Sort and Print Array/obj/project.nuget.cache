@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyLY6ZspgCEoQbBDKMFgnvvfX5reG2ON3vyGK+G/sYqoNIHRu35Ar7EQWx4CVYAh/2+KdI1VuQi6hN8NPw9X5w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - More Exercise\\01. Encrypt, Sort and Print Array\\01. Encrypt, Sort and Print Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

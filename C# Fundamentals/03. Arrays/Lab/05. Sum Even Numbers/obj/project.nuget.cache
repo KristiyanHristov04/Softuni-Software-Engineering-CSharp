@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NVqMXpQlvnrDPqdwBHIBxNFa8yP5j78T9hvsQv8TlzVKP3AlWe0H0rZB2IbduXtSWgNcmyGMMv/Pg5Ne8AkyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Lab\\05. Sum Even Numbers\\05. Sum Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

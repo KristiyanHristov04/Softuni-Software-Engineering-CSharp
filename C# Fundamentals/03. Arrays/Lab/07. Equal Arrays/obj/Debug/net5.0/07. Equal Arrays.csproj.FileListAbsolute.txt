@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.exe
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.deps.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\refint\07. Equal Arrays.dll
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.pdb
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\ref\07. Equal Arrays.dll

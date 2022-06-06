@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.exe
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.deps.json
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.dll
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.pdb
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.dll
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\refint\05. Longest Increasing Subsequence.dll
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.pdb
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\ref\05. Longest Increasing Subsequence.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t+cLIDZN1xjM1cZuow6QhkVyJ+H6BWWlfCyFXP4w+5nC1MMbP3pT9GZntFJnVjjdSs7CeG3Q6nQAHidZe2KA0A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
