@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.exe
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.deps.json
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\refint\07. List Manipulation Advanced.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\ref\07. List Manipulation Advanced.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.exe
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.deps.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\refint\02. Change List.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\02. Change List\obj\Debug\net5.0\ref\02. Change List.dll

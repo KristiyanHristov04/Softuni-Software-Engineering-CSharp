@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U7/fXhWYsl2mwi2Y581NTl8eC1kdrVn4o4tS/wgev+qySoFobgOdFwjJWPP36GLhEdwLihDQoolFC+NJau6oiw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

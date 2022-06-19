@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+OLhy+civj4sWQyYamZC4GqKoQimIgcQjhb2SPHWyO1OMoh8YTeeIki/tUmkU269ZA0rai+8+jET5OHNePbRKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Lists - Exercise\\08. Anonymous Threat\\08. Anonymous Threat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

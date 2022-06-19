@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.exe
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.deps.json
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.dll
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.pdb
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.dll
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\refint\03. TakeSkip Rope.dll
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.pdb
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. Messaging\03. TakeSkip Rope\obj\Debug\net5.0\ref\03. TakeSkip Rope.dll

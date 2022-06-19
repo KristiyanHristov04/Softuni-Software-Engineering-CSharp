@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QiHraak5VnHcf6GI7RXS/GH6XV9Ax30tk49ZwmHP2MhxFGMVQxNCK+XA15hS49Km024NOHG0pSPt9eOTDDoEw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Lists - Lab\\03. Merging Lists\\03. Merging Lists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

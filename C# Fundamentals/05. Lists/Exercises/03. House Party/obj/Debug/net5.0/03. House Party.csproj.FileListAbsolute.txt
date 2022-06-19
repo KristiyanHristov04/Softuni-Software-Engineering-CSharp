@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.exe
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.deps.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\refint\03. House Party.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\03. House Party\obj\Debug\net5.0\ref\03. House Party.dll

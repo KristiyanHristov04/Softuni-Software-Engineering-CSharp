@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "emyCM9nvYMYRG523nnazBnspuR9c3v1LbiDl/nC61/m7iL1mlflT4q1EiS/J0nMp+Lfg6toTN53DfkzMXgnBAg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Lists - Exercise\\07. Append Arrays\\07. Append Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EeCr/O+PgVFH64iw8yan/+iOHe2KoRVGDPMSRRKPrYyO7xBsA+jNUvXZfO8DRgzv79RQCgjjefMLO24VJEQWGw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\01. Messaging\\05. Drum Set\\05. Drum Set.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

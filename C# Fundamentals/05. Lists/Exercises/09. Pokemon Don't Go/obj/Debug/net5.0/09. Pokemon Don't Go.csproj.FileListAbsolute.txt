@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.exe
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.deps.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\refint\09. Pokemon Don't Go.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\ref\09. Pokemon Don't Go.dll

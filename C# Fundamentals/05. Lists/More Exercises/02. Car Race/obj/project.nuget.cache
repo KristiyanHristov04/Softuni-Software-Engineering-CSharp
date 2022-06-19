@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zMh9/053leaZ+SeyqxrOUhjYHLkOe6mcWh9mX7gcGY1OoKwzDAikU7ZxfpX/tanyDV2Wi6+MN+hbtJFCqGG5kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\01. Messaging\\02. Car Race\\02. Car Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

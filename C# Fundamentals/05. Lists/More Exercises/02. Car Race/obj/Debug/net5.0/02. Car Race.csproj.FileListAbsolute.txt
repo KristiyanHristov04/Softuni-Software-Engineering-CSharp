@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\bin\Debug\net5.0\02. Car Race.exe
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\bin\Debug\net5.0\02. Car Race.deps.json
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\bin\Debug\net5.0\02. Car Race.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\bin\Debug\net5.0\02. Car Race.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\bin\Debug\net5.0\02. Car Race.dll
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\bin\Debug\net5.0\02. Car Race.pdb
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\02. Car Race.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\02. Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\02. Car Race.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\02. Car Race.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\02. Car Race.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\02. Car Race.dll
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\refint\02. Car Race.dll
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\02. Car Race.pdb
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\02. Car Race.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. Messaging\02. Car Race\obj\Debug\net5.0\ref\02. Car Race.dll

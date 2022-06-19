@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "humJw1r36PkVISTon5j88NMKXDnKMSJhlwxuBF/RDjVlcVTeNhCJKnK2gk5PhzTqLTCd2mp6hCnLMVYPS/6G8w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Lists - Exercise\\09. Pokemon Don't Go\\09. Pokemon Don't Go.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

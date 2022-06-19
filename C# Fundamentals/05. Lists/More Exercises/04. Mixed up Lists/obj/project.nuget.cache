@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwdAjgJmX+dwI9vx5ZZRnnrwf6nTLrVPSbrCWxdyfkwlcMqmV0FOIKjHpsaaj8UR5x0FRuPtgrOLyqKTxGUVEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\01. Messaging\\04. Mixed up Lists\\04. Mixed up Lists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\bin\Debug\net5.0\01. Messaging.exe
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\bin\Debug\net5.0\01. Messaging.deps.json
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\bin\Debug\net5.0\01. Messaging.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\bin\Debug\net5.0\01. Messaging.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\bin\Debug\net5.0\01. Messaging.dll
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\bin\Debug\net5.0\01. Messaging.pdb
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\01. Messaging.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\01. Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\01. Messaging.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\01. Messaging.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\01. Messaging.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\01. Messaging.dll
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\refint\01. Messaging.dll
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\01. Messaging.pdb
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\01. Messaging.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. Messaging\01. Messaging\obj\Debug\net5.0\ref\01. Messaging.dll

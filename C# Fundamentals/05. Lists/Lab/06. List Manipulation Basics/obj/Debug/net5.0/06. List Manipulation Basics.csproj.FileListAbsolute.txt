@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.exe
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.deps.json
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\refint\06. List Manipulation Basics.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\ref\06. List Manipulation Basics.dll

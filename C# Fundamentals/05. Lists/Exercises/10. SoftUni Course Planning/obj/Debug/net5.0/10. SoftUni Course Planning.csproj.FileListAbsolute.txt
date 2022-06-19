@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.exe
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.deps.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\refint\10. SoftUni Course Planning.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net5.0\ref\10. SoftUni Course Planning.dll

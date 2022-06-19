@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.exe
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.deps.json
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\refint\04. List of Products.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\04. List of Products\obj\Debug\net5.0\ref\04. List of Products.dll

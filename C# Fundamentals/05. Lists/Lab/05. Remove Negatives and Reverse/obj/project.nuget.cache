@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y9VxSVLK1IcPj0N05C5QlHyLIG09kNsuO9+t6WXBLVCujEUMvLfiy9Ew/rJae7lnIbBFWl0rV0WbooeNurm5zA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Lists - Lab\\05. Remove Negatives and Reverse\\05. Remove Negatives and Reverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

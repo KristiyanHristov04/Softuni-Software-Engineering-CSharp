@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PO3UM8FbQ9Yu4iUgzEPncXtvzY4jV7bhEJ2HBVLrAf6lH7Ru/E++5VyM/M0iNBpeJc8d2t7NYyD1JzPLMZc6eg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Lists - Exercise\\04. List Operations\\04. List Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

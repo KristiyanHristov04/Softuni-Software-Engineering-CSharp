@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BrSldkKuyaij3sXsH7VJQqasFPEnTNyYkScyMXC6oGtaR03uYM2ojr/q6HMU8HFxYkw+Dah7fOw8JgSaYZbRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Lists - Lab\\01. Sum Adjacent Equal Numbers\\01. Sum Adjacent Equal Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.exe
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.deps.json
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\refint\05. Remove Negatives and Reverse.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\ref\05. Remove Negatives and Reverse.dll

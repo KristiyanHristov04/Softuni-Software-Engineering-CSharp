@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SSn/fZDGRPsTUKnOMV8VKhl0po5jB9wHOAsXwPkmf31bpi1KaExF8S6tpHZ/abJ3dCnUMwhBeUsy1TUaihYDg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\01. Messaging\\01. Messaging\\01. Messaging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.exe
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.deps.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\refint\06. Cards Game.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\ref\06. Cards Game.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.exe
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.deps.json
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.dll
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.pdb
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.dll
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\refint\04. Mixed up Lists.dll
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.pdb
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. Messaging\04. Mixed up Lists\obj\Debug\net5.0\ref\04. Mixed up Lists.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.exe
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.deps.json
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\refint\03. Merging Lists.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\ref\03. Merging Lists.dll

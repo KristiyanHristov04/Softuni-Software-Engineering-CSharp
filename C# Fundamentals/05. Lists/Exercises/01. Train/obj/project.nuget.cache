@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSjhlEFbYcNKEsUPoO+Ruk8US9FBrxESvVzhdrojm8r53aWcUlOGxrxyYTi57Y8ip/Pe1tTpz0B87v6j/01jGA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Lists - Exercise\\01. Train\\01. Train.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

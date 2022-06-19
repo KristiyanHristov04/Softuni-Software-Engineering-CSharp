@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.exe
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.deps.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\refint\04. List Operations.dll
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.pdb
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Exercise\04. List Operations\obj\Debug\net5.0\ref\04. List Operations.dll

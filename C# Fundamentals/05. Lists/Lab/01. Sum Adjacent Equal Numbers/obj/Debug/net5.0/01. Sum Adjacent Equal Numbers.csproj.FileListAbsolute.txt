@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.exe
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.deps.json
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\refint\01. Sum Adjacent Equal Numbers.dll
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\ref\01. Sum Adjacent Equal Numbers.dll
