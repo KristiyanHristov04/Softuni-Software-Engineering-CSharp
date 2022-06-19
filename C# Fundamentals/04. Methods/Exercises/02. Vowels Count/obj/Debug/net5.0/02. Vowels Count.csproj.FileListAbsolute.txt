@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.exe
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.deps.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\refint\02. Vowels Count.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\ref\02. Vowels Count.dll

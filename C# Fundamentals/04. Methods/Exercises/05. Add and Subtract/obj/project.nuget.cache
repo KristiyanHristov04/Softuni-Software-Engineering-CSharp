@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWWY5br7Xh1dqwWNXcQSi+Z6ZaaOzYu3Dv9y7cfXTTzokg12XHKGRdwbNNK8sbHQgKueOoJ4AMHOl4HLfh5taw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

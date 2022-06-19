@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/yJusadQ9RjRJS7Hs5EJCAneNzZ5K5CgLaemLVRWxWsfTLPdxaZ3GZ45jo2bxvGWcWLW53rbM8G+g1RUmTG5hA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - More Exercise\\05. Multiplication Sign\\05. Multiplication Sign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

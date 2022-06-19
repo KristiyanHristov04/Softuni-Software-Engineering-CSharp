@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dB9dzuD2nwZNwHBwVw8qmjpNUMY39BiVo6Rc7zyDcbYvVMy3eB217CUI6RluCBdY5+fnIPzYiZb0aexvANTadQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Exercise\\08. Factorial Division\\08. Factorial Division.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

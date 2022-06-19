@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.exe
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.deps.json
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\refint\05. Orders.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\05. Orders\obj\Debug\net5.0\ref\05. Orders.dll

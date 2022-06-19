@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.exe
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.deps.json
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\refint\11. Math operations.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\11. Math operations\obj\Debug\net5.0\ref\11. Math operations.dll

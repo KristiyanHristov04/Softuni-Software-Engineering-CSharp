@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.exe
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.deps.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\refint\11. Array Manipulator.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\ref\11. Array Manipulator.dll

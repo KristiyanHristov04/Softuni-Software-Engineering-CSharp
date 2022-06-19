@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DUZhocEbCMf1ZhuZsDG4qtO6TXfcEeGPZiG6wDJJY4NPOcz3lYEXubvwjb5KHH1qNFz4EW5xu5eAbIqnM+MUwg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Lab\\06. Calculate Rectangle Area\\06. Calculate Rectangle Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

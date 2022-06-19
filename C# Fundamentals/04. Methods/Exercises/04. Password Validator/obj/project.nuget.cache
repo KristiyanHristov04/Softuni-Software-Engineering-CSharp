@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wbeyRH75iwNKFIm8h+e301jH9QNtk5kuMxyS2mRzNw+vKZGex9dIL9zj58S42gbTzEdEkMvu0pZvcrPj/8ztww==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Exercise\\04. Password Validator\\04. Password Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

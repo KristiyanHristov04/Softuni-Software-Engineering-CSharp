@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.exe
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.deps.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\refint\06. Middle Characters.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\06. Middle Characters\obj\Debug\net5.0\ref\06. Middle Characters.dll

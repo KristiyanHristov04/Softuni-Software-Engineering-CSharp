@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.exe
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.deps.json
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\refint\10. Multiply Evens by Odds.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\ref\10. Multiply Evens by Odds.dll

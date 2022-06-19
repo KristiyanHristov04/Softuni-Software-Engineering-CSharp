@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uk3IWEcndkaFxlC5NJc30cYco002EvKoKOaqua8RDiBj5G1mU5eH2R+2974uyH+NokA+vl8p2rQQXDxXb9gXbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Lab\\02. Grades\\02. Grades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

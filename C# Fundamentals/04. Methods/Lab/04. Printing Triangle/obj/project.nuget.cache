@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0BpERMxsrDaXGAG7rEQNMD3/7mJHORNW4kpIzW4q1vfgK+f78FQdPKf9mmQ6hqjbuI2xVCsE7BLVZ8YztBLOuA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Lab\\04. Printing Triangle\\04. Printing Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

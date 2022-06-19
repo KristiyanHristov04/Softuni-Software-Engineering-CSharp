@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.exe
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.deps.json
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\refint\09. Greater of Two Values.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\ref\09. Greater of Two Values.dll

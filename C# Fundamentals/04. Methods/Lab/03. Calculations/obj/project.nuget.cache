@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iACnjforXLSRpKgc9jHJH47cTkixMEsx9Yx53OYO0CtIi8E28NsWZ1BtmxA1PXCysV8U0zk3cMvGr0MBhUJTyw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Lab\\03. Calculations\\03. Calculations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

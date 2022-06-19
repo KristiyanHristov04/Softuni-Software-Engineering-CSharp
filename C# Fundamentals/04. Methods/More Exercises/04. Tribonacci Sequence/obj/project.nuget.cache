@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Jplm8QfnNNEp3fjpL4QOrA7L5L24Q9CzUjl4ANVDwhumitK21OwymqlNZJGLaOQLAfcM1fA01s8Liw3Bqx4Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - More Exercise\\04. Tribonacci Sequence\\04. Tribonacci Sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

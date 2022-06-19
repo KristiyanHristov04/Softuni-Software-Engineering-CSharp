@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "19w0UTJV1OBAYCvRX42swt9D+qWsN8ECxvNmZocU0aDWjMwxI66XQo8qp33ygaz//+/MmhXFloM/0CqLD9wnvA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Exercise\\02. Vowels Count\\02. Vowels Count.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

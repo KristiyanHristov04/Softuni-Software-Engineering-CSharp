@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GgLCfpxmHdckBWfvT1O484QpSPBBn5g8oL2zFitLG4bEkStJgofLG2mwVnkBw70aumNi353qLzpqpr0sNbZWvw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

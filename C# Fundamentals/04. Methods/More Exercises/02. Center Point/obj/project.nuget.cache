@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ogowZdy9nWyuwSACR0oUkzYoLg8veBta0MPqR7qx1oyPZGkv9DOFcd5Ht2H7clUPg8t9xopst00Tb8iwpuWmhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - More Exercise\\02. Center Point\\02. Center Point.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

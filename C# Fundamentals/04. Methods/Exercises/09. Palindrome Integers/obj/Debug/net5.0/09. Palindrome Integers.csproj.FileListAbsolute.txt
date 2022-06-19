@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.exe
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.deps.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\refint\09. Palindrome Integers.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\ref\09. Palindrome Integers.dll

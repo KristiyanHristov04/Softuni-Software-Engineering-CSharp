@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xkOtiJDIBtDQS97j58mdCpjerUY+aMXFlwNswWDQrF3woQKSErROD04RBOM0/cX0FAY8lOn3HUG9knaDHuuPJA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Lab\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

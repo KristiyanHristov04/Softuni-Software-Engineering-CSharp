@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.exe
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.deps.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\refint\05. Add and Subtract.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\05. Add and Subtract\obj\Debug\net5.0\ref\05. Add and Subtract.dll

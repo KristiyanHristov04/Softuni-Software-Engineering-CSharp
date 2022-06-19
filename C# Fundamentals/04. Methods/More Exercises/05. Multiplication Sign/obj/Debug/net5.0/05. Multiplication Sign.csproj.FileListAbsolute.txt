@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.exe
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.deps.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.pdb
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\refint\05. Multiplication Sign.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.pdb
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\05. Multiplication Sign\obj\Debug\net5.0\ref\05. Multiplication Sign.dll

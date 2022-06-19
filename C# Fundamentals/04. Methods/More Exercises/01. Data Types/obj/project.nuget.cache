@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "14PmPtjrbr7FecoMtk2LkXVRvtj9O0uJxPX+YllnoQ+yZvayK2jX3yrVYjQsI0p04ULQuy4bBGAtl78kECltIA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - More Exercise\\01. Data Types\\01. Data Types.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

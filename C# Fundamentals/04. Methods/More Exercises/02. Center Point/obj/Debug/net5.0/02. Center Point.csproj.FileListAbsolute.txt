@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.exe
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.deps.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.pdb
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\refint\02. Center Point.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.pdb
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\ref\02. Center Point.dll

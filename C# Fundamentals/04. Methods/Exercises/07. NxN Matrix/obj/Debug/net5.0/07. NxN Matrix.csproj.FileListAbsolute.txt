@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.exe
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.deps.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\refint\07. NxN Matrix.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\ref\07. NxN Matrix.dll

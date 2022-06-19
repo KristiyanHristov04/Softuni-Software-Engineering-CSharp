@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.exe
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.deps.json
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\refint\06. Calculate Rectangle Area.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\ref\06. Calculate Rectangle Area.dll

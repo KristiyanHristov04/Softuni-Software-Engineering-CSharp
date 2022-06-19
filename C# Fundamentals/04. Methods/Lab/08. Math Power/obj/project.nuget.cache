@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rqn+Woqn1dV2gxVZsMhrits85P6THQWsn1mxm5Uyy81hoV594eq+kSikLxkJWpD6AaYReElSBthZzxNQN4UaNA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Lab\\08. Math Power\\08. Math Power.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

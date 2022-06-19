@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.exe
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.deps.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\refint\10. Top Number.dll
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.pdb
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Exercise\10. Top Number\obj\Debug\net5.0\ref\10. Top Number.dll

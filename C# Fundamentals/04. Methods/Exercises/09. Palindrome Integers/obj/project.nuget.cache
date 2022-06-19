@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hTBeq3gP4i+FxaSJEWaTKNmnOfLZZxi77jdQYvhcEwtX4D2wqPzMpWPbV1fgVWNU2aV31xp28uWeQcnUVAi0Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Exercise\\09. Palindrome Integers\\09. Palindrome Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

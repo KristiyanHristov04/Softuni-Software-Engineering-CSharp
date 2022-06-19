@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\bin\Debug\net5.0\08. Math Power.exe
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\bin\Debug\net5.0\08. Math Power.deps.json
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\bin\Debug\net5.0\08. Math Power.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\bin\Debug\net5.0\08. Math Power.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\bin\Debug\net5.0\08. Math Power.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\bin\Debug\net5.0\08. Math Power.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\08. Math Power.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\08. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\08. Math Power.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\08. Math Power.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\08. Math Power.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\08. Math Power.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\refint\08. Math Power.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\08. Math Power.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\08. Math Power.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\08. Math Power\obj\Debug\net5.0\ref\08. Math Power.dll

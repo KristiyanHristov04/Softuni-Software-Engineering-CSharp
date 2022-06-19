@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.exe
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.deps.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.pdb
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\refint\01. Data Types.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.pdb
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\ref\01. Data Types.dll

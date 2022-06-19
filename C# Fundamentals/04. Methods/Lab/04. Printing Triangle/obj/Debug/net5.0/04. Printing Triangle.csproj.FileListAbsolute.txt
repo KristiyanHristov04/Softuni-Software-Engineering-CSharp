@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.exe
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.deps.json
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\refint\04. Printing Triangle.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\ref\04. Printing Triangle.dll

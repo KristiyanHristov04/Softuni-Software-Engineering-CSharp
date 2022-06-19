@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.exe
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.deps.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.pdb
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\refint\04. Tribonacci Sequence.dll
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.pdb
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\ref\04. Tribonacci Sequence.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\bin\Debug\net5.0\02. Grades.exe
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\bin\Debug\net5.0\02. Grades.deps.json
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\bin\Debug\net5.0\02. Grades.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\bin\Debug\net5.0\02. Grades.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\bin\Debug\net5.0\02. Grades.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\bin\Debug\net5.0\02. Grades.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\02. Grades.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\02. Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\02. Grades.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\02. Grades.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\02. Grades.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\02. Grades.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\refint\02. Grades.dll
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\02. Grades.pdb
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\02. Grades.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Methods - Lab\02. Grades\obj\Debug\net5.0\ref\02. Grades.dll

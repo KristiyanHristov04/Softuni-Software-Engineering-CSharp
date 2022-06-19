@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KO8ythl+db8+SAmDEg/F4vqu84SUuidQSh0DMJ3WkDysJf4nU3fCweOO/9jwI6xpnbZ9o7AaUv7Zc3nzJT7yg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Exercise\\06. Middle Characters\\06. Middle Characters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wk06X52Ifzl9gy2QfOHZR81xTHfgmiA4x46cBs9PjywXN5XidvFn4zHfdtW72umkiTdDNuIe+FNTNqFkqE0LKg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Methods - Exercise\\11. Array Manipulator\\11. Array Manipulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
