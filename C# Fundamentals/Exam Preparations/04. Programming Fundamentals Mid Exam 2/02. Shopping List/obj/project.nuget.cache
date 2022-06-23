@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wAMamp90IfZvyeOaA7ML8AEpWGRkS3+36C0CKOKHI2BOSycRowE15Jiyy7/liX8tdv/A6P4flrszyw9Y6ijrg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\04. Programming Fundamentals Mid Exam 2\\02. Shopping_List\\02. Shopping List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

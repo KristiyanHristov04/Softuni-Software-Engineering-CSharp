@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net5.0\03. Numbers.exe
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net5.0\03. Numbers.deps.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net5.0\03. Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net5.0\03. Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net5.0\03. Numbers.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net5.0\03. Numbers.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\03. Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\03. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\03. Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\03. Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\03. Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\03. Numbers.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\refint\03. Numbers.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\03. Numbers.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\03. Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net5.0\ref\03. Numbers.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\net5.0\02. MuOnline.exe
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\net5.0\02. MuOnline.deps.json
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\net5.0\02. MuOnline.runtimeconfig.json
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\net5.0\02. MuOnline.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\net5.0\02. MuOnline.dll
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\net5.0\02. MuOnline.pdb
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\02. MuOnline.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\02. MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\02. MuOnline.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\02. MuOnline.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\02. MuOnline.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\02. MuOnline.dll
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\refint\02. MuOnline.dll
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\02. MuOnline.pdb
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\02. MuOnline.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\net5.0\ref\02. MuOnline.dll

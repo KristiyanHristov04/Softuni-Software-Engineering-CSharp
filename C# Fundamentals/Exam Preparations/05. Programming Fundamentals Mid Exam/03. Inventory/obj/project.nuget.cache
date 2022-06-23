@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mptr6Vu2X2GX+9Rv7sBOMW4n45kduUeRWE1UP50fCmGB1cFlv2pupI2CiKnt1vmWyXXqKUjUB/VCsH4D507FUw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\05. Programming Fundamentals Mid Exam\\03. Inventory\\03. Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "drLlLBO20W5mjjD+rHLgQB5Ivv2yV/fNehOYQHJmttSSZbhWO117uCZGTHR5w3EvVJcv++N3547i4CR7h4s/TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\02. Programming Fundamentals Mid Exam\\03. Numbers\\03. Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\net5.0\03. Moving Target.exe
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\net5.0\03. Moving Target.deps.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\net5.0\03. Moving Target.runtimeconfig.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\net5.0\03. Moving Target.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\net5.0\03. Moving Target.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\net5.0\03. Moving Target.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\03. Moving Target.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\03. Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\03. Moving Target.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\03. Moving Target.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\03. Moving Target.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\03. Moving Target.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\refint\03. Moving Target.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\03. Moving Target.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\03. Moving Target.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\net5.0\ref\03. Moving Target.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\net5.0\03. Man O War.exe
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\net5.0\03. Man O War.deps.json
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\net5.0\03. Man O War.runtimeconfig.json
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\net5.0\03. Man O War.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\net5.0\03. Man O War.dll
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\net5.0\03. Man O War.pdb
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\03. Man O War.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\03. Man O War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\03. Man O War.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\03. Man O War.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\03. Man O War.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\03. Man O War.dll
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\refint\03. Man O War.dll
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\03. Man O War.pdb
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\03. Man O War.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\net5.0\ref\03. Man O War.dll

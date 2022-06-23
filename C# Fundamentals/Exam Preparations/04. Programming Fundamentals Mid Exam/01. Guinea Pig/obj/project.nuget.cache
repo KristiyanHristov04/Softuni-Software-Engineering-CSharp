@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9wqtQhWmB9Gi3820vYE10hQqmgm9ohDYk1zqNR/alx3xY5Z863Ns9UPVL9/ChTRX3ltwcVJR7bsvbAHqmhhqdw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\04. Programming Fundamentals Mid Exam\\01. Guinea Pig\\01. Guinea Pig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.exe
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.deps.json
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.runtimeconfig.json
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.dll
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.pdb
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.dll
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\refint\03. Inventory.dll
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.pdb
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\ref\03. Inventory.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zn/O0723nBXQTj5g4fIvlQe2hTHUj6JM8o2eC7H4DxMNRwk1aeTfAcgBExC8gHGQwDViqfrxkHdyG5Z/6Sq0bg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\03. Programming Fundamentals Mid Exam Retake\\02. Shoot for the Win\\02. Shoot for the Win.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

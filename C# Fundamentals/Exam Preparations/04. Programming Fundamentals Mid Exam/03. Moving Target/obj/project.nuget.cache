@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9oKVLSmmSudSSX4jP/LHg2PO86WN30/CJ985YWV/M338NbpEnM/ad8Z8o7rupcKtyDe/mC7mOzTr8kD4ysVy1A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\04. Programming Fundamentals Mid Exam\\03. Moving Target\\03. Moving Target.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

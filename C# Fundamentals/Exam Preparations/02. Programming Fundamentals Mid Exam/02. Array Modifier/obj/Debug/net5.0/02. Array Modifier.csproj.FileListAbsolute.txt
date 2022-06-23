@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.exe
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.deps.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\refint\02. Array Modifier.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net5.0\ref\02. Array Modifier.dll

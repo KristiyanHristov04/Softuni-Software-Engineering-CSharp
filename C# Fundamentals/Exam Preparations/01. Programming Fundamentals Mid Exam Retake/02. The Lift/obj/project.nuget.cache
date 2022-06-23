@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8Zsqhouw88MwmfrPBnq6VHxHeopFize+bazcNDprLREfmscSZyZkOOOZNNT1A3OLWBSlxkVNpkFjn7V85Xs4A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\01. Programming Fundamentals Mid Exam Retake\\02. The Lift\\02. The Lift.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

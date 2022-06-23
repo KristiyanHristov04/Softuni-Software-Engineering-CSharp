@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kRXwedxdUPDvav/6mLsUG5tz8VtKk+0HLYpsUGOQXcTvldOvTmTEEUyPBJI5c2QPrpZKss54OaWJ/B9OE12gWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\05. Programming Fundamentals Mid Exam\\01. Bonus Scoring System\\01. Bonus Scoring System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

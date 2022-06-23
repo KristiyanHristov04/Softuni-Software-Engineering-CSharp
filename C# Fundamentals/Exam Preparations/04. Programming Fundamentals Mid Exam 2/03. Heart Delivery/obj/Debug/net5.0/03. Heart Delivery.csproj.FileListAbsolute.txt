@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.exe
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.deps.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\refint\03. Heart Delivery.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\03. Heart Delivery\obj\Debug\net5.0\ref\03. Heart Delivery.dll

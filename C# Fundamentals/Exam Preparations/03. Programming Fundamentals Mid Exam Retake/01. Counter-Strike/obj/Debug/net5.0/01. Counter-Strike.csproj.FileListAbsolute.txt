@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\bin\Debug\net5.0\01. Counter-Strike.exe
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\bin\Debug\net5.0\01. Counter-Strike.deps.json
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\bin\Debug\net5.0\01. Counter-Strike.runtimeconfig.json
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\bin\Debug\net5.0\01. Counter-Strike.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\bin\Debug\net5.0\01. Counter-Strike.dll
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\bin\Debug\net5.0\01. Counter-Strike.pdb
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\01. Counter-Strike.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\01. Counter-Strike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\01. Counter-Strike.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\01. Counter-Strike.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\01. Counter-Strike.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\01. Counter-Strike.dll
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\refint\01. Counter-Strike.dll
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\01. Counter-Strike.pdb
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\01. Counter-Strike.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\01. Counter-Strike\obj\Debug\net5.0\ref\01. Counter-Strike.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\net5.0\01. Black Flag.exe
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\net5.0\01. Black Flag.deps.json
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\net5.0\01. Black Flag.runtimeconfig.json
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\net5.0\01. Black Flag.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\net5.0\01. Black Flag.dll
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\net5.0\01. Black Flag.pdb
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\01. Black Flag.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\01. Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\01. Black Flag.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\01. Black Flag.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\01. Black Flag.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\01. Black Flag.dll
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\refint\01. Black Flag.dll
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\01. Black Flag.pdb
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\01. Black Flag.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\net5.0\ref\01. Black Flag.dll

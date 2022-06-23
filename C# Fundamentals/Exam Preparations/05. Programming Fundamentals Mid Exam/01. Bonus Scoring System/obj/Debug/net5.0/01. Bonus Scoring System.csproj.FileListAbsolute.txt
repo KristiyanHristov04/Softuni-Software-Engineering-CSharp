@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.exe
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.deps.json
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.runtimeconfig.json
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.dll
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.pdb
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.dll
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\refint\01. Bonus Scoring System.dll
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.pdb
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\05. Programming Fundamentals Mid Exam\01. Bonus Scoring System\obj\Debug\net5.0\ref\01. Bonus Scoring System.dll

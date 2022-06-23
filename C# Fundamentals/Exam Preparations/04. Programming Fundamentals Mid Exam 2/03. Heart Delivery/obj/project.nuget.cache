@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zvYdpGAvfkzpcO2phwWa7DFpslAyTl0Uyo2J7Yq7SpJsbmi4wi7givKqe+QUzcwrucyL7OOQvf6ZcLyyIe0m3g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\04. Programming Fundamentals Mid Exam 2\\03. Heart Delivery\\03. Heart Delivery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

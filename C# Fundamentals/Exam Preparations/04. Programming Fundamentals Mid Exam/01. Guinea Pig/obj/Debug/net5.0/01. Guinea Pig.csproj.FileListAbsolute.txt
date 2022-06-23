@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.exe
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.deps.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.runtimeconfig.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\refint\01. Guinea Pig.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\net5.0\ref\01. Guinea Pig.dll

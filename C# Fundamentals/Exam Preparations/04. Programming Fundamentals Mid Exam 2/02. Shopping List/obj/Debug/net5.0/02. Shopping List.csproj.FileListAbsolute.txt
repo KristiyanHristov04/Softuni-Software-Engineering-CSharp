@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\bin\Debug\net5.0\02. Shopping List.exe
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\bin\Debug\net5.0\02. Shopping List.deps.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\bin\Debug\net5.0\02. Shopping List.runtimeconfig.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\bin\Debug\net5.0\02. Shopping List.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\bin\Debug\net5.0\02. Shopping List.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\bin\Debug\net5.0\02. Shopping List.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\02. Shopping List.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\02. Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\02. Shopping List.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\02. Shopping List.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\02. Shopping List.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\02. Shopping List.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\refint\02. Shopping List.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\02. Shopping List.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\02. Shopping List.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Mid Exam 2\02. Shopping_List\obj\Debug\net5.0\ref\02. Shopping List.dll

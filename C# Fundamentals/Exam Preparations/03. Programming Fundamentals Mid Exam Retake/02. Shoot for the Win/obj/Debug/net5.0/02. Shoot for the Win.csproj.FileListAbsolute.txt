@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.exe
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.deps.json
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.runtimeconfig.json
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.dll
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.pdb
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.dll
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\refint\02. Shoot for the Win.dll
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.pdb
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\ref\02. Shoot for the Win.dll

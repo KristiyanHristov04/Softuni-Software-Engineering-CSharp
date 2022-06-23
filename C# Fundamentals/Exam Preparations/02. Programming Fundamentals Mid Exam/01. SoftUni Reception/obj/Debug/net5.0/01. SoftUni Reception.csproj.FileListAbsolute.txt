@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.exe
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.deps.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.runtimeconfig.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\refint\01. SoftUni Reception.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\ref\01. SoftUni Reception.dll

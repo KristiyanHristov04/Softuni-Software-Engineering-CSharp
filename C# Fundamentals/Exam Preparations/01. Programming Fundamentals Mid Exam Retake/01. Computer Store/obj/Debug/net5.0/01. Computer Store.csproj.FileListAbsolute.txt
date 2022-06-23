@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\net5.0\01. Computer Store.exe
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\net5.0\01. Computer Store.deps.json
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\net5.0\01. Computer Store.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\net5.0\01. Computer Store.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\net5.0\01. Computer Store.dll
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\net5.0\01. Computer Store.pdb
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\01. Computer Store.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\01. Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\01. Computer Store.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\01. Computer Store.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\01. Computer Store.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\01. Computer Store.dll
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\refint\01. Computer Store.dll
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\01. Computer Store.pdb
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\01. Computer Store.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\net5.0\ref\01. Computer Store.dll

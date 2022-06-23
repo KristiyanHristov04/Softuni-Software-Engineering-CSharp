@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net5.0\03. Memory Game.exe
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net5.0\03. Memory Game.deps.json
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net5.0\03. Memory Game.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net5.0\03. Memory Game.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net5.0\03. Memory Game.dll
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net5.0\03. Memory Game.pdb
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\03. Memory Game.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\03. Memory Game.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\03. Memory Game.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\03. Memory Game.dll
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\refint\03. Memory Game.dll
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\03. Memory Game.pdb
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\03. Memory Game.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net5.0\ref\03. Memory Game.dll

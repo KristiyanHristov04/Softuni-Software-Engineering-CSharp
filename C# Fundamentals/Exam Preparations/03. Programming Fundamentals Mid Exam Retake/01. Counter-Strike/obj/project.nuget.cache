@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCHCk6g1ls301q7HMcaQY05kZhHJ8h3nKd/2wdx85tPt8miyi7EVREk/D9y9b4Msk1IjPrI6hbIFddhNazyNjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\03. Programming Fundamentals Mid Exam Retake\\01. Counter-Strike\\01. Counter-Strike.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

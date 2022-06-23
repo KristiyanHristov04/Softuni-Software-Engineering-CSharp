@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.exe
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.deps.json
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.runtimeconfig.json
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.dll
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.pdb
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.dll
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\refint\02. Treasure Hunt.dll
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.pdb
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\ref\02. Treasure Hunt.dll

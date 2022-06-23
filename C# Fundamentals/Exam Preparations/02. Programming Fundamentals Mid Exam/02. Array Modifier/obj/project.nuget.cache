@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCMInKbZAVo0wWEe823PdGGW5+VO5Ave8Bm++PncSsLqOKOGyVLeR/KDw9uG2Ao+dMMF9kCAjNEnchmwqO8ZzA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\02. Programming Fundamentals Mid Exam\\02. Array Modifier\\02. Array Modifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

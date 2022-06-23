@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Y52iF1Grx+ir/o7XeWajZ+GUmnFGt3B8//5S4h5QIeTl4HncVmqh9sYMjPZWBD1aJbOznHOtDdy/CSoy11xKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\06. Programming Fundamentals Mid Exam Retake\\01. Black Flag\\01. Black Flag.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
