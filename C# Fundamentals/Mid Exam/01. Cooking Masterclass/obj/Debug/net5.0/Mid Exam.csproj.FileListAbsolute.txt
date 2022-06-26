@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\bin\Debug\net5.0\Mid Exam.exe
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\bin\Debug\net5.0\Mid Exam.deps.json
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\bin\Debug\net5.0\Mid Exam.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\bin\Debug\net5.0\Mid Exam.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\bin\Debug\net5.0\Mid Exam.dll
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\bin\Debug\net5.0\Mid Exam.pdb
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\Mid Exam.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\Mid Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\Mid Exam.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\Mid Exam.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\Mid Exam.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\Mid Exam.dll
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\refint\Mid Exam.dll
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\Mid Exam.pdb
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\Mid Exam.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Mid Exam\Mid Exam\obj\Debug\net5.0\ref\Mid Exam.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.exe
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.deps.json
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.dll
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.pdb
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.dll
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\refint\02. Coffee Lover.dll
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.pdb
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Mid Exam\02. Coffee Lover\obj\Debug\net5.0\ref\02. Coffee Lover.dll

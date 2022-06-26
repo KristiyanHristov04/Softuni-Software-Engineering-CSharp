@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iec3HnIA/B6Jzv1rC0NOxF3KkiQdIOZb/h0FvfXQIsMlcbtdHISayEsXQseP+IZYo3oFOqzibORN7AoY6TVJFA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Mid Exam\\02. Coffee Lover\\02. Coffee Lover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

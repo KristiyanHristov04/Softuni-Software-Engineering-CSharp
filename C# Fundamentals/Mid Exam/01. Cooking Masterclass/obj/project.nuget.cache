@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GkkCIvSbWXE4qrZpYJ24kwNTHrsG/QMlBTW3kf4HbqYDfkMhetbL03pSgB2hT1AIeQT92XJvlUg9AMwLR8I4Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Mid Exam\\Mid Exam\\Mid Exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

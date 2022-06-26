@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\bin\Debug\net5.0\03. Chat Logger.exe
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\bin\Debug\net5.0\03. Chat Logger.deps.json
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\bin\Debug\net5.0\03. Chat Logger.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\bin\Debug\net5.0\03. Chat Logger.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\bin\Debug\net5.0\03. Chat Logger.dll
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\bin\Debug\net5.0\03. Chat Logger.pdb
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\03. Chat Logger.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\03. Chat Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\03. Chat Logger.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\03. Chat Logger.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\03. Chat Logger.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\03. Chat Logger.dll
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\refint\03. Chat Logger.dll
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\03. Chat Logger.pdb
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\03. Chat Logger.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Mid Exam\03. Chat Logger\obj\Debug\net5.0\ref\03. Chat Logger.dll
