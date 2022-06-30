@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/qhnYPKvQ0gBhOFPHSMQ5SPp8rF1Zp8sBB8OBfVyewtQQaqW2DNvlNMWntNxbtIi6ekbuL4cGNg0WY5/6cM4w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Objects and Classes - Exercise\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

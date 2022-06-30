@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\refint\01. Advertisement Message.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\ref\01. Advertisement Message.dll

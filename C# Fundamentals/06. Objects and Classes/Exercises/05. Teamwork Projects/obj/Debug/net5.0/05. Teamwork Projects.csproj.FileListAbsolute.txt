@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net5.0\05. Teamwork Projects.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net5.0\05. Teamwork Projects.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net5.0\05. Teamwork Projects.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net5.0\05. Teamwork Projects.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net5.0\05. Teamwork Projects.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net5.0\05. Teamwork Projects.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\05. Teamwork Projects.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\05. Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\05. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\05. Teamwork Projects.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\05. Teamwork Projects.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\refint\05. Teamwork Projects.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\05. Teamwork Projects.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\05. Teamwork Projects.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net5.0\ref\05. Teamwork Projects.dll

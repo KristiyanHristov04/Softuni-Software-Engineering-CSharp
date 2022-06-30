@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lTIHwm/Ipk6z74a1Wf5t8qYX4xMBEfSNPXrI178w5UKGlffOfwJo21lfRUBzh5RFcmqgonry7a4HQDkOTUVldw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Objects and Classes - Exercise\\07. Order by Age\\07. Order by Age.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

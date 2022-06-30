@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEOJbZHhy6ZtvkMfZWnnZDt9gzrTxDUBMXVYY7IuFR5CkSuWmFPVD9WGW5MaySiO4C40/hFD7HLVF+iqWgwbPw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Objects and Classes - Lab\\03. Songs\\03. Songs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

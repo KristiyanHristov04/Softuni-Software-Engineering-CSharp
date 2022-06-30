@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+iUND3KLL23VY67s5La9oU3zMMTRLpq63ztds9MNQtXFsMhPXe/5m+3SXwTdY1K4W9PsgeY2SkgG+3vpO+vlOg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Objects and Classes - Exercise\\05. Teamwork Projects\\05. Teamwork Projects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

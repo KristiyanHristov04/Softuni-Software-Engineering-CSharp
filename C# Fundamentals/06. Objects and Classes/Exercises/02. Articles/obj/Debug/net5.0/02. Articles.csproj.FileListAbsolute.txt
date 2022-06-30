@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\refint\02. Articles.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\ref\02. Articles.dll

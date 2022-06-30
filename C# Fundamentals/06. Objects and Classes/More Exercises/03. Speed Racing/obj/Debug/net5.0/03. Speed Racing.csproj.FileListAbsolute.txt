@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\refint\03. Speed Racing.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\net5.0\ref\03. Speed Racing.dll

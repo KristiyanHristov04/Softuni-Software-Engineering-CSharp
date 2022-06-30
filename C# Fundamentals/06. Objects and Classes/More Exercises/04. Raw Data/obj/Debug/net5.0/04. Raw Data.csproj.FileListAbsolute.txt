@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net5.0\04. Raw Data.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net5.0\04. Raw Data.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net5.0\04. Raw Data.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net5.0\04. Raw Data.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net5.0\04. Raw Data.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\net5.0\04. Raw Data.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\04. Raw Data.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\04. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\04. Raw Data.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\04. Raw Data.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\04. Raw Data.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\04. Raw Data.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\refint\04. Raw Data.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\04. Raw Data.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\04. Raw Data.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\net5.0\ref\04. Raw Data.dll

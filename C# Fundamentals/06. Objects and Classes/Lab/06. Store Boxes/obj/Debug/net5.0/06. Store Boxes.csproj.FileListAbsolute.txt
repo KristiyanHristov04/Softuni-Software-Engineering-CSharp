@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\refint\06. Store Boxes.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\ref\06. Store Boxes.dll

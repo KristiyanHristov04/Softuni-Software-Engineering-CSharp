@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\refint\07. Vehicle Catalogue.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\ref\07. Vehicle Catalogue.dll

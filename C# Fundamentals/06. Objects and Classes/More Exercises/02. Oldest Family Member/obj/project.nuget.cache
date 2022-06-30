@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ciilo7/o65xZxsGACgYlOUYLuABY2KA+7npEqjY3OcyBxFXHp6dXNAFS8uQ0IEDiwozxX2maYcNf3vs2kZz8Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Objects and Classes - More Exercise\\02. Oldest Family Member\\02. Oldest Family Member.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

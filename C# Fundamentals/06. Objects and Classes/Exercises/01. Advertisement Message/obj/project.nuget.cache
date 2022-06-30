@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gnUX9T8ZGLLTg6rb0UCw9OKw0F7GqVJcx1C08kb+an7A5OY2o992D+OmJ9auIc4BA4nbBwxWzVx3BGgWlRwIfw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Objects and Classes - Exercise\\01. Advertisement Message\\01. Advertisement Message.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

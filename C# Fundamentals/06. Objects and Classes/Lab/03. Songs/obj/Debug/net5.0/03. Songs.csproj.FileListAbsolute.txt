@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\bin\Debug\net5.0\03. Songs.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\bin\Debug\net5.0\03. Songs.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\bin\Debug\net5.0\03. Songs.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\bin\Debug\net5.0\03. Songs.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\bin\Debug\net5.0\03. Songs.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\bin\Debug\net5.0\03. Songs.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\03. Songs.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\03. Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\03. Songs.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\03. Songs.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\03. Songs.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\03. Songs.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\refint\03. Songs.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\03. Songs.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\03. Songs.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\03. Songs\obj\Debug\net5.0\ref\03. Songs.dll

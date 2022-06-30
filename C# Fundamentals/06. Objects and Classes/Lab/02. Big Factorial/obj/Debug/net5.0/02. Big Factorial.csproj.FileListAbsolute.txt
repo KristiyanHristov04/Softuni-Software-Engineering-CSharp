@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\refint\02. Big Factorial.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net5.0\ref\02. Big Factorial.dll

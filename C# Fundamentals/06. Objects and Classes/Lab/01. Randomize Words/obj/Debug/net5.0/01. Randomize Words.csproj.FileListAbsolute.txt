@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\refint\01. Randomize Words.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\ref\01. Randomize Words.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OqHk87TU3NU2u86tNgGwdQoGcTlMXUonA9W8hiEEp2ZsZB6lcmjCqo01Cgkl8+lEDw/gpic3WacNUdl9IUPO/A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Objects and Classes - Lab\\02. Big Factorial\\02. Big Factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

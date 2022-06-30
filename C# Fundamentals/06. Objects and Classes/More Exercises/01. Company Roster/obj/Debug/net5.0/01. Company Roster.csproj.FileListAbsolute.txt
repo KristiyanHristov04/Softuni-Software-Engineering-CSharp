@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\refint\01. Company Roster.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\ref\01. Company Roster.dll

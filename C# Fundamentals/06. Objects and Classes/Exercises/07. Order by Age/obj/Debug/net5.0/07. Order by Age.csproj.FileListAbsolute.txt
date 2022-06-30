@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\refint\07. Order by Age.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\ref\07. Order by Age.dll

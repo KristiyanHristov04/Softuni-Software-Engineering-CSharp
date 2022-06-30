@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lu/0CXyrLGY3ZYj5XcrScq9rNVhRE1w2MUlGobJOIH4ZRKm0cEe1309urZBSfyHwLfebAdPXiLJNlgGTT3/kQA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Objects and Classes - Lab\\06. Store Boxes\\06. Store Boxes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

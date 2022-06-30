@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net5.0\05. Shopping Spree.exe
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net5.0\05. Shopping Spree.deps.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net5.0\05. Shopping Spree.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net5.0\05. Shopping Spree.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net5.0\05. Shopping Spree.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net5.0\05. Shopping Spree.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\05. Shopping Spree.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\05. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\05. Shopping Spree.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\05. Shopping Spree.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\05. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\05. Shopping Spree.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\refint\05. Shopping Spree.dll
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\05. Shopping Spree.pdb
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\05. Shopping Spree.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net5.0\ref\05. Shopping Spree.dll
