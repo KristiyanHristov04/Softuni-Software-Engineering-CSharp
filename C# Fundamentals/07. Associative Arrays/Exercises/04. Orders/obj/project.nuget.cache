@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/In1euA1C4BI5Spv0eCfr9CQGVFt6IHkplhw5PWTKTQ1oGa716KgSZlPa+tAS42ELpfJPhPUnov5KU6wP5/rOg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

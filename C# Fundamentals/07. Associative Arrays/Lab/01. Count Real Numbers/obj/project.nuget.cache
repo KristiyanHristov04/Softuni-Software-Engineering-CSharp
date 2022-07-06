@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UgizhFut+UTV45EBZzNmOz5w0bOVTI8G7QIjtFk+avZqzoDSmuJq7rl1gFrlFVLorjQB0mbh3v9He2nfaHNTDA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Associative Arrays - Lab\\01. Count Real Numbers\\01. Count Real Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzcfzSqWGsGiMNGg1U2DROeIynje7PKaCF5dbZnBC/34PfYbyYK+W0/nME32UoRrqf8wbqji06sWlkl8mJT0gg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Associative Arrays - More Exercise\\05. Dragon Army\\05. Dragon Army.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\refint\02. Odd Occurrences.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\ref\02. Odd Occurrences.dll

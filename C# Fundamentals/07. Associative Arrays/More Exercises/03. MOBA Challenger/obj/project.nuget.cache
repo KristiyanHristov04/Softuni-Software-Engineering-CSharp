@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZcXRFD4Q/g1rzuGB/3MKSeBK20daY4mwkW5EMK+Qd3snLcCZ5q6K2jl0oAl3PJ8JNDB2VoOwwXu1QWuLmDtAA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Associative Arrays - More Exercise\\03. MOBA Challenger\\03. MOBA Challenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

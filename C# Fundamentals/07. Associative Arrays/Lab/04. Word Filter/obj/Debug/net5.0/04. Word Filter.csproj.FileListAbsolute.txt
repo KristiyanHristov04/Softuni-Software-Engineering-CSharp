@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\refint\04. Word Filter.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\ref\04. Word Filter.dll

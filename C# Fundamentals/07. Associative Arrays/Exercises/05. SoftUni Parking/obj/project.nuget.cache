@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+ZzT4CLmF7BZoabK+k6xCzCII79VsF8kF2kpv7DuOWZqHXt1CQgsesV26u1/vspiLZo/KDtvB7J4Ike8+no6w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

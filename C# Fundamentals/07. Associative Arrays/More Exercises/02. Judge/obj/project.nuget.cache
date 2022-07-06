@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mdwUBURkWV5nwYqIXGrgOA71qmumFpXEDhxfq77iN9Mflt56aRA+TbOqGbfRCBIvz8It03mAuDUBKIZOwfpT4A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Associative Arrays - More Exercise\\02. Judge\\02. Judge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

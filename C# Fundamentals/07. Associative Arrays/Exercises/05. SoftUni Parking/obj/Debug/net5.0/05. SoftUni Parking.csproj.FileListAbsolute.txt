@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\refint\05. SoftUni Parking.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\net5.0\ref\05. SoftUni Parking.dll

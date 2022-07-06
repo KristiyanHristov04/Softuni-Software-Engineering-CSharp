@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\refint\06. Courses.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\ref\06. Courses.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\refint\02. Judge.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\ref\02. Judge.dll

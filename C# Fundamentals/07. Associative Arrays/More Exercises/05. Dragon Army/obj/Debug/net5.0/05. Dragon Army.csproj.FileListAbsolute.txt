@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\refint\05. Dragon Army.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net5.0\ref\05. Dragon Army.dll

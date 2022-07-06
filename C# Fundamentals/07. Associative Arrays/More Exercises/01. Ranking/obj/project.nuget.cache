@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3ouy48PouYbKF/1AKbJTrglZhQi83IKC4yC8kkVAYIoyuqnaqkiYJPvUFe6sR8VgYb9xRMQg/dqMxr/YQp5IA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Associative Arrays - More Exercise\\01. Ranking\\01. Ranking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\bin\Debug\net5.0\04. Snowhite.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\bin\Debug\net5.0\04. Snowhite.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\bin\Debug\net5.0\04. Snowhite.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\bin\Debug\net5.0\04. Snowhite.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\bin\Debug\net5.0\04. Snowhite.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\bin\Debug\net5.0\04. Snowhite.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\04. Snowhite.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\04. Snowhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\04. Snowhite.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\04. Snowhite.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\04. Snowhite.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\04. Snowhite.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\refint\04. Snowhite.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\04. Snowhite.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\04. Snowhite.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\04. Snowhite\obj\Debug\net5.0\ref\04. Snowhite.dll

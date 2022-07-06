@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\refint\03. Word Synonyms.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\ref\03. Word Synonyms.dll

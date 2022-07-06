@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\refint\01. Ranking.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\ref\01. Ranking.dll

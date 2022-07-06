@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKcoDa9I+zKA0UgkCBFGzGQfy+40pBA2udvYyTmymodYxNSovCz/64O/6HSI62BSwTq8g8M2xxTvHX76HzZiAA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Associative Arrays - Exercise\\02. A Miner Task\\02. A Miner Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

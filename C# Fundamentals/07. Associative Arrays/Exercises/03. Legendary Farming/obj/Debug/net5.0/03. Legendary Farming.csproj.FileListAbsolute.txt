@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\refint\03. Legendary Farming.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\ref\03. Legendary Farming.dll

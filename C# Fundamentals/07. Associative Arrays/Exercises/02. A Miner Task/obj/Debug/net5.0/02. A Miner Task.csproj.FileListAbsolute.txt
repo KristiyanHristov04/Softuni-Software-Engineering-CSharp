@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.exe
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.deps.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\refint\02. A Miner Task.dll
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.pdb
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\ref\02. A Miner Task.dll
