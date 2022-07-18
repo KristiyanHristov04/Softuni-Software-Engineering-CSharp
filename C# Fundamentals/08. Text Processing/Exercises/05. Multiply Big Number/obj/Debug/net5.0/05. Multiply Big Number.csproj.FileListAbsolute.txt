@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.exe
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\refint\05. Multiply Big Number.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\ref\05. Multiply Big Number.dll

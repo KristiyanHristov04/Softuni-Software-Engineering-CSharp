@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.exe
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.deps.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\refint\02. Match Phone Number.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\ref\02. Match Phone Number.dll

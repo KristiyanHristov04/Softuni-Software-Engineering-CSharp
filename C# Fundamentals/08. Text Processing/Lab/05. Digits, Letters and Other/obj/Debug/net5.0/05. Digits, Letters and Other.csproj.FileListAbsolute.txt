@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.exe
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\refint\05. Digits, Letters and Other.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net5.0\ref\05. Digits, Letters and Other.dll

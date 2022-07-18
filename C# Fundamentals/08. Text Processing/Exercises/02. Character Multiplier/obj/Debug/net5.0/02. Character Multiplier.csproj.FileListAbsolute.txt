@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.exe
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\refint\02. Character Multiplier.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\ref\02. Character Multiplier.dll

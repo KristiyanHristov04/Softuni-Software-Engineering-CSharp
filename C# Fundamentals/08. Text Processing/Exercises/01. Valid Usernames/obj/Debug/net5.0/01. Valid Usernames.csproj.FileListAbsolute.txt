@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.exe
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\refint\01. Valid Usernames.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\ref\01. Valid Usernames.dll

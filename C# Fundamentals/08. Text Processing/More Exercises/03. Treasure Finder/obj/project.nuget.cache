@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KbyarR4oTnRauEIx5GtHv8CCkcMSQQkDKfQDzO+S97dpLyWD8SNhTrvoakoJhz+g3pADV66iJd2kBik28TXCw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - More Exercise\\03. Treasure Finder\\03. Treasure Finder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

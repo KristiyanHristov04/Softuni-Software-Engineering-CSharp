@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.exe
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\refint\02. Repeat Strings.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\ref\02. Repeat Strings.dll

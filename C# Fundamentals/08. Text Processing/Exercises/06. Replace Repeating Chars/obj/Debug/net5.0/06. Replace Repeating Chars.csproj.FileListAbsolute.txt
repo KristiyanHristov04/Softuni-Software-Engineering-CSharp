@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.exe
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\refint\06. Replace Repeating Chars.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\ref\06. Replace Repeating Chars.dll

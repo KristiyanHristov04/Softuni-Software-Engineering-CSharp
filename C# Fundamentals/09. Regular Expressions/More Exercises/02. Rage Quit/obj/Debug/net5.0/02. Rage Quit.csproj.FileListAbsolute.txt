@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.exe
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.deps.json
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\refint\02. Rage Quit.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\02. Rage Quit\obj\Debug\net5.0\ref\02. Rage Quit.dll

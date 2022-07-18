@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FaHtor+4p1FY+1uRGb0aD4sSALIJl9nnHC8KDaAqwVMcblwanTLMPy0ROwousz98dRxyYc37+ynI4MA5I4zbpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - Exercise\\06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

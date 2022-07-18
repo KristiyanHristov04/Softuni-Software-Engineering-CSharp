@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7EWOo2wSMI8/f7RtkpBwvLbNHwdwx+0qY/2T9AqERU+fqLq27yRqhZavpJyazg8xMQhZtED1SDdHi+VsoRYsyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Regular Expressions - Exercise\\01. Furniture\\01. Furniture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

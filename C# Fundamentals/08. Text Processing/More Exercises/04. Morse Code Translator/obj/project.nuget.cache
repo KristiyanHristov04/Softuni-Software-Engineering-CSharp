@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bOaUdPLQYxW0iggEwIAMV7IaVj6KKQ0MS71hBvbSGD70a8cnHV/yp8XNqD4EiHA9QqNLsC9Vti1zkUDOnLIffA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - More Exercise\\04. Morse Code Translator\\04. Morse Code Translator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

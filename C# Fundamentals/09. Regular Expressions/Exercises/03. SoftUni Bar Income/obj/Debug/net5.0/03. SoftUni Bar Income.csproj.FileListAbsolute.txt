@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.exe
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.deps.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\refint\03. SoftUni Bar Income.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\ref\03. SoftUni Bar Income.dll

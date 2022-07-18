@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.exe
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.pdb
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\refint\03. Treasure Finder.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.pdb
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\ref\03. Treasure Finder.dll

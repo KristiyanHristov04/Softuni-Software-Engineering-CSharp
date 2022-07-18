@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.exe
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\refint\04. Text Filter.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\04. Text Filter\obj\Debug\net5.0\ref\04. Text Filter.dll

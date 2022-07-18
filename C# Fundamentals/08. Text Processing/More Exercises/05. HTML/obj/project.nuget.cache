@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "deP25gcdh9XsicA6Jw4Tmxi/jnbQ5cJ263zwP/UTpgl7G63VyWLpDzTYm+FHzspITJlc1Px9DglRqkWpe/mBTw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - More Exercise\\05. HTML\\05. HTML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

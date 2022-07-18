@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.exe
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.deps.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\refint\06. Extract Emails.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\ref\06. Extract Emails.dll

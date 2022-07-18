@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\bin\Debug\net5.0\01. Furniture.exe
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\bin\Debug\net5.0\01. Furniture.deps.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\bin\Debug\net5.0\01. Furniture.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\bin\Debug\net5.0\01. Furniture.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\bin\Debug\net5.0\01. Furniture.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\bin\Debug\net5.0\01. Furniture.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\01. Furniture.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\01. Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\01. Furniture.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\01. Furniture.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\01. Furniture.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\01. Furniture.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\refint\01. Furniture.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\01. Furniture.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\01. Furniture.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\01. Furniture\obj\Debug\net5.0\ref\01. Furniture.dll

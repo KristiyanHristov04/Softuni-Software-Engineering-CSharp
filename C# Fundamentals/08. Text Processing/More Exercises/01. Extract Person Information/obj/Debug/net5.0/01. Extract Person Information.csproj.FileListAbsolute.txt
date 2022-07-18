@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.exe
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.pdb
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\refint\01. Extract Person Information.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.pdb
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\ref\01. Extract Person Information.dll

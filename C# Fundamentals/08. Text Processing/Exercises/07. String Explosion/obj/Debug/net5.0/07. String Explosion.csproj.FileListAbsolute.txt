@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.exe
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\refint\07. String Explosion.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\ref\07. String Explosion.dll

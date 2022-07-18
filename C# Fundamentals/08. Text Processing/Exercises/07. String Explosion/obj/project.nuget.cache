@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/o7kgI5eaO0tCKXTM/sM+oXoJ5O2lr8k1AwS9Bra1bOhVyqmzh1uDH8HVO1ggis1olUpT+8yaovHNvfSF2Eag==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - Exercise\\07. String Explosion\\07. String Explosion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

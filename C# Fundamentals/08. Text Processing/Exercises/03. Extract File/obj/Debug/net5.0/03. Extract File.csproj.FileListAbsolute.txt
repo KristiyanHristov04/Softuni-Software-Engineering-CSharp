@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.exe
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\refint\03. Extract File.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\ref\03. Extract File.dll

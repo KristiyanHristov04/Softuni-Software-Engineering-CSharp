@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lcv7pvCGXIf5/It6xZQEO4hVK6QLIGrTsp5eXE2QT6Tk7FQmag3bMO++yMcxmbYFA28L22SjkQ+4V3wxENp6ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Regular Expressions - More Exercise\\02. Rage Quit\\02. Rage Quit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

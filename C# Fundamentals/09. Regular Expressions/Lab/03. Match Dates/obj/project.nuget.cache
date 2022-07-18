@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gVVYMYWBYJUuAP84l/gU3QsgjkoVH6tUAGrr0t0zXc6wtJvYBsenZGCVgSwboGCqinFo4lnuoVuBCElFl20lOg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

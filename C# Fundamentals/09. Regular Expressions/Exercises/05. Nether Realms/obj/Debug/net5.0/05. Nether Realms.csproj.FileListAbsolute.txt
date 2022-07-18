@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.exe
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.deps.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\refint\05. Nether Realms.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\ref\05. Nether Realms.dll

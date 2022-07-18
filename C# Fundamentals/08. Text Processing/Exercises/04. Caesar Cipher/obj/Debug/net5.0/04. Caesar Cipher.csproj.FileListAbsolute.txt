@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.exe
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\refint\04. Caesar Cipher.dll
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\ref\04. Caesar Cipher.dll

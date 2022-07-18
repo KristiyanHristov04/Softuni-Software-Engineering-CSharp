@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XzIQ613oMwxOu0DKGilycTUOBz34cdAx/Cm6KUaPChVa6o2KoAmebDN6Rcgdv/3yNaFHiUl8uN0FFE+Lcniufg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

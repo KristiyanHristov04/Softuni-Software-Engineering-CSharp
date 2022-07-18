@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "me/R2LZURXQCctbvcvdtthZ44nXkKTylMv1rCC7LAUlYp2lHaqfwTIC3q5omvh7EdQeHBGUT3VoHTlr73abYVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Regular Expressions - Exercise\\02. Race\\02. Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\bin\Debug\net5.0\05. HTML.exe
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\bin\Debug\net5.0\05. HTML.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\bin\Debug\net5.0\05. HTML.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\bin\Debug\net5.0\05. HTML.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\bin\Debug\net5.0\05. HTML.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\bin\Debug\net5.0\05. HTML.pdb
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\05. HTML.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\05. HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\05. HTML.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\05. HTML.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\05. HTML.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\05. HTML.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\refint\05. HTML.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\05. HTML.pdb
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\05. HTML.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\05. HTML\obj\Debug\net5.0\ref\05. HTML.dll

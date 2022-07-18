@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nz876+4TNEsRAXD8Xm3YXqiARiVnyxr2FKzgYs25hANZ0RhEE7ZPnSA/EoiXNTkBjLLfE2pBS2ZClLtNoR8cmw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Regular Expressions - More Exercise\\03. Post Office\\03. Post Office.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

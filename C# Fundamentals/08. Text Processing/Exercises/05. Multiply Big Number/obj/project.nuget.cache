@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/tC06Fl6oRYXqo605gQVoAlzGZtwcfjrD7ahZh0daesBzpOlR4bDondSFLdxn1S+5xM+l6nmVvggXmvcvLH3w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - Exercise\\05. Multiply Big Number\\05. Multiply Big Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

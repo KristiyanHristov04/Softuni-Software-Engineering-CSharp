@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SU9zZeKfYXQBKncOlfJaXcJYKMCPkym3XCdjBxFyMeSbtq5nEnHTAV36KHvewonzEhzMxEz3YtZDaMdU1X+P4w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - Exercise\\03. Extract File\\03. Extract File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

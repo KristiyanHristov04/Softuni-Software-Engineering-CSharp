@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ah9efOPi6yx0BU0Qy/0ocVj7qyY//C9bvusjqshzZWWPuYF89NApHpWBYLXde3f1gSUfhFVu2uNDMo7mc2Odhw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - Lab\\04. Text Filter\\04. Text Filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

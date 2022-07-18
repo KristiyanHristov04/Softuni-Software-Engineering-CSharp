@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.exe
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.pdb
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\refint\02. Ascii Sumator.dll
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.pdb
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\ref\02. Ascii Sumator.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QoqygiyhbXNpwkgTKIfy+AepnaQR0hJwhybRlYEMsoU+giNKeHI3zB5l7yroBmHqJgqEg3ZG+EKkQ0TT3WFK1g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - Exercise\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

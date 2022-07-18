@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.exe
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.deps.json
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\refint\01. Winning Ticket.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\01. Winning Ticket\obj\Debug\net5.0\ref\01. Winning Ticket.dll

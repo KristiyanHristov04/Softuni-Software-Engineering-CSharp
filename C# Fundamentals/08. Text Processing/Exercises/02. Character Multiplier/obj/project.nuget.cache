@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gaEKm/AyRY8fl6J1nxPxUdafakz1+un6ZLcQlJPwz/F/Myi5Wb6i+ewSP3vF/CiFgNuIewMP7x6AS2z0M1z0PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - Exercise\\02. Character Multiplier\\02. Character Multiplier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

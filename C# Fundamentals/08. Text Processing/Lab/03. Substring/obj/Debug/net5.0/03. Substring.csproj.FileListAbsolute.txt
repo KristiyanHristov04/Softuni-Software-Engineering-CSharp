@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.exe
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.deps.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\refint\03. Substring.dll
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.pdb
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Text Processing - Lab\03. Substring\obj\Debug\net5.0\ref\03. Substring.dll

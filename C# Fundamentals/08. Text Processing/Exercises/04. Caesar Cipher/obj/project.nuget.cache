@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qn5Et3bBWqN5nP6oMrx3dsCMaWhwHtdsGUaUdUwJVJkYVt8MtmQbkbBElS8QzRH6xqC+o1l15hxJerPA8JTJPA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Text Processing - Exercise\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M5tUpFwgXkHK4Xa5zf8pWNqe+gBrR/8NsQT3ZO0rL/4i5j3nQcXocFata1AgUzk09az4nduh1Z8QstHcxMbXyw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Regular Expressions - More Exercise\\01. Winning Ticket\\01. Winning Ticket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

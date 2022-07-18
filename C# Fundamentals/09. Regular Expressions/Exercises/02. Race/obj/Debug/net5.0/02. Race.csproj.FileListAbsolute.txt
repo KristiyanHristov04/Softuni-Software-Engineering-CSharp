@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.exe
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.deps.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\refint\02. Race.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\ref\02. Race.dll

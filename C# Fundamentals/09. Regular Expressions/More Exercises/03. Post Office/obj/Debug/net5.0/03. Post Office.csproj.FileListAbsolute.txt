@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net5.0\03. Post Office.exe
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net5.0\03. Post Office.deps.json
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net5.0\03. Post Office.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net5.0\03. Post Office.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net5.0\03. Post Office.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net5.0\03. Post Office.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\03. Post Office.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\03. Post Office.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\03. Post Office.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\03. Post Office.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\03. Post Office.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\03. Post Office.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\refint\03. Post Office.dll
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\03. Post Office.pdb
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\03. Post Office.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net5.0\ref\03. Post Office.dll
