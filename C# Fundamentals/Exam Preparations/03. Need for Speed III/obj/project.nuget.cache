@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yF9Pfsb6lyuq+P/jPGQ3+k8AVnRmzbHHcivCU9t1c1s6s05VI6EnUJXwOZceXzOaE3TmDRgMXSW1GunXkvpFaA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\03. Programming Fundamentals Final Exam Retake\\03. Need for Speed III\\03. Need for Speed III.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

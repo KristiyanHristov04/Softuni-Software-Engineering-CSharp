@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.exe
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.deps.json
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.runtimeconfig.json
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.dll
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.pdb
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.dll
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\refint\02. Mirror Words.dll
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.pdb
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\ref\02. Mirror Words.dll

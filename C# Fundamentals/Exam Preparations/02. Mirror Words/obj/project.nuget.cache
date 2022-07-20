@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBGxPArpWsH+htKZF8umAYvUs+xKh3C7vAaT5wsCdgvmrRYDad4mxnIyIXuGgfmggRmGCPb81BhRmbPqH0NdDg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\03. Programming Fundamentals Final Exam Retake\\02. Mirror Words\\02. Mirror Words.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
