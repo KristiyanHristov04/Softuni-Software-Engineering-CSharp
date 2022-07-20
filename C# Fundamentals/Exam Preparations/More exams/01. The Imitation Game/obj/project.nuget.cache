@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWQdLcFfljT0PCOhN36jfxuvrui4PBbfUbnOHqHdq1dR1xP5S0NkTxbCNRaZmuOYRjC/3ui2H/lkPOjitUvhww==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\01. The Imitation Game\\01. Programming Fundamentals Final Exam Retake\\01. Programming Fundamentals Final Exam Retake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

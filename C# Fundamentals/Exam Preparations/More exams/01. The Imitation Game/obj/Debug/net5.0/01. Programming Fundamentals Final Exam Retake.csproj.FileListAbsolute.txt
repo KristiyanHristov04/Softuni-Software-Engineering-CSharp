@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.exe
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.deps.json
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.dll
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.pdb
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.dll
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\refint\01. Programming Fundamentals Final Exam Retake.dll
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.pdb
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\ref\01. Programming Fundamentals Final Exam Retake.dll

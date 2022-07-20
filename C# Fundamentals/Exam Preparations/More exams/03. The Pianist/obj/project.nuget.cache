@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQX56V0kZQPIzbNSeqMrDvlwkw5+JH0d+fu4P8IL5NOAG886h8vhQs7LyVFjuW4zIJllTGpf2SU6veYUsDh0kA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\01. The Imitation Game\\03. The Pianist\\03. The Pianist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

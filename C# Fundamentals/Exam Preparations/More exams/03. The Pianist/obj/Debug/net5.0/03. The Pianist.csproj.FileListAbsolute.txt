@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\bin\Debug\net5.0\03. The Pianist.exe
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\bin\Debug\net5.0\03. The Pianist.deps.json
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\bin\Debug\net5.0\03. The Pianist.dll
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\bin\Debug\net5.0\03. The Pianist.pdb
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\03. The Pianist.dll
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\refint\03. The Pianist.dll
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\03. The Pianist.pdb
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\03. The Pianist.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\03. The Pianist\obj\Debug\net5.0\ref\03. The Pianist.dll

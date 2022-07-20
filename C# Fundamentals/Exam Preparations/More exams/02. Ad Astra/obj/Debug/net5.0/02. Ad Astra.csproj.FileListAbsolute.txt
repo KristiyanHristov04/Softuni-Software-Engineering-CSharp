@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.exe
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.deps.json
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.dll
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.pdb
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.dll
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\refint\02. Ad Astra.dll
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.pdb
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. The Imitation Game\02. Ad Astra\obj\Debug\net5.0\ref\02. Ad Astra.dll
