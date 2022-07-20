@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.exe
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.deps.json
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.dll
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\bin\Debug\net5.0\02. Emoji Detector.pdb
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.dll
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\refint\02. Emoji Detector.dll
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.pdb
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\02. Emoji Detector.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. Activation Keys\02. Emoji Detector\obj\Debug\net5.0\ref\02. Emoji Detector.dll

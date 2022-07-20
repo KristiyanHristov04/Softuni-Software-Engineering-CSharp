@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\bin\Debug\net5.0\00. Demo.exe
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\bin\Debug\net5.0\00. Demo.deps.json
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\bin\Debug\net5.0\00. Demo.runtimeconfig.json
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\bin\Debug\net5.0\00. Demo.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\bin\Debug\net5.0\00. Demo.dll
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\bin\Debug\net5.0\00. Demo.pdb
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\00. Demo.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\00. Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\00. Demo.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\00. Demo.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\00. Demo.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\00. Demo.dll
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\refint\00. Demo.dll
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\00. Demo.pdb
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\00. Demo.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\01. Activation Keys\00. Demo\obj\Debug\net5.0\ref\00. Demo.dll

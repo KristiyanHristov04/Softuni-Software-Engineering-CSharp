@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6b8do6Cmi7zBfqWgCpQEitRxtAZFqLpuzKv3PY/O7wLENABR2GtN7POpw3vLZ5yLN00ySXx069dEhvZFvBpTmw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\01. Activation Keys\\00. Demo\\00. Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
