@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.exe
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.deps.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.runtimeconfig.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\refint\02. Fancy Barcodes.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\ref\02. Fancy Barcodes.dll

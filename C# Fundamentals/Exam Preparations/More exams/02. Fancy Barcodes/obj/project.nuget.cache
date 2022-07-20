@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGdplyxdDHPXByIbA873KJ14rv4m5w1N0uyPnRFi08w106D8zt/hMa/kRnUxmAm2EnL8mU9InmlqSqmK5VyP+A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\04. Programming Fundamentals Final Exam\\02. Fancy Barcodes\\02. Fancy Barcodes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

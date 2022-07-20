@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.exe
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.deps.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.runtimeconfig.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\refint\03. Heroes of Code and Logic VII.dll
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.pdb
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\ref\03. Heroes of Code and Logic VII.dll

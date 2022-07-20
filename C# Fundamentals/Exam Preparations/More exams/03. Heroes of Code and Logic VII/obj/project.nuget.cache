@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iggv9CrW+/XEkmwid7QwmE1OOqTFyjE4pcilvuGRZggAyxK+gnfl4DrQPQ1oHsuYZicSGmfe46npSIOXWGD61g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\04. Programming Fundamentals Final Exam\\03. Heroes of Code and Logic VII\\03. Heroes of Code and Logic VII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

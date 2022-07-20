@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKItJI5YqAjHzoT83RpcpnknyryjSeDqSQVDqqOoALr/Mb88eNVp0tUOY5DedidabpmxKiuZ9Oq8MwAix531HA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\04. Programming Fundamentals Final Exam\\01. Password Reset\\01. Password Reset.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
