@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.exe
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.deps.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.runtimeconfig.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\refint\03. Plant Discovery.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\ref\03. Plant Discovery.dll

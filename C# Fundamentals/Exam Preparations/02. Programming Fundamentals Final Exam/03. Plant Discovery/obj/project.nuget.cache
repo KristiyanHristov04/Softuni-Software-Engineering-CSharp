@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPoJXpY0JgMD7fYXO+74looVWhIiGgUPTcJVWEzAfge5q4yi+smFbgBv8S7l9SQdj2/V0zj3+Y+yCUXXLQajiw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\02. Programming Fundamentals Final Exam\\03. Plant Discovery\\03. Plant Discovery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

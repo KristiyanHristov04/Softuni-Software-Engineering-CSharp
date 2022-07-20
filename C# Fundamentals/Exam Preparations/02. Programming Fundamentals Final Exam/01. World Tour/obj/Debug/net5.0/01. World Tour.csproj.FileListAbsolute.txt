@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.exe
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.deps.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.runtimeconfig.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\refint\01. World Tour.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\ref\01. World Tour.dll

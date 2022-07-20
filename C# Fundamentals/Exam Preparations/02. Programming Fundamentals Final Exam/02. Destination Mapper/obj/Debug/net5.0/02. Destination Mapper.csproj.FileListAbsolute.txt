@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\net5.0\02. Destination Mapper.exe
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\net5.0\02. Destination Mapper.deps.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\net5.0\02. Destination Mapper.runtimeconfig.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\net5.0\02. Destination Mapper.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\net5.0\02. Destination Mapper.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\net5.0\02. Destination Mapper.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\02. Destination Mapper.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\02. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\02. Destination Mapper.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\02. Destination Mapper.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\02. Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\02. Destination Mapper.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\refint\02. Destination Mapper.dll
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\02. Destination Mapper.pdb
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\02. Destination Mapper.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\net5.0\ref\02. Destination Mapper.dll
