@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hF43KTZcqyZNUI8yQuvZbu7vWf/rMhrwiM06uHGiwco4qWlnmd/ixGCol+kUI6kr46d3YQpc1qTZKnj2P9eCVg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Programming Fundamentals Final Exam\\03. Followers\\03. Followers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

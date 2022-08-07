@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\bin\Debug\net5.0\03. Followers.exe
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\bin\Debug\net5.0\03. Followers.deps.json
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\bin\Debug\net5.0\03. Followers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\bin\Debug\net5.0\03. Followers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\bin\Debug\net5.0\03. Followers.dll
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\bin\Debug\net5.0\03. Followers.pdb
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\03. Followers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\03. Followers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\03. Followers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\03. Followers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\03. Followers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\03. Followers.dll
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\refint\03. Followers.dll
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\03. Followers.pdb
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\03. Followers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\03. Followers\obj\Debug\net5.0\ref\03. Followers.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\bin\Debug\net5.0\01. String Game.exe
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\bin\Debug\net5.0\01. String Game.deps.json
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\bin\Debug\net5.0\01. String Game.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\bin\Debug\net5.0\01. String Game.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\bin\Debug\net5.0\01. String Game.dll
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\bin\Debug\net5.0\01. String Game.pdb
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\01. String Game.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\01. String Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\01. String Game.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\01. String Game.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\01. String Game.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\01. String Game.dll
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\refint\01. String Game.dll
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\01. String Game.pdb
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\01. String Game.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\01. String Game\obj\Debug\net5.0\ref\01. String Game.dll

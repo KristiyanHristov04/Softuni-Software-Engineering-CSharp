@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SNfE5ibe0DK5yPODscpstUbWo6BQelDHGEMwDvPjV+JmMKr1e7JWdUQD7Kxt5SNGqKOFJEBhC0Xbllb6AhLTUw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Programming Fundamentals Final Exam\\01. String Game\\01. String Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\bin\Debug\net5.0\02. Message Translator.exe
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\bin\Debug\net5.0\02. Message Translator.deps.json
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\bin\Debug\net5.0\02. Message Translator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\bin\Debug\net5.0\02. Message Translator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\bin\Debug\net5.0\02. Message Translator.dll
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\bin\Debug\net5.0\02. Message Translator.pdb
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\02. Message Translator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\02. Message Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\02. Message Translator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\02. Message Translator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\02. Message Translator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\02. Message Translator.dll
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\refint\02. Message Translator.dll
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\02. Message Translator.pdb
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\02. Message Translator.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Programming Fundamentals Final Exam\02. Message Translator\obj\Debug\net5.0\ref\02. Message Translator.dll
