@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\refint\3. Simple Calculator.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\ref\3. Simple Calculator.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\refint\6. Supermarket.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\ref\6. Supermarket.dll

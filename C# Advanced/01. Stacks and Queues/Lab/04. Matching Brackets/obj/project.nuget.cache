@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vBvnwXVZh7XuZ67IKoxOrem/effprLvrwWZ10huKPKRrhV11kUYIcjhW427U2trCzsVhT9DDISwEr2SGXzFjRA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Lab\\04. Matching Brackets\\4. Matching Brackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

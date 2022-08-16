@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\refint\1. Reverse a String.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\ref\1. Reverse a String.dll

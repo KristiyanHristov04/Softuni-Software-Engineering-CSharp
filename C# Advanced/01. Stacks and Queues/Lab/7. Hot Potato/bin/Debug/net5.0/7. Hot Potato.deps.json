@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "7. Hot Potato/1.0.0": {
+        "runtime": {
+          "7. Hot Potato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7. Hot Potato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

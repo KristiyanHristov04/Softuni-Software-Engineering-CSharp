@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\net5.0\04. Matching Brackets.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\net5.0\04. Matching Brackets.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\net5.0\04. Matching Brackets.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\net5.0\04. Matching Brackets.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\net5.0\04. Matching Brackets.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\net5.0\04. Matching Brackets.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\04. Matching Brackets.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\04. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\04. Matching Brackets.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\04. Matching Brackets.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\04. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\04. Matching Brackets.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\refint\04. Matching Brackets.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\04. Matching Brackets.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\04. Matching Brackets.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\net5.0\ref\04. Matching Brackets.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9givCOCUFpNvbjjpgL6HfgD8/2odOb2Dnzhz4nu/HQrt+k6t/QfQ09fyGvWqrOqJ4HXWnIs/fuXS/Z3zRG6eA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Lab\\6. Supermarket\\6. Supermarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

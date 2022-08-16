@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\refint\2. Stack Sum.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\net5.0\ref\2. Stack Sum.dll

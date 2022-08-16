@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\refint\8. Traffic Jam.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\ref\8. Traffic Jam.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGGIQ/XfWtbXi833XFgoqFh54FQahWHVdZSx/yV8I8MfICwoTDWqxn81QmSzNqCc1AtUR7AOeu3yfuuY3c+0UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Lab\\7. Hot Potato\\7. Hot Potato.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

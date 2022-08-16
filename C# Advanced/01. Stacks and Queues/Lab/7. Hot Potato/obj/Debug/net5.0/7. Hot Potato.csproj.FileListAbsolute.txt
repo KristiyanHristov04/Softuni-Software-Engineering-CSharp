@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\refint\7. Hot Potato.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\ref\7. Hot Potato.dll

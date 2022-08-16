@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\refint\5. Print Even Numbers.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\ref\5. Print Even Numbers.dll

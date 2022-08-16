@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KO3JR2RWT05UQ0pVBaIzMaWKlx8SOgDE9SZ1XOYqvmpbnjkBv1Zq4nxznFwnbjF/Grxc2VHSsD8Z2UFUG2LqA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

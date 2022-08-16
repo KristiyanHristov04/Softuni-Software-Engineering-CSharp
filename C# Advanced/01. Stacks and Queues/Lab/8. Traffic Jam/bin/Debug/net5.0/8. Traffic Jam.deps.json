@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "8. Traffic Jam/1.0.0": {
+        "runtime": {
+          "8. Traffic Jam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8. Traffic Jam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

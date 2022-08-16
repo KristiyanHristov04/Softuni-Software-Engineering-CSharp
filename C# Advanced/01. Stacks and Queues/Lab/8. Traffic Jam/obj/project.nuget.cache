@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZiwZn8YC2xmYTIi9WxgwVX7mj5jtTyGCQI3RsdiLVifh7n8APH6lgrZycxitFejrnp7LO70f7cc7EY9dPz0uw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Lab\\8. Traffic Jam\\8. Traffic Jam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
