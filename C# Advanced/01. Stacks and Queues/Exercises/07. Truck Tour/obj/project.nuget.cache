@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "okXSXevMb6Z7RddZTSki8VEO0HzoiyjvejCMd4YHDcca3bi3lfILNnnQHJDGrR0d99H4L9e/KsTVLY9sxJ93Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

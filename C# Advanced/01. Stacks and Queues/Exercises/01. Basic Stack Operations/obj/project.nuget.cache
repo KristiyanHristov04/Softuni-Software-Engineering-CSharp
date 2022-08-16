@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dk8rBY3m3V+N6L3BGoiTr0w5MvmnazjJaQTN42TJELG+qOEsmZj5ByU2WUn35SydKBijoscxDn7xQXF+LwSHA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

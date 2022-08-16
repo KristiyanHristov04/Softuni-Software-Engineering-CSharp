@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7Q92oDYHkik9vERrVZEQ2bYmIAPIK1lU6+y3wFoPl7dIRtCgYWDzEJSe1L+hKhO7dUqapXXVKiBm2p/4AAMRg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Exercise\\12. Cups and Bottles\\12. Cups and Bottles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

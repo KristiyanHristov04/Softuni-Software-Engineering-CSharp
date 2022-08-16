@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvaDduJXYQ52Wsc+Nq2jZXzO6Yntg7c+RzS9V0lSqLyVDWRt9Zej66NxLfFUjv0guqfXcYSuKWw4FnfAtvEIgA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Exercise\\05. Fashion Boutique\\05. Fashion Boutique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

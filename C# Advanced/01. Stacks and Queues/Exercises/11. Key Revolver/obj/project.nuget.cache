@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "afwTJL9o36OBKxwJ6+nIe2uy4mVDcG6GVDFe5ofT+J40vOA6dD2bZf6egIvuz3PydhusgbJNLEyvP/eGkKHOBA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Exercise\\11. Key Revolver\\11. Key Revolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

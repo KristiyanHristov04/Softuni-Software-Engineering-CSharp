@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\refint\09. Simple Text Editor.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\ref\09. Simple Text Editor.dll

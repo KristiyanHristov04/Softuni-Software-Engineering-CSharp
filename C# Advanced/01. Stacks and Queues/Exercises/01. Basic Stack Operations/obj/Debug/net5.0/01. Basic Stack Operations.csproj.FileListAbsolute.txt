@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\refint\01. Basic Stack Operations.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net5.0\ref\01. Basic Stack Operations.dll

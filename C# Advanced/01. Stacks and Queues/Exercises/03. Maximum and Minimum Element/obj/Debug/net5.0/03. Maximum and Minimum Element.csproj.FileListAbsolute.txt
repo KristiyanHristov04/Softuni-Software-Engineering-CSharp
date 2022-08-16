@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\refint\03. Maximum and Minimum Element.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\ref\03. Maximum and Minimum Element.dll

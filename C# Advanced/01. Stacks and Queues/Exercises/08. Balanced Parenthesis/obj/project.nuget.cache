@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQVH2ox/d4f+EIrfJnbTyU/sEDkolu2/vSQIKwKMa67AfuAmUkHHJlSm+hO6BuPOzK10XQGF8dNIqW6DOPkKfw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\08. Balanced Parenthesis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

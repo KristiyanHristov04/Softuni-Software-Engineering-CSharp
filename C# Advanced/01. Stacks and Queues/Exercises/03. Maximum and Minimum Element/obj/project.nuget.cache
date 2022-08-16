@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzKlK7wf8wNyrF6GWwPbxAG0kG/POil6V0XEteePCr3WKB4GJbRTj6eXeXhI4v/1IPvCt4rNeNyYpKKRT7CT+g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

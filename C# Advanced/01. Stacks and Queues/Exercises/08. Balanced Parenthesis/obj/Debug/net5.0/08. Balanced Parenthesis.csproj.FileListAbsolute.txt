@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\refint\08. Balanced Parenthesis.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\ref\08. Balanced Parenthesis.dll

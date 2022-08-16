@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\refint\04. Fast Food.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net5.0\ref\04. Fast Food.dll

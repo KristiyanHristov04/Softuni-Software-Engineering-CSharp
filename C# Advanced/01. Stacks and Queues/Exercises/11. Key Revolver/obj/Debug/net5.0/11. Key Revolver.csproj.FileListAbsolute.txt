@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\refint\11. Key Revolver.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net5.0\ref\11. Key Revolver.dll

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.exe
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.deps.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\refint\05. Fashion Boutique.dll
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.pdb
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\ref\05. Fashion Boutique.dll
