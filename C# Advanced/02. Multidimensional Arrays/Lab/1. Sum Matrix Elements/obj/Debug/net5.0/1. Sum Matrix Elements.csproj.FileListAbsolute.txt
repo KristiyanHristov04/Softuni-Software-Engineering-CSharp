@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\refint\1. Sum Matrix Elements.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\ref\1. Sum Matrix Elements.dll
