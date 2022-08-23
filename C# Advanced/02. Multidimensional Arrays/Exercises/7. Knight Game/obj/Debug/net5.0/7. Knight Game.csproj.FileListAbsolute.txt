@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\refint\7. Knight Game.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\ref\7. Knight Game.dll

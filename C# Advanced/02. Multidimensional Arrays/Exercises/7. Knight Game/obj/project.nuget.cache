@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3+n5ZAs/dLaSV4b1hzdpuvbZ1td78TRUKVCCWlY0MPCGunKf5Nwk/3Juymase5AD4LApMauDPdIotI2GNcu0xA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Exercise\\7. Knight Game\\7. Knight Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
