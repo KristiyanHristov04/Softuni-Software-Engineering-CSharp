@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\refint\1. Diagonal Difference.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\ref\1. Diagonal Difference.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v0h7rjbrBmgIQhcphqgef414j5X0s02b8qmLE/g0e6pbLPHcLeIwZ2G8KcNwxQGuP6XyC455TfzyIAGg3pY84A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Exercise\\1. Diagonal Difference\\1. Diagonal Difference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
