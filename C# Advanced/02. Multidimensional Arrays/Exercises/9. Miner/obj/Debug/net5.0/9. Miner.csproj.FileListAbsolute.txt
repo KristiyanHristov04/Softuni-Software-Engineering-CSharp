@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\net5.0\9. Miner.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\net5.0\9. Miner.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\net5.0\9. Miner.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\net5.0\9. Miner.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\net5.0\9. Miner.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\net5.0\9. Miner.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\9. Miner.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\9. Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\9. Miner.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\9. Miner.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\9. Miner.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\9. Miner.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\refint\9. Miner.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\9. Miner.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\9. Miner.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\net5.0\ref\9. Miner.dll
