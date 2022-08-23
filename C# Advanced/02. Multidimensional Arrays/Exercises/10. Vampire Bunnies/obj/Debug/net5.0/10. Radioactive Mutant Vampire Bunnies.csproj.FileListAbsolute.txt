@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\refint\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\ref\10. Radioactive Mutant Vampire Bunnies.dll
