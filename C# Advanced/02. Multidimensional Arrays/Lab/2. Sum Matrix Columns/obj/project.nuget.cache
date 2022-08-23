@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDO2fblnB2wuTP0CnpVAfl8COe6oOOt/hzWGUjLyLuy28ZUC04TxnHHwFGiMmHfxjbT85TSx5fe8Dstus/oRkw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Lab\\2. Sum Matrix Columns\\2. Sum Matrix Columns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

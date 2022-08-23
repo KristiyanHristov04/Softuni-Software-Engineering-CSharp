@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\refint\2. Sum Matrix Columns.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\ref\2. Sum Matrix Columns.dll
