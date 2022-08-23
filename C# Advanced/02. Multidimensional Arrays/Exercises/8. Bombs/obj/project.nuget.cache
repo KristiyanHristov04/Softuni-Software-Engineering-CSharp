@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PoO0K/oMEOMjxi12JyGgvbbN+VzZx4gM4bGE+ut0Mr1fdCdc2BtTr6BD3MPw9sTBfMmjiKmh5rRs9g87QEpBCA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Exercise\\8. Bombs\\8. Bombs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\refint\8. Bombs.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\ref\8. Bombs.dll
