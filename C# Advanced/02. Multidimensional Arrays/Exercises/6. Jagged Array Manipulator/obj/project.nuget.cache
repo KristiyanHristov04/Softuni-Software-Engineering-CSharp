@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2Mf6fSWcK9//uhxumFXYjTn8GvG+dqcEt5/HQNoQUXjHpkZNjr3Q9VncN4a8IPtOOARKnD4PGOzO/XO45ToRA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Exercise\\6. Jagged Array Manipulator\\6. Jagged Array Manipulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

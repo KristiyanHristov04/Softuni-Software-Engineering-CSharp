@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "6. Jagged Array Manipulator/1.0.0": {
+        "runtime": {
+          "6. Jagged Array Manipulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6. Jagged Array Manipulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\refint\6. Jagged Array Manipulator.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\ref\6. Jagged Array Manipulator.dll
