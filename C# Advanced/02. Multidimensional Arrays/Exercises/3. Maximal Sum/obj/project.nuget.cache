@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ye+PcATEgCuWKsYE6PpokNahbniXl0mu1SKr1QwtyXARPXl5UaJWtEvd98oezauL8u+wvQNu0Hai6RxUqHfYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Exercise\\3. Maximal Sum\\3. Maximal Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

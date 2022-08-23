@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\refint\3. Maximal Sum.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\ref\3. Maximal Sum.dll
