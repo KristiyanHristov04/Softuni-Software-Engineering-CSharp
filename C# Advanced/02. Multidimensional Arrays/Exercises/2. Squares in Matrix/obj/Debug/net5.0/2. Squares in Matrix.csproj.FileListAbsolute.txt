@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\refint\2. Squares in Matrix.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\ref\2. Squares in Matrix.dll

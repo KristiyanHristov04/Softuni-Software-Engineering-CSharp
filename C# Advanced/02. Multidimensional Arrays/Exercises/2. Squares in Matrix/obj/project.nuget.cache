@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NfRE9befG6V+D1En63YA23B27BjhswejsUrVovrA81H+ue2q3ON54r3mAB3AY7bvV1qcTdgWxB3FsUMg60D1lA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Exercise\\2. Squares in Matrix\\2. Squares in Matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
