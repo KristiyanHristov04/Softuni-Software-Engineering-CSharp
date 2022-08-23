@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fu+GSaC+pemfyXjJM9z4Ck0Yt50NCjuv/0CW9WkgMeQIqkuDmgQNRwkz0AYZRPl4GjZRrHqgHkGhgen8mjXdnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Exercise\\4. Matrix Shuffling\\4. Matrix Shuffling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\refint\4. Matrix Shuffling.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\ref\4. Matrix Shuffling.dll
