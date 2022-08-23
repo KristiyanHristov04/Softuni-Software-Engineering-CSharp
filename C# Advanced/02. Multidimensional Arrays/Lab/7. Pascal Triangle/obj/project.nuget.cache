@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PnDoTA09JBQwTO/RK28BS8kWtnsnykKdPVhyeTmqep3NfAG9HjKnIuMNfQxWa1C6a1QXcPcna12evNAXoQFA3w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Lab\\7. Pascal Triangle\\7. Pascal Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\refint\6. Jagged-Array Modification.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\ref\6. Jagged-Array Modification.dll

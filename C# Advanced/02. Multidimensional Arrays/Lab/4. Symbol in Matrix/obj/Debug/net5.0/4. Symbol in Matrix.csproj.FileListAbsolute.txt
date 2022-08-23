@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\refint\4. Symbol in Matrix.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\ref\4. Symbol in Matrix.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MTsqgpLGBIR2iCG+dioSeKmZLq8X5kgxnlu/4GkjiVSaC+x5O3dZF/GhkVJqNVMuj0SbVPIJbH92VZMfU6uRaw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Lab\\4. Symbol in Matrix\\4. Symbol in Matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

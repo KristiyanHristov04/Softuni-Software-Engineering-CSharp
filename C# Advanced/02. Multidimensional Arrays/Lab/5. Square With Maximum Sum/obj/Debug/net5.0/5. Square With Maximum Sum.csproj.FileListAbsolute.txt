@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\refint\5. Square With Maximum Sum.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net5.0\ref\5. Square With Maximum Sum.dll

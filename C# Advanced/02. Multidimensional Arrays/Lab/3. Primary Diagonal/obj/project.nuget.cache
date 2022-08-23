@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2i+oCBPpykb/FKu5RlCAxIiSKeh6ldDKl41H9Jl9qd4IRpyXGKTicnzPiQEs7RRnpnVpBHWmLq23sda7NqWMg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Lab\\3. Primary Diagonal\\3. Primary Diagonal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

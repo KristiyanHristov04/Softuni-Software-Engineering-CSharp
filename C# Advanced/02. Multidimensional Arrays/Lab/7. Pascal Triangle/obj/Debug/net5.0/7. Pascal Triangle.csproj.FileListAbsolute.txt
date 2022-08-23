@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\refint\7. Pascal Triangle.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\ref\7. Pascal Triangle.dll
