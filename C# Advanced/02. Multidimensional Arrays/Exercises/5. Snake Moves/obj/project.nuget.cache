@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0P9am11sF1RJ4sEpZqvDYdri51nbWxBatOkFrwkIAXld8183y5fWvYuUmcGwr0PAtEEJEdWCM/YbD9+L+qRzA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Multidimensional Arrays - Exercise\\5. Snake Moves\\5. Snake Moves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

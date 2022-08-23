@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.exe
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.deps.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\refint\5. Snake Moves.dll
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.pdb
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\ref\5. Snake Moves.dll
