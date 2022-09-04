@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\refint\02. Sets of Elements.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\ref\02. Sets of Elements.dll
