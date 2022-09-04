@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\refint\04. Even Times.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\ref\04. Even Times.dll

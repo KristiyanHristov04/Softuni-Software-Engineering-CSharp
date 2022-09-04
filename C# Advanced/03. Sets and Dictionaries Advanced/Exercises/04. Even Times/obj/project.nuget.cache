@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+0bMcliLuBzR/2BWT9Oqlpg8UaN0NZiLt7BaObMzYIyou05fBw4THo65uT3loKm3da9xmnaf5I3HQXspIiwLYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
