@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BhHToOjt8ssW55WfVMyZCx9ZYrivcAN19XhEIef5+QtdA9F5CY9UcjMq+KAOoj06tg2rIoV+Nrw7ChizHHUNCw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Sets and Dictionaries Advanced - Exercise\\07. The V-Logger\\07. The V-Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

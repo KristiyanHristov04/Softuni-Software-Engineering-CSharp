@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\refint\07. The V-Logger.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\ref\07. The V-Logger.dll
