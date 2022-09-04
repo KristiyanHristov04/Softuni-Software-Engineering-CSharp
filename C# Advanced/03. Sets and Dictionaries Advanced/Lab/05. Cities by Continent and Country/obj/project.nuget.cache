@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTj85cmGEvn4WY7yCqkIptNPRZXn9LNWK5AXl66+CS3dR90VtlaivpMz+CV9lwvyG1MTg2EUbc+W/5e+dgHFkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Sets and Dictionaries Advanced - Lab\\05. Cities by Continent and Country\\05. Cities by Continent and Country.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
