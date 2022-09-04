@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "496cxgEIBeJOV584lU3/OB+IHVpzT/RVKeyE7QVRyq/2HemxDjIoghQfbuq+gJZrDRrsou+GQKRzzCvNbkXvKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Sets and Dictionaries Advanced - Lab\\06. Record Unique Names\\06. Record Unique Names.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

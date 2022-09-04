@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net5.0\06. Record Unique Names.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net5.0\06. Record Unique Names.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net5.0\06. Record Unique Names.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net5.0\06. Record Unique Names.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net5.0\06. Record Unique Names.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net5.0\06. Record Unique Names.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\06. Record Unique Names.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\06. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\06. Record Unique Names.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\06. Record Unique Names.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\06. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\06. Record Unique Names.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\refint\06. Record Unique Names.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\06. Record Unique Names.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\06. Record Unique Names.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net5.0\ref\06. Record Unique Names.dll
