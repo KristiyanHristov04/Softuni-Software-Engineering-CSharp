@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\refint\08. Ranking.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\net5.0\ref\08. Ranking.dll
