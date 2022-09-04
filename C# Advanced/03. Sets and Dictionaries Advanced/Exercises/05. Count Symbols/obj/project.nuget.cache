@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DeVCX887E/23X+6z9KffMqDKSNTuhN0FBHrW8DXXCG8HT7gY294LMlcvxjovP6sHAg19DNQEiS5JN6ORx4bZCA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\05. Count Symbols.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

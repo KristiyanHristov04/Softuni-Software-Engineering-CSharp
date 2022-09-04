@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\refint\05. Count Symbols.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\ref\05. Count Symbols.dll
