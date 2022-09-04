@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\refint\01. Count Same Values in Array.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net5.0\ref\01. Count Same Values in Array.dll
