@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrGLcVIqTlPhoz0lHT6tEK2d2zU4U1hR9unZOeJnVkH94eTK2wY6xDrKSEoZ17DD8fmtD3Qv96P17V9z/23Z7g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

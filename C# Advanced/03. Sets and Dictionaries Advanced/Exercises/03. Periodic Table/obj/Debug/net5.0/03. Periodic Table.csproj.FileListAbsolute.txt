@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\refint\03. Periodic Table.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\ref\03. Periodic Table.dll
