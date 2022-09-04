@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKS4iJKLQT2mZhG95d+LU0q8GStqvKbp/B0PghkYXYdqMRSO32p+kDyS1+CaP8IcFSr7PCgcyMGv4dL4HSa/9g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Sets and Dictionaries Advanced - Lab\\07. Parking Lot\\07. Parking Lot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
