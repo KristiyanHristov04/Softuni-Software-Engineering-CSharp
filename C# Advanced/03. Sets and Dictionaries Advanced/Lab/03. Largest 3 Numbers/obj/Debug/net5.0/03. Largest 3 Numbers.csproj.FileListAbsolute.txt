@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\refint\03. Largest 3 Numbers.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\ref\03. Largest 3 Numbers.dll
