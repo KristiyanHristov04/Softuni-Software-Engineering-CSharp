@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\refint\04. Product Shop.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\ref\04. Product Shop.dll
