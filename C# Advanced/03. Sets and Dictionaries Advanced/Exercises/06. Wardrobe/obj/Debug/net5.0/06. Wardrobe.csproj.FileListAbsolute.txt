@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\refint\06. Wardrobe.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\ref\06. Wardrobe.dll
