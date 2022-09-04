@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\refint\02. Average Student Grades.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\ref\02. Average Student Grades.dll
