@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\refint\09. SoftUni Exam Results.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\ref\09. SoftUni Exam Results.dll
