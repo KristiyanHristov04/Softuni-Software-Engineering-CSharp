@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6KC/xWq9R6D+dKAZYe3xzswHSc/QwDvWIgj5NK17mbi8OA8osJ7Oj/YMiqza3oH79ZA5cu78kyfn8UlzU1gOg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
