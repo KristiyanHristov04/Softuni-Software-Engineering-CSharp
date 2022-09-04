@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\refint\10. ForceBook.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\ref\10. ForceBook.dll
