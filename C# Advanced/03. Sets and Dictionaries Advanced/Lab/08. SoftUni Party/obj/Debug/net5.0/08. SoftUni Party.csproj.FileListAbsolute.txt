@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\net5.0\08. SoftUni Party.exe
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\net5.0\08. SoftUni Party.deps.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\net5.0\08. SoftUni Party.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\net5.0\08. SoftUni Party.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\net5.0\08. SoftUni Party.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\bin\Debug\net5.0\08. SoftUni Party.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\08. SoftUni Party.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\08. SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\08. SoftUni Party.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\08. SoftUni Party.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\08. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\08. SoftUni Party.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\refint\08. SoftUni Party.dll
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\08. SoftUni Party.pdb
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\08. SoftUni Party.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Sets and Dictionaries Advanced - Lab\08. SoftUni Party\obj\Debug\net5.0\ref\08. SoftUni Party.dll

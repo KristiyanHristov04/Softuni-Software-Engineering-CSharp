@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LC4PJMy7yuXcxDyp7A5LOqvpnqpUfNnOwGC56+hbuxX/LGPZkRAYnw+FRd+GvpjpGtb/FZfYFaix7NpT69N6w==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Sets and Dictionaries Advanced - Lab\\08. SoftUni Party\\08. SoftUni Party.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
