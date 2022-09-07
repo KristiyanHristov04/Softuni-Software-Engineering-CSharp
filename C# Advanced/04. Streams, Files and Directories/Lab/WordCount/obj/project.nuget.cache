@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VsOtuOLuTCN7cySz9/l4QHA3kL4T4F9GpOjKHFPk+qRaOxvWrUgvK1+ntQgyQ3EFzEzbEeh0MXNlyz6Rca3xsg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Streams, Files and Directories - Lab\\Skeleton-Lab\\Skeleton\\WordCount\\WordCount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

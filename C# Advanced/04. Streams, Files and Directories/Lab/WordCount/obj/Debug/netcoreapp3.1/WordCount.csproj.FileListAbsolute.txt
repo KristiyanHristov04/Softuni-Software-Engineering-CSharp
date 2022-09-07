@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache
