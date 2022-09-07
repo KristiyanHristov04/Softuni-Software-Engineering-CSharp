@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5xRcdCTnRz+F3SaRJv8eNW1+9dTo3U/GM+fFFrkoUK1rxwHdnOB0MvPcFFHKxQyGfJbkuQhgagT26hsjStGaw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Streams, Files and Directories - Lab\\Skeleton-Lab\\Skeleton\\LineNumbers\\LineNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

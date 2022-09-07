@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache
