@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.genruntimeconfig.cache

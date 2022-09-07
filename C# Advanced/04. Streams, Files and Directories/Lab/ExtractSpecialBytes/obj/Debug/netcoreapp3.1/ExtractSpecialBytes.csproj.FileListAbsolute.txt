@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.genruntimeconfig.cache

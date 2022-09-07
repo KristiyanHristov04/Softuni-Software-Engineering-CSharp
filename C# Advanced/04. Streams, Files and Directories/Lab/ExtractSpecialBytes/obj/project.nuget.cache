@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEVQgu+oVMG9lKYBPPvLyFE3N5U8zx5oLIMAvjJWYRQ6GvZBsa9DbW4s1UrU6PA8NIaeqqi0KiBSv4xWNpbIEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Streams, Files and Directories - Lab\\Skeleton-Lab\\Skeleton\\ExtractSpecialBytes\\ExtractBytes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
