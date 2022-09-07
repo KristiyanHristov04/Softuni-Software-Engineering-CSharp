@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache

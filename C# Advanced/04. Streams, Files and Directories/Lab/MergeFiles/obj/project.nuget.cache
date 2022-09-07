@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1OLzjyjUSwLMyz2U1MOE7qkz3FzQkQZalmGDZTMkumgdw4V02dB8gaiXZfIw6hNj+WBX77YQuxwCIez0GadVfw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Streams, Files and Directories - Lab\\Skeleton-Lab\\Skeleton\\MergeFiles\\MergeFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
