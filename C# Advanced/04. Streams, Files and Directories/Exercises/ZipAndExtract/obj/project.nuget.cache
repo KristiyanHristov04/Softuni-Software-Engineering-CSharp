@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4HwyKdqqC3FaHkDdXg9Hj6P7T0E2kxOQlKwzJV/DsB43EYEoTQMD7z53+GvWmazZMEM9LVs6ww2xxnb5ilWvw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Streams, Files and Directories - Exercises\\Skeleton-Exercise\\Skeleton\\ZipAndExtract\\ZipAndExtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

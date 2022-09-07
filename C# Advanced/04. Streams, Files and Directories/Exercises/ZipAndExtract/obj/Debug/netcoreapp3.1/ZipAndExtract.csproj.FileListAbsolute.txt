@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.genruntimeconfig.cache
