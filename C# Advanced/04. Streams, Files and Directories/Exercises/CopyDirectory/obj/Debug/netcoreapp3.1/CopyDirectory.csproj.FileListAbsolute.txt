@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache

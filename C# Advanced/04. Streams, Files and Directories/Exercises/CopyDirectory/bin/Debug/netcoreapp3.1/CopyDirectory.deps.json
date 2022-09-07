@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CopyDirectory/1.0.0": {
+        "runtime": {
+          "CopyDirectory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopyDirectory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
