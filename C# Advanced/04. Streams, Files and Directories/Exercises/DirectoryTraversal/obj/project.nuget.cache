@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GuIJUp6FF2Q4Dep07jXDMYgw4EcbR7AyDbEMovl1XBLzW9P/eExqH6SmdvAKWLgk8WlqFFUZ7dVGdj6vvfM9qw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Streams, Files and Directories - Exercises\\Skeleton-Exercise\\Skeleton\\DirectoryTraversal\\DirectoryTraversal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

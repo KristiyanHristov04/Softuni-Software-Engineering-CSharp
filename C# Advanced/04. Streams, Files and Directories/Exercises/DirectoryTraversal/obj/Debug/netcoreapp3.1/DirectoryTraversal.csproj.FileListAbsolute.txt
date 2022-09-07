@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.genruntimeconfig.cache
