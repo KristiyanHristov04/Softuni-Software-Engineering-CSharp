@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Lab\Skeleton-Lab\Skeleton\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.genruntimeconfig.cache
