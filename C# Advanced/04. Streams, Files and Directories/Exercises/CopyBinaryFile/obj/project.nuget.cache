@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lrfbPf9cQEljSpipNws/5AUy6OWVZdJrB5aQSX7l/xgpv+6QBaZaVXomgrAq+vRfHgeG/Vf0h5kUqbdaiY2ZRA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Streams, Files and Directories - Exercises\\Skeleton-Exercise\\Skeleton\\CopyBinaryFile\\CopyBinaryFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

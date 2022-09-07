@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache
