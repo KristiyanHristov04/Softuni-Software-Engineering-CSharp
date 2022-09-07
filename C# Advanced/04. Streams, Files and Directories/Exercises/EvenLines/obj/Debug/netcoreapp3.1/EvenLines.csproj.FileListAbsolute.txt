@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.exe
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.deps.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.dll
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.pdb
+C:\Visual Studio 2022 solutions\Streams, Files and Directories - Exercises\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.genruntimeconfig.cache
