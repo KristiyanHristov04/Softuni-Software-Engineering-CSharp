@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\refint\01. Sort Even Numbers.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\ref\01. Sort Even Numbers.dll

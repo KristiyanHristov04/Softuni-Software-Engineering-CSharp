@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bB97icD87t7e+vYbzwk46UAdDjC5TrnNfDaYZ3PYZzUrkgC1tymPuIIg92J5AQNXecRumhEpYphN3VpOCgAyUw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Functional Programming - Lab\\01. Sort Even Numbers\\01. Sort Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
