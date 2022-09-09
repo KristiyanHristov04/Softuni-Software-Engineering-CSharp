@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\refint\02. Sum Numbers.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\ref\02. Sum Numbers.dll

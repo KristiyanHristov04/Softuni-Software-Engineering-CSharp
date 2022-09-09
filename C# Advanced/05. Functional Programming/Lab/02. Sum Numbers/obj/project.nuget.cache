@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AzfZU3UjJsCinAAA6G2jXW4APFa8mJX21CnXQEMOkoTxkmrhIvwfXA1nKVNOVHWJ8awFd0h9Ya6hgWVnn2tmWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Functional Programming - Lab\\02. Sum Numbers\\02. Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
