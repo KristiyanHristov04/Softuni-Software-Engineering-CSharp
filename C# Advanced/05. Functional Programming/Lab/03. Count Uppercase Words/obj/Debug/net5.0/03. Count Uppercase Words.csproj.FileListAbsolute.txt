@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\refint\03. Count Uppercase Words.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\ref\03. Count Uppercase Words.dll
