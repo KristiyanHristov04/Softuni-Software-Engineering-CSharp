@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "04. Add VAT/1.0.0": {
+        "runtime": {
+          "04. Add VAT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04. Add VAT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
