@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LA5yrRL/WOkU2JiSCaj9flBaQDYnEE4kn+aUiGRLt68HnFPjqF4kBj25Jfh/y23rcNufhp4wVesI+OPiK9+dOg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Functional Programming - Exercise\\03. Custom Min Function\\03. Custom Min Function.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

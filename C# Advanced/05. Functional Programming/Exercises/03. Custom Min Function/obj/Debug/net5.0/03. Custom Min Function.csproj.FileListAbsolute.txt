@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\refint\03. Custom Min Function.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\ref\03. Custom Min Function.dll
