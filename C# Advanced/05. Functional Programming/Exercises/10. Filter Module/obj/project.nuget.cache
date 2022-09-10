@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fm9a+VQmYgWhpX79NG17xbI/exuCEAty6tBsFSva1XMabY+bO/ilxH4h04nyMk40CVfsZVvWN069Ep7d6rJTzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Functional Programming - Exercise\\10. The Party Reservation Filter Module\\10. The Party Reservation Filter Module.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

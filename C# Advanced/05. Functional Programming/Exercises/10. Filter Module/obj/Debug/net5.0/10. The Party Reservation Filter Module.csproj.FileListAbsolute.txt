@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\refint\10. The Party Reservation Filter Module.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\ref\10. The Party Reservation Filter Module.dll
