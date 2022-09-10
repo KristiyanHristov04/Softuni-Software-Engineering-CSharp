@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/kIrZp+QKEuY0DDfTtKnkw1daHXVeQqoe3h4shBBpabcp8S+tetSj8GhK/iARnlAhTRPjuygNnNaF+cVV9iTtw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Functional Programming - Exercise\\08. List Of Predicates\\08. List Of Predicates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

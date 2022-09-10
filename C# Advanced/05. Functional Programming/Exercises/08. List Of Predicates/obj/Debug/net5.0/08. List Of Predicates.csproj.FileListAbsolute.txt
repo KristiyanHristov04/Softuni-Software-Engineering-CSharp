@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net5.0\08. List Of Predicates.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net5.0\08. List Of Predicates.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net5.0\08. List Of Predicates.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net5.0\08. List Of Predicates.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net5.0\08. List Of Predicates.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net5.0\08. List Of Predicates.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\08. List Of Predicates.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\08. List Of Predicates.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\08. List Of Predicates.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\08. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\08. List Of Predicates.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\refint\08. List Of Predicates.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\08. List Of Predicates.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\08. List Of Predicates.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net5.0\ref\08. List Of Predicates.dll
