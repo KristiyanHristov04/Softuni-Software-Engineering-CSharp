@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Na96lG6+LEpUJCnFTMjTagmfOy/MJpJqI8gjA8Py/P15g6laYXpiPCC4krQq4TYrNmpY00Q/HJPpFCyqL0sYCw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Functional Programming - Exercise\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net5.0\04. Find Evens or Odds.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\refint\04. Find Evens or Odds.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\04. Find Evens or Odds.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net5.0\ref\04. Find Evens or Odds.dll
