@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\bin\Debug\net5.0\11. TriFunction.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\bin\Debug\net5.0\11. TriFunction.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\bin\Debug\net5.0\11. TriFunction.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\bin\Debug\net5.0\11. TriFunction.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\bin\Debug\net5.0\11. TriFunction.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\bin\Debug\net5.0\11. TriFunction.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\11. TriFunction.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\11. TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\11. TriFunction.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\11. TriFunction.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\11. TriFunction.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\11. TriFunction.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\refint\11. TriFunction.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\11. TriFunction.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\11. TriFunction.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\11. TriFunction\obj\Debug\net5.0\ref\11. TriFunction.dll

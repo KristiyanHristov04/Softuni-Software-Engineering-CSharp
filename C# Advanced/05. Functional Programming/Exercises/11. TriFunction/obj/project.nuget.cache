@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r41i8/KWNP/F9D/7LOpodOSRG7vQa6AAq6NiC8z8VQop3c26za4AqpyO8riQAX0EJ13mqLPdceR+lL6PFKqfsw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Functional Programming - Exercise\\11. TriFunction\\11. TriFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
