@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HaOeCeU1paz8180X74lEeOvNESVcxBep9Ah6qJkN7sgpYlb4JY/ZhXNc+ZbQbX9/UfLdjYq8yoS3QxmlO8NT6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Functional Programming - Exercise\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

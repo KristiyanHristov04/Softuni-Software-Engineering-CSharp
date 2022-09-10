@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\refint\05. Applied Arithmetics.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\ref\05. Applied Arithmetics.dll
