@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\refint\01. Action Print.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\ref\01. Action Print.dll
