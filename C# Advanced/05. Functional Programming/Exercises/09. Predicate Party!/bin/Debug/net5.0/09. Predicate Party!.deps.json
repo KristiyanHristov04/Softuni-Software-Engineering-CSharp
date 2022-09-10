@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "09. Predicate Party!/1.0.0": {
+        "runtime": {
+          "09. Predicate Party!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "09. Predicate Party!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

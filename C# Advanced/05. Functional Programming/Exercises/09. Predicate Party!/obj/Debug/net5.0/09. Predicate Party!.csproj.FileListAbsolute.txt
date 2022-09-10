@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\refint\09. Predicate Party!.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\ref\09. Predicate Party!.dll
