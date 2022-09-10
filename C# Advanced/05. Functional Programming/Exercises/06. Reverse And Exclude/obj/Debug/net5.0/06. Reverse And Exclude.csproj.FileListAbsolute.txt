@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.exe
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.deps.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\refint\06. Reverse And Exclude.dll
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.pdb
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\ref\06. Reverse And Exclude.dll
