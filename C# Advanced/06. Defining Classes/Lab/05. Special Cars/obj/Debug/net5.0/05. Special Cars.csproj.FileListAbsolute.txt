@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\bin\Debug\net5.0\05. Special Cars.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\bin\Debug\net5.0\05. Special Cars.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\bin\Debug\net5.0\05. Special Cars.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\bin\Debug\net5.0\05. Special Cars.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\bin\Debug\net5.0\05. Special Cars.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\bin\Debug\net5.0\05. Special Cars.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\05. Special Cars.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\05. Special Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\05. Special Cars.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\05. Special Cars.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\05. Special Cars.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\05. Special Cars.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\refint\05. Special Cars.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\05. Special Cars.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\05. Special Cars.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\05. Special Cars\obj\Debug\net5.0\ref\05. Special Cars.dll
