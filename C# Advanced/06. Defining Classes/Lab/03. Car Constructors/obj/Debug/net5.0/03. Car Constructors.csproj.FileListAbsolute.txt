@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\refint\03. Car Constructors.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\03. Car Constructors\obj\Debug\net5.0\ref\03. Car Constructors.dll
