@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net5.0\04. Car Engine And Tires.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net5.0\04. Car Engine And Tires.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net5.0\04. Car Engine And Tires.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net5.0\04. Car Engine And Tires.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net5.0\04. Car Engine And Tires.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net5.0\04. Car Engine And Tires.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\04. Car Engine And Tires.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\04. Car Engine And Tires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\04. Car Engine And Tires.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\04. Car Engine And Tires.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\04. Car Engine And Tires.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\04. Car Engine And Tires.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\refint\04. Car Engine And Tires.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\04. Car Engine And Tires.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\04. Car Engine And Tires.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net5.0\ref\04. Car Engine And Tires.dll
