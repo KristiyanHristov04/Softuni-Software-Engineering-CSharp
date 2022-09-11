@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\bin\Debug\net5.0\02. Car Extension.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\bin\Debug\net5.0\02. Car Extension.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\bin\Debug\net5.0\02. Car Extension.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\bin\Debug\net5.0\02. Car Extension.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\bin\Debug\net5.0\02. Car Extension.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\bin\Debug\net5.0\02. Car Extension.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\02. Car Extension.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\02. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\02. Car Extension.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\02. Car Extension.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\02. Car Extension.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\02. Car Extension.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\refint\02. Car Extension.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\02. Car Extension.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\02. Car Extension.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Lab\02. Car Extension\obj\Debug\net5.0\ref\02. Car Extension.dll

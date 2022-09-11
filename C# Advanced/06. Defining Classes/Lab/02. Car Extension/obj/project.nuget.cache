@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QULFmGjnN69XbDR7ia1SpgF7r1AFD8lyEOgmZsgq9ib31nD4/fchGzDgU1uOOtuKQ6kMv1y6YwIHPNDkx5yPgw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Defining Classes - Lab\\02. Car Extension\\02. Car Extension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
