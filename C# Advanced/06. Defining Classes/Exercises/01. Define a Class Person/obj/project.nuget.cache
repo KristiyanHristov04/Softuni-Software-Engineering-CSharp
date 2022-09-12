@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v46o22yRDS2kTcr2gYD1pDs+vMY88C2yddVuDxTlRhE3V8pH0z131/mjscFG2rh2SnytNsLu6nbHqYNVtC4MyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Defining Classes - Exercise\\01. Define a Class Person\\01. Define a Class Person.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
