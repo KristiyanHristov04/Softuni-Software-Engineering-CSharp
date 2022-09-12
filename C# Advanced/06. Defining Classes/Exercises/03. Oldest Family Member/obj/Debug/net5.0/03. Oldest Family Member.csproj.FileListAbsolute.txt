@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\net5.0\03. Oldest Family Member.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\net5.0\03. Oldest Family Member.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\net5.0\03. Oldest Family Member.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\net5.0\03. Oldest Family Member.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\net5.0\03. Oldest Family Member.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\net5.0\03. Oldest Family Member.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\03. Oldest Family Member.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\03. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\03. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\03. Oldest Family Member.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\03. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\03. Oldest Family Member.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\refint\03. Oldest Family Member.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\03. Oldest Family Member.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\03. Oldest Family Member.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\net5.0\ref\03. Oldest Family Member.dll
