@@ -1,0 +1,16 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\net5.0\02. Creating Constructors.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\net5.0\02. Creating Constructors.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\net5.0\02. Creating Constructors.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\net5.0\02. Creating Constructors.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\net5.0\02. Creating Constructors.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\net5.0\02. Creating Constructors.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\02. Creating Constructors.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\02. Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\02. Creating Constructors.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\02. Creating Constructors.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\02. Creating Constructors.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\refint\02. Creating Constructors.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\02. Creating Constructors.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\02. Creating Constructors.genruntimeconfig.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\net5.0\ref\02. Creating Constructors.dll

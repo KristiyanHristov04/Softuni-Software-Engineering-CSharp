@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1YtSBcEfH7fTRB5DTBk9/Y+sNBc8LI2kaMiNqtNlG9IQL2DkTlSQVmLThYeD4PEcjHkHrXjjYv6yQ2vXMYnhA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Defining Classes - Exercise\\02. Creating Constructors\\02. Creating Constructors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
