@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.genruntimeconfig.cache
