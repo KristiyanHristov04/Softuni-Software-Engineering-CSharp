@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOQOONt1GtnMUW/jJeSmd9TZWyXqYRTbEzrIGojiI0HfPRiK4UEPF4IkW5F7e0Q3/y9x7aXSJlCMrl7me/b2yg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Defining Classes - Exercise\\06. Speed Racing\\06. Speed Racing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

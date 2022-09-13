@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.genruntimeconfig.cache
