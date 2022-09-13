@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.genruntimeconfig.cache
