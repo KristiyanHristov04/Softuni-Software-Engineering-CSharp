@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRJFIHWu4W1+94SSN+OUdYUoN5Qjn4i2icW8sidHcYEITUYYFn4mdgFFUOHahvRiIPhc3ZQYy1GOfUwG2xHXtA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Defining Classes - Exercise\\08. Car Salesman\\08. Car Salesman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

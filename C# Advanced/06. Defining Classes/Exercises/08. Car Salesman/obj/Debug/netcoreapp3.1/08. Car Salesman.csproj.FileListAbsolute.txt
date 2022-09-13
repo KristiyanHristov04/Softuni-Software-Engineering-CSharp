@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.genruntimeconfig.cache
