@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhsH7o8zl6cEO7mk8xjG3xYnWUz+TBeGrV6ZoSdqsf9bq6eOPrVx5Jw+StC9Hzjw4d8inI5p235/j1CyG9LRHw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Defining Classes - Exercise\\09. Pokemon Trainer\\09. Pokemon Trainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

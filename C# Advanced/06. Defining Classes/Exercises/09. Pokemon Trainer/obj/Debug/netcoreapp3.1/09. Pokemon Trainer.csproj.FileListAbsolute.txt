@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.exe
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.deps.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.dll
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.pdb
+C:\Visual Studio 2022 solutions\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.genruntimeconfig.cache
