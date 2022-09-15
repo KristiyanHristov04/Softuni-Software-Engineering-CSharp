@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\KrisPC\OneDrive\Desktop\SoftUniParking\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache

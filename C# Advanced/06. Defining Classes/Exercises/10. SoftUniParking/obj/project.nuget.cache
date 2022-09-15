@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "87NYnBcDR9PC0Ss2zvKPewFbO+w/Eh+8WlsZWb/LR50NXvP0NF71LhvOHku45LyLAdrkkH3vvy5jiz837iNjdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\SoftUniParking\\SoftUniParking\\SoftUniParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
