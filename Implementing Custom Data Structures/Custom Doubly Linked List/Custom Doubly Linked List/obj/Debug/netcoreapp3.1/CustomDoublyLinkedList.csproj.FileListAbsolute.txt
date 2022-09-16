@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.exe
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.deps.json
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+C:\Visual Studio 2022 solutions\Custom Doubly Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.genruntimeconfig.cache
