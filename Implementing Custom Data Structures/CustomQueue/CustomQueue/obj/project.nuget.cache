@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sbknn1gpz3kL+hMTyy1wIhBCIXFNkW8pC/yLWf3CGMhoLVkcFoQwX8QLagmoGsgJyGZcltA2pxJpw4yRSA3srQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\CustomQueue\\CustomQueue\\CustomQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
