@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Visual Studio 2022 solutions\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache
