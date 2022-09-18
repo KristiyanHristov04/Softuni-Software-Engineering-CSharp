@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCK1LGgejpHpxxLJhFAAatWKHhCN8Qrs8SZ83Gm42Nep3J57rPi8JSi55sBroWMphUcOdYZJVPBG1kW+zV3XJw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Generics - Lab\\02. Array Creator\\02. Array Creator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.csproj.CoreCompileInputs.cache

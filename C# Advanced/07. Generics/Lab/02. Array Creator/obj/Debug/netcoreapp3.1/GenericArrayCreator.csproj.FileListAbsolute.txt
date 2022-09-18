@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.exe
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.deps.json
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.dll
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.dll
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+C:\Visual Studio 2022 solutions\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.genruntimeconfig.cache
