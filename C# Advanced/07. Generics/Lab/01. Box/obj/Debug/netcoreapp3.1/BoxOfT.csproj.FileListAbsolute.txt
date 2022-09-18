@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.exe
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

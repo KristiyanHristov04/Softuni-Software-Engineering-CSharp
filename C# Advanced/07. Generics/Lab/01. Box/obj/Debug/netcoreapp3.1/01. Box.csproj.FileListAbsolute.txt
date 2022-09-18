@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.exe
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.deps.json
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.dll
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.pdb
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.dll
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.pdb
+C:\Visual Studio 2022 solutions\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.genruntimeconfig.cache

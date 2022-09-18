@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NmCHDSTpAEVfpB+eK5KCdcJTMFVSVwDRCCZrrUkRwYW9MDj+yf+wijJq6EQspcGExWDhwS7msylygpj160udvA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Generics - Lab\\01. Box\\01. Box.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
