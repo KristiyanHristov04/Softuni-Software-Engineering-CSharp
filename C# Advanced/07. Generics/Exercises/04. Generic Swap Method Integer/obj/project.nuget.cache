@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y96FaYuBsEV/klMeUrvW3C4BD+1+Kacp4V3bY2mlyXnk0MJj/2VHKCNURsvOm18D36xKbL54RPgsds6GoxheKA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Generics - Exercise\\04. Generic Swap Method Integer\\04. Generic Swap Method Integer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

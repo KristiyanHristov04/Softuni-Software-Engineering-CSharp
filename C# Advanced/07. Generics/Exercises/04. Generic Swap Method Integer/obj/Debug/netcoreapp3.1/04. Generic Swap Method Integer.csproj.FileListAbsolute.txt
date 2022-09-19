@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\bin\Debug\netcoreapp3.1\04. Generic Swap Method Integer.exe
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\bin\Debug\netcoreapp3.1\04. Generic Swap Method Integer.deps.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\bin\Debug\netcoreapp3.1\04. Generic Swap Method Integer.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\bin\Debug\netcoreapp3.1\04. Generic Swap Method Integer.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\bin\Debug\netcoreapp3.1\04. Generic Swap Method Integer.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\bin\Debug\netcoreapp3.1\04. Generic Swap Method Integer.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\obj\Debug\netcoreapp3.1\04. Generic Swap Method Integer.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\obj\Debug\netcoreapp3.1\04. Generic Swap Method Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\obj\Debug\netcoreapp3.1\04. Generic Swap Method Integer.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\obj\Debug\netcoreapp3.1\04. Generic Swap Method Integer.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\obj\Debug\netcoreapp3.1\04. Generic Swap Method Integer.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\obj\Debug\netcoreapp3.1\04. Generic Swap Method Integer.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\obj\Debug\netcoreapp3.1\04. Generic Swap Method Integer.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\04. Generic Swap Method Integer\obj\Debug\netcoreapp3.1\04. Generic Swap Method Integer.genruntimeconfig.cache
