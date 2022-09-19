@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IMnhVe7l/rdOXHW3QDMOHKvvKvV7X8j6y+Sc2XvcjGGcQ5vc/oU3jzrMgpVv/mYgPL3XjP+A/dyXCUgYmfhUKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Generics - Exercise\\01. Generic Box of String\\01. Generic Box of String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.exe
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.deps.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.genruntimeconfig.cache
