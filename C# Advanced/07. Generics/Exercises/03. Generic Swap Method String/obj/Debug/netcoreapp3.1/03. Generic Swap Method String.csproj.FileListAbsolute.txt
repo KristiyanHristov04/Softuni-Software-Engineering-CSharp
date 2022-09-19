@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.exe
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.deps.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.genruntimeconfig.cache
