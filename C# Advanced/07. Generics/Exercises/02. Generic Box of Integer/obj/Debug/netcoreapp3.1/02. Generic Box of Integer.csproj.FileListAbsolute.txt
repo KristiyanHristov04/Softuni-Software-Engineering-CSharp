@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\bin\Debug\netcoreapp3.1\02. Generic Box of Integer.exe
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\bin\Debug\netcoreapp3.1\02. Generic Box of Integer.deps.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\bin\Debug\netcoreapp3.1\02. Generic Box of Integer.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\bin\Debug\netcoreapp3.1\02. Generic Box of Integer.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\bin\Debug\netcoreapp3.1\02. Generic Box of Integer.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\bin\Debug\netcoreapp3.1\02. Generic Box of Integer.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\obj\Debug\netcoreapp3.1\02. Generic Box of Integer.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\obj\Debug\netcoreapp3.1\02. Generic Box of Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\obj\Debug\netcoreapp3.1\02. Generic Box of Integer.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\obj\Debug\netcoreapp3.1\02. Generic Box of Integer.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\obj\Debug\netcoreapp3.1\02. Generic Box of Integer.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\obj\Debug\netcoreapp3.1\02. Generic Box of Integer.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\obj\Debug\netcoreapp3.1\02. Generic Box of Integer.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\02. Generic Box of Integer\obj\Debug\netcoreapp3.1\02. Generic Box of Integer.genruntimeconfig.cache

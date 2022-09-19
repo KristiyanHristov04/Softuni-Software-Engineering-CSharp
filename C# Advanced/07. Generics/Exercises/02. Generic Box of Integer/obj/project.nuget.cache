@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mp6HFMUCHxtRW9AxpXzRk9/lrVYNWq1h5ybQbHdTw050gjm6J9x3qnjEtu3EcDjC46N9ot4lmKl2hNgZByaPUw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Generics - Exercise\\02. Generic Box of Integer\\02. Generic Box of Integer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
