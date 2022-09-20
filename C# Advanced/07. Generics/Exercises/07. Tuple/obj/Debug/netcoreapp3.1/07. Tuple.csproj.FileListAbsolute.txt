@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.exe
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.deps.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\bin\Debug\netcoreapp3.1\07. Tuple.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\07. Tuple\obj\Debug\netcoreapp3.1\07. Tuple.genruntimeconfig.cache
