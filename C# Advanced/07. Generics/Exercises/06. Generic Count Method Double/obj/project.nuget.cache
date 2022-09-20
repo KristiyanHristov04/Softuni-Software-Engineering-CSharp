@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0OhqknrkW3/ozqdI+cXJDBfMiqUOgnE2LJF8009Mgji5EkGEVY3pLHYxTYGbzkwlwJ13LDEBenbVumIjs3BLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Generics - Exercise\\06. Generic Count Method Double\\06. Generic Count Method Double.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
