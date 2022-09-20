@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\bin\Debug\netcoreapp3.1\05. Generic Count Method String.exe
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\bin\Debug\netcoreapp3.1\05. Generic Count Method String.deps.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\bin\Debug\netcoreapp3.1\05. Generic Count Method String.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\bin\Debug\netcoreapp3.1\05. Generic Count Method String.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\bin\Debug\netcoreapp3.1\05. Generic Count Method String.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\bin\Debug\netcoreapp3.1\05. Generic Count Method String.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\obj\Debug\netcoreapp3.1\05. Generic Count Method String.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\obj\Debug\netcoreapp3.1\05. Generic Count Method String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\obj\Debug\netcoreapp3.1\05. Generic Count Method String.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\obj\Debug\netcoreapp3.1\05. Generic Count Method String.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\obj\Debug\netcoreapp3.1\05. Generic Count Method String.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\obj\Debug\netcoreapp3.1\05. Generic Count Method String.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\obj\Debug\netcoreapp3.1\05. Generic Count Method String.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\05. Generic Count Method String\obj\Debug\netcoreapp3.1\05. Generic Count Method String.genruntimeconfig.cache
