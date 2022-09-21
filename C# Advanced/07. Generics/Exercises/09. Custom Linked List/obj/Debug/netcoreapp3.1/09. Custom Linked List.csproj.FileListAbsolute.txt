@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\09. Custom Linked List.exe
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\09. Custom Linked List.deps.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\09. Custom Linked List.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\09. Custom Linked List.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\09. Custom Linked List.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\09. Custom Linked List.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\09. Custom Linked List.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\09. Custom Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\09. Custom Linked List.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\09. Custom Linked List.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\09. Custom Linked List.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\09. Custom Linked List.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\09. Custom Linked List.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\09. Custom Linked List.genruntimeconfig.cache

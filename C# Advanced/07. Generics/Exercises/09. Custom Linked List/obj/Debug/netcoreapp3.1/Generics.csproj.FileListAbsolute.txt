@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\Generics.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Visual Studio 2022 solutions\Generics - Exercise\09. Custom Linked List\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
