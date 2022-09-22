@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\obj\Debug\netcoreapp3.1\04. BookComparer.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\obj\Debug\netcoreapp3.1\04. BookComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\obj\Debug\netcoreapp3.1\04. BookComparer.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\obj\Debug\netcoreapp3.1\04. BookComparer.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\obj\Debug\netcoreapp3.1\04. BookComparer.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\bin\Debug\netcoreapp3.1\04. BookComparer.exe
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\bin\Debug\netcoreapp3.1\04. BookComparer.deps.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\bin\Debug\netcoreapp3.1\04. BookComparer.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\bin\Debug\netcoreapp3.1\04. BookComparer.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\bin\Debug\netcoreapp3.1\04. BookComparer.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\bin\Debug\netcoreapp3.1\04. BookComparer.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\obj\Debug\netcoreapp3.1\04. BookComparer.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\obj\Debug\netcoreapp3.1\04. BookComparer.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\04. BookComparer\obj\Debug\netcoreapp3.1\04. BookComparer.genruntimeconfig.cache
