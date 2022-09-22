@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache
