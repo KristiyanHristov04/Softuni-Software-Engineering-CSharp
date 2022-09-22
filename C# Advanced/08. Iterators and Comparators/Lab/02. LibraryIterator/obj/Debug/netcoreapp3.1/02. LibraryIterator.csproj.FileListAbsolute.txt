@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\02. LibraryIterator.exe
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\02. LibraryIterator.deps.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\02. LibraryIterator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\02. LibraryIterator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\02. LibraryIterator.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\02. LibraryIterator.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\02. LibraryIterator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\02. LibraryIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\02. LibraryIterator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\02. LibraryIterator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\02. LibraryIterator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\02. LibraryIterator.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\02. LibraryIterator.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\02. LibraryIterator.genruntimeconfig.cache
