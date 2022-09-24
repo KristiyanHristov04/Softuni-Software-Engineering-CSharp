@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.exe
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.deps.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IcflafSlgnDPPDewR1AQMf7rqOXlaoyExG9n1LVcID3c3BU4U3vGJKNRIYGc3ar2w/M9gcFBMg5VYUHbmtWU+A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Iterators and Comparators - Exercise\\02.Collection\\02.Collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
