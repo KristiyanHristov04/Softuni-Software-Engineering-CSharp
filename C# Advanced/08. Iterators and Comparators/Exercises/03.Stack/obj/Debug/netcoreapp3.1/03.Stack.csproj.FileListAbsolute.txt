@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.exe
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.deps.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.genruntimeconfig.cache
