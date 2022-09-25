@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\04. Froggy.exe
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\04. Froggy.deps.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\04. Froggy.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\04. Froggy.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\04. Froggy.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\04. Froggy.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\04. Froggy.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\04. Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\04. Froggy.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\04. Froggy.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\04. Froggy.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\04. Froggy.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\04. Froggy.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\04. Froggy.genruntimeconfig.cache

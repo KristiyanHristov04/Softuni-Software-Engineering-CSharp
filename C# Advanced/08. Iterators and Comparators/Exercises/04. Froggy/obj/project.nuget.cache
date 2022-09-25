@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yjJxe0nNFV8b9Nzh03CFQHXZBPdCHw61hM8nyFpaXTtVLIsPLX3E+lkrK+mHk5cbzjFGMML+KFxJ+qmb6d8XYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Iterators and Comparators - Exercise\\04. Froggy\\04.Froggy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
