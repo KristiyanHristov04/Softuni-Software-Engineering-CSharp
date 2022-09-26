@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.exe
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.deps.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.genruntimeconfig.cache
