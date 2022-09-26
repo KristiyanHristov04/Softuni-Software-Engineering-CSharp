@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\netcoreapp3.1\07.CustomComparator.exe
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\netcoreapp3.1\07.CustomComparator.deps.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\netcoreapp3.1\07.CustomComparator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\netcoreapp3.1\07.CustomComparator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\netcoreapp3.1\07.CustomComparator.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\netcoreapp3.1\07.CustomComparator.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\netcoreapp3.1\07.CustomComparator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\netcoreapp3.1\07.CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\netcoreapp3.1\07.CustomComparator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\netcoreapp3.1\07.CustomComparator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\netcoreapp3.1\07.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\netcoreapp3.1\07.CustomComparator.dll
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\netcoreapp3.1\07.CustomComparator.pdb
+C:\Visual Studio 2022 solutions\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\netcoreapp3.1\07.CustomComparator.genruntimeconfig.cache
