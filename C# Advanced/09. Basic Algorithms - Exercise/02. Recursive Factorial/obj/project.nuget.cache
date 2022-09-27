@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Toz2zu4gExJ6MHk2ByMZxDtiemOn6Fm17p9BF+R7+IlQu5SwyilI/YlSTQqrN0DtlebwdunB6FJFRQ9oWho8XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Basic Algorithms - Exercise\\02. Recursive Factorial\\02. Recursive Factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.exe
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.deps.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.genruntimeconfig.cache
