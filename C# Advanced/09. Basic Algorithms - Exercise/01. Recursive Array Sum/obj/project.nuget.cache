@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWzzQ7RcsQZLFiCeKH6zFxXliCwiM1OEpXrS7vrDmzwLr2A3Ga68iF+AY48t2lITKoxPZqjEh4rf/5ylQ3k4BA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Basic Algorithms - Exercise\\01. Recursive Array Sum\\01. Recursive Array Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
