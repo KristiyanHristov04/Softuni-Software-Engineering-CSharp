@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "drSU1f8ppZL1cii3PsbW76idUiXr97Ysdgp3ACS/VDC+7TGg4VNwWRO275cibyBB8bsrPa28reeyd5G1h7M1XA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Basic Algorithms - Exercise\\SetCover\\04. Set Cover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

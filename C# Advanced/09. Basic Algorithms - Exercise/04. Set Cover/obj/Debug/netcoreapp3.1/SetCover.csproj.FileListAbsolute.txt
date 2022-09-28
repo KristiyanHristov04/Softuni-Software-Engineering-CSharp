@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\bin\Debug\netcoreapp3.1\SetCover.exe
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\bin\Debug\netcoreapp3.1\SetCover.deps.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\bin\Debug\netcoreapp3.1\SetCover.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\bin\Debug\netcoreapp3.1\SetCover.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\bin\Debug\netcoreapp3.1\SetCover.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\bin\Debug\netcoreapp3.1\SetCover.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\obj\Debug\netcoreapp3.1\SetCover.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\obj\Debug\netcoreapp3.1\SetCover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\obj\Debug\netcoreapp3.1\SetCover.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\obj\Debug\netcoreapp3.1\SetCover.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\obj\Debug\netcoreapp3.1\SetCover.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\obj\Debug\netcoreapp3.1\SetCover.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\obj\Debug\netcoreapp3.1\SetCover.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\SetCover\obj\Debug\netcoreapp3.1\SetCover.genruntimeconfig.cache
