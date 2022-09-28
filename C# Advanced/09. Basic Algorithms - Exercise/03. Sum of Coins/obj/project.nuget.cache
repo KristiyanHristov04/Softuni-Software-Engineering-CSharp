@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1WwAuvpiRDSvKuYB26sHufcQ8guDzp00Y8xy77YyDtexkwflmw++rbbsWZdDyosjQrWjgXoT3sRzulUmHLgOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Basic Algorithms - Exercise\\03. Sum of Coins\\03. Sum of Coins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

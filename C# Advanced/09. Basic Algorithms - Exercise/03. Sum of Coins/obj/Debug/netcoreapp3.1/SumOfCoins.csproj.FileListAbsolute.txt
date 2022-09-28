@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\SumOfCoins.exe
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\SumOfCoins.deps.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\SumOfCoins.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\SumOfCoins.genruntimeconfig.cache
