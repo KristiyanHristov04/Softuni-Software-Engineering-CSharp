@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\bin\Debug\netcoreapp3.1\06. Bubble Sort.exe
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\bin\Debug\netcoreapp3.1\06. Bubble Sort.deps.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\bin\Debug\netcoreapp3.1\06. Bubble Sort.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\bin\Debug\netcoreapp3.1\06. Bubble Sort.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\bin\Debug\netcoreapp3.1\06. Bubble Sort.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\bin\Debug\netcoreapp3.1\06. Bubble Sort.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\obj\Debug\netcoreapp3.1\06. Bubble Sort.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\obj\Debug\netcoreapp3.1\06. Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\obj\Debug\netcoreapp3.1\06. Bubble Sort.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\obj\Debug\netcoreapp3.1\06. Bubble Sort.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\obj\Debug\netcoreapp3.1\06. Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\obj\Debug\netcoreapp3.1\06. Bubble Sort.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\obj\Debug\netcoreapp3.1\06. Bubble Sort.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\06. Bubble Sort\obj\Debug\netcoreapp3.1\06. Bubble Sort.genruntimeconfig.cache
