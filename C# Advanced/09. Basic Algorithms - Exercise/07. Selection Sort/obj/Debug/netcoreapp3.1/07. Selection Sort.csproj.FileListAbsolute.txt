@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\bin\Debug\netcoreapp3.1\07. Selection Sort.exe
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\bin\Debug\netcoreapp3.1\07. Selection Sort.deps.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\bin\Debug\netcoreapp3.1\07. Selection Sort.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\bin\Debug\netcoreapp3.1\07. Selection Sort.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\bin\Debug\netcoreapp3.1\07. Selection Sort.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\bin\Debug\netcoreapp3.1\07. Selection Sort.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\obj\Debug\netcoreapp3.1\07. Selection Sort.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\obj\Debug\netcoreapp3.1\07. Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\obj\Debug\netcoreapp3.1\07. Selection Sort.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\obj\Debug\netcoreapp3.1\07. Selection Sort.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\obj\Debug\netcoreapp3.1\07. Selection Sort.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\obj\Debug\netcoreapp3.1\07. Selection Sort.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\obj\Debug\netcoreapp3.1\07. Selection Sort.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\07. Selection Sort\obj\Debug\netcoreapp3.1\07. Selection Sort.genruntimeconfig.cache
