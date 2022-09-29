@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EeF7sAPBc7HK7mFxsnL4pLoxBOFBZxuTRUnchbmaWUE4m0t6F84rsJeTfGtUgPccHd1P/+XkJRGmDSjO/8tfHg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Basic Algorithms - Exercise\\05. Binary Search\\05. Binary Search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

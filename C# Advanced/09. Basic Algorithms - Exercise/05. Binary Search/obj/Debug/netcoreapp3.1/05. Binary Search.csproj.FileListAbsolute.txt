@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\bin\Debug\netcoreapp3.1\05. Binary Search.exe
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\bin\Debug\netcoreapp3.1\05. Binary Search.deps.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\bin\Debug\netcoreapp3.1\05. Binary Search.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\bin\Debug\netcoreapp3.1\05. Binary Search.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\bin\Debug\netcoreapp3.1\05. Binary Search.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\bin\Debug\netcoreapp3.1\05. Binary Search.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\obj\Debug\netcoreapp3.1\05. Binary Search.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\obj\Debug\netcoreapp3.1\05. Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\obj\Debug\netcoreapp3.1\05. Binary Search.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\obj\Debug\netcoreapp3.1\05. Binary Search.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\obj\Debug\netcoreapp3.1\05. Binary Search.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\obj\Debug\netcoreapp3.1\05. Binary Search.dll
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\obj\Debug\netcoreapp3.1\05. Binary Search.pdb
+C:\Visual Studio 2022 solutions\Basic Algorithms - Exercise\05. Binary Search\obj\Debug\netcoreapp3.1\05. Binary Search.genruntimeconfig.cache
