@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.exe
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.dll
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.dll
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Drones\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.genruntimeconfig.cache
