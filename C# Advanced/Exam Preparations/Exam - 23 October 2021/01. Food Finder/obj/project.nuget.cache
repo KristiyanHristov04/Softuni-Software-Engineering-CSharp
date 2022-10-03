@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jndfFUZ7tKJkKUNL0S/rOFR/FNAvG4Rr4vz3Thas/ord8DGTxIqLGIwCBekNDFe0blOx06trQ+9TgC0sCpUJuw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exam - 23 October 2021\\01. Food Finder\\01. Food Finder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
