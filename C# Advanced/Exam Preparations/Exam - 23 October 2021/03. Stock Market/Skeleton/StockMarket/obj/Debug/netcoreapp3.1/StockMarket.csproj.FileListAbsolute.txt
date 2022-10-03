@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Stock Market\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache
