@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1f9w2vv3uZUw7NPkCR+zFnuM+rJ3eZ+GvIdBw2pbvlsk4ygxgoiOXt01oQQ7PBTjVvO413QCZRcUoPxU0Q3Lhg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exam - 23 October 2021\\02. Pawn Wars\\02. Pawn Wars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

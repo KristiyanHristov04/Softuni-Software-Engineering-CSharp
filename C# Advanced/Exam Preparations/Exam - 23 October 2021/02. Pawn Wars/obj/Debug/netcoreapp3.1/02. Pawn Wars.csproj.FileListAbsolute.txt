@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.exe
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.deps.json
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.dll
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.pdb
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.dll
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.pdb
+C:\Visual Studio 2022 solutions\Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.genruntimeconfig.cache
