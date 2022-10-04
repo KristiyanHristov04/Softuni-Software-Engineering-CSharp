@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.exe
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.deps.json
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.pdb
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.pdb
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.genruntimeconfig.cache
