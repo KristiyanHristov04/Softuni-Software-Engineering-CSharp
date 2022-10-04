@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.exe
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.deps.json
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.pdb
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.pdb
+C:\Visual Studio 2022 solutions\Exam - 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.genruntimeconfig.cache
