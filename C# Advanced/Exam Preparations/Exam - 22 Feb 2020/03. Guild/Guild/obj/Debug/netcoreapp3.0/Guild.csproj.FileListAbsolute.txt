@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache
