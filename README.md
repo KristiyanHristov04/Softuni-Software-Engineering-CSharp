@@ -21,30 +21,30 @@
  <details>
  <summary><h3>Fundamentals Carriculum List</summary>
 
-1. [**Basic Syntax, Conditional Statements and Loops**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Fundamentals/01.Basic-Syntax)
-2. [**Data Types and Variables**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Fundamentals/02.Data-Types-And-Variables)
-3. [**Arrays**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Fundamentals/03.Arrays)
-4. [**Lists**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Fundamentals/04.Lists)
-5. [**Methods**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Fundamentals/05.Methods)
-6. [**Associative Arrays**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Fundamentals/06.Associative%20Arrays)
-7. [**Objects and Classes**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Fundamentals/07.Objects%20and%20Classes)
-8. [**Text Processing**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Fundamentals/08.Text%20Processing)
-9. [**Regular Expressions**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Fundamentals/09.Regular%20Expressions)
+1. [**Basic Syntax, Conditional Statements and Loops**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/01.%20Basic%20Syntax)
+2. [**Data Types and Variables**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/02.%20Data%20Types%20%26%20Variables)
+3. [**Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/03.%20Arrays)
+4. [**Lists**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/05.%20Lists)
+5. [**Methods**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/04.%20Methods)
+6. [**Associative Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/07.%20Associative%20Arrays)
+7. [**Objects and Classes**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/06.%20Objects%20and%20Classes)
+8. [**Text Processing**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/08.%20Text%20Processing)
+9. [**Regular Expressions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/09.%20Regular%20Expressions)
   </details>
   
 ***
  <details>
  <summary><h3>Advanced Carriculum List</summary>
 
-1. [**Stacks and Queues**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Advanced/01.Stacks%20and%20Queues)
-2. [**Multidimentional Arrays**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Advanced/02.Multidimentional%20Arrays)
-3. [**Sets and Dictionaries**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Advanced/03.Sets%20and%20Dictionaries)
-4. [**Streams, Files and Directories**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Advanced/04.Streams%2C%20Files%20and%20Directories)
-5. [**Functional Programming**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Advanced/05.Functional%20Programming)
-6. [**Defining Classes**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Advanced/06.Definig%20Classes)
-7. [**Generics**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Advanced/07.Generics)
-8. [**Iterators and Comparators**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Advanced/08.Iterators%20and%20Comparators)
-9. [**Workshop - Implementing Custom Data Structures**](https://github.com/IvalinaNenova/SoftUni-Courses/tree/main/Advanced/Workshops/Implementing%20Linked%20List)
+1. [**Stacks and Queues**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/01.%20Stacks%20and%20Queues)
+2. [**Multidimentional Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/02.%20Multidimensional%20Arrays)
+3. [**Sets and Dictionaries**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/03.%20Sets%20and%20Dictionaries%20Advanced)
+4. [**Streams, Files and Directories**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/04.%20Streams%2C%20Files%20and%20Directories)
+5. [**Functional Programming**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/05.%20Functional%20Programming)
+6. [**Defining Classes**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/06.%20Defining%20Classes)
+7. [**Generics**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/07.%20Generics)
+8. [**Iterators and Comparators**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/08.%20Iterators%20and%20Comparators)
+9. [**Workshop - Implementing Custom Data Structures**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Implementing%20Custom%20Data%20Structures)
   </details>
   
 ***
