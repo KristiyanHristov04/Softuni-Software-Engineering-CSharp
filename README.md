@@ -1,8 +1,7 @@
 # SoftUni Software Engineering C#
-<h2>All courses that I have completed at @SoftUni</h2>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SoftUni-Courses&fontSize=90" />
 
-<h2>Courses I've completed during my studies @ SoftUni</h2>
+<h2>All courses that I have completed at @SoftUni</h2>
 
 <em>Here you can find problem solutions from the following lectures:</em>
 ***
