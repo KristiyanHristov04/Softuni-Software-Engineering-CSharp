@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5mqQr3NmLPTG+MGwAbiIzsC/L90CLZ1adcMPNoPtfjFsq8X9o2alrXF5oIL/GhjX0L+EB3/jiTj/f7dBVt8hgA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exam - 26 June 2021\\01.Masterchef\\01.Masterchef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

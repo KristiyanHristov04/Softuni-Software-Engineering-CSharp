@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.exe
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.deps.json
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.dll
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.pdb
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.dll
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.pdb
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.genruntimeconfig.cache
