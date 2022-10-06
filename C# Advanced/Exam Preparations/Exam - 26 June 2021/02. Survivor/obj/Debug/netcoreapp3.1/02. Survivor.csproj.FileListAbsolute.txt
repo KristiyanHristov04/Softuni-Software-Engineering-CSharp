@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\bin\Debug\netcoreapp3.1\02. Survivor.exe
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\bin\Debug\netcoreapp3.1\02. Survivor.deps.json
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\bin\Debug\netcoreapp3.1\02. Survivor.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\bin\Debug\netcoreapp3.1\02. Survivor.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\bin\Debug\netcoreapp3.1\02. Survivor.dll
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\bin\Debug\netcoreapp3.1\02. Survivor.pdb
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\obj\Debug\netcoreapp3.1\02. Survivor.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\obj\Debug\netcoreapp3.1\02. Survivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\obj\Debug\netcoreapp3.1\02. Survivor.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\obj\Debug\netcoreapp3.1\02. Survivor.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\obj\Debug\netcoreapp3.1\02. Survivor.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\obj\Debug\netcoreapp3.1\02. Survivor.dll
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\obj\Debug\netcoreapp3.1\02. Survivor.pdb
+C:\Visual Studio 2022 solutions\Exam - 26 June 2021\02. Survivor\obj\Debug\netcoreapp3.1\02. Survivor.genruntimeconfig.cache
