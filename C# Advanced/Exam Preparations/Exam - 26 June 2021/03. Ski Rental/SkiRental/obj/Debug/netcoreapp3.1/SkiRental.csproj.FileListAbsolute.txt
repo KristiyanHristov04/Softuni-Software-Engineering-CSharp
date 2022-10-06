@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache

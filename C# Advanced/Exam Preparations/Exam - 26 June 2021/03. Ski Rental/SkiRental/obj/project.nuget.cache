@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H11+kv6g8ULkNZtY6XeqqGYKxaZmQkOzhxACzxnPT7IoDRKAevhNp9XnFwT5BO+p3QHMp5EUphGuN3Gl21+o4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\Ski Rental\\SkiRental\\SkiRental.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
