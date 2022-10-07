@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qN0P4SchWg9tWWD7qkBBQ2hyGamXAGfPDtmKa1rHT1nSnHZckGtELj5UuaPQpc7Gbk+j09HwtdkWx39REjdDBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\Cocktail Party\\Skeleton\\CocktailParty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

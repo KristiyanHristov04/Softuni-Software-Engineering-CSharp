@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.exe
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Cocktail Party\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache
