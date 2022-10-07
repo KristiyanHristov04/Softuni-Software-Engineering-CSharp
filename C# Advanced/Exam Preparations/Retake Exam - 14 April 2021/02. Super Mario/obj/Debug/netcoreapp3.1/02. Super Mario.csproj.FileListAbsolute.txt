@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\bin\Debug\netcoreapp3.1\02. Super Mario.exe
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\bin\Debug\netcoreapp3.1\02. Super Mario.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\bin\Debug\netcoreapp3.1\02. Super Mario.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\bin\Debug\netcoreapp3.1\02. Super Mario.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\bin\Debug\netcoreapp3.1\02. Super Mario.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\bin\Debug\netcoreapp3.1\02. Super Mario.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\obj\Debug\netcoreapp3.1\02. Super Mario.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\obj\Debug\netcoreapp3.1\02. Super Mario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\obj\Debug\netcoreapp3.1\02. Super Mario.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\obj\Debug\netcoreapp3.1\02. Super Mario.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\obj\Debug\netcoreapp3.1\02. Super Mario.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\obj\Debug\netcoreapp3.1\02. Super Mario.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\obj\Debug\netcoreapp3.1\02. Super Mario.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\02. Super Mario\obj\Debug\netcoreapp3.1\02. Super Mario.genruntimeconfig.cache

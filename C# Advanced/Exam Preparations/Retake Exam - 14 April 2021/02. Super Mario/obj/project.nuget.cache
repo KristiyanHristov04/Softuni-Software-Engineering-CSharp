@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mrZ8k6zXlky0ndugzWLFxe4aszqkjx8dRIM0s84w9kqXxvy3ts6aP3b5OBrmbSlxyL8v/MBEgOrp1d/tCrlN4g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Retake Exam - 14 April 2021\\02. Super Mario\\02. Super Mario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
