@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9ekcM2Pr+h/eX+GqpOqNwkpphHqfMpSWv/eoMP/jUWQmECVWhrB0L9Dr5PBpvhHTX01QBUWlrMD8KQBQbkROQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Retake Exam - 14 April 2021\\01. Warm Winter\\01. Warm Winter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

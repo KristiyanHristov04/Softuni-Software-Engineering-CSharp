@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.exe
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 14 April 2021\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.genruntimeconfig.cache
