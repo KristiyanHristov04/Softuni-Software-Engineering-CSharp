@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\KrisPC\OneDrive\Desktop\The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache
