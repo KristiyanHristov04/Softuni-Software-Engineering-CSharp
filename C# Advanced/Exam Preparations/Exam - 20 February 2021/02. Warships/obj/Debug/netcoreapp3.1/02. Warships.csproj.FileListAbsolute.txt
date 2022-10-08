@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.exe
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.deps.json
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.dll
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.pdb
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.dll
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.pdb
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.genruntimeconfig.cache
