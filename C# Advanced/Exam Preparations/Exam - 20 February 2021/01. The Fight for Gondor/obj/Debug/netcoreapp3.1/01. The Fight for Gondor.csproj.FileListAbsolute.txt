@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.exe
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.deps.json
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Visual Studio 2022 solutions\Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.genruntimeconfig.cache
