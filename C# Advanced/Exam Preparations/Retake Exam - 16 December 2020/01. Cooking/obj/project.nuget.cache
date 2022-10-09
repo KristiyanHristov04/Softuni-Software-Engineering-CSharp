@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xnOBjLshYRHuNR9u+mjX+cV9uLBnSTEtqMCifo8zhqgCXrwVi4XwAPImzo0BGiHW6rXEQO8Kjf3U4B4tb7Xz7g==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Retake Exam - 16 December 2020\\01. Cooking\\01. Cooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

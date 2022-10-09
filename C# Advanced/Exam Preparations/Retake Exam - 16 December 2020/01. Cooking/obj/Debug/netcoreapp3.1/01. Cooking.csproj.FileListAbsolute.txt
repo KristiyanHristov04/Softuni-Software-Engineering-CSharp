@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.exe
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.genruntimeconfig.cache
