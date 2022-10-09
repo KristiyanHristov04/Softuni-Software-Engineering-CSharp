@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jt4Z01TmnG9dL4YLZdPFzOeRoec3oLlvQ+HDQ5U3Yq1lUdd01DsjFv8DwjvIZ0/2ZRkDIxHCb3qRgGyAo9J4ww==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\BakeryOpenning\\BakeryOpenning\\BakeryOpenning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
