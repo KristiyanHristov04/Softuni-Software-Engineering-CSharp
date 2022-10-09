@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.exe
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.genruntimeconfig.cache
