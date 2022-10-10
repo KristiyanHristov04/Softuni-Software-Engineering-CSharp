@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.exe
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.genruntimeconfig.cache

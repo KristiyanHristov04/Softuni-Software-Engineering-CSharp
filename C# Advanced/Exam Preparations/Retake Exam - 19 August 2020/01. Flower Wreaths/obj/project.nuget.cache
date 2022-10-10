@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCAoEClXPLj1DCTknW725QA0wzMKYDywbDau8KsGjZfEHg+4bGV0tLBq+zj6couYsie5Fhuz8NFphVxQoEmViw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Retake Exam - 19 August 2020\\01. Flower Wreaths\\01. Flower Wreaths.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
