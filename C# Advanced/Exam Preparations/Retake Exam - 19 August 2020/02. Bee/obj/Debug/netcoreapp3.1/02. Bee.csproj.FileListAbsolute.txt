@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.exe
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.genruntimeconfig.cache
