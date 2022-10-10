@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1GsGPGjMqnvR454Is6fM2SzXKGEBVONOUx/jTTt9f0DrctROw7JrvnXQ64LmF32j719NuYzS6XKc2dagtb0how==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exam - 25 October 2020\\02. Garden\\02. Garden.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

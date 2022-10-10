@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.exe
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.deps.json
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.dll
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\bin\Debug\netcoreapp3.1\02. Garden.pdb
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.dll
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.pdb
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\02. Garden\obj\Debug\netcoreapp3.1\02. Garden.genruntimeconfig.cache
