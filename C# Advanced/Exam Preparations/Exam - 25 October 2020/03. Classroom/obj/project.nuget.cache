@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQPA90A2GHzNZZsRSNVsRrQNtZTmLkqjKehsbDRPJvIkgjw1qIoIzYweEYD7em2X07OQm6FhETSgoCtSbg//AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\ClassroomProject\\ClassroomProject\\ClassroomProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
