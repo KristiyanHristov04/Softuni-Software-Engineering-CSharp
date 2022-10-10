@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "upAVjfHKyDtnLY5RilfT5Vp/RNc0fdj8ktHeMt8fBbm2t4+Of4RzKGd/rwDJrq2Fj+Ge2m7qQ1dwn5Ia5jqxVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\VetClinic\\VetClinic\\VetClinic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

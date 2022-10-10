@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\KrisPC\OneDrive\Desktop\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
