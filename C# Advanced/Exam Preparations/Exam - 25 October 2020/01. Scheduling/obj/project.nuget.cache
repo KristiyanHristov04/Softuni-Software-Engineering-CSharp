@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rAm1++QW62F9I9MlxL4hUN3278DoaIhyL6Rw/s/smQJUFJJnBwU9b9urBVFqPXTmdo2q9DbnI8zTLtMJFq/OFg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exam - 25 October 2020\\01. Scheduling\\01. Scheduling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

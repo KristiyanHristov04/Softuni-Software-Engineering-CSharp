@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.exe
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.deps.json
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\Visual Studio 2022 solutions\Exam - 25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.genruntimeconfig.cache
