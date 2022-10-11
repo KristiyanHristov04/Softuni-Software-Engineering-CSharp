@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0qdWrcMdzrlP7PVF7W5KioG4KQGf4Nk+kWP4P3pTUSZbYgNPdGPYaWijvfaaRgBznSS26pHLfq4kfUk8XI/jEw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exam - 28 June 2020\\01. Bombs\\01. Bombs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

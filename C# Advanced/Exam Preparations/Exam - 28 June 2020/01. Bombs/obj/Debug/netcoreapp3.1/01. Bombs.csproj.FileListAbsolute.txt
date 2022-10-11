@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.exe
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.deps.json
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.dll
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.pdb
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.dll
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.pdb
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.genruntimeconfig.cache
