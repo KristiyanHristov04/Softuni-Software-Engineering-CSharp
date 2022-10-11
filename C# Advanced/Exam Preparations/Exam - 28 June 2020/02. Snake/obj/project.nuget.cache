@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2uIYHISHEVwh87qObJ2xTzrtm7qljm9oYkQmJwbzC6MONfbOievRZ4/y+tadrcb+QW75cSr+5Tm8dZ19Ur9VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exam - 28 June 2020\\02. Snake\\02. Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

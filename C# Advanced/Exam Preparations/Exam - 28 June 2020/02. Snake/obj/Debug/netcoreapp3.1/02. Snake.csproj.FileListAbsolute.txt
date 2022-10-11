@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.exe
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.deps.json
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.dll
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.pdb
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.dll
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.pdb
+C:\Visual Studio 2022 solutions\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.genruntimeconfig.cache
