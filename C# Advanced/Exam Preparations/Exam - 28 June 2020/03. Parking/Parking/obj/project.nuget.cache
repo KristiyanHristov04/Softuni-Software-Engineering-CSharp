@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uI4/uXAM/Vg3nP9WOqGeMdEi6wcd8m/FVe8lx6Eooee0kwFYQ+7UOlXtjVTe1YFN7109t6DIrz1b3yqDl9XoLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\Parking\\Parking\\Parking\\Parking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
