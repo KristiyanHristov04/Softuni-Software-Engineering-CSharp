@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UduAaCFTOuP98ijjt40FYOtVnh2cOKB8DcLlL5qzmKaysD95D8KBOV72IqFB31bZQN9ABaC4UnK12viTvcxR6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\Street Racing\\StreetRacing\\StreetRacing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
