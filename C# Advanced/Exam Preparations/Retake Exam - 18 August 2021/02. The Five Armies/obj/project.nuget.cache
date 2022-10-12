@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hLzkv/Ui0xJpiPPKwVJtDZRF/cX5jeki/n/jamEtbBJmmkNwSNGe9BLDVS7Rrj4CKdxlFE/c7UkHJDuMHShiSw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Retake Exam - 18 August 2021\\02. The Battle of The Five Armies\\02. The Battle of The Five Armies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

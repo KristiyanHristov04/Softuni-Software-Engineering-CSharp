@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.exe
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\bin\Debug\netcoreapp3.1\02. The Battle of The Five Armies.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 18 August 2021\02. The Battle of The Five Armies\obj\Debug\netcoreapp3.1\02. The Battle of The Five Armies.genruntimeconfig.cache
