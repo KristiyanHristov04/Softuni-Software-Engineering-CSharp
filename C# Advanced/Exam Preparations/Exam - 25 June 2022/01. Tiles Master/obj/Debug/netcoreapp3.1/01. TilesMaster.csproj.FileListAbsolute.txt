@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\bin\Debug\netcoreapp3.1\01. TilesMaster.exe
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\bin\Debug\netcoreapp3.1\01. TilesMaster.deps.json
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\bin\Debug\netcoreapp3.1\01. TilesMaster.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\bin\Debug\netcoreapp3.1\01. TilesMaster.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\bin\Debug\netcoreapp3.1\01. TilesMaster.dll
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\bin\Debug\netcoreapp3.1\01. TilesMaster.pdb
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\obj\Debug\netcoreapp3.1\01. TilesMaster.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\obj\Debug\netcoreapp3.1\01. TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\obj\Debug\netcoreapp3.1\01. TilesMaster.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\obj\Debug\netcoreapp3.1\01. TilesMaster.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\obj\Debug\netcoreapp3.1\01. TilesMaster.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\obj\Debug\netcoreapp3.1\01. TilesMaster.dll
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\obj\Debug\netcoreapp3.1\01. TilesMaster.pdb
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\01. TilesMaster\obj\Debug\netcoreapp3.1\01. TilesMaster.genruntimeconfig.cache
