@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.exe
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.deps.json
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.dll
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.pdb
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.dll
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.pdb
+C:\Visual Studio 2022 solutions\Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.genruntimeconfig.cache

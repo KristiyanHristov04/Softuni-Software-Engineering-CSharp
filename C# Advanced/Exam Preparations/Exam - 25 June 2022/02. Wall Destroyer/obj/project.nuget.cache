@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6b4w2fhuuCLKlnihYR/4pcRsysbX5JPQcQWdXGb1glOowy0DGFmRXUFA4fl/ncUcfFwkJS+JQydpUmTUY7P1JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exam - 25 June 2022\\02. Wall Destroyer\\02. Wall Destroyer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
