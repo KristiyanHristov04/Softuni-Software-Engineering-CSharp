@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\bin\Debug\netcoreapp3.1\Renovators.exe
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\bin\Debug\netcoreapp3.1\Renovators.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\bin\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\bin\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\obj\Debug\netcoreapp3.1\Renovators.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\obj\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\obj\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Renovatorsv2\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache
