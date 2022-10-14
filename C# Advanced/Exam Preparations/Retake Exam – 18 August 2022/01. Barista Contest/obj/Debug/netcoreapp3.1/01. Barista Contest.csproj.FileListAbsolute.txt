@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.exe
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.dll
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.pdb
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.dll
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.pdb
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.genruntimeconfig.cache
