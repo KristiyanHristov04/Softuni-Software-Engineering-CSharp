@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WKuFfM5Ppn+d/37O/sMz5FUmTPKk0IJYQk0v9qz1fRWGsQxxb/EMa5RZFxvYF9JBAw3wxeuZ9GPLuoMXz+Y9JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\Basketball\\Basketball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

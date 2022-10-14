@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\bin\Debug\netcoreapp3.1\Basketball.exe
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\bin\Debug\netcoreapp3.1\Basketball.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\bin\Debug\netcoreapp3.1\Basketball.dll
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\bin\Debug\netcoreapp3.1\Basketball.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\obj\Debug\netcoreapp3.1\Basketball.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\obj\Debug\netcoreapp3.1\Basketball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\obj\Debug\netcoreapp3.1\Basketball.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\obj\Debug\netcoreapp3.1\Basketball.dll
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\obj\Debug\netcoreapp3.1\Basketball.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Basketball\obj\Debug\netcoreapp3.1\Basketball.genruntimeconfig.cache
