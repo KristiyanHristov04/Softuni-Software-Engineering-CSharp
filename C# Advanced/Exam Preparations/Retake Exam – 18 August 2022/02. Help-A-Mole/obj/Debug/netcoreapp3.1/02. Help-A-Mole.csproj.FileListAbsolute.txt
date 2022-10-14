@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.exe
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+C:\Visual Studio 2022 solutions\Retake Exam – 18 August 2022\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.genruntimeconfig.cache
