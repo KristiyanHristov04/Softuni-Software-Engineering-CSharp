@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ttRJ1mc6bvkEqGoC3AuPOZHsIL18yi+otKL9xBfbj78FlaUEPVInxzH7vvwCKwNLV5vFMXFvJqzvJBHCW3rgeA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Inheritance - Lab\\01. Single Inheritance\\01. Single Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

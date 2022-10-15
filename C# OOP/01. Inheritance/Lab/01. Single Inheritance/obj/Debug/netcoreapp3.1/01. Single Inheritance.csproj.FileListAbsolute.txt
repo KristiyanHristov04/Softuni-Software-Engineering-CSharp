@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.exe
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.deps.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.dll
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.pdb
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.dll
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.pdb
+C:\Visual Studio 2022 solutions\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.genruntimeconfig.cache
