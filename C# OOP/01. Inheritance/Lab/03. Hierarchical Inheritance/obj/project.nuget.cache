@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UzW3cxIHqOB9Wi+MK5Lq4u26+qvr1ByrrBh6IDVEndS6FMlh6YA2YpeB7ezvXRaivAOhtlaR6wxaHd/9iXRrfw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Inheritance - Lab\\03. Hierarchical Inheritance\\03. Hierarchical Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
