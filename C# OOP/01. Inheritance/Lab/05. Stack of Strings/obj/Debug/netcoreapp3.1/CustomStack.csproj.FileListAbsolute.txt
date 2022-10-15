@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\CustomStack.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Visual Studio 2022 solutions\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9ektcIp3mB47LbkMNm0H1bJYM2vd4RLYZJUnM6iXreeC4MPZ6gpAxzTexYyEFHX/DSunZo6eREelcd178XGWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Inheritance - Lab\\05. Stack of Strings\\05. Stack of Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
