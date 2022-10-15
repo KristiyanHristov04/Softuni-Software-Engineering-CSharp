@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.1\Farm.exe
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.1\Farm.deps.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.1\Farm.dll
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.1\Farm.pdb
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.1\Farm.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.1\Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.1\Farm.dll
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.1\Farm.pdb
+C:\Visual Studio 2022 solutions\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache

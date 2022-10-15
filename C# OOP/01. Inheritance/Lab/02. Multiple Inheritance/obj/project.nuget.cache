@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tb5lRHX8/0+X0pGWboWAT8nEgBy9/zQeD9kZ2bvxXWPcO8U2R3WsJs9AQySuZQROSeEBuu5qlZ7CXm5p/aCMeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Inheritance - Lab\\Farm\\02. Multiple Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
