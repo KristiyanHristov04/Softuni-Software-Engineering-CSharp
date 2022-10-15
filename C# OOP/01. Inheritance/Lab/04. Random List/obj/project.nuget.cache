@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wcMNSHYP0hxB4CnFDjobSj1lJMDt7+sHe0q7DS4u54aZn/Q2pFDNJeZCXGCysKQCDxph3+TkSFE0Zwcz9gyjqw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Inheritance - Lab\\04. Random List\\04. Random List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

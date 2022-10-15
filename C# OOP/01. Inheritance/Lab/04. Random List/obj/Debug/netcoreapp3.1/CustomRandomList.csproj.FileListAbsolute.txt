@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Visual Studio 2022 solutions\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache
