@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XnC1/bqeAVXF32+6FjjdVv3EmSPc1B1UcUUUduH0sP0b+4OXHourR13yRHB4oYvE/JxO4ijiGQje3rS+WE7Uew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\C# OOP\\Inheritance - Exercise\\Person\\Person.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
