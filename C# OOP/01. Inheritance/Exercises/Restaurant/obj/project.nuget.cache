@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4n41X//c0MW/rhOsUkwFKNt5kEClJBymUIosCd8SJAQSqI61LJ163T7DVVPWIdgDBctdjYvX2ofVQNuf1YTRsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\C# OOP\\Inheritance - Exercise\\Restaurant\\Restaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
