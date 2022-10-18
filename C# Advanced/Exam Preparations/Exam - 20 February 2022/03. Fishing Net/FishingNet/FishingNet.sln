@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FishingNet", "FishingNet\FishingNet.csproj", "{013D290E-3C53-451F-AA8E-F9D128A24998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013D290E-3C53-451F-AA8E-F9D128A24998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013D290E-3C53-451F-AA8E-F9D128A24998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013D290E-3C53-451F-AA8E-F9D128A24998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013D290E-3C53-451F-AA8E-F9D128A24998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70CDFDF3-64E4-47F7-A4DF-5DAEC3B8DA47}
+	EndGlobalSection
+EndGlobal
