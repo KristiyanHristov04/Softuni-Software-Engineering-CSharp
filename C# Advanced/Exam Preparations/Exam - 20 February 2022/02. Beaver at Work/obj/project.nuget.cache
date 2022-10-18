@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jxsQoom20V9SMZDZN1B/2iBjCX5qbgdT9V+1i5FoOmxhk1gydiLaMxPGodLOFzbi6h2hnDw3xs1ENqtZoiZBA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exam - 20 February 2022\\02. Beaver at Work\\02. Beaver at Work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

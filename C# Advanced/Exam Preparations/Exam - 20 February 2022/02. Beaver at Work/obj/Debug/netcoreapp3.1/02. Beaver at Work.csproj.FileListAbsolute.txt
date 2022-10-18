@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.exe
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.deps.json
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.dll
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+C:\Visual Studio 2022 solutions\Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.genruntimeconfig.cache
