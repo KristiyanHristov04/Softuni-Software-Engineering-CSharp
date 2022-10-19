@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.exe
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.genruntimeconfig.cache

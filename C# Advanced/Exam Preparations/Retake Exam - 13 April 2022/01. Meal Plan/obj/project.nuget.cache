@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MlPHNg5wJdtzIVmqFZwnWZVqnaujw+DxbzRVq7uQjXFMq9usX0PFL4gRMt51++1RO2CI8wF1/RRgvk0/3qSRlg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Retake Exam - 13 April 2022\\01. Meal Plan\\01. Meal Plan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
