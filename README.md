@@ -1,4 +1,4 @@
-# SoftUni Software Engineering C#
+# Soft Soft Engineering C#
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SoftUni-Courses&fontSize=90" />
 
 <h2>All courses that I have completed at @SoftUni</h2>
