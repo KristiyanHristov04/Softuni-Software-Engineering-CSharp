@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.exe
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.deps.json
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.pdb
+C:\Visual Studio 2022 solutions\Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.genruntimeconfig.cache

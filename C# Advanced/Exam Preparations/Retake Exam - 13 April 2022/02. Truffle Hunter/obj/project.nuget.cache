@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjb1BIZFAErxOxzJNJTY7OPgyTUQa++h19qfjkTsPtGMrNtIzxvaKnvzzse/sxIK7Htjgc0+1lDM4uoBNRFz6A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Retake Exam - 13 April 2022\\02. Truffle Hunter\\02. Truffle Hunter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
