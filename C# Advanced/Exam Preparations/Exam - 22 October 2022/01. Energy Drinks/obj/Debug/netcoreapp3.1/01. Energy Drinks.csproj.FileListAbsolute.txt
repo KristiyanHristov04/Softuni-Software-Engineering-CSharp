@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.exe
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.deps.json
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.dll
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\bin\Debug\netcoreapp3.1\01. Energy Drinks.pdb
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.dll
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.pdb
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\01. Energy Drinks\obj\Debug\netcoreapp3.1\01. Energy Drinks.genruntimeconfig.cache
