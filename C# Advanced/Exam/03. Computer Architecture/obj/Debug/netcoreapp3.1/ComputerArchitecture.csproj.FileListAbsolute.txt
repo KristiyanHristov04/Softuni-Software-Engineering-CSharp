@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.exe
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Computer Architecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.genruntimeconfig.cache
