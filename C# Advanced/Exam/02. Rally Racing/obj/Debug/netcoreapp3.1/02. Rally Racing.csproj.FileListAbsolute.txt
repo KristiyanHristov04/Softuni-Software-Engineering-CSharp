@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\bin\Debug\netcoreapp3.1\02. Rally Racing.exe
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\bin\Debug\netcoreapp3.1\02. Rally Racing.deps.json
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\bin\Debug\netcoreapp3.1\02. Rally Racing.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\bin\Debug\netcoreapp3.1\02. Rally Racing.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\bin\Debug\netcoreapp3.1\02. Rally Racing.dll
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\bin\Debug\netcoreapp3.1\02. Rally Racing.pdb
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\obj\Debug\netcoreapp3.1\02. Rally Racing.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\obj\Debug\netcoreapp3.1\02. Rally Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\obj\Debug\netcoreapp3.1\02. Rally Racing.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\obj\Debug\netcoreapp3.1\02. Rally Racing.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\obj\Debug\netcoreapp3.1\02. Rally Racing.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\obj\Debug\netcoreapp3.1\02. Rally Racing.dll
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\obj\Debug\netcoreapp3.1\02. Rally Racing.pdb
+C:\Visual Studio 2022 solutions\Exam - 22 October 2022\02. Rally Racing\obj\Debug\netcoreapp3.1\02. Rally Racing.genruntimeconfig.cache
