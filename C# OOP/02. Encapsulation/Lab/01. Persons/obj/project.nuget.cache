@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNolvnrm4Y0gNond774vy4R+WkiE/CgzyHwBAxpV/LbOiZvK+F4N6QjXUT7U5dfeHNKSZ0lnizbTv+Z1miZbew==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Encapsulation - Lab\\01. Persons\\01. Persons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
