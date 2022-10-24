@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ysYmHcdaO1Aj/ijhfr7Re1Uq8aTb2JWkEcQUfLxRIiGpTsZmFG35B+AdyiwGFtrGMK8rQIrAcgpTo6IFY4lKSA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Encapsulation - Lab\\03. Validation\\03. Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

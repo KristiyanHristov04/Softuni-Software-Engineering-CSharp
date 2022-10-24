@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
