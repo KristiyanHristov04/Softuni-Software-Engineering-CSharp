@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Z50YonMohoSE97JoHtvNOH26WbSZqGadqCvACx03D7P9hjUfFVLqdK4Yu6lFEFdKTfED7p7MYk04PSywI7XfA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Encapsulation - Lab\\02. Salary\\02. Salary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
