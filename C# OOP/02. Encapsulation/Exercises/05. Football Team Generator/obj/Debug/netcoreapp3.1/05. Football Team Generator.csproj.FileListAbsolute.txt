@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\05. Football Team Generator.exe
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\05. Football Team Generator.deps.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\05. Football Team Generator.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\05. Football Team Generator.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\05. Football Team Generator.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\05. Football Team Generator.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\05. Football Team Generator.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\05. Football Team Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\05. Football Team Generator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\05. Football Team Generator.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\05. Football Team Generator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\05. Football Team Generator.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\05. Football Team Generator.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\05. Football Team Generator.genruntimeconfig.cache
