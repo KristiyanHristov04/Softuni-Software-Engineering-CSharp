@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZPekDdjlisBj6Sc20gDPv+igK8VzRpxPrT/o97geeCVGkoZNY7kDYH5FmO6p+ZSMeCsBib09e5WGIjHv7kdz0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\C# OOP\\Encapsulation - Skeletons\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
