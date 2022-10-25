@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\04. Pizza Calories.exe
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\04. Pizza Calories.deps.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\04. Pizza Calories.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\04. Pizza Calories.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\04. Pizza Calories.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\04. Pizza Calories.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\04. Pizza Calories.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\04. Pizza Calories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\04. Pizza Calories.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\04. Pizza Calories.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\04. Pizza Calories.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\04. Pizza Calories.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\04. Pizza Calories.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\04. Pizza Calories.genruntimeconfig.cache

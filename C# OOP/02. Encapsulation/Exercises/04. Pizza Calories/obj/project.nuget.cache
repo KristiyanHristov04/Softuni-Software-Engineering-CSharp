@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rtEDAJMCQ969IjeIkCUStoIWjWimmSKZh2lgpb93gw69TlA0lqgUmN9CVqVgDuGPbWRrayNJRMo1qi501RMvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Encapsulation - Exercise\\04. Pizza Calories\\04. Pizza Calories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
