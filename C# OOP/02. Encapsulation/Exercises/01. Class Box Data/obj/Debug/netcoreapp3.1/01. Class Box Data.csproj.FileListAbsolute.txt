@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\01. Class Box Data.exe
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\01. Class Box Data.deps.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\01. Class Box Data.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\01. Class Box Data.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\01. Class Box Data.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\01. Class Box Data.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\01. Class Box Data.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\01. Class Box Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\01. Class Box Data.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\01. Class Box Data.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\01. Class Box Data.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\01. Class Box Data.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\01. Class Box Data.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\01. Class Box Data.genruntimeconfig.cache
