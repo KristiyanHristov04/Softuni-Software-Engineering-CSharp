@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\03. Shopping Spree.exe
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\03. Shopping Spree.deps.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\03. Shopping Spree.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\03. Shopping Spree.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\03. Shopping Spree.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\03. Shopping Spree.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\03. Shopping Spree.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\03. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\03. Shopping Spree.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\03. Shopping Spree.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\03. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\03. Shopping Spree.dll
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\03. Shopping Spree.pdb
+C:\Visual Studio 2022 solutions\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\03. Shopping Spree.genruntimeconfig.cache
