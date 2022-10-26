@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.genruntimeconfig.cache

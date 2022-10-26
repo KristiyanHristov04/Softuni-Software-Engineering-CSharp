@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hLy/t0LRDYoPIYfxMVcIYPuUxgnhF+NEGGOo90V3kWRmt0pirTAMpymJSgo5ohFWMYYM/3hbn0U83XuhMkIvyA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Interfaces and Abstraction - Lab\\01.Shapes\\01. Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
