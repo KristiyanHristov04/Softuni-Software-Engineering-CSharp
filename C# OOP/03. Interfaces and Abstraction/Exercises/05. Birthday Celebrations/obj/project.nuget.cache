@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SQDd7TmSJZYJzdmV49/LcfP7f8BwXRAQCgZp1pPuwBEYqaaf3NkNaE1+EbyLMGzsCDT483EyTRnycYCu/N/hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\05. Birthday Celebrations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

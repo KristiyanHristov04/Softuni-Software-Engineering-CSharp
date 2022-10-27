@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.genruntimeconfig.cache
