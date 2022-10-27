@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.genruntimeconfig.cache

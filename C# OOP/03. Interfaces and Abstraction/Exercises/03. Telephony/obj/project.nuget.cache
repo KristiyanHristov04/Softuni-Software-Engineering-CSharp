@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLqRwi9TdrGLVXaeVVaL5EiEC8RYlRpi9CSpoFOrmNzj3QslhAx3XrhGjyCW44t7tvIj7x2btSrIa+O6TiGVdw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Interfaces and Abstraction - Exercise\\03. Telephony\\03. Telephony.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
