@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.genruntimeconfig.cache
