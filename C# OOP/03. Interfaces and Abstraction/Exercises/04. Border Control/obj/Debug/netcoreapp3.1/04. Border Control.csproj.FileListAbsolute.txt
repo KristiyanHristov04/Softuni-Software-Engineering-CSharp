@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.genruntimeconfig.cache

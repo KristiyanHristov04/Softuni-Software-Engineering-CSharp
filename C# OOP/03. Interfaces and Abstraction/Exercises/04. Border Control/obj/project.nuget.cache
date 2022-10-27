@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "99hiY4SBI0g1Ix+y7rtAuxypUUC/429ngEjEbyxSfZXvok6pmtMSlTThZWUg6rQweqLE1ZzsjhH86bvEmd2nHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Interfaces and Abstraction - Exercise\\04. Border Control\\04. Border Control.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

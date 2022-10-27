@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache
