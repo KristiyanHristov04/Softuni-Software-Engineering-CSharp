@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wm3v+PzHw02vgyh8v7T4HlTKo84afhsg9wzPsHIspp6Bp9yCPOQMxOhv1u6mlnyb2w+2vwemAKG4VfaQF8gUdA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Interfaces and Abstraction - Exercise\\09. Explicit Interfaces\\09. Explicit Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

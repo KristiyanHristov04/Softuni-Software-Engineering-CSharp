@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\09. Explicit Interfaces.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\09. Explicit Interfaces.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\09. Explicit Interfaces.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\09. Explicit Interfaces.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\09. Explicit Interfaces.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\09. Explicit Interfaces.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\09. Explicit Interfaces.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\09. Explicit Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\09. Explicit Interfaces.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\09. Explicit Interfaces.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\09. Explicit Interfaces.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\09. Explicit Interfaces.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\09. Explicit Interfaces.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\09. Explicit Interfaces.genruntimeconfig.cache
