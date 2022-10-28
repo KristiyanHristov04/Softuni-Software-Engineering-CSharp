@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbYg4GUD3OiTYcnYWmLbohUfqGIYLhGP8FplFwU8g6mahr05JAjVgJ7WtE3Etn2qWIjraEOYm2XceC7py6PYOg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Interfaces and Abstraction - Exercise\\06. Food Shortage\\06. Food Shortage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache
