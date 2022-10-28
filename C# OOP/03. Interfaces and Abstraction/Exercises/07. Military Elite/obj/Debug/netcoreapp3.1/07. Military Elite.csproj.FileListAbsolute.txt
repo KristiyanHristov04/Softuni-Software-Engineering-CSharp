@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\07. Military Elite.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\07. Military Elite.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\07. Military Elite.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\07. Military Elite.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\07. Military Elite.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\07. Military Elite.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\07. Military Elite.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\07. Military Elite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\07. Military Elite.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\07. Military Elite.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\07. Military Elite.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\07. Military Elite.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\07. Military Elite.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\07. Military Elite.genruntimeconfig.cache

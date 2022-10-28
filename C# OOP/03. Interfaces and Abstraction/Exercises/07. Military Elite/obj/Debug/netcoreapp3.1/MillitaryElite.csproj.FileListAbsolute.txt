@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\MillitaryElite.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\MillitaryElite.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\MillitaryElite.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\MillitaryElite.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\MillitaryElite.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\MillitaryElite.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\MillitaryElite.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\MillitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\MillitaryElite.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\MillitaryElite.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\MillitaryElite.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\MillitaryElite.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\MillitaryElite.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\MillitaryElite.genruntimeconfig.cache

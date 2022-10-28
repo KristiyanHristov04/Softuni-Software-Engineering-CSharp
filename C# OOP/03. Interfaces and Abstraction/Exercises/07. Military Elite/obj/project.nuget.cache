@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J0fukU/ZfRXjBudqUo39jp6QAZU0m1HLyEXpvuBXFLps4V0r/SX4L2z5Q623gEwoccu0+VhBZ8iKm6RlwPt9qg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Interfaces and Abstraction - Exercise\\07. Military Elite\\07. Millitary Elite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
