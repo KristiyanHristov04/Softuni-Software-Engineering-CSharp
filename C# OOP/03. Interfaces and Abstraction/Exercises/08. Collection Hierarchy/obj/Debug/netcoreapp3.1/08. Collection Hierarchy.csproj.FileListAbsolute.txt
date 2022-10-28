@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\08. Collection Hierarchy.exe
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\08. Collection Hierarchy.deps.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\08. Collection Hierarchy.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\08. Collection Hierarchy.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\08. Collection Hierarchy.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\08. Collection Hierarchy.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\08. Collection Hierarchy.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\08. Collection Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\08. Collection Hierarchy.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\08. Collection Hierarchy.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\08. Collection Hierarchy.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\08. Collection Hierarchy.dll
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\08. Collection Hierarchy.pdb
+C:\Visual Studio 2022 solutions\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\08. Collection Hierarchy.genruntimeconfig.cache

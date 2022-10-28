@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFE8hDZeth2sgxlNguGV8UnQQ4BuIyEuUBelD3zTGyLREF0ZVNDCeLJzcFny8bv/cZVUVIXVLKTj2PPCd4hvaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Interfaces and Abstraction - Exercise\\08. Collection Hierarchy\\08. Collection Hierarchy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
