@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\03. Shapes.exe
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\03. Shapes.deps.json
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\03. Shapes.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\03. Shapes.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\03. Shapes.dll
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\03. Shapes.pdb
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\03. Shapes.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\03. Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\03. Shapes.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\03. Shapes.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\03. Shapes.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\03. Shapes.dll
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\03. Shapes.pdb
+C:\Visual Studio 2022 solutions\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\03. Shapes.genruntimeconfig.cache

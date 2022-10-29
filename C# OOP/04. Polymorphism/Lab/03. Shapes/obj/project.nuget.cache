@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJiN/wdxtoQtzFljPQphMH3dD6CF+vF21S1P+BPYSOtl7tdhMCE+1JCNhMQ76vtD1aLaSyK0FshidDKu/7njiA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Polymorphism - Lab\\03. Shapes\\03. Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
