@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cwq712ggIX79pwivbOXHmQSuOrCLu7VNVLF6cZCcvwmHeQ+TDL6BlVYsqQdHjZFau3uua550wTJOrefI/cLAtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Polymorphism - Lab\\01. Math Operations\\01. Math Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
