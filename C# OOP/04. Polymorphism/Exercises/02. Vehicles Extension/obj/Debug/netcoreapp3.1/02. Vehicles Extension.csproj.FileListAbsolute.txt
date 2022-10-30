@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\02. Vehicles Extension.exe
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\02. Vehicles Extension.deps.json
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\02. Vehicles Extension.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\02. Vehicles Extension.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\02. Vehicles Extension.dll
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\02. Vehicles Extension.pdb
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\02. Vehicles Extension.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\02. Vehicles Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\02. Vehicles Extension.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\02. Vehicles Extension.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\02. Vehicles Extension.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\02. Vehicles Extension.dll
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\02. Vehicles Extension.pdb
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\02. Vehicles Extension.genruntimeconfig.cache
