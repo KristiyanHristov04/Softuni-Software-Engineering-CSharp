@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfYm+QWwOJcOijYZla+HpGe6OY78kYsWkBAwGvWUdY4BbgOX7rvTJLdYtV/h1z3zC/kAV1zG1rW1+L38gpcRsA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Polymorphism - Exercise\\01. Vehicles\\01. Vehicles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
