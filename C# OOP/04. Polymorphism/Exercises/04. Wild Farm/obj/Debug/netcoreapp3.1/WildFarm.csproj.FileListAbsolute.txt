@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.exe
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.dll
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.dll
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache
