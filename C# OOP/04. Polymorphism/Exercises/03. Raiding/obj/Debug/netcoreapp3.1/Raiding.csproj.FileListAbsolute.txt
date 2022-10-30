@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+C:\Visual Studio 2022 solutions\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache
