@@ -53,7 +53,7 @@
 1. [**Inheritance**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/01.%20Inheritance)
 2. [**Encapsulation**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/02.%20Encapsulation)
 3. [**Interfaces and Abstraction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/03.%20Interfaces%20and%20Abstraction)
-4. [**Polymorphism**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/04.%20Polymorphism)
+4. [**Polymorphism**]()
   </details>
   
 ***
