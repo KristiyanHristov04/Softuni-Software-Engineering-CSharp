@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\bin\Debug\netcoreapp3.1\02. Enter Numbers.exe
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\bin\Debug\netcoreapp3.1\02. Enter Numbers.deps.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\bin\Debug\netcoreapp3.1\02. Enter Numbers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\bin\Debug\netcoreapp3.1\02. Enter Numbers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\bin\Debug\netcoreapp3.1\02. Enter Numbers.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\bin\Debug\netcoreapp3.1\02. Enter Numbers.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\obj\Debug\netcoreapp3.1\02. Enter Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\obj\Debug\netcoreapp3.1\02. Enter Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\obj\Debug\netcoreapp3.1\02. Enter Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\obj\Debug\netcoreapp3.1\02. Enter Numbers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\obj\Debug\netcoreapp3.1\02. Enter Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\obj\Debug\netcoreapp3.1\02. Enter Numbers.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\obj\Debug\netcoreapp3.1\02. Enter Numbers.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\02. Enter Numbers\obj\Debug\netcoreapp3.1\02. Enter Numbers.genruntimeconfig.cache

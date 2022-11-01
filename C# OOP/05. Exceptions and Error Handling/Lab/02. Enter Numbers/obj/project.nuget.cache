@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L45oo4wsbQZ1wnFVwLJpzzKNif59CT19t/KuY5DKKhHEe6qz2t2KWzHA+jNdWwjN7w83ZAwkV1jhTfb9JeVDEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exceptions and Error Handling - Lab\\02. Enter Numbers\\02. Enter Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
