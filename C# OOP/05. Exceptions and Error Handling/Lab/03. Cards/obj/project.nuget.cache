@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HufRUgJkk3WE3JcY9vkDwde5oSpPH4tRusr/zcMZpz/EFDiIq1PeCJaBIgmEOXQDp5LjX63YUZQpjb306aPXA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exceptions and Error Handling - Lab\\03. Cards\\03. Cards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.exe
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.deps.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.genruntimeconfig.cache
