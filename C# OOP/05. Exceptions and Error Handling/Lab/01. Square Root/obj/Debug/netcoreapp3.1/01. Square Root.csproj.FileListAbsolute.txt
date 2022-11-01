@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.exe
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.deps.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.genruntimeconfig.cache
