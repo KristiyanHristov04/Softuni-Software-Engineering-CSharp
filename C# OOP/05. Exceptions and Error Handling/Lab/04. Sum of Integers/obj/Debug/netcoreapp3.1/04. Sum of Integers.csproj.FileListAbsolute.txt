@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.exe
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.deps.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.genruntimeconfig.cache
