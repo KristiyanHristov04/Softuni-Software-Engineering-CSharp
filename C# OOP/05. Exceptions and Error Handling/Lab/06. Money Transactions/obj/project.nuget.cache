@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQWzFehn/P+hM/E+dYZk4PDVRBhrYj8XBKjI3G8D2EVc/7tRpGeiFrwfYN7dLWmKyppNXc5uN8CgIGgMka1Trg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exceptions and Error Handling - Lab\\06. Money Transactions\\06. Money Transactions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

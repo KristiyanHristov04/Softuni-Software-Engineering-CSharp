@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.exe
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.deps.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.genruntimeconfig.cache
