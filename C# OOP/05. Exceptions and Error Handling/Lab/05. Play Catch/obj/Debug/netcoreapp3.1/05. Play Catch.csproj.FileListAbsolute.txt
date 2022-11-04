@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.exe
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.deps.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.dll
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.pdb
+C:\Visual Studio 2022 solutions\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.genruntimeconfig.cache

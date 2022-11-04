@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPbG02+et459rgwmJc/Skhfp1MjDJ1LidH40XM8cs36iJMCQ4Y6333l5CAdNeeeC3a6arhCEss/HZ5TnS3juvg==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Exceptions and Error Handling - Lab\\05. Play Catch\\05. Play Catch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
