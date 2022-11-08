@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTER5d/bEisn2Yoiz+dF6xR9HgyyPhWwvXesp7a+b22Bn9qo+fAQ+XHCs7IiOFyELIV8extgE1rgKhxlSfY7aA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Reflection and Attributes - Lab\\01. Stealer\\01. Stealer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
