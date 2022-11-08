@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\Stealer.exe
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\Stealer.deps.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\Stealer.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\Stealer.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\Stealer.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\Stealer.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache

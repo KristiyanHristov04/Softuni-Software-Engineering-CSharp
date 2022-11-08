@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.exe
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.deps.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.genruntimeconfig.cache
