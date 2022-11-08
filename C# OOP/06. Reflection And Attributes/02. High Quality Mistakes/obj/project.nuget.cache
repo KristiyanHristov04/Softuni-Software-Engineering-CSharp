@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aaCNSdHmWW22GtVnAM+eNIhg0EnKrHd6nfchAjiACqr+kRClpscOnSzrxSY2PUaBFI3rlRKEWj29a7Hgq5w91A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Reflection and Attributes - Lab\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

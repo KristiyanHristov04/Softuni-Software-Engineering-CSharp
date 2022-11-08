@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.exe
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.deps.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.genruntimeconfig.cache
