@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

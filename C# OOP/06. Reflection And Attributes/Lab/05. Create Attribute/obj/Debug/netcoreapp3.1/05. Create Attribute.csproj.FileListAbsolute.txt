@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.exe
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.deps.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.genruntimeconfig.cache

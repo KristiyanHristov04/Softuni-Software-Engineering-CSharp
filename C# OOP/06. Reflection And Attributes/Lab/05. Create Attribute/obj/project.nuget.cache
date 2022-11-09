@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9qhnzwiDrjY2a2WRSr2HA3IgNHE4ZE8S2cvvhnDIbkGWbjL8uZSwp22PKEonfaXHhvEn4EXZr4MLXaDA1i4Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Reflection and Attributes - Lab\\05. Create Attribute\\05. Create Attribute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
