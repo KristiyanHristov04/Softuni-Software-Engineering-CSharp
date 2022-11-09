@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXHFffJgePLpP73ExKyRnC3fp/de0g/ODnsB65VQTEtg46U4fxR/JZJIF+I1TFyo6iL+jfchMmqFpRZ9W9p84Q==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\Reflection and Attributes - Lab\\04. Collector\\04. Collector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

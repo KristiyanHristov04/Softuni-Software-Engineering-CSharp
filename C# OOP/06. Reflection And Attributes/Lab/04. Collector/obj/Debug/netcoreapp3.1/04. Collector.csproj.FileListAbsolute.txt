@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp3.1\04. Collector.exe
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp3.1\04. Collector.deps.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp3.1\04. Collector.runtimeconfig.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp3.1\04. Collector.runtimeconfig.dev.json
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp3.1\04. Collector.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp3.1\04. Collector.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp3.1\04. Collector.csproj.AssemblyReference.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp3.1\04. Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp3.1\04. Collector.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp3.1\04. Collector.AssemblyInfo.cs
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp3.1\04. Collector.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp3.1\04. Collector.dll
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp3.1\04. Collector.pdb
+C:\Visual Studio 2022 solutions\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp3.1\04. Collector.genruntimeconfig.cache
