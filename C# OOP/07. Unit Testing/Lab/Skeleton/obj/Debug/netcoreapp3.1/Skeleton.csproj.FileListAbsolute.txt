@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

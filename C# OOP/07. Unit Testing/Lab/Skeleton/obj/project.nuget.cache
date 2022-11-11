@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a5O5MjXy4AIgSmV1z5H+YYTwt734xrAq/ezUfi9wH0zwt6s/Szis/P8cpKDMtkKK2WDNNdhtwkFGkAO4q2G9pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\C# OOP\\Unit Testing - Lab\\Skeleton\\Skeleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
