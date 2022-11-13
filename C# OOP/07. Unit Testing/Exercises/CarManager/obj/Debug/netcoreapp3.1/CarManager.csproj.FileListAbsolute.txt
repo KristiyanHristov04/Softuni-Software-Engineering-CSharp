@@ -1,0 +1,10 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
