@@ -1,0 +1,10 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
