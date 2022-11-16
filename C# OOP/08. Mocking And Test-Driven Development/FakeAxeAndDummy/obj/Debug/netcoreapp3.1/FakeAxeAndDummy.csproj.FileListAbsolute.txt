@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.exe
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+C:\Users\KrisPC\OneDrive\Desktop\prerabotka\P01_FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.genruntimeconfig.cache
