@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 11 December 2021\Unit Tests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache

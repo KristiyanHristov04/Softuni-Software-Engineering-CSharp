@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwep1Q0o8lif4EBhokO+QAFq0yg8pKhhlmmeJfjjngtkniCfnQyeV6L/+WOEs85koNgWQDk/jSCRKoa3gIy0Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\C# OOP\\Exams\\C# OOP Exam - 11 December 2021\\Unit Tests\\UnitTests-Skeleton\\Gyms\\Gyms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
