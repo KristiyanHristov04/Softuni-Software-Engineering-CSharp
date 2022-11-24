@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\bin\Debug\netcoreapp3.1\Heroes.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\bin\Debug\netcoreapp3.1\Heroes.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\bin\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\bin\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\obj\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\obj\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2022\Skeleton\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
