@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 09 April 2022\Structure And Business Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache

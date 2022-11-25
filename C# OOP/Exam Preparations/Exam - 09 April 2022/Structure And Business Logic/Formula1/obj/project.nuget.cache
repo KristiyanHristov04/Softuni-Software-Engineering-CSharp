@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFTCYrf7fF60dkL7F+m4prVlfNdssAFVRhwvfPwTz0z+CACKpxe5Fi1LJnZQx20R5lpdLAm50q3TEJVkysk3GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\C# OOP\\Exams\\C# OOP Exam - 09 April 2022\\Structure And Business Logic\\Formula1\\Formula1\\Formula1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
