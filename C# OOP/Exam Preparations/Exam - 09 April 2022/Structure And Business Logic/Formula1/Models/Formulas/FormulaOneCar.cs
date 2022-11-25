@@ -60,7 +60,7 @@ namespace Formula1.Models.Formulas
 
         public double RaceScoreCalculator(int laps)
         {
-            return (this.EngineDisplacement * this.Horsepower) * laps;
+            return (this.EngineDisplacement / this.Horsepower) * laps;
         }
     }
 }

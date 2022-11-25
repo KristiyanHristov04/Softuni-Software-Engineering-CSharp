@@ -55,7 +55,6 @@ namespace Formula1.Core
             bool isPilotAlreadyInTheRace = false;
             foreach (var pilot_ in race.Pilots)
             {
-                //Maybe I should say pilot_FullName == pilot.Name
                 if (pilot_ == pilot)
                 {
                     isPilotAlreadyInTheRace = true;
@@ -68,7 +67,6 @@ namespace Formula1.Core
                 throw new InvalidOperationException(String.Format(ExceptionMessages.PilotDoesNotExistErrorMessage, pilotFullName));
             }
 
-            //Might want something else BE CAREFUL!!!
             race.AddPilot(pilot);
             return String.Format(OutputMessages.SuccessfullyAddPilotToRace, pilotFullName, raceName);
         }
