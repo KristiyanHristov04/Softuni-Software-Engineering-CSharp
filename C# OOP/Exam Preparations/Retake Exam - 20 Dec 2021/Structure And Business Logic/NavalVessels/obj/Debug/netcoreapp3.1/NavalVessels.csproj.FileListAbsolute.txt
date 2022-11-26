@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 20 Dec 2021\Structure And Business Logic\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.genruntimeconfig.cache
