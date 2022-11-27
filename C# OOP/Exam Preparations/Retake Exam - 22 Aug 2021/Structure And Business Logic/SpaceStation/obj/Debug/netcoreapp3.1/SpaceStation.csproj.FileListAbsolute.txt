@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2021\Structure And Business Logic\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache
