@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Structure And Business Logic\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache
