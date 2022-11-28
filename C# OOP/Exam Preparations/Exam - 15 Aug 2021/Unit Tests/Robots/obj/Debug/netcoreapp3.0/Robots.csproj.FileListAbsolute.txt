@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 15 Aug 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
