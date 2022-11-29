@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
