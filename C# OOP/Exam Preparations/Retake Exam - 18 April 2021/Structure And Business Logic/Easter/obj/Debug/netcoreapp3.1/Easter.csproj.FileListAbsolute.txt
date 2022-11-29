@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 18 April 2021\Structure And Business Logic\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache
