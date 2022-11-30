@@ -1,0 +1,14 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\obj\Debug\netcoreapp3.1\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Structure And Business Logic\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
