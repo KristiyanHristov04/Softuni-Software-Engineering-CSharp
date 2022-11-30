@@ -1,0 +1,26 @@
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.exe
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.deps.json
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.runtimeconfig.json
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.runtimeconfig.dev.json
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.dll
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.pdb
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.AssemblyInfoInputs.cache
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.AssemblyInfo.cs
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.dll
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.pdb
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.genruntimeconfig.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Exam - 12 Dec 2020\Unit Tests\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.genruntimeconfig.cache
