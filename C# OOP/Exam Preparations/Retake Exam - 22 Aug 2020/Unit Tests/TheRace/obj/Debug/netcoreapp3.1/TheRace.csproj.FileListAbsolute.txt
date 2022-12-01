@@ -1,0 +1,10 @@
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 22 Aug 2020\Unit Tests\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
