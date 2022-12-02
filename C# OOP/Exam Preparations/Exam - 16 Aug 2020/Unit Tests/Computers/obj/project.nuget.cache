@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h20tdB8rCA2II5WJmUhNXHv2thn61fHgmnxWB6YUo2VxqKE92XxdAxPRgpQc5X8Bi9txCCkCO2tWua59/rMlCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\C# OOP\\Exams\\C# OOP Exam - 16 Aug 2020\\Unit Tests\\Computers-Skeleton\\Computers\\Computers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
