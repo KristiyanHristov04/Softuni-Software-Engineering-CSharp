@@ -1,0 +1,24 @@
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.deps.json
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.json
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.dev.json
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.pdb
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfo.cs
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.pdb
+C:\Users\ROG STRIX\Desktop\New folder (2)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.genruntimeconfig.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.deps.json
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.json
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.dev.json
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.pdb
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfo.cs
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.pdb
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.genruntimeconfig.cache

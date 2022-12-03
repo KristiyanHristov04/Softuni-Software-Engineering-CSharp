@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vUGdo6zXnHgUzGwfHWO0hm6DpxYcpjXo0nv/0g40mpvazzW0t8wq8rNpVQrY9tuz7Un4BDk83t8xp20AqazKUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\C# OOP\\Exams\\C# OOP Retake Exam - 19 Dec 2020\\Unit Tests\\FestivalManager\\FestivalManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

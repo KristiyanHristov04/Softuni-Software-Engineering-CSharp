@@ -1,0 +1,27 @@
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.exe
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.deps.json
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.json
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.dev.json
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.dll
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.pdb
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfo.cs
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.dll
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.pdb
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.genruntimeconfig.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.exe
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.deps.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.dev.json
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfoInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfo.cs
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.dll
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.pdb
+C:\Users\KrisPC\OneDrive\Desktop\C# OOP\Exams\C# OOP Retake Exam - 19 Dec 2020\Unit Tests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.genruntimeconfig.cache

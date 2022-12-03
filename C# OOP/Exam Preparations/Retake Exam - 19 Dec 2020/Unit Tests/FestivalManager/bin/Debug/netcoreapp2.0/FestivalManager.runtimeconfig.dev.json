@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ROG STRIX\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ROG STRIX\\.nuget\\packages"
+    ]
+  }
+}
