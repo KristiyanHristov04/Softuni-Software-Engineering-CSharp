@@ -58,6 +58,7 @@
 6. [**Reflection And Attributes**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/06.%20Reflection%20And%20Attributes)
 7. [**Unit Testing**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/07.%20Unit%20Testing)
 8. [**Mocking And Test-Driven Development**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/08.%20Mocking%20And%20Test-Driven%20Development)
+7. [**Exam Preparation**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/07.%20Unit%20Testing)
   </details>
   
 ***
