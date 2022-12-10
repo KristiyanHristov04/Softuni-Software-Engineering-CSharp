@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TB/0+CqEf+s1j1q0ok5POI+vSDwiWzjXrHyMbW/KNDmtUpto+3veZlmrdUidBr8pBy7Lg0DP6eSk5UVJrFw2sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrisPC\\OneDrive\\Desktop\\Final OOP Exam\\Unit Tests\\FootballTeam\\FootballTeam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
