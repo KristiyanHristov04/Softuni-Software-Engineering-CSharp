@@ -44,6 +44,7 @@
 7. [**Generics**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/07.%20Generics)
 8. [**Iterators and Comparators**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/08.%20Iterators%20and%20Comparators)
 9. [**Workshop - Implementing Custom Data Structures**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Implementing%20Custom%20Data%20Structures)
+10. [****](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/07.%20Generics)
   </details>
   
 ***
