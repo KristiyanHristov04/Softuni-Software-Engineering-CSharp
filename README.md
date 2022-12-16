@@ -45,7 +45,7 @@
 8. [**Iterators and Comparators**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/08.%20Iterators%20and%20Comparators)
 9. [**Workshop - Implementing Custom Data Structures**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Implementing%20Custom%20Data%20Structures)
 10. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/Exam%20Preparations)
-11. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/Exam%20Preparations)
+11. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/Exam)
   </details>
   
 ***
