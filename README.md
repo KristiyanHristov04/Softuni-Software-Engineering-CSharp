@@ -29,7 +29,7 @@
 7. [**Associative Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/07.%20Associative%20Arrays)  
 8. [**Text Processing**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/08.%20Text%20Processing)
 9. [**Regular Expressions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/09.%20Regular%20Expressions)
-10. [**Regular Expressions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/09.%20Regular%20Expressions)
+10. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/09.%20Regular%20Expressions)
   </details>
   
 ***
