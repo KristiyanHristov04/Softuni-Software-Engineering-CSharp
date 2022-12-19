@@ -29,6 +29,7 @@
 7. [**Associative Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/07.%20Associative%20Arrays)  
 8. [**Text Processing**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/08.%20Text%20Processing)
 9. [**Regular Expressions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/09.%20Regular%20Expressions)
+10. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/Exam%20Preparations)
   </details>
   
 ***
@@ -44,6 +45,8 @@
 7. [**Generics**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/07.%20Generics)
 8. [**Iterators and Comparators**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/08.%20Iterators%20and%20Comparators)
 9. [**Workshop - Implementing Custom Data Structures**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Implementing%20Custom%20Data%20Structures)
+10. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/Exam%20Preparations)
+11. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Advanced/Exam)
   </details>
   
 ***
@@ -58,7 +61,8 @@
 6. [**Reflection And Attributes**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/06.%20Reflection%20And%20Attributes)
 7. [**Unit Testing**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/07.%20Unit%20Testing)
 8. [**Mocking And Test-Driven Development**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/08.%20Mocking%20And%20Test-Driven%20Development)
-7. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/Exam%20Preparations)
+9. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/Exam%20Preparations)
+10. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/Final%20Exam)
   </details>
   
 ***
