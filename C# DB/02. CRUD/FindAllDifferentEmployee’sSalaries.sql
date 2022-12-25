@@ -1,0 +1,1 @@
+SELECT DISTINCT [Salary] AS [Salaries] FROM [Employees]
