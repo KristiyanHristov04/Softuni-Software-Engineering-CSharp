@@ -31,6 +31,7 @@
 9. [**Regular Expressions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/09.%20Regular%20Expressions)
 10. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/Exam%20Preparations)
 11. [**Mid Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/Mid%20Exam)
+12. [**Final Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/Mid%20Exam)
   </details>
   
 ***
