@@ -14,6 +14,7 @@
 4. [**For Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/04.%20For%20Loop)
 5. [**While Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/05.%20While%20Loop)
 6. [**Nested Loops**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/06.%20Nested%20Loops)
+7. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/Exam)
  </details>
  
 ***
@@ -30,6 +31,8 @@
 8. [**Text Processing**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/08.%20Text%20Processing)
 9. [**Regular Expressions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/09.%20Regular%20Expressions)
 10. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/Exam%20Preparations)
+11. [**Mid Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/Mid%20Exam)
+12. [**Final Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Fundamentals/Final%20Exam)
   </details>
   
 ***
