@@ -9,12 +9,12 @@
 <summary><h3>Basics Carriculum List</summary>
 
 1. [**First Steps In Coding**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/01.%20First%20Steps%20In%20Coding)
-02. [**Conditional Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/02.%20Conditional%20Statements)
-03. [**Nested Conditional Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/03.%20Conditional%20Statements%20Advanced)
-04. [**For Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/04.%20For%20Loop)
-05. [**While Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/05.%20While%20Loop)
-06. [**Nested Loops**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/06.%20Nested%20Loops)
-07. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/Exam)
+2. [**Conditional Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/02.%20Conditional%20Statements)
+3. [**Nested Conditional Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/03.%20Conditional%20Statements%20Advanced)
+4. [**For Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/04.%20For%20Loop)
+5. [**While Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/05.%20While%20Loop)
+6. [**Nested Loops**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/06.%20Nested%20Loops)
+7. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/Exam)
  </details>
  
 ***
