@@ -8,7 +8,7 @@
 <details>
 <summary><h3>Basics Carriculum List</summary>
 
-1. [**First Steps In Coding**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/01.%20First%20Steps%20In%20Coding)
+01. [**First Steps In Coding**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/01.%20First%20Steps%20In%20Coding)
 2. [**Conditional Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/02.%20Conditional%20Statements)
 3. [**Nested Conditional Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/03.%20Conditional%20Statements%20Advanced)
 4. [**For Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/04.%20For%20Loop)
