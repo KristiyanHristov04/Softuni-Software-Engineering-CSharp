@@ -19,7 +19,7 @@ CREATE TABLE [Persons](
 	[PersonID] INT PRIMARY KEY IDENTITY,
 	[FirstName] NVARCHAR(50) NOT NULL,
 	[Salary] DECIMAL(7, 2) NOT NULL,
-	[PassportID] INT FOREIGN KEY REFERENCES [Passports]([PassportID])
+	[PassportID] INT FOREIGN KEY REFERENCES [Passports]([PassportID]) UNIQUE NOT NULL
 )
 
 --SELECT * FROM [Persons]
