@@ -3,7 +3,7 @@
 CREATE TABLE [Manufacturers](
 	[ManufacturerID] INT PRIMARY KEY IDENTITY,
 	[Name] VARCHAR(20) NOT NULL,
-	[EstablishedOn] VARCHAR(10) NOT NULL
+	[EstablishedOn] DATE NOT NULL
 )
 
 INSERT INTO [Manufacturers]([Name], [EstablishedOn])
@@ -15,7 +15,7 @@ VALUES
 CREATE TABLE [Models](
 	[ModelID] INT PRIMARY KEY IDENTITY(101, 1),
 	[Name] NVARCHAR(20) NOT NULL,
-	[ManufacturerID] INT FOREIGN KEY REFERENCES [Manufacturers]([ManufacturerID])
+	[ManufacturerID] INT FOREIGN KEY REFERENCES [Manufacturers]([ManufacturerID]) NOT NULL
 )
 
 INSERT INTO [Models]([Name], [ManufacturerID])
