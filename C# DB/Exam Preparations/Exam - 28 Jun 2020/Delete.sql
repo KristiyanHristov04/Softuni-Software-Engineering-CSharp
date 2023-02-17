@@ -1,0 +1,9 @@
+DELETE FROM [TravelCards]
+WHERE [JourneyId] IN
+(
+	SELECT [Id] FROM [Journeys]
+	WHERE [Id] BETWEEN 1 AND 3
+)
+
+DELETE FROM [Journeys]
+WHERE [Id] BETWEEN 1 AND 3
