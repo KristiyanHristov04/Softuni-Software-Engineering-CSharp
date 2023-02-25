@@ -70,6 +70,6 @@
   
 ***
 <details>
- <summary><h3>MS SQL List</summary>
+ <summary><h3>MS SQL Carriculum List</summary>
 
 1. [**Databases Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/01.%20Inheritance)
