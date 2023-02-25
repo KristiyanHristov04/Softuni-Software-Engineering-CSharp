@@ -54,7 +54,7 @@
   
 ***
 <details>
- <summary><h3>OOP Carriculum List</summary>
+ <summary><h3>MS SQL</summary>
 
 1. [**Inheritance**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/01.%20Inheritance)
 2. [**Encapsulation**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20OOP/02.%20Encapsulation)
