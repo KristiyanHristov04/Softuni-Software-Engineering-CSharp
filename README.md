@@ -75,4 +75,4 @@
 1. [**Databases Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/01.%20Databases%20Introduction)
 2. [**CRUD**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/02.%20CRUD)
 3. [**Table Relations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/03.%20Table%20Relations)
-3. [**Table Relations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/03.%20Table%20Relations)
+4. [**Table Relations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/03.%20Table%20Relations)
