@@ -77,4 +77,4 @@
 3. [**Table Relations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/03.%20Table%20Relations)
 4. [**Built-In Functions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/04.%20Built-in%20Functions)
 5. [**Subqueries and Joins**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/05.%20Subqueries%20and%20Joins)
-6. [**Subqueries and Joins**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/05.%20Subqueries%20and%20Joins)
+6. [**Indices and Data Aggregation**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/06.%20Indices%20and%20Data%20Aggregation)
