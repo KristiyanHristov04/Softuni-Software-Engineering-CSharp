@@ -80,4 +80,4 @@
 6. [**Indices and Data Aggregation**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/06.%20Indices%20and%20Data%20Aggregation)
 7. [**Functions and Stored Procedures**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/07.%20Functions%20and%20Stored%20Procedures)
 8. [**Triggers and Transactions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/08.%20Triggers%20and%20Transactions)
-9. [**Additional Exercises**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/08.%20Triggers%20and%20Transactions)
+9. [**Additional Exercises**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/09.%20Additional%20Exercises)
