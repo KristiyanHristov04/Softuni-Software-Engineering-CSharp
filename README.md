@@ -81,4 +81,4 @@
 7. [**Functions and Stored Procedures**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/07.%20Functions%20and%20Stored%20Procedures)
 8. [**Triggers and Transactions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/08.%20Triggers%20and%20Transactions)
 9. [**Additional Exercises**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/09.%20Additional%20Exercises)
-9. [**Additional Exercises**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/09.%20Additional%20Exercises)
+10. [**Additional Exercises**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/09.%20Additional%20Exercises)
