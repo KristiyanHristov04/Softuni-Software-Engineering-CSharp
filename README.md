@@ -78,3 +78,8 @@
 4. [**Built-In Functions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/04.%20Built-in%20Functions)
 5. [**Subqueries and Joins**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/05.%20Subqueries%20and%20Joins)
 6. [**Indices and Data Aggregation**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/06.%20Indices%20and%20Data%20Aggregation)
+7. [**Functions and Stored Procedures**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/07.%20Functions%20and%20Stored%20Procedures)
+8. [**Triggers and Transactions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/08.%20Triggers%20and%20Transactions)
+9. [**Additional Exercises**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/09.%20Additional%20Exercises)
+10. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/Exam%20Preparations)
+11. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/Exam)
