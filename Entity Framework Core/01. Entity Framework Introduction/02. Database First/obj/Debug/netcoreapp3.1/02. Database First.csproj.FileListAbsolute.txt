@@ -1,0 +1,49 @@
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\02. Database First.exe
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\02. Database First.deps.json
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\02. Database First.runtimeconfig.json
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\02. Database First.runtimeconfig.dev.json
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\02. Database First.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\02. Database First.pdb
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp3.1\02. Database First.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp3.1\02. Database First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp3.1\02. Database First.AssemblyInfoInputs.cache
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp3.1\02. Database First.AssemblyInfo.cs
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp3.1\02. Database First.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp3.1\02. Database First.csproj.CopyComplete
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp3.1\02. Database First.dll
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp3.1\02. Database First.pdb
+C:\Users\KrisPC\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\netcoreapp3.1\02. Database First.genruntimeconfig.cache
