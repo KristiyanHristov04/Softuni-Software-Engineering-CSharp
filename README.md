@@ -85,6 +85,7 @@
 11. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/Exam)
 
   </details>
+
 ***
-<details>
- <summary><h3>Entity Framework Core</summary>
+ <details>
+ <summary><h3>Entity Framework Core Carriculum List</summary>
