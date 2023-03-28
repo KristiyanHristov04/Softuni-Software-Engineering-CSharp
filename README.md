@@ -89,3 +89,4 @@
 ***
  <details>
  <summary><h3>Entity Framework Core Carriculum List</summary>
+  1. [**Databases Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/01.%20Databases%20Introduction)
