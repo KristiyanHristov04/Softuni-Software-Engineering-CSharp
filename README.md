@@ -89,4 +89,5 @@
 ***
  <details>
  <summary><h3>Entity Framework Core Carriculum List</summary>
-  1. [**Entity Framework Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/01.%20Entity%20Framework%20Introduction)
+ 
+ 1. [**Entity Framework Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/01.%20Entity%20Framework%20Introduction)
