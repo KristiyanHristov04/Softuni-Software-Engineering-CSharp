@@ -24,12 +24,11 @@
 
         public static string ImportCountries(ArtilleryContext context, string xmlString)
         {
+            StringBuilder output = new StringBuilder();
             XmlRootAttribute xmlRoot = new XmlRootAttribute("Countries");
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportCountryDto[]), xmlRoot);
 
-            StringBuilder output = new StringBuilder();
             using StringReader reader = new StringReader(xmlString);
-
             ImportCountryDto[] countryDtos = (ImportCountryDto[])xmlSerializer.Deserialize(reader);
             List<Country> countries = new List<Country>();
 
@@ -58,12 +57,11 @@
 
         public static string ImportManufacturers(ArtilleryContext context, string xmlString)
         {
+            StringBuilder output = new StringBuilder();
             XmlRootAttribute xmlRoot = new XmlRootAttribute("Manufacturers");
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportManufacturerDto[]), xmlRoot);
 
-            StringBuilder output = new StringBuilder();
             using StringReader reader = new StringReader(xmlString);
-
             ImportManufacturerDto[] manufacturerDtos = (ImportManufacturerDto[])xmlSerializer.Deserialize(reader);
             List<Manufacturer> manufacturers = new List<Manufacturer>();
 
@@ -87,10 +85,9 @@
                     continue;
                 }
 
-                string[] manufacturerInfo = manufacturer.Founded.Split(", ").TakeLast(2).ToArray();
-
+                string[] foundedSplit = manufacturer.Founded.Split(", ").TakeLast(2).ToArray();
                 manufacturers.Add(manufacturer);
-                output.AppendLine(String.Format(SuccessfulImportManufacturer, manufacturer.ManufacturerName, string.Join(", ", manufacturerInfo)));
+                output.AppendLine(String.Format(SuccessfulImportManufacturer, manufacturer.ManufacturerName, string.Join(", ", foundedSplit)));
             }
 
             context.Manufacturers.AddRange(manufacturers);
@@ -100,12 +97,11 @@
 
         public static string ImportShells(ArtilleryContext context, string xmlString)
         {
+            StringBuilder output = new StringBuilder();
             XmlRootAttribute xmlRoot = new XmlRootAttribute("Shells");
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportShellDto[]), xmlRoot);
 
-            StringBuilder output = new StringBuilder();
             using StringReader reader = new StringReader(xmlString);
-
             ImportShellDto[] shellDtos = (ImportShellDto[])xmlSerializer.Deserialize(reader);
             List<Shell> shells = new List<Shell>();
 
@@ -124,7 +120,7 @@
                 };
 
                 shells.Add(shell);
-                output.AppendLine(string.Format(SuccessfulImportShell, shell.Caliber, shell.ShellWeight));
+                output.AppendLine(String.Format(SuccessfulImportShell, shell.Caliber, shell.ShellWeight));
             }
 
             context.Shells.AddRange(shells);
@@ -134,8 +130,8 @@
 
         public static string ImportGuns(ArtilleryContext context, string jsonString)
         {
-            ImportGunDto[] gunDtos = JsonConvert.DeserializeObject<ImportGunDto[]>(jsonString);
             StringBuilder output = new StringBuilder();
+            ImportGunDto[] gunDtos = JsonConvert.DeserializeObject<ImportGunDto[]>(jsonString);
             List<Gun> guns = new List<Gun>();
 
             foreach (var gunDto in gunDtos)
@@ -147,13 +143,12 @@
                 }
 
                 GunType gunType;
-                bool isValidGunType = Enum.TryParse(typeof(GunType), gunDto.GunType, out object gunTypeValue);
-                if (!isValidGunType)
+                bool isGunTypeValid = Enum.TryParse(typeof(GunType), gunDto.GunType, out object gunTypeValue);
+                if (!isGunTypeValid)
                 {
                     output.AppendLine(ErrorMessage);
                     continue;
                 }
-
                 gunType = (GunType)gunTypeValue;
 
                 Gun gun = new Gun()
@@ -168,22 +163,18 @@
                 };
 
                 List<CountryGun> countriesGuns = new List<CountryGun>();
-                foreach (var countryId in gunDto.Countries)
+                foreach (var countryDto in gunDto.Countries)
                 {
                     CountryGun countryGun = new CountryGun()
                     {
                         Gun = gun,
-                        CountryId = countryId.Id
+                        CountryId = countryDto.Id
                     };
 
                     countriesGuns.Add(countryGun);
                 }
 
-                foreach (var realCountryGun in countriesGuns)
-                {
-                    gun.CountriesGuns.Add(realCountryGun);
-                }
-
+                gun.CountriesGuns = countriesGuns;
                 guns.Add(gun);
                 output.AppendLine(String.Format(SuccessfulImportGun, gun.GunType, gun.GunWeight, gun.BarrelLength));
             }

@@ -48,10 +48,10 @@ namespace Artillery.DataProcessor
                     Range = g.Range,
                     Countries = g.CountriesGuns.Where(cg => cg.Country.ArmySize > 4500000).Select(cg => new ExportCountryDto()
                     {
-                        Country = cg.Country.CountryName,
+                        CountryName = cg.Country.CountryName,
                         ArmySize = cg.Country.ArmySize
                     })
-                    .OrderBy(cg => cg.ArmySize)
+                    .OrderBy(c => c.ArmySize)
                     .ToArray()
                 })
                 .OrderBy(g => g.BarrelLength)
@@ -64,6 +64,7 @@ namespace Artillery.DataProcessor
 
             StringBuilder output = new StringBuilder();
             using StringWriter writer = new StringWriter(output);
+
             xmlSerializer.Serialize(writer, guns, namespaces);
 
             return output.ToString().TrimEnd();

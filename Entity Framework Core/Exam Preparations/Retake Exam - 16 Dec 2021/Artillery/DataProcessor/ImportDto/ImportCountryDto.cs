@@ -19,7 +19,7 @@ namespace Artillery.DataProcessor.ImportDto
         public string CountryName { get; set; }
 
         [Required]
-        [Range(GlobalConstants.CountryArmySizeMinSize, GlobalConstants.CountryArmySizeMaxSize)]
+        [Range(GlobalConstants.CountryArmySizeMin, GlobalConstants.CountryArmySizeMax)]
         [XmlElement("ArmySize")]
         public int ArmySize { get; set; }
     }

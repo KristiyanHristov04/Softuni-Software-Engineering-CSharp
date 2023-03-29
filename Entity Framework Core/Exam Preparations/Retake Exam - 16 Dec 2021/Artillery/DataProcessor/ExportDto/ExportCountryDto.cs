@@ -11,7 +11,7 @@ namespace Artillery.DataProcessor.ExportDto
     public class ExportCountryDto
     {
         [XmlAttribute("Country")]
-        public string Country { get; set; }
+        public string CountryName { get; set; }
 
         [XmlAttribute("ArmySize")]
         public int ArmySize { get; set; }

@@ -11,8 +11,8 @@ namespace Artillery.Common
         //Country
         public const int CountryNameMinLength = 4;
         public const int CountryNameMaxLength = 60;
-        public const int CountryArmySizeMinSize = 50_000;
-        public const int CountryArmySizeMaxSize = 10_000_000;
+        public const int CountryArmySizeMin = 50_000;
+        public const int CountryArmySizeMax = 10_000_000;
 
         //Manufacturer
         public const int ManufacturerNameMinLength = 4;
