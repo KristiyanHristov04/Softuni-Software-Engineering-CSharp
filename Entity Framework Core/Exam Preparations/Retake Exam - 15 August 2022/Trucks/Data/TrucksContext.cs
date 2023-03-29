@@ -14,10 +14,10 @@
         { 
         }
 
-        public DbSet<Truck> Trucks { get; set; }
         public DbSet<Client> Clients { get; set; }
-        public DbSet<Despatcher> Despatchers { get; set; }
         public DbSet<ClientTruck> ClientsTrucks { get; set; }
+        public DbSet<Despatcher> Despatchers { get; set; }
+        public DbSet<Truck> Trucks { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -32,7 +32,7 @@
         {
             modelBuilder.Entity<ClientTruck>(entity =>
             {
-                entity.HasKey(e => new { e.ClientId, e.TruckId });
+                entity.HasKey(e => new { e.TruckId, e.ClientId });
             });
         }
     }

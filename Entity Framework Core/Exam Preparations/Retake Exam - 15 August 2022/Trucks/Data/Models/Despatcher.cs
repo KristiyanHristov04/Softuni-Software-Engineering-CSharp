@@ -20,6 +20,7 @@ namespace Trucks.Data.Models
         [Required]
         public string Name { get; set; }
 
+        [Required]
         public string Position { get; set; }
 
         public ICollection<Truck> Trucks { get; set; }

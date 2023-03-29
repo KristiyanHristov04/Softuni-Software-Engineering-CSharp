@@ -8,7 +8,7 @@ using System.Xml.Serialization;
 namespace Trucks.DataProcessor.ExportDto
 {
     [XmlType("Despatcher")]
-    public class DespatcherOutputModel
+    public class ExportDespatcherDto
     {
         [XmlAttribute("TrucksCount")]
         public int TrucksCount { get; set; }
@@ -17,6 +17,6 @@ namespace Trucks.DataProcessor.ExportDto
         public string DespatcherName { get; set; }
 
         [XmlArray("Trucks")]
-        public TruckOutputModel[] Trucks { get; set; }
+        public ExportTruckDto[] Trucks { get; set; }
     }
 }

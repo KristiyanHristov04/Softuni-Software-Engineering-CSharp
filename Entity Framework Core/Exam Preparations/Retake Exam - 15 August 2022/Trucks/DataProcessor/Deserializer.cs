@@ -21,14 +21,13 @@
 
         public static string ImportDespatcher(TrucksContext context, string xmlString)
         {
-            XmlRootAttribute xmlRoot = new XmlRootAttribute("Despatchers");
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(DespatcherInputModel[]), xmlRoot);
-
-            using StringReader reader = new StringReader(xmlString);
-            DespatcherInputModel[] despatcherDtos = (DespatcherInputModel[])xmlSerializer.Deserialize(reader);
-
-            List<Despatcher> despatchers = new List<Despatcher>();
             StringBuilder output = new StringBuilder();
+            XmlRootAttribute xmlRoot = new XmlRootAttribute("Despatchers");
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportDespatcherDto[]), xmlRoot);
+            using StringReader reader = new StringReader(xmlString);
+            ImportDespatcherDto[] despatcherDtos = (ImportDespatcherDto[])xmlSerializer.Deserialize(reader);
+            List<Despatcher> despatchers = new List<Despatcher>();
+
             foreach (var despatcherDto in despatcherDtos)
             {
                 if (!IsValid(despatcherDto))
@@ -67,22 +66,24 @@
                         CategoryType = (CategoryType)truckDto.CategoryType,
                         MakeType = (MakeType)truckDto.MakeType
                     };
+
                     trucks.Add(truck);
                 }
                 despatcher.Trucks = trucks;
                 despatchers.Add(despatcher);
-                output.AppendLine(string.Format(SuccessfullyImportedDespatcher, despatcher.Name, despatcher.Trucks.Count));
+                output.AppendLine(String.Format(SuccessfullyImportedDespatcher, despatcher.Name, despatcher.Trucks.Count));
             }
+
             context.Despatchers.AddRange(despatchers);
             context.SaveChanges();
             return output.ToString().TrimEnd();
         }
         public static string ImportClient(TrucksContext context, string jsonString)
         {
-            List<ClientInputModel> clientDtos = JsonConvert.DeserializeObject<List<ClientInputModel>>(jsonString);
             StringBuilder output = new StringBuilder();
-
+            ImportClientDto[] clientDtos = JsonConvert.DeserializeObject<ImportClientDto[]>(jsonString);
             List<Client> clients = new List<Client>();
+
             foreach (var clientDto in clientDtos)
             {
                 if (!IsValid(clientDto))
@@ -104,6 +105,7 @@
                     Type = clientDto.Type
                 };
 
+                List<ClientTruck> clientsTrucks = new List<ClientTruck>();
                 foreach (var truckId in clientDto.Trucks.Distinct())
                 {
                     Truck truck = context.Trucks.FirstOrDefault(t => t.Id == truckId);
@@ -119,13 +121,14 @@
                         Truck = truck
                     };
 
-                    client.ClientsTrucks.Add(clientTruck);
+                    clientsTrucks.Add(clientTruck);
                 }
+                client.ClientsTrucks = clientsTrucks;
                 clients.Add(client);
-                output.AppendLine(string.Format(SuccessfullyImportedClient, client.Name, client.ClientsTrucks.Count));
+                output.AppendLine(String.Format(SuccessfullyImportedClient, client.Name, client.ClientsTrucks.Count));
             }
 
-            context.AddRange(clients);
+            context.Clients.AddRange(clients);
             context.SaveChanges();
             return output.ToString().TrimEnd();
         }

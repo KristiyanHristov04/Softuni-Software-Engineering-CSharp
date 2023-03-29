@@ -4,20 +4,19 @@
     using Newtonsoft.Json;
     using System.Text;
     using System.Xml.Serialization;
-    using Trucks.Data.Models.Enums;
     using Trucks.DataProcessor.ExportDto;
 
     public class Serializer
     {
         public static string ExportDespatchersWithTheirTrucks(TrucksContext context)
         {
-            DespatcherOutputModel[] despatcherDto = context.Despatchers
+            var despatchers = context.Despatchers
                 .Where(d => d.Trucks.Count >= 1)
-                .Select(d => new DespatcherOutputModel()
+                .Select(d => new ExportDespatcherDto()
                 {
                     TrucksCount = d.Trucks.Count,
                     DespatcherName = d.Name,
-                    Trucks = d.Trucks.Select(t => new TruckOutputModel()
+                    Trucks = d.Trucks.Select(t => new ExportTruckDto()
                     {
                         RegistrationNumber = t.RegistrationNumber,
                         Make = t.MakeType.ToString()
@@ -29,29 +28,25 @@
                 .ThenBy(d => d.DespatcherName)
                 .ToArray();
 
-
             XmlRootAttribute xmlRoot = new XmlRootAttribute("Despatchers");
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(DespatcherOutputModel[]), xmlRoot);
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportDespatcherDto[]), xmlRoot);
             XmlSerializerNamespaces namespaces = new XmlSerializerNamespaces();
             namespaces.Add(string.Empty, string.Empty);
-
-            StringBuilder sb = new StringBuilder();
-            using StringWriter writer = new StringWriter(sb);
-            xmlSerializer.Serialize(writer, despatcherDto, namespaces);
-            return sb.ToString().TrimEnd();
+            StringBuilder output = new StringBuilder();
+            using StringWriter writer = new StringWriter(output);
+            xmlSerializer.Serialize(writer, despatchers, namespaces);
+            return output.ToString().TrimEnd();
         }
 
         public static string ExportClientsWithMostTrucks(TrucksContext context, int capacity)
         {
-            var clients = context
-                .Clients
-                .Where(c => c.ClientsTrucks.Any(ct => ct.Truck.TankCapacity >= capacity))
+            var clients = context.Clients
+                .Where(c => c.ClientsTrucks.Count >= 1 && c.ClientsTrucks.Any(ct => ct.Truck.TankCapacity >= capacity))
                 .ToArray()
                 .Select(c => new
                 {
                     Name = c.Name,
-                    Trucks = c.ClientsTrucks
-                    .Where(ct => ct.Truck.TankCapacity >= capacity)
+                    Trucks = c.ClientsTrucks.Where(ct => ct.Truck.TankCapacity >= capacity)
                     .Select(ct => new
                     {
                         TruckRegistrationNumber = ct.Truck.RegistrationNumber,
@@ -60,9 +55,11 @@
                         CargoCapacity = ct.Truck.CargoCapacity,
                         CategoryType = ct.Truck.CategoryType.ToString(),
                         MakeType = ct.Truck.MakeType.ToString()
+
                     })
-                    .OrderBy(t => t.MakeType)
-                    .ThenByDescending(t => t.CargoCapacity)
+                    .OrderBy(ct => ct.MakeType)
+                    .ThenByDescending(ct => ct.CargoCapacity)
+                    .ToArray()
                 })
                 .OrderByDescending(c => c.Trucks.Count())
                 .ThenBy(c => c.Name)
