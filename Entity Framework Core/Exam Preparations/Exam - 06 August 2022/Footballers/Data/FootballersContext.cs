@@ -10,6 +10,7 @@
         public FootballersContext(DbContextOptions options)
             : base(options) { }
 
+
         public DbSet<Coach> Coaches { get; set; }
         public DbSet<Footballer> Footballers { get; set; }
         public DbSet<Team> Teams { get; set; }

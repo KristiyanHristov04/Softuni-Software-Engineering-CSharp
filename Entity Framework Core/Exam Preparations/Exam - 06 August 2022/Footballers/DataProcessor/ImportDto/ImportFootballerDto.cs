@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Footballers.Common;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -9,30 +10,28 @@ using System.Xml.Serialization;
 namespace Footballers.DataProcessor.ImportDto
 {
     [XmlType("Footballer")]
-    public class FootballerInputModel
+    public class ImportFootballerDto
     {
-        [XmlElement("Name")]
         [Required]
-        [MinLength(2)]
-        [MaxLength(40)]
+        [MinLength(GlobalConstants.FootballerNameMinLength)]
+        [MaxLength(GlobalConstants.FootballerNameMaxLength)]
+        [XmlElement("Name")]
         public string Name { get; set; }
 
-        [XmlElement("ContractStartDate")]
         [Required]
+        [XmlElement("ContractStartDate")]
         public string ContractStartDate { get; set; }
 
-        [XmlElement("ContractEndDate")]
         [Required]
+        [XmlElement("ContractEndDate")]
         public string ContractEndDate { get; set; }
 
-        [XmlElement("BestSkillType")]
         [Required]
-        [Range(0, 4)]
+        [XmlElement("BestSkillType")]
         public int BestSkillType { get; set; }
 
-        [XmlElement("PositionType")]
         [Required]
-        [Range(0, 3)]
+        [XmlElement("PositionType")]
         public int PositionType { get; set; }
     }
 }

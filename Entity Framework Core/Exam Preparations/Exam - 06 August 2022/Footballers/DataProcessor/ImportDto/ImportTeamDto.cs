@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using Footballers.Common;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -8,26 +9,24 @@ using System.Threading.Tasks;
 
 namespace Footballers.DataProcessor.ImportDto
 {
-    public class TeamInputModel
+    public class ImportTeamDto
     {
         [Required]
-        [MinLength(3)]
-        [MaxLength(40)]
-        [RegularExpression(@"^[A-Za-z0-9\s\.\-]{3,}$")]
+        [RegularExpression(GlobalConstants.TeamNameRegularExpression)]
+        [MinLength(GlobalConstants.TeamNameMinLength)]
+        [MaxLength(GlobalConstants.TeamNameMaxLength)]
         [JsonProperty("Name")]
         public string Name { get; set; }
 
         [Required]
-        [MinLength(2)]
-        [MaxLength(40)]
+        [MinLength(GlobalConstants.TeamNationalityMinLength)]
+        [MaxLength(GlobalConstants.TeamNationalityMaxLength)]
         [JsonProperty("Nationality")]
         public string Nationality { get; set; }
 
         [Required]
         [JsonProperty("Trophies")]
         public int Trophies { get; set; }
-
-        [JsonProperty("Footballers")]
-        public List<int> FootballersIds { get; set; }
+        public int[] Footballers { get; set; }
     }
 }

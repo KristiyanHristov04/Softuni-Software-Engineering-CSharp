@@ -11,32 +11,31 @@
     {
         public static string ExportCoachesWithTheirFootballers(FootballersContext context)
         {
-            CoachOutputModel[] coaches = context.Coaches
+            var coaches = context.Coaches
                 .Where(c => c.Footballers.Count >= 1)
-                .Select(c => new CoachOutputModel()
+                .Select(c => new ExportCoachDto()
                 {
                     FootballersCount = c.Footballers.Count,
-                    CoachName = c.Name,
-                    Footballers = c.Footballers.Select(f => new FootballerOutputModel()
+                    Name = c.Name,
+                    Footballers = c.Footballers.Select(f => new ExportFootballerDto()
                     {
                         Name = f.Name,
                         Position = f.PositionType.ToString()
                     })
-                    .OrderBy(f => f.Name)
+                    .OrderBy(f => f.Name)   
                     .ToArray()
                 })
                 .OrderByDescending(f => f.FootballersCount)
-                .ThenBy(f => f.CoachName)
+                .ThenBy(f => f.Name)
                 .ToArray();
 
             XmlRootAttribute xmlRoot = new XmlRootAttribute("Coaches");
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(CoachOutputModel[]), xmlRoot);
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportCoachDto[]), xmlRoot);
             XmlSerializerNamespaces namespaces = new XmlSerializerNamespaces();
             namespaces.Add(string.Empty, string.Empty);
 
             StringBuilder output = new StringBuilder();
             using StringWriter writer = new StringWriter(output);
-
             xmlSerializer.Serialize(writer, coaches, namespaces);
 
             return output.ToString().TrimEnd();
@@ -46,12 +45,10 @@
         {
             var teams = context.Teams
                 .Where(t => t.TeamsFootballers.Any(tf => tf.Footballer.ContractStartDate >= date))
-                .ToArray()
                 .Select(t => new
                 {
                     Name = t.Name,
-                    Footballers = t.TeamsFootballers
-                    .Where(tf => tf.Footballer.ContractStartDate >= date)
+                    Footballers = t.TeamsFootballers.Where(tf => tf.Footballer.ContractStartDate >= date)
                     .OrderByDescending(tf => tf.Footballer.ContractEndDate)
                     .ThenBy(tf => tf.Footballer.Name)
                     .Select(tf => new
