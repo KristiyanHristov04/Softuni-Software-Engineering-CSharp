@@ -83,3 +83,11 @@
 9. [**Additional Exercises**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/09.%20Additional%20Exercises)
 10. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/Exam%20Preparations)
 11. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/MS%20SQL/Exam)
+
+  </details>
+
+***
+ <details>
+ <summary><h3>Entity Framework Core Carriculum List</summary>
+ 
+ 1. [**Entity Framework Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/01.%20Entity%20Framework%20Introduction)
