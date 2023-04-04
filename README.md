@@ -94,3 +94,4 @@
 2. [**Entity Relations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/02.%20Entity%20Relations)
 3. [**LINQ**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/03.%20LINQ)
 4. [**Advanced Querying**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/04.%20Advanced%20Querying)
+5. [**Advanced Querying**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/04.%20Advanced%20Querying)
