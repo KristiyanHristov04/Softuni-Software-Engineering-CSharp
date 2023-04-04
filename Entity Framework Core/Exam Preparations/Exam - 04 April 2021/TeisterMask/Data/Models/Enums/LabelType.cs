@@ -11,7 +11,7 @@ namespace TeisterMask.Data.Models.Enums
         Priority = 0,
         CSharpAdvanced = 1,
         JavaAdvanced = 2,
-        EntityFramework = 3,
+        EntityFramework = 3, 
         Hibernate = 4
     }
 }

@@ -9,9 +9,9 @@ namespace TeisterMask.Common
     public static class GlobalConstants
     {
         //Employee
+        public const string EmployeeUsernameRegularExpression = @"[a-zA-Z0-9]{3,}";
         public const int EmployeeUsernameMinLength = 3;
         public const int EmployeeUsernameMaxLength = 40;
-        public const string EmployeeUsernameRegularExpression = @"[a-zA-Z0-9]{3,}";
         public const string EmployeePhoneRegularExpression = @"[0-9]{3}\-[0-9]{3}\-[0-9]{4}";
 
         //Project

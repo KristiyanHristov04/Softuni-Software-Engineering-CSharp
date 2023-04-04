@@ -43,33 +43,36 @@ namespace TeisterMask.DataProcessor
                     continue;
                 }
 
-                DateTime projectOpenDate;
-                bool isProjectOpenDateValid = DateTime.TryParseExact(projectDto.OpenDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out projectOpenDate);
-                if (!isProjectOpenDateValid)
+                DateTime openDateProject;
+                bool isOpenDateProjectValid = DateTime.TryParseExact(projectDto.OpenDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out openDateProject);
+                if (!isOpenDateProjectValid)
                 {
                     output.AppendLine(ErrorMessage);
                     continue;
                 }
 
-                DateTime? projectDueDateFinal = null;
-                if (!string.IsNullOrWhiteSpace(projectDto.DueDate))
+                DateTime? dueDateProject;
+                if (string.IsNullOrEmpty(projectDto.DueDate))
                 {
-                    DateTime projectDueDate;
-                    bool isProjectDueDateValid = DateTime.TryParseExact(projectDto.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out projectDueDate);
-                    if (!isProjectDueDateValid)
+                    dueDateProject = null;
+                }
+                else
+                {
+                    DateTime dueDateProjectTemp;
+                    bool isDueDateProjectValid = DateTime.TryParseExact(projectDto.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out dueDateProjectTemp);
+                    if (!isDueDateProjectValid)
                     {
                         output.AppendLine(ErrorMessage);
                         continue;
                     }
-
-                    projectDueDateFinal = projectDueDate;
-                }       
+                    dueDateProject = dueDateProjectTemp;
+                }
 
                 Project project = new Project()
                 {
                     Name = projectDto.Name,
-                    OpenDate = projectOpenDate,
-                    DueDate = projectDueDateFinal
+                    OpenDate = openDateProject,
+                    DueDate = dueDateProject
                 };
 
                 List<Task> tasks = new List<Task>();
@@ -81,44 +84,35 @@ namespace TeisterMask.DataProcessor
                         continue;
                     }
 
-                    DateTime taskOpenDate;
-                    bool isTaskOpenDateValid = DateTime.TryParseExact(taskDto.OpenDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out taskOpenDate);
-                    if (!isTaskOpenDateValid)
+                    DateTime openDateTask;
+                    bool isOpenDateTaskValid = DateTime.TryParseExact(taskDto.OpenDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out openDateTask);
+                    if (!isOpenDateTaskValid)
                     {
                         output.AppendLine(ErrorMessage);
                         continue;
                     }
 
-                    DateTime taskDueDate;
-                    bool isTaskDueDateValid = DateTime.TryParseExact(taskDto.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out taskDueDate);
-                    if (!isTaskDueDateValid)
+                    DateTime dueDateTask;
+                    bool isDueDateTaskValid = DateTime.TryParseExact(taskDto.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out dueDateTask);
+                    if (!isDueDateTaskValid)
                     {
                         output.AppendLine(ErrorMessage);
                         continue;
                     }
 
-                    if (taskOpenDate < projectOpenDate)
+                    if (openDateTask < openDateProject || dueDateTask > dueDateProject)
                     {
                         output.AppendLine(ErrorMessage);
                         continue;
                     }
-
-                    if (taskDueDate > projectDueDateFinal)
-                    {
-                        output.AppendLine(ErrorMessage);
-                        continue;
-                    }
-
-                    bool isExecutionTypeValid = Enum.TryParse(typeof(ExecutionType), taskDto.ExecutionType, out object executionType);
-                    bool isLabelTypeValid = Enum.TryParse(typeof(LabelType), taskDto.LabelType, out object labelType);
 
                     Task task = new Task()
                     {
                         Name = taskDto.Name,
-                        OpenDate = taskOpenDate,
-                        DueDate = taskDueDate,
-                        ExecutionType = (ExecutionType)executionType,
-                        LabelType = (LabelType)labelType
+                        OpenDate = openDateTask,
+                        DueDate = dueDateTask,
+                        ExecutionType = (ExecutionType)taskDto.ExecutionType,
+                        LabelType = (LabelType)taskDto.LabelType
                     };
 
                     tasks.Add(task);
@@ -154,10 +148,11 @@ namespace TeisterMask.DataProcessor
                     Phone = employeeDto.Phone
                 };
 
-                List<EmployeeTask> employeeTasks = new List<EmployeeTask>();
-                foreach (var taskDtoId in employeeDto.Tasks.Distinct())
+                List<EmployeeTask> employeesTasks = new List<EmployeeTask>();
+                foreach (var taskId in employeeDto.Tasks.Distinct())
                 {
-                    if (!context.Tasks.Any(t => t.Id == taskDtoId))
+                    Task task = context.Tasks.FirstOrDefault(t => t.Id == taskId);
+                    if (task == null)
                     {
                         output.AppendLine(ErrorMessage);
                         continue;
@@ -166,12 +161,12 @@ namespace TeisterMask.DataProcessor
                     EmployeeTask employeeTask = new EmployeeTask()
                     {
                         Employee = employee,
-                        TaskId = taskDtoId
+                        Task = task
                     };
 
-                    employeeTasks.Add(employeeTask);
+                    employeesTasks.Add(employeeTask);
                 }
-                employee.EmployeesTasks = employeeTasks;
+                employee.EmployeesTasks = employeesTasks;
                 employees.Add(employee);
                 output.AppendLine(String.Format(SuccessfullyImportedEmployee, employee.Username, employee.EmployeesTasks.Count));
             }

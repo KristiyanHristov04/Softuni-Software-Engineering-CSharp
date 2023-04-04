@@ -14,7 +14,7 @@ namespace TeisterMask.DataProcessor.ExportDto
         public int TasksCount { get; set; }
 
         [XmlElement("ProjectName")]
-        public string ProjectName { get; set; }
+        public string Name { get; set; }
 
         [XmlElement("HasEndDate")]
         public string HasEndDate { get; set; }

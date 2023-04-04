@@ -28,10 +28,10 @@ namespace TeisterMask.DataProcessor.ImportDto
 
         [Required]
         [XmlElement("ExecutionType")]
-        public string ExecutionType { get; set; }
+        public int ExecutionType { get; set; }
 
         [Required]
         [XmlElement("LabelType")]
-        public string LabelType { get; set; }
+        public int LabelType { get; set; }
     }
 }

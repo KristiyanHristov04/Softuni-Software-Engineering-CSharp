@@ -5,21 +5,20 @@
     using System.Globalization;
     using System.Text;
     using System.Xml.Serialization;
+    using TeisterMask.Data.Models.Enums;
     using TeisterMask.DataProcessor.ExportDto;
 
     public class Serializer
     {
         public static string ExportProjectWithTheirTasks(TeisterMaskContext context)
         {
-            ExportProjectDto[] projectDtos = context
-                .Projects
+            var projects = context.Projects
                 .Where(p => p.Tasks.Any())
-                .ToArray()
                 .Select(p => new ExportProjectDto()
                 {
-                    TasksCount = p.Tasks.Count,
-                    ProjectName = p.Name,
-                    HasEndDate = p.DueDate == null ? "No" : "Yes",
+                    TasksCount = p.Tasks.Count(),
+                    Name = p.Name,
+                    HasEndDate = p.DueDate != null ? "Yes" : "No",
                     Tasks = p.Tasks.Select(t => new ExportTaskDto()
                     {
                         Name = t.Name,
@@ -29,7 +28,7 @@
                     .ToArray()
                 })
                 .OrderByDescending(p => p.TasksCount)
-                .ThenBy(p => p.ProjectName)
+                .ThenBy(p => p.Name)
                 .ToArray();
 
             XmlRootAttribute xmlRoot = new XmlRootAttribute("Projects");
@@ -40,7 +39,7 @@
             StringBuilder output = new StringBuilder();
             using StringWriter writer = new StringWriter(output);
 
-            xmlSerializer.Serialize(writer, projectDtos, namespaces);
+            xmlSerializer.Serialize(writer, projects, namespaces);
 
             return output.ToString().TrimEnd();
         }
@@ -49,7 +48,6 @@
         {
             var employees = context.Employees
                 .Where(e => e.EmployeesTasks.Any(et => et.Task.OpenDate >= date))
-                .ToArray()
                 .Select(e => new
                 {
                     Username = e.Username,
@@ -62,12 +60,12 @@
                         OpenDate = et.Task.OpenDate.ToString("d", CultureInfo.InvariantCulture),
                         DueDate = et.Task.DueDate.ToString("d", CultureInfo.InvariantCulture),
                         LabelType = et.Task.LabelType.ToString(),
-                        ExecutionType = et.Task.ExecutionType.ToString(),
+                        ExecutionType = et.Task.ExecutionType.ToString()
                     })
                     .ToArray()
                 })
-                .OrderByDescending(t => t.Tasks.Count())
-                .ThenBy(t => t.Username)
+                .OrderByDescending(e => e.Tasks.Count())
+                .ThenBy(e => e.Username)
                 .Take(10)
                 .ToArray();
 

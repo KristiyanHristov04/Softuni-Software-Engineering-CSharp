@@ -11,7 +11,7 @@ namespace TeisterMask.Data.Models
     {
         public Project()
         {
-            this.Tasks = new HashSet<Task>();
+            this.Tasks = new HashSet<Task>();   
         }
 
         [Key]
