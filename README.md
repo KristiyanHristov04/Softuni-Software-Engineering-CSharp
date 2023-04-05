@@ -95,4 +95,4 @@
 3. [**LINQ**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/03.%20LINQ)
 4. [**Advanced Querying**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/04.%20Advanced%20Querying)
 5. [**JavaScript Object Notation - JSON**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/05.%20JavaScript%20Object%20Notation%20-%20JSON)
-6. [**JavaScript Object Notation - JSON**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/05.%20JavaScript%20Object%20Notation%20-%20JSON)
+6. [**Extensible Markup Language - XML**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/05.%20JavaScript%20Object%20Notation%20-%20JSON)
