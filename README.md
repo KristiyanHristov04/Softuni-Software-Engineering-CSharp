@@ -90,6 +90,7 @@
  <details>
  <summary><h3>Entity Framework Core Carriculum List</summary>
  
+ 8. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam)
  1. [**Entity Framework Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/01.%20Entity%20Framework%20Introduction)
 2. [**Entity Relations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/02.%20Entity%20Relations)
 3. [**LINQ**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/03.%20LINQ)
