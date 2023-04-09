@@ -1,3 +1,4 @@
+<img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="500" height="500">
 # SoftUni Software Engineering C#
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SoftUni-Courses&fontSize=90" />
 
