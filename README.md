@@ -99,5 +99,5 @@
 6. [**Extensible Markup Language - XML**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/06.%20Extensible%20Markup%20Language%20-%20XML)
 7. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam%20Preparations)
 8. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam)
-
+  </details>
 <img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="780" height="1122">
