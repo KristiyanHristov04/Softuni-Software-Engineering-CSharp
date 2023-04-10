@@ -100,10 +100,12 @@
 7. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam%20Preparations)
 8. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam)
   </details>
-<img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="780" height="1122">
 
 <p float="left">
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="300" height="500" />
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/139494?code=4274857b" alt="Programming Basics With C# Certificate" width="300" height="500" />
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/144082?code=7860b445" alt="C# Advanced Certificate" width="300" height="500" />
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="300" height="400" />
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/139494?code=4274857b" alt="Programming Basics With C# Certificate" width="300" height="400" />
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/144082?code=7860b445" alt="C# Advanced Certificate" width="300" height="400" />
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/150803?code=2a597899" alt="C# OOP Certificate" width="300" height="400" />
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/157898?code=8aea2081" alt="MS SQL Certificate" width="300" height="400" />
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/164925?code=08ec44c2" alt="Entity Framework Core Certificate" width="300" height="400" />
 </p>
