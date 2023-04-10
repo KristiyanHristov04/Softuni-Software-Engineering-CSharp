@@ -101,3 +101,9 @@
 8. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam)
   </details>
 <img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="780" height="1122">
+
+<p float="left">
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="300" height="600" />
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="300" height="600" /> 
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="300" height="600" />
+</p>
