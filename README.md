@@ -103,9 +103,9 @@
 
 <p float="left">
   <img src="https://i.ibb.co/vwQpX4J/121332-code-e33cdfe6.png" alt="" width="300" height="400" />
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/139494?code=4274857b" alt="" width="300" height="400" />
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/144082?code=7860b445" alt="" width="300" height="400" />
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/150803?code=2a597899" alt="" width="300" height="400" />
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/157898?code=8aea2081" alt="" width="300" height="400" />
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/164925?code=08ec44c2" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/t28dZDQ/139494-code-4274857b.png" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/7kwcLzn/144082-code-7860b445.png" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/Q9Ly36W/150803-code-2a597899.png" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/XbN722D/157898-code-8aea2081.png" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/6gKtfGZ/164925-code-08ec44c2.png" alt="" width="300" height="400" />
 </p>
