@@ -102,7 +102,7 @@
   </details>
 
 <p float="left">
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/vwQpX4J/121332-code-e33cdfe6.png" alt="" width="300" height="400" />
   <img src="https://softuni.bg/certificates/certificates/converttoimage/139494?code=4274857b" alt="" width="300" height="400" />
   <img src="https://softuni.bg/certificates/certificates/converttoimage/144082?code=7860b445" alt="" width="300" height="400" />
   <img src="https://softuni.bg/certificates/certificates/converttoimage/150803?code=2a597899" alt="" width="300" height="400" />
