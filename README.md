@@ -100,6 +100,7 @@
 7. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam%20Preparations)
 8. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam)
   </details>
+  ***
 
 <p float="left">
   <img src="https://i.ibb.co/vwQpX4J/121332-code-e33cdfe6.png" alt="" width="300" height="400" />
