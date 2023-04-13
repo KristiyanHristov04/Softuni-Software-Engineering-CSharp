@@ -90,7 +90,27 @@
  <details>
  <summary><h3>Entity Framework Core Carriculum List</summary>
  
+ 0. [**ADO.NET**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/00.%20ADO.NET)
  1. [**Entity Framework Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/01.%20Entity%20Framework%20Introduction)
 2. [**Entity Relations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/02.%20Entity%20Relations)
 3. [**LINQ**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/03.%20LINQ)
 4. [**Advanced Querying**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/04.%20Advanced%20Querying)
+5. [**JavaScript Object Notation - JSON**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/05.%20JavaScript%20Object%20Notation%20-%20JSON)
+6. [**Extensible Markup Language - XML**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/06.%20Extensible%20Markup%20Language%20-%20XML)
+7. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam%20Preparations)
+8. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/Entity%20Framework%20Core/Exam)
+  </details>
+  
+***
+
+<p float="left">
+  <img src="https://i.ibb.co/vwQpX4J/121332-code-e33cdfe6.png" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/t28dZDQ/139494-code-4274857b.png" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/7kwcLzn/144082-code-7860b445.png" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/Q9Ly36W/150803-code-2a597899.png" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/XbN722D/157898-code-8aea2081.png" alt="" width="300" height="400" />
+  <img src="https://i.ibb.co/6gKtfGZ/164925-code-08ec44c2.png" alt="" width="300" height="400" />
+</p>
+  
+<img src="https://i.ibb.co/txp7c7F/SQLBasic-Certificate.png" width="604" height="500">
+<img src="https://i.ibb.co/pP1Zgn7/Udemy-Certificate.jpg" width="604" height="500">
