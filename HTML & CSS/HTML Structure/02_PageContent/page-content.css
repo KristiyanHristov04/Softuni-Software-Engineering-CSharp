@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+
+header h1{
+    font-size: 28px;
+}
+
+section article header p{
+    font-style: italic;
+}
+
+section article p{
+    font-size: 24px;
+}
+
+section{
+    margin-left: 20px;
+}
