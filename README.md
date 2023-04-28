@@ -112,5 +112,5 @@
   <img src="https://i.ibb.co/6gKtfGZ/164925-code-08ec44c2.png" alt="" width="300" height="400" />
 </p>
   
-<img src="https://i.ibb.co/txp7c7F/SQLBasic-Certificate.png" width="604" height="500">
+<img src="https://i.ibb.co/9yXsBXk/SQLBasic-Certificate.png" width="604" height="500">
 <img src="https://i.ibb.co/pP1Zgn7/Udemy-Certificate.jpg" width="604" height="500">
