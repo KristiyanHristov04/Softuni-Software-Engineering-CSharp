@@ -1,0 +1,19 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(238, 238, 238);
+}
+article{
+    margin: 12px 8px 12px 24px;
+    display: inline-block;
+    width: 55%;
+}
+aside{
+    display: inline-block;
+    position: absolute;
+}
+img{
+    width: 70%;
+}
+a{
+    color: blue;
+}
