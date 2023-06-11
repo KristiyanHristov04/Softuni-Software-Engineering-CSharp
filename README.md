@@ -18,7 +18,7 @@ C# Basics
 7. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Basics/Exam)
 
 JavaScript Basics
-1. [**First Steps In Coding**]()
+1. [**First Steps In Coding**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/01.%20First%20Steps%20In%20Coding)
  </details>
  
 ***
