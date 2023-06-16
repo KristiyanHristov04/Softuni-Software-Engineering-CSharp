@@ -1,0 +1,54 @@
+body{
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    max-width: 65vw;
+}
+
+.week{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.notes{
+    display: flex;
+    flex-direction: column;
+    height: 208px;
+}
+
+span{
+    border: 1px solid black;
+    padding: 1rem;
+    text-align: center;
+}
+
+.week span:nth-child(1){
+    flex-basis: 100%;
+}
+
+.week span:nth-child(2),
+.week span:nth-child(3),
+.week span:nth-child(4),
+.week span:nth-child(5),
+.week span:nth-child(6)
+{
+    flex-grow: 1;
+}
+
+.week span:nth-child(7){
+    flex-basis: 100%;
+}
+
+.notes span:nth-child(1),
+.notes span:nth-child(2),
+.week span:nth-child(8),
+.week span:nth-child(9)
+{
+    flex-grow: 1;
+}
