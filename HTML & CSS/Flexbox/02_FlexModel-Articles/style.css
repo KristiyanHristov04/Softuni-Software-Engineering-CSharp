@@ -1,0 +1,27 @@
+body{
+    position: relative;
+    height: 90vh;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    gap: 40px;
+}
+
+section h2{
+    font-family: "Georgia", serif;
+    line-height: 1.2;
+    font-size: 35px;
+}
+
+section p{
+    font-family: "Helvetica", sans-serif;
+    line-height: 1.5;
+    font-size: 20px;
+}
