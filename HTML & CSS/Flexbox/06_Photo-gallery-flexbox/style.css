@@ -1,0 +1,29 @@
+body, ul, li{
+    display: flex;
+}
+
+body{
+    background-color: lightgray;
+}
+
+ul{
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+ul li{
+    width: 100px;
+    background-color: #fff;
+}
+
+ul li img{
+    padding: 1rem;
+    border: 5px solid black;
+    object-fit: contain;
+    width: 100%;
+}
+
+ul li{
+    flex-basis: 32%;
+}
