@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(238, 238, 238);
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.page{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header{
+    flex-basis: 100%;
+}
+
+.page header{
+    border-bottom: 5px solid  black;
+}
+
+.page header h1{
+    text-transform: uppercase;
+}
+
+.page section{
+    width: 70%;
+}
+
+.page aside{
+    width: 25%;
+    margin-left: 35px;
+}
+
+.page aside ul li a{
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+
+.page section article:nth-child(2){
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page section article:nth-child(2) p:nth-child(1), .page section article:nth-child(2) p:nth-child(3){
+    flex-basis: 100%;
+}
+
+.page section article:nth-child(2) #change{
+    flex-basis: 50%;
+    border-right: 5px lightgray solid;
+    padding-right: 20px;
+}
+
+.page section article:nth-child(2) blockquote{
+    flex-basis: 36%;
+    font-style: italic;
+    font-family: Georgia, serif;
+}
+
+.page section article:nth-child(2) blockquote span{
+    margin-left: 133px;
+}
+
+.page section article:nth-child(1) img{
+    float: right;
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid black;
+    margin-left: 10px;
+}
+
+.page section article:nth-child(3) img{
+    float: left;
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid black;
+    margin-right: 10px;
+}
+
+h1,
+h2{
+    font-family: Georgia, serif;
+}
