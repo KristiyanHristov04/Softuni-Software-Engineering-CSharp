@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+.masonry{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.flex{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+article{
+    border: 3px solid lightgray;
+    border-radius: 10px;
+    position: relative;
+    height: 100vh;
+    flex-basis: 32%;
+}
+
+article img{
+    width: 100%;
+}
+
+section{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    border-top: 3px solid lightgray;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
