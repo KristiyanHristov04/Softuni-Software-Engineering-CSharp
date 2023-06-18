@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    align-items: center;   
+    height: 100vh;
+}
+
+.container{
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    width: 1000px;
+    height: 400px;
+}
+
+.container img{
+    object-fit: cover;
+    align-self: stretch;
+    border-radius: 10px;
+}
+
+.container img:nth-child(1),
+.container img:nth-child(3),
+.container img:nth-child(4){
+    width: 15%;
+}
+
+.container img:nth-child(2){
+    width: 47%;
+    padding: 0 10px;
+    background-color: black;
+}
