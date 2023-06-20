@@ -1,0 +1,316 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+}
+
+.burgerMenu {
+    display: none;
+}
+
+.fa-bars {
+    font-size: 28px;
+}
+
+#secondPart img{
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+header h1 {
+    color: purple;
+    margin: 0;
+    font-size: 2rem;
+}
+
+header nav ul {
+    display: flex;
+    gap: 20px;
+}
+
+header nav ul li {
+    list-style: none;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+    color: lightgray;
+}
+
+#heroSection{
+    margin: 0 auto;
+    display: flex;
+    width: 500px;
+}
+
+.firstPart{
+    padding: 1rem;
+}
+
+.firstPart button{
+    cursor: pointer;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+.firstPart button:hover{
+    background-color: lightgray;
+}
+
+.secondPart{
+    padding: 1rem;
+    align-self: center;
+}
+
+.secondPart img{
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+
+}
+
+.firstContent {
+    display: grid;
+    grid-template-areas:
+        "header header"
+        "info info"
+        "button .";
+}
+
+.firstContent h2 {
+    grid-area: header;
+}
+
+.firstContent p {
+    grid-area: info;
+}
+
+.firstContent button {
+    grid-area: button;
+    padding: 5px 15px;
+    border-radius: 3px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.secondContent {
+    width: 100%;
+    height: 100%;
+}
+
+.secondContent img {
+    width: 100%;
+    height: 100%;
+}
+
+.headingWrapper {
+    text-align: center;
+}
+
+.headingWrapper h2 {
+    display: inline-block;
+    padding-bottom: 5px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.secondSection {
+    height: 900px;
+}
+
+.teamGridContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    grid-template-rows: repeat(2, 200px);
+    column-gap: 250px;
+    row-gap: 200px;
+    justify-content: center;
+}
+
+.teamGridContainer img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.imageWrapper h2,
+.imageWrapper p {
+    text-align: center;
+}
+
+.imageWrapper h2 {
+    margin-bottom: 0;
+}
+
+.imageWrapper p {
+    margin-top: 0;
+    font-style: italic;
+}
+
+.newsletterSection {
+    text-align: center;
+    background-color: rgb(127, 48, 184);
+    padding: 1rem;
+    margin: 0;
+    height: 120px;
+}
+
+.newsletterSection h2 {
+    padding-bottom: 5px;
+    border-bottom: 1px solid black;
+    display: inline-block;
+}
+
+.newsletterSection form input[type="text"] {
+    width: 250px;
+}
+
+.newsletterSection form input[type="submit"] {
+    padding: 1px 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.testimonialsSection {
+    height: 900px;
+}
+
+footer {
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 1.5rem;
+    font-size: 14px;
+    flex-wrap: wrap;
+}
+
+footer div {
+    width: 200px;
+}
+
+footer div:nth-child(2) p {
+    font-weight: bold;
+}
+
+footer div:nth-child(2) ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 31%;
+    column-gap: 60px;
+}
+
+footer div:nth-child(2) ul li {
+    list-style: none;
+}
+
+footer div:nth-child(3) p:nth-child(1) {
+    font-weight: bold;
+}
+
+footer div:nth-child(3) p:nth-child(2),
+footer div:nth-child(3) p:nth-child(3),
+footer div:nth-child(3) p:nth-child(4),
+footer div:nth-child(3) p:nth-child(5) {
+    margin-left: 5px;
+}
+
+@media screen and (max-width: 800px) {
+    header nav ul {
+        display: none;
+    }
+
+    .burgerMenu {
+        display: block;
+    }
+
+    .teamGridContainer {
+        grid-template-columns: repeat(2, 200px);
+        grid-template-rows: repeat(3, 200px);
+        column-gap: 250px;
+        row-gap: 200px;
+        justify-content: center;
+        height: 100%;
+    }
+
+    .secondSection{
+        height: 1300px;
+    } 
+
+    .testimonialsSection{
+        height: 1300px;
+    }
+
+    footer div:nth-child(2) ul {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        height: 31%;
+        column-gap: 60px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    header nav ul {
+        display: none;
+    }
+
+    .burgerMenu {
+        display: block;
+        color: black;
+    }
+
+    #heroSection{
+        margin: 0 auto;
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .teamGridContainer {
+        grid-template-columns: repeat(1, 200px);
+        grid-template-rows: repeat(9, 200px);
+        column-gap: 250px;
+        row-gap: 200px;
+        justify-content: center;
+        height: 100%;
+    }
+
+    .secondSection{
+        height: 2600px;
+    } 
+
+    .testimonialsSection{
+        height: 2600px;
+    }
+
+    footer div:nth-child(2) ul {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        height: 31%;
+        column-gap: 60px;
+    }
+
+    footer{
+        flex-direction: column;
+    }
+
+    footer div{
+        width: 100%;
+    }
+}
