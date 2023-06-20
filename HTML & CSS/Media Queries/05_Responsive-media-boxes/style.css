@@ -1,0 +1,42 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(238, 238, 238)
+}
+
+section{
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 450px;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+}
+
+section div:nth-child(1){
+    height: 60%;
+}
+
+section div:nth-child(2){
+    height: 40%;
+    padding: 0.5rem 1rem;
+}
+
+section div:nth-child(1) img{
+    width: 100%;
+    height: 100%;
+}
+
+section div:nth-child(2) button{
+    padding: 0.5rem;
+    border: none;
+    background-color: hsl(120, 88%, 67%);
+    color: white;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+}
