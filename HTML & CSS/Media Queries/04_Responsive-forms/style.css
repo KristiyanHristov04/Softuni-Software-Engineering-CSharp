@@ -1,0 +1,56 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+
+.inputInfo{
+    display: inline-block;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+}
+
+form{
+    padding: 1rem;
+    width: 100%;
+    margin: 50px auto;
+    position: relative;
+    width: 370px;
+}
+
+form fieldset{
+    border: 2px solid lightgray;
+    border-radius: 3px;
+    position: relative;
+}
+
+form fieldset legend{
+    border: 2px solid lightgray;
+    border-radius: 3px;
+    padding-right: 50px;
+    text-align: left;
+    position: absolute;
+    margin-left: -14px;
+    margin-top: -19px;
+    background-color: white;
+}
+
+form input{
+    display: inline-block;
+    font-size: 18px;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    padding-left: 30px;
+}
+
+input[type="submit"]{
+   background-color: black;
+   color: white;
+   border: none;
+   padding: 5px 15px;
+   border-radius: 3px;
+   cursor: pointer;
+}
+
+i{
+    position: absolute;
+    margin-top: 16px;
+    margin-left: 10px;
+}
+
