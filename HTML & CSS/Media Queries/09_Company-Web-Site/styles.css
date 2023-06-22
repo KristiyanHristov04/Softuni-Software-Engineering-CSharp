@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+body {
+  display: grid;
+  grid-template-columns: 3fr 7fr;
+  grid-template-areas:
+    "header header"
+    "nav nav"
+    "aside main"
+    "footer footer";
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+header {
+  text-align: center;
+  padding: 60px;
+  margin: 0px;
+  background-color: #1abc9c;
+  color: white;
+  grid-area: header;
+}
+
+nav {
+  background-color: #333;
+  padding: 14px 26px;
+  grid-area: nav;
+}
+
+nav a {
+  color: white;
+  padding: 14px 20px;
+  text-align: left;
+  text-decoration: none;
+}
+
+aside {
+  background-color: #f1f1f1;
+  padding: 20px;
+  grid-area: aside;
+}
+
+main {
+  background-color: white;
+  padding: 20px;
+  grid-area: main;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #ddd;
+  grid-area: footer;
+}
+
+/* TODO Responsive layout - when the screen is less than 700px wide, 
+make the two columns stack on top of each other instead of next to each other */
+
+/* TODO Responsive layout - If the screen is smaller than 700px, 
+display the navigation bar links as block and center the text */
+
+@media screen and (max-width: 700px) {
+  body {
+    display: block;
+  }
+
+  nav a{
+    display: block;
+    text-align: center;
+  }
+}
