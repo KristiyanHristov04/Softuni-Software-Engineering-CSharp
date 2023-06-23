@@ -1,0 +1,60 @@
+body{
+    font-family: 'Helvetica';
+}
+
+section{
+    width: 1000px;
+    height: 250px;
+    background-color: #F6F8F9;
+    padding: 3rem;
+    margin: 0 auto;
+    border-radius: 10px;
+    position: relative;
+}
+
+section .wrapper{
+    width: 380px;
+}
+
+section span{
+    color: #273240;
+    font-size: 10.50px;
+    font-weight: bold;
+}
+
+section h1{
+    color: #273240;
+    font-size: 2rem;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+
+section p{
+    color: #646F79;
+    line-height: 24px;
+}
+
+section img{
+    position: absolute;
+    bottom: 0;
+    right: 60px;
+    height: 300px;
+}
+
+.contactButton{
+    color: #fff;
+    background-color: #786EFF;
+    border: none;
+    border-radius: 3px;
+    padding: 0.70rem 1.25rem;
+}
+
+.learnButton{
+    color: #1B2736;
+    background-color: transparent;
+    border: 1px solid #1B2736;
+    border-radius: 3px;
+    padding: 0.70rem 1.25rem;
+    font-weight: bold;
+    margin-left: 10px;
+}
