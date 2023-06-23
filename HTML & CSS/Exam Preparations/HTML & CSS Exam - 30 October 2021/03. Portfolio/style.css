@@ -1,0 +1,333 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+body{
+    padding: 1rem;
+    font-family: Raleway;
+}
+
+section{
+    width: 95vw;
+    height: 600px;
+    background-color: #EFEFEF;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.firstSection{
+    position: relative;
+}
+
+.firstSection img{
+    position: absolute;
+    bottom: 0;
+    right: 300px;
+    height: 520px;
+}
+
+.firstSection header{
+    display: flex;
+    justify-content: right;
+    align-items: baseline;
+}
+
+.firstSection header nav{
+    margin-right: 20px;
+}
+
+.firstSection header nav ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    align-items: center;
+}
+
+.firstSection header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.firstSection header nav ul li button{
+    border: none;
+    cursor: pointer;
+}
+
+.firstSection header nav ul li button i{
+    font-size: 24px;
+}
+
+.firstSection .firstContent{
+    width: 468px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.firstSection .firstContent p{
+    font-style: italic;
+    line-height: 30px;
+}
+
+.firstSection .firstContent h1{
+    font-size: 2.5rem;
+}
+
+.firstSection .firstContent h1::after{
+    content: " Jade Template";
+    font-weight: 100;
+    color: rgb(83, 83, 83);
+}
+
+.firstSection .firstContent .verticalLine{
+    width: 10px;
+    height: 80px;
+    border-left: 1px solid black;
+}
+
+.secondSection{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.secondSection .imageContent{
+    width: 50%;
+    height: 500px;
+    margin-left: 100px;
+}
+
+.secondSection .imageContent img{
+    height: 95%;
+    margin-left: 40px;
+}
+
+.secondSection .textContent{
+    width: 670px;
+    height: 500px;
+    margin-right: 420px;
+}
+
+.secondSection .textContent h1{
+    font-size: 2.5rem;
+    font-weight: 200;
+}
+
+.secondSection .textContent h1 span{
+    display: inline-block;
+    width: 70px;
+    height: 1px;
+    background-color: black;
+    vertical-align: middle;
+    margin-right: 25px;
+}
+
+.secondSection .textContent h1::after{
+    content: " Apollo";
+    font-weight: bold;
+}
+
+.secondSection .textContent p{
+    font-style: italic;
+    line-height: 30px;
+}
+
+.secondSection .textContent ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    padding: 0;
+}
+
+.secondSection .textContent ul li button{
+    padding: 0.75rem;
+    background-color: #909090;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.thirdSection{
+    background-image: url(images/thumb-1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.fourthSection{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.fourthSection .firstContent{
+    width: 468px;
+    margin-left: 100px;
+}
+
+.fourthSection .firstContent p{
+    font-style: italic;
+    line-height: 30px;
+}
+
+.fourthSection .firstContent h1{
+    font-size: 2.5rem;
+}
+
+.fourthSection .firstContent h1::after{
+    content: " ad minim";
+    font-weight: 100;
+    color: rgb(83, 83, 83);
+}
+
+.fourthSection .firstContent .verticalLine{
+    width: 10px;
+    height: 80px;
+    border-left: 1px solid black;
+}
+
+.fourthSection .image{
+    width: 800px;
+    height: 400px;
+    margin-left: 300px;
+}
+
+.fourthSection .image img{
+    width: 100%;
+    height: 100%;
+}
+
+.fifthSection{
+    position: relative;
+}
+
+.fifthSection .centerImage{
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.fifthSection .centerImage img{
+    width: 100%;
+    height: 100%;
+}
+
+.fifthSection .leftImage{
+    width: 600px;
+    height: 325px;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+
+.fifthSection .leftImage img{
+    width: 100%;
+    height: 100%;
+}
+
+.fifthSection .rightImage{
+    width: 600px;
+    height: 325px;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+.fifthSection .rightImage img{
+    width: 100%;
+    height: 100%;
+}
+
+.sixthSection{
+    text-align: center;
+    position: relative;
+}
+
+.sixthSection h1{
+    font-size: 2.5rem;
+    margin-top: 0;
+    padding-top: 50px;
+}
+
+.sixthSection h1::after{
+    content: " Hello";
+    font-weight: 100;
+}
+
+.sixthSection p{
+    font-style: italic;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.sixthSection form{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.sixthSection form .formFirstPart{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sixthSection form .formSecondPart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
+
+.sixthSection form input[type="text"]{
+    font-size: 18px;
+    padding: 0.5rem 3.5rem;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+    background-color: transparent;
+}
+
+.sixthSection form input[type="text"]::placeholder{
+    color: black;
+}
+
+.sixthSection form .formSecondPart textarea{
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 18px;
+    resize: none;
+    background-color: transparent;
+    color: black;
+}
+
+.sixthSection form .formSecondPart textarea::placeholder{
+    color: black;
+}
+
+.sixthSection form .formSecondPart input[type="submit"]{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 10px;
+    font-style: normal;
+}
+
+.sixthSection footer p{
+    font-style: normal;
+}
