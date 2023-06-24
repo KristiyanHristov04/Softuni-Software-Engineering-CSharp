@@ -1,0 +1,61 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body{
+    font-family: 'Lato';
+}
+section{
+    width: 1030px;
+    margin: 0 auto;
+    border-radius: 3px;
+    box-shadow: 0px 1px 20px -12px rgba(115,115,115,1);
+    overflow: hidden;
+}
+
+section .sectionHeader{
+    background-color: #FFA200;
+    padding: 1rem;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Montserrat';
+    margin-top: 0;
+}
+
+.sectionHeader{
+    font-size: 3px;
+}
+
+section .sectionHeader i{
+    padding-right: 20px;
+    font-size: 30px;
+    vertical-align: top;
+}
+
+section .sectionHeader span{
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 6px;
+    font-size: 15px;
+}
+
+section article{
+    padding: 1rem;
+}
+
+.firstArticle{
+    border-bottom: 1px solid lightgray;
+}
+
+section article span{
+    font-size: 12px;
+    color: #888A93;
+}
+
+article h3{
+    margin-top: 5px;
+}
+
+.secondArticle{
+    padding-bottom: 80px;
+}
