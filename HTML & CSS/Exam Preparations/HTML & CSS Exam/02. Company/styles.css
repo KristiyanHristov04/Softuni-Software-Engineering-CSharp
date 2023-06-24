@@ -1,0 +1,310 @@
+﻿@import 'https://fonts.googleapis.com/css?family=PT+Serif';
+@import 'https://fonts.googleapis.com/css?family=PT+Sans:400,700';
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+footer,
+header,
+nav,
+section {
+    display: block;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    background: transparent;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid;
+    border-color: #b0825c;
+    color: #b0825c;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    transition: 0.3s;
+    position: relative;
+    cursor: pointer;
+}
+
+.button:after {
+    position: absolute;
+    transition: 0.3s;
+    content: '';
+    width: 0;
+    left: 50%;
+    bottom: 0;
+    height: 3px;
+    background-color: #b0825c;
+    height: 120%;
+    left: -10%;
+    -webkit-transform: skewX(15deg);
+    transform: skewX(15deg);
+    z-index: -1;
+}
+
+.button:hover {
+    color: #fff;
+}
+
+.button:hover:after {
+    left: -10%;
+    width: 120%;
+}
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #37282b;
+}
+.wrapper {
+    width: 1180px;
+    margin: 0 auto;
+}
+.hero-head {
+    background-image: url('images/aero-blue-abstract-wallpaper.jpg');
+    background-position: 50% -2px;
+    background-repeat: no-repeat;
+    min-height: 750px;
+    position: relative;
+    background-size: cover;
+}
+
+.hero-head:after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 191px;
+    position: absolute;
+    bottom: 0;
+    z-index: 2;
+    background-size: cover;
+}
+
+.hero-head h1 {
+    float: left;
+    font-size: 55px;
+    color: #fff;
+    font-family: 'PT Serif', serif;
+    line-height: 68px;
+    margin: 40px 0 20px;
+}
+
+.hero-head .goal {
+    float: left;
+    clear: both;
+    color: #fff;
+    font-size: 20px;
+    line-height: 32px;
+    max-width: 55%;
+}
+.main-head {
+    float: left;
+    width: 100%;
+    padding: 0 30px;
+}
+.main-head .logo {
+    display: block;
+    padding: 10px 10px 10px 0;
+    width: 157px;
+    height: 84px;
+    float: left;
+    margin: 18px 0 0;
+    position: relative;
+    z-index: 3;
+}
+.main-nav {
+    float: right;
+}
+.main-nav ul {
+    float: left;
+    margin: 30px 20px 0 0;
+}
+.main-nav ul li {
+    float: left;
+}
+.main-nav ul li:last-of-type {
+    display: none;
+    position: relative;
+    padding-left: 22px;
+}
+.main-nav ul li:last-of-type:before {
+    content: '';
+    display: block;
+    width: 12px;
+    height: 28px;
+    position: absolute;
+    left: 0;
+    top: 10px;
+    border-right: 1px solid #cdcfd0;
+}
+.main-nav ul li a {
+    display: inline-block;
+    color: #fff;
+    padding: 15px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.content {
+    float: left;
+    width: 100%;
+}
+.bordered {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 100px;
+}
+.content-wrap {
+    margin: 80px 0 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.content-wrap h3 {
+    font-size: 47px;
+    color: #37282b;
+    font-family: 'PT Serif', serif;
+    margin-bottom: 15px;
+    margin-top: 40px;
+}
+
+.content-wrap.two-col .col {
+    margin-right: 30px;
+    flex: 1;
+    flex-basis: 50%;
+}
+.module-text {
+    line-height: 28px;
+    margin-bottom: 40px;
+}
+.module-text.centered {
+    text-align: center;
+}
+.sponsors h3 {
+    text-align: center;
+    color: #b0825c;
+    font-size: 47px;
+    font-family: 'PT Serif', serif;
+    margin-top: 40px;
+}
+.sponsors .module-text {
+    color: #716567;
+    margin: 20px 0 60px;
+}
+.sponsors-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.sponsors-list li {
+    flex-grow: 0;
+    margin: 0 3% 10px;
+    width: 120px;
+    height: 120px;
+    padding: 25px;
+    opacity: 0.5;
+    background: #ddd;
+    border-radius: 50%;
+}
+.sponsors-list li a {
+    display: inline-block;
+    width: 100%;
+    max-width: 120px;
+    clear: both;
+    /* float: left; */
+    text-align: center;
+    color: #716567;
+    line-height: 28px;
+}
+
+.main-foot {
+    float: left;
+    width: 100%;
+    background-color: #171720;
+}
+
+.main-foot .wrapper {
+    display: flex;
+    flex-direction: row;
+}
+.main-foot address,
+.main-foot nav {
+    flex: 1;
+    color: #b3a6a8;
+    font-size: 13px;
+    margin-bottom: 60px;
+    margin-right: 10px;
+}
+.main-foot address {
+    line-height: 36px;
+}
+
+.main-foot address h4 {
+    line-height: 130%;
+}
+.main-foot address p {
+    text-transform: uppercase;
+}
+.main-foot nav a {
+    text-transform: uppercase;
+    color: #b3a6a8;
+    display: block;
+    line-height: 36px;
+}
+.main-foot nav a:hover {
+    color: #b0825c;
+}
+.main-foot h4 {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'PT Serif', serif;
+    margin: 50px 0 25px;
+    line-height: 130%;
+}
+.main-foot .bottom {
+    border-top: 1px solid #3a3a41;
+    padding: 17px 0;
+    font-size: 13px;
+    color: #b3a6a8;
+}
+.main-foot .bottom .copyright {
+    float: left;
+}
+.main-foot .bottom .bottom-wrap {
+    width: 100%;
+    float: left;
+}
