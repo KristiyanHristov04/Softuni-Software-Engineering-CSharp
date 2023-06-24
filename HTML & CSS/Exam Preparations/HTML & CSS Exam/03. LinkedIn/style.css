@@ -1,0 +1,317 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto';
+    overflow-x: hidden;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 157px;
+}
+
+header .logo{
+    height: 100%;
+}
+
+header .logo img{
+    height: 100%;
+}
+
+header nav .join{
+    text-decoration: none;
+    color: #8E8F8E;
+    font-weight: bold;
+}
+
+header nav .sign a{
+    color: #005DC6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav .sign{
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: 1px solid #005DC6;
+    background-color: #fff;
+    margin-left: 20px;
+}
+
+.heroSection{
+    padding: 0 20px;
+    position: relative;
+    padding-bottom: 100px;
+    padding-left: 175px;
+}
+
+.heroSection img{
+    position: absolute;
+    width: 620px;
+    height: 620px;
+    top: -15px;
+    right: 0px;
+}
+
+.heroSection h1{
+    color: #005DC6;
+    font-weight: lighter;
+    width: 600px;
+    font-size: 3rem;
+}
+
+.heroSection form{
+    position: relative;
+    width: 360px;
+}
+
+.heroSection form .show{
+    position: absolute;
+    top: 79px;
+    right: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #8E8F8E;
+    font-weight: bold;
+}
+
+input{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 14px;
+    padding: 1rem;
+    width: 320px;
+}
+
+main section .forgotPassword{
+    text-decoration: none;
+    color: #666666;
+}
+
+main section .forgotPassword:hover{
+    text-decoration: underline;
+}
+
+form input[type="submit"]{
+    margin-top: 15px;
+    border-radius: 50px;
+    width: 360px;
+    color: #fff;
+    background-color: #005DC6;
+    border: 1px solid #005DC6;
+    cursor: pointer;
+}
+
+.firstMainSection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 180px;
+    background-color: #FAF9F7;
+    height: 400px;
+}
+
+.firstMainSection .openJobs{
+    width: 200px;
+}
+
+.firstMainSection .searches{
+    width: 400px;
+}
+
+.firstMainSection .searches p{
+    color:#666666;
+    font-weight: bold;
+    font-size: 12px;
+    margin-left: 45px;
+}
+
+.firstMainSection .searches ul{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.firstMainSection .searches ul button{
+    border-radius: 50px;
+    padding: 0.5rem;
+    border: none;
+}
+
+.firstMainSection .searches ul button a{
+    text-decoration: none;
+    color:#666666;
+    font-weight: bold;
+}
+
+.secondMainSection{
+    background-color: #F1ECE5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 180px;
+    height: 150px;
+}
+
+.secondMainSection .postJobTitle{
+    width: 240px;
+}
+
+.secondMainSection h2{
+    color: #C87C65;
+}
+
+.secondMainSection button{
+    border-radius: 50px;
+    padding: 0.5rem;
+    border: 1px solid #666666;
+    background-color: transparent;
+    margin-right: 270px;
+}
+
+.secondMainSection button a{
+    text-decoration: none;
+    color: #666666;
+    font-weight: bold;
+}
+
+.thirdMainSection{
+    display: flex;
+    background-color: #FAF9F7;
+    padding: 90px 180px;
+    justify-content: space-between;
+}
+
+.thirdMainSection .openToWork{
+    width: 270px;
+}
+
+.thirdMainSection .openToWork h2{
+    color: #005DC6;
+    font-weight: lighter;
+}
+
+.thirdMainSection .workImage{
+    width: 300px;
+    height: 300px;
+}
+
+.thirdMainSection .workImage img{
+    width: 300px;
+    height: 300px;
+}
+
+.fourthMainSection{
+    display: flex;
+    background-color: #fff;
+    padding: 90px 180px;
+    justify-content: space-between;
+    padding-bottom: 200px;
+}
+
+.fourthMainSection .connect{
+    width: 220px;
+    height: 200px;
+}
+
+.fourthMainSection .connect h2{
+    font-weight: lighter;
+}
+
+.fourthMainSection .connect button{
+   border-radius: 50px;
+   padding: 0.5rem;  
+   border: 1px solid #666666;
+   background-color: #fff;
+}
+
+.fourthMainSection .connect button a{
+   text-decoration: none;
+   color: #666666;
+   font-weight: bold;
+}
+
+.fourthMainSection .connect .img{
+    width: 200px;
+    height: 200px;
+}
+
+.fourthMainSection .learn{
+    width: 220px;
+    height: 200px;
+    margin-left: -100;
+}
+
+.fourthMainSection .learn h2{
+    font-weight: lighter;
+}
+
+.fourthMainSection .learn .img{
+    width: 200px;
+    height: 200px;
+}
+
+.fifthSection{
+    background-image: url("images/background.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    padding: 90px 180px;
+}
+
+.fifthSection .getStarted{
+    width: 420px;
+}
+
+.fifthSection .getStarted h2{
+    color: #005DC6;
+    font-weight: lighter;
+}
+
+.fifthSection .getStarted button{
+    border-radius: 50px;
+    background-color: #005DC6;
+    border: 1px solid #005DC6;
+    padding: 0.5rem;  
+}
+
+.fifthSection .getStarted button a{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FAF9F7;
+    padding: 5px 180px;
+}
+
+footer .footerFirstPart img{
+    height: 50px;
+}
+
+footer div p{
+    font-weight: bold;
+}
+
+footer div nav ul{
+    list-style: none;
+    padding: 0;
+}
+
+footer div nav ul li{
+    margin-bottom: 10px;
+}
+
+footer div nav ul li a{
+    text-decoration: none;
+    color:#666666;
+}
+   
