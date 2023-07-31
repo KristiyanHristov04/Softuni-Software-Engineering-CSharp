@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap");
+
+body {
+    font-family: 'Inter';
+    background-color: #D9D9D9;
+    font-size: 17px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+article {
+    width: 450px;
+    height: 615px;
+    background-color: #D9D9D9;
+    box-shadow: -6px -7px 68px -11px rgba(0,0,0,0.75);
+}
+
+.imageWrapper {
+    height: 250px;
+}
+
+.imageWrapper img {
+    width: 100%;
+    height: 100%;
+}
+
+.content {
+    padding: 1.5rem;
+}
+
+.content span {
+    font-weight: bold;
+    color: #595959;
+}
+
+.content h1 {
+    font-weight: 300;
+    color: black;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+.content p {
+    color: #5D5959;
+    margin-bottom: 40px;
+}
+
+.content hr {
+    background-color: black;
+    color: black;
+    border: none;
+    height: 1px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.flex-container .profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.flex-container .profile img{
+    object-fit: cover;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.flex-container .profile span{
+    font-weight: 500;
+}
+
+.flex-container .posted span {
+    font-weight: 300;
+}
