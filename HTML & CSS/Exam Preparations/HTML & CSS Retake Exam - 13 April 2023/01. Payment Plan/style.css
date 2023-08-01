@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css");
+
+body {
+    background-image: url(image/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    font-family: 'Inter';
+    position: relative;
+    height: 100vh;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+section article {
+    background-color: white;
+    padding: 1rem;
+    width: 350px;
+    height: 500px;
+}
+
+section article:nth-of-type(2) {
+    height: 530px;
+}
+
+section article:nth-of-type(2) #subscribeBtn{
+    margin-top: 60px;
+}
+
+section article h2 {
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+section article h1 {
+    display: inline;
+    font-size: 4rem;
+}
+
+section article span {
+    font-size: 22px;
+    font-weight: 300;
+}
+
+section article p:nth-of-type(1) {
+    font-size: 12px;
+    margin: 30px 0px;
+    font-weight: 300;
+}
+
+section article #subscribeBtn {
+    padding: 1rem 2rem;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    margin: 30px 0px 20px 0px;
+}
