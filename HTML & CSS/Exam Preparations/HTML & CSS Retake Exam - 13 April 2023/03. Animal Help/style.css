@@ -1,0 +1,266 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    position: relative;
+    box-shadow: 0px 4px 13px 0px rgba(194,192,194,1);
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+
+nav ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+#firstSection {
+    height: 400px;
+    background-color: #85DCFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+#firstSection div:nth-of-type(1) {
+    width: 600px;
+}
+
+#firstSection .imageWrapper {
+    height: 100%;
+    background-color: red;
+}
+
+#firstSection .imageWrapper img {
+    height: 100%;
+}
+
+button {
+    cursor: pointer;
+}
+
+#firstSection #donateBtn {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 1rem 4rem;
+    font-weight: bold;
+}
+
+#firstSection #joinBtn {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    padding: 1rem 4.5rem;
+    text-transform: capitalize;
+}
+
+#firstSection div p {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+#firstSection div h1 {
+    font-size: 2rem;
+}
+
+#secondSection {
+    height: 450px;
+    text-align: center;
+}
+
+#secondSection p:nth-child(2) {
+    width: 400px;
+    margin: 0 auto;
+}
+
+#secondSection h1 {
+    margin-bottom: 40px;
+}
+
+#secondSection article {
+    width: 340px;
+}
+
+#secondSection article i {
+    color: #85DCFF;
+    font-size: 7rem;
+}
+
+#secondSection div {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 50px;
+}
+
+#thirdSection {
+    height: 450px;
+    background-color: #85DCFF;
+    text-align: center;
+    padding: 40px 0;
+}
+
+#thirdSection #gridContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    width: 640px;
+    margin: 0 auto;
+    text-align: left;
+    column-gap: 40px;
+}
+
+#thirdSection #gridContainer div {
+    display: flex;
+    align-items: baseline;
+}
+
+#thirdSection #gridContainer div p {
+    margin-left: 10px;
+    width: 270px;
+}
+
+#thirdSection #missionBtn {
+    background-color: black;
+    color: white;
+    padding: 1rem 5rem;
+    border: none;
+    border-radius: 5px;
+}
+
+#fourthSection {
+    text-align: center;
+}
+
+#fourthSection h1 {
+    font-size: 3rem;
+}
+
+#fourthSection .flexContainer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+#fourthSection .flexContainer article {
+    width: 300px;
+    height: 250px;
+}
+
+#fourthSection .flexContainer article img {
+    width: 100%;
+    height: 100%;
+}
+
+#fourthSection .card {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    text-align: left;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+#fourthSection .card div:nth-child(1) {
+    background-color: #85DCFF;
+}
+
+#fourthSection .card div:nth-child(1) h3{
+    display: inline-block;
+}
+
+#fourthSection .card div:nth-child(1) {
+    padding: 0.5rem 1rem;
+}
+
+#fourthSection .card div:nth-child(2) {
+    padding: 1.5rem 1rem;
+    font-weight: bold;
+}
+
+#fifthSection {
+    height: 500px;
+    display: flex;
+    gap: 100px;
+    align-items: center;
+}
+
+#fifthSection #image {
+    background-color: red;
+    width: 800px;
+    height: 100%;
+}
+
+#fifthSection #image img {
+    width: 100%;
+    height: 100%;
+}
+
+#fifthSection #email {
+    width: 630px;
+    text-align: left;
+}
+
+#fifthSection #email h2{
+    font-size: 2.1rem;
+}
+
+#fifthSection #email p{
+    margin-bottom: 30px;
+}
+
+#fifthSection #email input[type="text"]{
+    font-size: 20px;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    font-weight: bold;
+}
+
+#fifthSection #email #sendBtn{
+    background-color: black;
+    color: white;
+    padding: 1rem 4.5rem;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+footer {
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer ul {
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+}
+
+footer ul li i {
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+footer p {
+    font-weight: bold;
+}
+
+
