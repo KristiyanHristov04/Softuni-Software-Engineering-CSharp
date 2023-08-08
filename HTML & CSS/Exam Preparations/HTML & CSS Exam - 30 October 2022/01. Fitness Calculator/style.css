@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+body {
+    font-family: "Open Sans";
+}
+
+section {
+    border: 1px solid black;
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    position: relative;
+    margin-top: 100px;
+}
+
+section .imageWrapper {
+    width: 50%;
+    height: 100%;
+    background-color: red;
+}
+
+section article:nth-of-type(2) {
+    width: 50%;
+}
+
+section .imageWrapper img {
+    width: 100%;
+    height: 100%;
+}
+
+section .imageWrapper::before {
+    content: '';
+    width: 50%;
+    height: 100%;
+    background-color: rgb(13, 13, 13);
+    position: absolute;
+    opacity: 0.3;
+}
+
+section article:nth-of-type(2) {
+    text-align: center;
+}
+
+section article:nth-of-type(2) h2 {
+    text-transform: uppercase;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+
+#standart {
+    background-color: #86D862;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+#metric {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+}
+
+#buttonsContainer {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    margin-bottom: 20px;
+}
+
+#genderLabel {
+    font-weight: bold;
+    margin-left: 22px;
+}
+
+#genderContainer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+#genderContainer select {
+    width: 150px;
+    height: 17px;
+}
+
+#genderContainer input {
+    width: 150px;
+    height: 11px;
+}
+
+#weightLabel {
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+#weightContainer {
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#weightContainer input {
+    width: 390px;
+    height: 20px;
+    padding: 0.1rem;
+}
+
+#heightLabel {
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#heightLabelContainer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+#heightLabelContainer input {
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid rgb(98, 98, 98);
+}
+
+#buttonContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+}
+
+#buttonContainer button {
+    margin-left: 20px;
+    width: 460px;
+    background-color: #05A2D3;
+    border-radius: 20px;
+    color: white;
+    padding: 0.5rem;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
