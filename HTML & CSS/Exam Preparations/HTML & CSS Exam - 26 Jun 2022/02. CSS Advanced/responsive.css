@@ -1,0 +1,140 @@
+@media screen and (max-width: 600px) {
+
+    body {
+        margin: 0;
+    }
+
+    .left-to-right:first-child {
+        height: auto;
+
+    }
+
+    main .left-to-right article {
+        border-radius: 20%;
+        display: none;
+        display: flex;
+        /* display: none; */
+        flex-direction: column;
+        width: 100%;
+        height: 450px;
+        padding: 10px 15px 10px 15px;
+        color: #6c6c6c;
+        background-color: white;
+        justify-content: center;
+    }
+
+    main section:nth-child(2) article {
+        align-items: center;
+        padding: 2rem;
+    }
+
+    .left-to-right header h1 {
+        text-align: center;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    body>main>section:nth-child(2)>article:nth-child(1)>header>p {
+        width: 90%;
+        color: #1F4676;
+    }
+
+    p {
+        width: 100%;
+    }
+
+    body > main > section:nth-child(3) > article > p {
+        text-align: left;
+        width: 82%;
+        margin: 0 auto;
+    }
+
+    button {
+        display: none;
+    }
+
+    body>main>section:nth-child(2)>article:nth-child(1)>p {
+        width: 91%;
+        margin-right: auto;
+    }
+
+    main section:nth-child(2) {
+        flex-direction: column;
+    }
+
+    main section:nth-child(4) {
+        display: flex;
+        margin: 40px;
+        margin: 20px auto;
+        flex-direction: column;
+        background-color: white;
+        margin: 0 auto;
+        width: 100%;
+        /* align-items: center; */
+    }
+
+    form {
+        width: 100%;
+    }
+
+    main {
+        width: 100%;
+    }
+
+    main section:nth-child(4) article {
+        margin-left: 0;
+        width: 70%;
+        align-items: center;
+    }
+
+    section form label input {
+        width: 100%;
+    }
+
+    section form textarea {
+        width: 100%;
+    }
+
+    main section:nth-child(4) {
+        align-items: center;
+    }
+
+    body > main > section:nth-child(4) > article:nth-child(1) > form > label:nth-child(4) {
+        text-align: center;
+    }
+
+    .left-to-right header h1 {
+        margin-bottom: 30px;
+    }
+
+    main .left-to-right article {
+        border-radius: 20%;
+        display: none;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 450px;
+        padding: 10px 26px 10px 27px;
+        color: #6c6c6c;
+        background-color: white;
+        justify-content: center;
+        position: relative;
+        right: 33px;
+        top: -40px;
+    }
+
+    body > main > section:nth-child(1) > article > p {
+        width: 89%;
+        margin: 0 auto;
+    }
+
+    body > main > section:nth-child(1) > article > header > p {
+        color: #1F4676;
+    }
+
+    .left-to-right:first-child {
+        padding: 90px;
+    }
+}
