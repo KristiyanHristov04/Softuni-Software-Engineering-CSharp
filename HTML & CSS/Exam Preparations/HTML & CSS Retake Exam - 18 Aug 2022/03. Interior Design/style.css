@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
+
+
+body {
+    font-family: "Roboto";
+    background-color: white;
+    width: 60vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas: 
+    'header header header'
+    'main main aside'
+    'footer footer aside';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Abril Fatface" !important;
+}
+
+header {
+    height: 880px;
+    background-image: url("image/image.jpg");
+    background-position: center center;
+    background-size: cover;
+    grid-area: header;
+    position: relative;
+}
+
+header .card {
+    width: 200px;
+    box-shadow: 14px 7px 20px -8px rgba(0,0,0,0.75);
+    position: absolute;
+    top: 40px;
+    left: 85px;
+    padding-left: 20px;
+}
+
+header .card .miniDivider {
+    width: 60%;
+    height: 3px;
+    background-color: white;
+}
+
+header .biggerCard {
+    width: 295px;
+    text-align: right;
+    box-shadow: 0px 0px 22px 4px rgba(0,0,0,0.75);
+    background-image: linear-gradient(to right, #A19790, #CAC8C6);
+    padding: 1rem;
+    color: white;
+    position: absolute;
+    right: 37px;
+    top: 280px;
+    font-weight: 100;
+    padding-top: 50px;
+}
+
+header .biggerCard i {
+    color: #8E8682;
+    font-size: 20px;
+}
+
+main {
+    background-color: #F2F0F3;
+    grid-area: main;
+}
+
+main h1 {
+    text-transform: uppercase;
+    padding-left: 60px;
+}
+
+main span {
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-left: 10px;
+}
+
+main p {
+    width: 84%;
+    margin-bottom: 30px;
+    padding-left: 60px;
+}
+
+main h1:nth-of-type(2) {
+    margin-top: 122px;
+    margin-bottom: 0;
+}
+
+main hr {
+    margin-top: 0;
+    height: 2px;
+    background-color: rgb(104, 104, 104);
+}
+
+aside {
+    height: 717px;
+    background-color: #BAB1AD;
+    grid-area: aside;
+    padding: 2rem 1rem;
+    padding-right: 12rem;
+}
+
+aside p {
+    color: white;
+    font-size: 4rem;
+    font-weight: lighter;
+    margin: 0;
+}
+
+aside span {
+    text-transform: uppercase;
+}
+
+aside div {
+    margin-bottom: 90px;
+}
+
+footer {
+    height: 200px;
+    background-color: #F2F0F3;
+    grid-area: footer;
+    padding-left: 60px;
+}
+
+footer .flexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 570px;
+    margin-bottom: 30px;
+}
+
+footer .flexContainer p {
+    font-weight: bold;
+    font-style: italic;
+    padding-right: 10px;
+    margin-bottom: 0;
+}
+
+footer .flexContainer span {
+    font-weight: normal;
+}
+
+footer input[type="email"] {
+    background-color: #BAB1AD;
+    color: white;
+    border: none;
+    padding: 0.6rem 5rem 0.6rem 0.5rem;
+    border-radius: 5px;
+}
+
+input::placeholder {
+    color: white;
+}
+
+footer input[type="button"] {
+    background-color: #67784D;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.6rem 1rem;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+
