@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
+body {
+    font-family: "PT Sans";
+    width: 975px;
+    height: 100vh; 
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas:
+        "h h h h h h h h h h h h"
+        "h h h h h h h h h h h h"
+        "h h h h h h h h h h h h"
+        "h h h h h h h h h h h h"
+        "lu lu lu lu lu lu ru ru ru ru ru ru"
+        "lu lu lu lu lu lu ru ru ru ru ru ru"
+        "lu lu lu lu lu lu ru ru ru ru ru ru"
+        "ld ld ld ld ld ld rd rd rd rd rd rd"
+        "ld ld ld ld ld ld rd rd rd rd rd rd"
+        "ld ld ld ld ld ld rd rd rd rd rd rd"
+        "f f f f f f f f f f f f"
+        "f f f f f f f f f f f f"
+        "f f f f f f f f f f f f"
+        "f f f f f f f f f f f f";
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.header {
+    background-image: url("image/computer-main.jpg");
+    background-position: center;
+    background-size: cover;
+    grid-area: h;
+    grid-row: 1 / span 4;
+    grid-column: 1 / span 12;
+    position: relative;
+}
+
+.header::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgb(0, 0, 0, 0.1));
+}
+
+.header nav {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    position: relative;
+    z-index: 1;
+    margin-top: 20px;
+}
+
+.header h1 {
+    text-align: center;
+    color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.header p {
+    text-align: center;
+    color: white;
+    width: 39%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+
+.header button {
+    text-align: center;
+    color: white;
+    background-color: #00D08E;
+    border: 1px solid #00D08E;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+    margin-top: 100px;
+}
+
+.header button:hover {
+    cursor: pointer;
+    border: 1px solid white;
+    background-color: transparent;
+}
+
+.header p:nth-child(5) {
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+
+.leftUp {
+    background-image: url("image/tablet.jpg");
+    background-position: center;
+    background-size: cover;
+    grid-area: lu;
+    grid-row: 5 / span 3;
+    grid-column: 1 / span 6;
+}
+
+.rightUp {
+    grid-area: ru;
+    grid-row: 5 / span 3;
+    grid-column: 7 / span 6;
+    padding-left: 3rem;
+}
+
+.rightUp h1 {
+    margin-bottom: 0;
+    font-size: 1.5rem;
+}
+
+.rightUp p:nth-child(2) {
+    width: 85%;
+    margin-top: 0;
+    margin-bottom: 35px;
+}
+
+.rightUp i {
+    color: #00D08E;
+    margin-right: 15px;
+}
+
+
+.leftDown {
+    grid-area: ld;
+    grid-row: 8 / span 3;
+    grid-column: 1 / span 6;
+    height: 290px;
+}
+
+.leftDown h1 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.flexContainer {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.flexContainer div {
+    width: 100px;
+    height: 80px;
+}
+
+.flexContainer div img {
+    width: 50%;
+    height: 100%;
+}
+
+.flexContainer .item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flexContainer .item p {
+    margin-top: 0;
+    color: #00D08E;
+    font-weight: bold;
+}
+
+.rightDown {
+    background-image: url("image/pen.jpg");
+    background-position: center;
+    background-size: cover;
+    grid-area: rd;
+    grid-row: 8 / span 3;
+    grid-column: 7 / span 6;
+}
+
+.footer {
+    background-color: #B2F1DD;
+    grid-area: f;
+    grid-row: 11 / -1;
+    grid-column: 1 / span 12;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 261px);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 30px;
+    justify-content: center;
+    column-gap: 55px;
+}
+
+.grid article h1 {
+    font-size: 1.2rem;
+}
+
+.grid article p {
+    font-size: 1rem;
+    width: 285px;
+    margin: 0 auto;
+}
+
+#final span {
+    font-weight: bold;
+}
