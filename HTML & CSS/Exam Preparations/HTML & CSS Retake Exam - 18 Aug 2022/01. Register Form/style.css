@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+
+* {
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    background-image: url("images/background.png");
+    font-family: "Mulish";
+}
+
+section {
+    width: 850px;
+    height: 600px;
+    background-color: white;
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 32px 30px 78px -15px rgba(41, 41, 41, 1);
+    display: flex;
+}
+
+section article {
+    width: 50%;
+    height: 100%;
+}
+
+section article:nth-of-type(1) h1 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 90px;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+}
+
+section {
+    background-image: url("images/form-background.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.wrapper div {
+    text-align: center;
+}
+
+.wrapper label {
+    display: block;
+    padding-right: 100px;
+    color: black;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.wrapper input {
+    border-radius: 20px;
+    padding: 0.7rem;
+    border: 1px solid lightgray;
+    width: 80%;
+}
+
+.wrapper2 {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+.wrapper2 label {
+    padding-bottom: 10px;
+    color: black;
+    font-size: 14px;
+    padding-left: 5px;
+}
+
+.wrapper2 input {
+    width: 80%;
+    border-radius: 20px;
+    padding: 0.5rem;
+    border: 1px solid lightgray;
+    padding-right: 50px;
+}
+
+input[type="checkbox"] {
+    margin-left: 37px;
+    margin-top: 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+input[type="button"] {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #AE3C33;
+    color: white;
+    border-radius: 20px;
+    padding: 0.7rem 1.2rem;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+form label:last-of-type {
+    font-size: 13px;
+}
+
+form label {
+    color: rgb(88, 87, 87) !important;
+}
