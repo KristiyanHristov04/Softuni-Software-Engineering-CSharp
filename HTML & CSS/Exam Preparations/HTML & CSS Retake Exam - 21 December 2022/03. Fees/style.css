@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Montserrat";
+    font-weight: 500;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 6rem;
+}
+
+nav .imageWrapper {
+    width: 200px;
+    height: 50px;
+}
+
+nav ul {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+}
+
+nav ul li {
+    color: #54546D;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.imageWrapper img {
+    width: 100%;
+    height: 100%;
+}
+
+#firstSection {
+    height: 400px;
+    background-color: #54546D;
+    position: relative;
+    margin-bottom: 250px;
+}
+
+#firstSection img {
+    position: relative;
+    top: -40px;
+    left: -75px;
+    height: 220px;
+}
+
+#firstSection h1 {
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 90px;
+    font-size: 2rem;
+}
+
+#firstSection .flexContainer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    top: 173px;
+    left: 265px;
+    position: absolute;
+}
+
+#firstSection .flexContainer .mainArticle{
+    background-color: white;
+    padding-top: 1rem;
+    border-radius: 10px;
+    box-shadow: 0px 7px 6px -2px rgba(204,204,204,1);
+    width: 450px;
+    height: 340px;
+    overflow: hidden;
+    color: #4C4E6F;
+}
+
+#firstSection .flexContainer .mainArticle .bodyContent {
+    text-align: center;
+}
+
+#firstSection .flexContainer .mainArticle .bodyContent h2{
+    color: #54546D;
+    margin-bottom: 10px;
+}
+
+#firstSection .flexContainer .mainArticle .bodyContent button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+    background-color: #9A5DC6;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    font-weight: bold;
+    font-family: Montserrat;
+    cursor: pointer;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(1) .footerContent {
+    background-image: linear-gradient(to right, #069D40 , #48D47D);
+    padding: 1.5rem;
+    color: white;
+    text-align: center;
+    margin-top: 73px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(1) .footerContent h2 {
+    margin-bottom: 10px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(2) .bodyContent h2 {
+    margin-bottom: 20px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(2) .bodyContent p {
+     margin-bottom: 35px;
+     width: 90%;
+     margin: 0 auto;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(2) .bodyContent p:nth-of-type(1) {
+    margin-bottom: 35px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(2) .bodyContent p:nth-of-type(2) {
+    margin-bottom: 60px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(2) .footerContent {
+    background-image: linear-gradient(to right, #4D6D8A , #6096C9);
+    color: white;
+    padding: 1.5rem 0rem;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(2) .footerContent h2 {
+    margin-bottom: 10px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(2) .footerContent .priceContent {
+    display: flex;
+    justify-content: center;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(2) .footerContent .priceContent article {
+    width: 50%;
+    text-align: center;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(2) .footerContent .priceContent article:nth-of-type(1) {
+    border-right: 2px solid white;
+    padding-right: 18px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(3) .bodyContent h2 {
+    margin-bottom: 20px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(3) .bodyContent p {
+     margin-bottom: 35px;
+     width: 90%;
+     margin: 0 auto;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(3) .bodyContent p:nth-of-type(1) {
+    margin-bottom: 35px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(3) .bodyContent p:nth-of-type(2) {
+    margin-bottom: 60px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(3) .footerContent {
+    background-image: linear-gradient(to right, #4F3CAA , #8778DD);
+    color: white;
+    padding: 1.5rem 0rem;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(3) .footerContent h2 {
+    margin-bottom: 10px;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(3) .footerContent .priceContent {
+    display: flex;
+    justify-content: center;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(3) .footerContent .priceContent article {
+    width: 50%;
+    text-align: center;
+}
+
+#firstSection .flexContainer .mainArticle:nth-of-type(3) .footerContent .priceContent article:nth-of-type(1) {
+    border-right: 2px solid white;
+    padding-right: 18px;
+}
+
+#secondSection div {
+    width: 60%;
+    margin: 0 auto;
+} 
+
+#secondSection div h2 {
+    color: #4C4E6F;
+    margin-bottom: 20px;
+} 
+
+#secondSection div .mainText {
+    color: #565656;
+    margin-bottom: 40px;
+}
+
+#secondSection div .flexy {
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    color: #565656;
+    margin-left: 0;
+}
+
+
+#secondSection div .flexy p {
+    flex-basis: 65%;
+}
+
+#secondSection div .flexy img {
+    padding-right: 50px;
+}
+
+.flexy:nth-child(odd) {
+    background-color: #E6E6E6;
+}
+
+.flexy:nth-child(even) {
+    background-color: #F8F8F8;
+}
+
+.flexy:nth-of-type(1) {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.flexy:last-of-type {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#thirdSection {
+    padding: 3rem 17rem;
+}
+
+#thirdSection h2 {
+    color: #4C4E6F;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+#thirdSection div {
+    display: flex;
+    color: #565656;
+}
+
+#thirdSection div article {
+    width: 80%;
+}
+
+#thirdSection div p:nth-of-type(1) {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #54546D;
+    text-align: center;
+    padding: 2rem;
+    color: #908FAB;
+}
