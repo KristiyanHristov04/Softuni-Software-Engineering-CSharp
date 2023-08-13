@@ -1,0 +1,33 @@
+[
+    {
+        "img":"https://as2.ftcdn.net/v2/jpg/01/07/76/33/1000_F_107763373_yDie7KL1mtbvyFnyEMMzaTWoLaUrWvOL.jpg",
+        "name": "Sofa",
+        "price": "259",
+        "decFactor":"0.4"
+
+    },
+    {
+        "img":"https://www.stylespafurniture.com/wp-content/uploads/2020/03/Cove_3_Door_Wardrobe_1.jpg",
+        "name": "Wardrobe",
+        "price": "120",
+        "decFactor":"1.2"
+    },
+    {
+        "img":"https://www.orangecenter.bg/media/catalog/product/cache/7425d87da189fd2030f45b143ed95ef9/t/o/top-misteriite-na-sveta-9786197511116.jpg",
+        "name": "Top mysteries of the World",
+        "price": "25.90",
+        "decFactor":"0.2"
+    },
+    {
+        "img":"https://www.orangecenter.bg/media/catalog/product/cache/7425d87da189fd2030f45b143ed95ef9/t/o/top-misteriite-na-vselenata-9786197511154.jpg",
+        "name": "Top mysteries of the Universe",
+        "price": "25.90",
+        "decFactor":"0.2"
+    },
+    {
+        "img":"https://aiko-bg.com/media/catalog/product/cache/971c4e354a24a462720140707613a23e/0/1/013b24c1978144989b966bb11cfdcae4_43158130686_big_1.jpg",
+        "name": "Top mysteries of Bulgaria",
+        "price": "25.90",
+        "decFactor":"0.2"
+    }
+]
