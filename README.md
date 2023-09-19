@@ -112,7 +112,7 @@ JavaScript Basics
   <summary><h3>JS Front-End Carriculum List</summary>
  
   1. [**Syntax Fundamentals**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/01.%20Syntax%20Fundamentals)
-  2. [**Functions and Statements**]()
+  2. [**Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/02.%20Functions%20and%20Statements)
   </details>
   
  ***
