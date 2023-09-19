@@ -108,6 +108,14 @@ JavaScript Basics
   
 ***
 
+  <details>
+  <summary><h3>Entity Framework Core Carriculum List</summary>
+ 
+  1. [**Syntax Fundamentals**]()
+  </details>
+  
+ ***
+
 <p float="left">
   <img src="https://i.ibb.co/vwQpX4J/121332-code-e33cdfe6.png" alt="" width="300" height="400" />
   <img src="https://i.ibb.co/t28dZDQ/139494-code-4274857b.png" alt="" width="300" height="400" />
