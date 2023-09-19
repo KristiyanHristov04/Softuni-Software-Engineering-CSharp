@@ -109,7 +109,7 @@ JavaScript Basics
 ***
 
   <details>
-  <summary><h3>Entity Framework Core Carriculum List</summary>
+  <summary><h3>JS Front-End Carriculum List</summary>
  
   1. [**Syntax Fundamentals**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/01.%20Syntax%20Fundamentals)
   </details>
