@@ -114,6 +114,7 @@ JavaScript Basics
   1. [**Syntax Fundamentals**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/01.%20Syntax%20Fundamentals)
   2. [**Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/02.%20Functions%20and%20Statements)
   3. [**Objects and Classes**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/03.%20Objects%20and%20Classes)
+  4. [**Objects and Classes**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/03.%20Objects%20and%20Classes)
   </details>
   
  ***
