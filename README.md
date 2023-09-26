@@ -20,6 +20,9 @@ C# Basics
 JavaScript Basics
 1. [**First Steps In Coding**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/01.%20First%20Steps%20In%20Coding)
 2. [**Conditional Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/02.%20Conditional%20Statements)
+3. [**Conditional Statements Advanced**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/03.%20Conditional%20Statements%20Advanced)
+4. [**For Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/04.%20For%20Loop)
+5. [**While Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/05.%20While%20Loop)
  </details>
  
 ***
@@ -107,6 +110,19 @@ JavaScript Basics
   </details>
   
 ***
+
+  <details>
+  <summary><h3>JS Front-End Carriculum List</summary>
+ 
+  1. [**Syntax Fundamentals**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/01.%20Syntax%20Fundamentals)
+  2. [**Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/02.%20Functions%20and%20Statements)
+  3. [**Objects and Classes**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/03.%20Objects%20and%20Classes)
+  4. [**DOM and Events**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/04.%20DOM%20and%20Events)
+  5. [**HTTP and REST**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/05.%20HTTP%20and%20REST)
+  6. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/Exam%20Preparations)
+  </details>
+  
+ ***
 
 <p float="left">
   <img src="https://i.ibb.co/vwQpX4J/121332-code-e33cdfe6.png" alt="" width="300" height="400" />
