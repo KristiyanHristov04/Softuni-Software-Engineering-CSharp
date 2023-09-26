@@ -1,0 +1,14 @@
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\bin\Debug\net6.0\Asynchronous Processing.exe
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\bin\Debug\net6.0\Asynchronous Processing.deps.json
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\bin\Debug\net6.0\Asynchronous Processing.runtimeconfig.json
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\bin\Debug\net6.0\Asynchronous Processing.dll
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\bin\Debug\net6.0\Asynchronous Processing.pdb
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\obj\Debug\net6.0\Asynchronous Processing.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\obj\Debug\net6.0\Asynchronous Processing.AssemblyInfoInputs.cache
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\obj\Debug\net6.0\Asynchronous Processing.AssemblyInfo.cs
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\obj\Debug\net6.0\Asynchronous Processing.csproj.CoreCompileInputs.cache
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\obj\Debug\net6.0\Asynchronous Processing.dll
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\obj\Debug\net6.0\refint\Asynchronous Processing.dll
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\obj\Debug\net6.0\Asynchronous Processing.pdb
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\obj\Debug\net6.0\Asynchronous Processing.genruntimeconfig.cache
+E:\VS 2022 Projects\Asynchronous Processing\Asynchronous Processing\obj\Debug\net6.0\ref\Asynchronous Processing.dll
