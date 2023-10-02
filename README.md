@@ -23,6 +23,7 @@ JavaScript Basics
 3. [**Conditional Statements Advanced**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/03.%20Conditional%20Statements%20Advanced)
 4. [**For Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/04.%20For%20Loop)
 5. [**While Loop**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/05.%20While%20Loop)
+6. [**Nested Loops**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Basics/06.%20Nested%20Loops)
  </details>
  
 ***
