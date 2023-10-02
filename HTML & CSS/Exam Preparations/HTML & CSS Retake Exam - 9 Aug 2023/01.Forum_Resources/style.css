@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap");
+
+body {
+    font-family: 'Inter';
+    background-image: url(images/background.jpg);
+}
+
+main {
+    height: 100vh;
+    position: relative;
+}
+
+section {
+    display: grid;
+    grid-template-areas: "f f f f f f f f t t t"
+                         "f f f f f f f f t t t"
+                         "f f f f f f f f t t t"
+                         "f f f f f f f f t t t"
+                         "s s s s s s s s t t t"
+                         "s s s s s s s s t t t"
+                         "s s s s s s s s t t t"
+                         "s s s s s s s s t t t";
+    grid-gap: 20px;
+    width: 1200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+article {
+    background-color: white;
+    padding: 1rem 3rem;
+}
+
+article h1 i {
+    font-size: 50px;
+}
+
+article p {
+    color: gray;
+}
+
+#firstArticle {
+    grid-area: f;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.imageWrapper {
+    width: 200px;
+    height: 200px;
+}
+
+.imageWrapper img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#secondArticle {
+    grid-area: s;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#thirdArticle {
+    grid-area: t;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 600px;
+}
+
+#thirdArticle h1 i {
+    font-size: 90px;
+}
+
+#thirdArticle h2 {
+    margin-bottom: 0px;
+}
+
+#thirdArticle span {
+    color: gray;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.flexContainer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.flexContainer .imageWrapper {
+    width: 100px;
+    height: 100px;
+}
+
+.flexContainer .imageWrapper img{
+    filter: grayscale(100%);
+}
+
+.flexContainer h2 {
+    margin-top: 0px;
+}
+
+.thirdPart {
+    margin-bottom: 20px;
+}
+
+.separator {
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 20px;
+}
