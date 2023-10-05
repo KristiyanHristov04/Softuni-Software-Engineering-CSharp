@@ -4096,6 +4096,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Library.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Library.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.Common.dll": {}
+        }
       }
     }
   },
@@ -11481,10 +11491,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Library.Common/1.0.0": {
+      "type": "project",
+      "path": "../Library.Common/Library.Common.csproj",
+      "msbuildProject": "../Library.Common/Library.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Library.Common >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.11",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.21",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.21",
@@ -11520,7 +11536,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\VS 2022 Projects\\ASP.NET Funds Exam Prep\\10.Exam-Preparation-Library-Skeleton\\Library.Common\\Library.Common.csproj": {
+              "projectPath": "E:\\VS 2022 Projects\\ASP.NET Funds Exam Prep\\10.Exam-Preparation-Library-Skeleton\\Library.Common\\Library.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

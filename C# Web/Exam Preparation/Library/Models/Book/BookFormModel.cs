@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using static Library.Common.DataConstants.Book;
+using static Library.Common.Constants.Book;
 namespace Library.Models.Book
 {
     public class BookFormModel

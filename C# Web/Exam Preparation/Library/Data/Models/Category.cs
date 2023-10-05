@@ -1,4 +1,4 @@
-﻿using static Library.Common.DataConstants.Category;
+﻿using static Library.Common.Constants.Category;
 using System.ComponentModel.DataAnnotations;
 
 namespace Library.Data.Models

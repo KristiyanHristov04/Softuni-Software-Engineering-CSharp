@@ -1,4 +1,4 @@
-﻿using static Library.Common.DataConstants.Book;
+﻿using static Library.Common.Constants.Book;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
