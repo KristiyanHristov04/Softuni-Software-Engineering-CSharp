@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewBag.Title = "Nums 1 ... " + ViewBag.Count;
+}
+
+<h2>@ViewBag.Title</h2>
+<ul>
+    @for (int number = 1; number <= ViewBag.Count; number++)
+    {
+        <li>@number</li>
+    }
+</ul>
+
+<form>
+    <input type="number" name="count"/>
+    <input type="submit" value="Submit"/>
+</form>
+
+

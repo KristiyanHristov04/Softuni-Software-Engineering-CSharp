@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewBag.Title = "Nums 1 ... 10";
+}
+
+<h2>@ViewBag.Title</h2>
+<ul>
+    @for (int number = 1; number <= 10; number++)
+    {
+        <li>@number</li>
+    }
+</ul>

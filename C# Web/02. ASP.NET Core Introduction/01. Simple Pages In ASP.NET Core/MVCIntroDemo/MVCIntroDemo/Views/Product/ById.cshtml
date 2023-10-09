@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model ProductViewModel
+
+@{
+    ViewBag.Title = "Product N. " + Model.Id;
+}
+
+<div class="card w-25">
+    <div class="card-header">@ViewBag.Title</div>
+    <div class="card-body">
+        <h5 class="card-title">Product Name: @Model.Name</h5>
+        <p class="card-text">Price @Model.Price lv.</p>
+    </div>
+</div>
+
