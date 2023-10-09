@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TextSplitterApp.props" />
+</Project>
