@@ -125,6 +125,14 @@ JavaScript Basics
   
  ***
 
+  <details>
+  <summary><h3>JS Advanced Carriculum List</summary>
+ 
+  1. [**Syntax, Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/01.%20Syntax%20Fundamentals)
+  </details>
+  
+ ***
+
 <p float="left">
   <img src="https://i.ibb.co/vwQpX4J/121332-code-e33cdfe6.png" alt="" width="300" height="400" />
   <img src="https://i.ibb.co/t28dZDQ/139494-code-4274857b.png" alt="" width="300" height="400" />
