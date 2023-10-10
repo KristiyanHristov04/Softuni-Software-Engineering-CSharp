@@ -128,7 +128,7 @@ JavaScript Basics
   <details>
   <summary><h3>JS Advanced Carriculum List</summary>
  
-  1. [**Syntax, Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/01.%20Syntax%20Fundamentals)
+  1. [**Syntax, Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/01.%20Syntax%2C%20Functions%20and%20Statements)
   </details>
   
  ***
