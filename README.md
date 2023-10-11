@@ -129,7 +129,7 @@ JavaScript Basics
   <summary><h3>JS Advanced Carriculum List</summary>
  
   1. [**Syntax, Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/01.%20Syntax%2C%20Functions%20and%20Statements)
-  2. [**Syntax, Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/01.%20Syntax%2C%20Functions%20and%20Statements)
+  2. [**Arrays and Nested Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/02.%20Arrays%20and%20Nested%20Arrays/Lab)
   </details>
   
  ***
