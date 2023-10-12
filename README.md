@@ -130,7 +130,7 @@ JavaScript Basics
  
   1. [**Syntax, Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/01.%20Syntax%2C%20Functions%20and%20Statements)
   2. [**Arrays and Nested Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/02.%20Arrays%20and%20Nested%20Arrays)
-  3. [**Arrays and Nested Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/02.%20Arrays%20and%20Nested%20Arrays)
+  3. [**Objects and Composition**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/02.%20Arrays%20and%20Nested%20Arrays)
   </details>
   
  ***
