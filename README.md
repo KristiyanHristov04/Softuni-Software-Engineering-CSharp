@@ -132,7 +132,7 @@ JavaScript Basics
   2. [**Arrays and Nested Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/02.%20Arrays%20and%20Nested%20Arrays)
   3. [**Objects and Composition**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/03.%20Objects%20and%20Composition)
   4. [**DOM Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/04.%20DOM%20Introduction)
-  5. [**DOM Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/04.%20DOM%20Introduction)
+  5. [**DOM Manipulation and Events**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/04.%20DOM%20Introduction)
   </details>
   
  ***
