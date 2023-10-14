@@ -133,7 +133,7 @@ JavaScript Basics
   3. [**Objects and Composition**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/03.%20Objects%20and%20Composition)
   4. [**DOM Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/04.%20DOM%20Introduction)
   5. [**DOM Manipulation and Events**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/05.%20DOM%20Manipulation%20and%20Events)
-  6. [**DOM Manipulation and Events**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/05.%20DOM%20Manipulation%20and%20Events)
+  6. [**Advanced Functions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/05.%20DOM%20Manipulation%20and%20Events)
   </details>
   
  ***
