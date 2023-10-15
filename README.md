@@ -125,6 +125,19 @@ JavaScript Basics
   
  ***
 
+  <details>
+  <summary><h3>JS Advanced Carriculum List</summary>
+ 
+  1. [**Syntax, Functions and Statements**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/01.%20Syntax%2C%20Functions%20and%20Statements)
+  2. [**Arrays and Nested Arrays**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/02.%20Arrays%20and%20Nested%20Arrays)
+  3. [**Objects and Composition**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/03.%20Objects%20and%20Composition)
+  4. [**DOM Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/04.%20DOM%20Introduction)
+  5. [**DOM Manipulation and Events**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/05.%20DOM%20Manipulation%20and%20Events)
+  6. [**Advanced Functions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/06.%20Advanced%20Functions)
+  </details>
+  
+ ***
+
 <p float="left">
   <img src="https://i.ibb.co/vwQpX4J/121332-code-e33cdfe6.png" alt="" width="300" height="400" />
   <img src="https://i.ibb.co/t28dZDQ/139494-code-4274857b.png" alt="" width="300" height="400" />
