@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: 'Poppins';
+    height: 100vh;
+    position: relative;
+}
+
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+main h1 {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 0;
+    font-size: 34px;
+}
+
+main h1::after {
+    content: ' Services';
+    color: #A3C536;
+}
+
+main > p {
+    text-align: center;
+    margin-top: 10px;
+    color: #8F8F8F;
+}
+
+section {
+    width: 60%;
+    height: auto;
+    display: flex;
+    gap: 30px;
+    margin-top: 80px;
+}
+
+section article {
+    background-color: #F7F7F7;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+section article > div {
+    flex-grow: 1;
+}
+
+.content {
+    padding: 0 1rem 2rem 1rem;
+}
+
+.content h3 {
+    font-size: 20px;
+}
+
+.content p {
+    color: #8F8F8F;
+}
+
+.content button {
+    color: white;
+    border: none;
+    border-radius: 50px;
+    background-color: #A4C639;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
