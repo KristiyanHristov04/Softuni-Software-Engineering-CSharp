@@ -1,0 +1,46 @@
+/* TODO: Add the responsive styles here */
+@media only screen and (max-width: 600px) {
+    .row {
+        flex-direction: column;
+        margin-right: 0;
+    }
+
+    body > header > article > article > article.tm-header-inner {
+        padding: 200px 0px 25px 0px;
+    }
+
+    header.row h2 {
+        margin-left: 0;
+    }
+
+    header.row p {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .img-fluid {
+        max-width: none;
+    }
+
+    .row.tm-gallery {
+        margin-left: 0;
+        align-content: center;
+    }
+
+    section.tm-cta-section {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    body > main > section.tm-cta-section.tm-section.tm-container-inner > article {
+        margin: 0;
+    }
+
+    body > main > section.tm-cta-section.tm-section.tm-container-inner > article > article {
+        padding: 0;
+    }
+
+    body > main > section.tm-cta-section.tm-section.tm-container-inner > article > article:nth-child(1) > figure > img {
+        width: 100%;
+    }
+}
