@@ -134,6 +134,9 @@ JavaScript Basics
   4. [**DOM Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/04.%20DOM%20Introduction)
   5. [**DOM Manipulation and Events**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/05.%20DOM%20Manipulation%20and%20Events)
   6. [**Advanced Functions**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/06.%20Advanced%20Functions)
+  7. [**Unit Testing and Error Handling**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/07.%20Unit%20Testing%20and%20Error%20Handling)
+  8. [**Classes and Attributes**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/08.%20Classes%20and%20Attributes)
+  9. [**Prototypes and Inheritance**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JavaScript%20Advanced/09.%20Prototypes%20and%20Inheritance)
   </details>
   
  ***
