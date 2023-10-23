@@ -116,7 +116,7 @@ JavaScript Basics
   <summary><h3>HTML & CSS</summary>
  
   1. [**Introduction to HTML and CSS**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Introduction%20to%20HTML%20and%20CSS)
-  2. [**HTML Structure**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Introduction%20to%20HTML%20and%20CSS)
+  2. [**HTML Structure**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/HTML%20Structure)
   </details>
   
  ***
