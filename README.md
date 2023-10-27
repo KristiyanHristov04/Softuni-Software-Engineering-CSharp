@@ -120,6 +120,7 @@ JavaScript Basics
   3. [**CSS & Typography**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/CSS%20%26%20Typography)
   4. [**CSS Box Model**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/CSS%20Box%20Model)
   5. [**Flexbox**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Flexbox)
+  6. [**Position and Grid**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Flexbox)
   </details>
   
  ***
