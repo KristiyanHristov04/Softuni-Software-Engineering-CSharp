@@ -991,6 +991,20 @@
           "bin/placeholder/HouseRentingSystem.Data.Models.dll": {}
         }
       },
+      "HouseRentingSystem.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseRentingSystem.Data": "1.0.0",
+          "HouseRentingSystem.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Services.dll": {}
+        }
+      },
       "HouseRentingSystem.ViewModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2507,6 +2521,11 @@
       "path": "../HouseRentingSystem.Data.Models/HouseRentingSystem.Data.Models.csproj",
       "msbuildProject": "../HouseRentingSystem.Data.Models/HouseRentingSystem.Data.Models.csproj"
     },
+    "HouseRentingSystem.Services/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "msbuildProject": "../HouseRentingSystem.Services/HouseRentingSystem.Services.csproj"
+    },
     "HouseRentingSystem.ViewModels/1.0.0": {
       "type": "project",
       "path": "../HouseRentingSystem.ViewModels/HouseRentingSystem.ViewModels.csproj",
@@ -2517,6 +2536,7 @@
     "net6.0": [
       "HouseRentingSystem.Common >= 1.0.0",
       "HouseRentingSystem.Data >= 1.0.0",
+      "HouseRentingSystem.Services >= 1.0.0",
       "HouseRentingSystem.ViewModels >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.22",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.22",
@@ -2557,6 +2577,9 @@
             },
             "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj": {
               "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj"
+            },
+            "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+              "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
             },
             "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.ViewModels\\HouseRentingSystem.ViewModels.csproj": {
               "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.ViewModels\\HouseRentingSystem.ViewModels.csproj"

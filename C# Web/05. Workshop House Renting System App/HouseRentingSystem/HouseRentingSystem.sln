@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRentingSystem.Data.Mod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRentingSystem.ViewModels", "HouseRentingSystem.ViewModels\HouseRentingSystem.ViewModels.csproj", "{3D1EF1B2-0D6F-414E-9FF6-992BF690D1AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRentingSystem.Services", "HouseRentingSystem.Services\HouseRentingSystem.Services.csproj", "{2801A70E-8981-4E79-8A4C-D5937F3EF8A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3D1EF1B2-0D6F-414E-9FF6-992BF690D1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D1EF1B2-0D6F-414E-9FF6-992BF690D1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D1EF1B2-0D6F-414E-9FF6-992BF690D1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2801A70E-8981-4E79-8A4C-D5937F3EF8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2801A70E-8981-4E79-8A4C-D5937F3EF8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2801A70E-8981-4E79-8A4C-D5937F3EF8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2801A70E-8981-4E79-8A4C-D5937F3EF8A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

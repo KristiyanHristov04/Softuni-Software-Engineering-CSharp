@@ -21,7 +21,7 @@ namespace HouseRentingSystem.Data.DatabaseSeed
                 Title = "Big House Marina",
                 Address = "North London, UK (near the border)",
                 Description = "A big house for your whole family. Don't miss to buy a house with three bedrooms.",
-                ImageUrl = "https://www.luxury-architecture.net/wpcontent/uploads/2017/12/1513217889-7597-FAIRWAYS-010.jpg",
+                ImageUrl = "https://static8.depositphotos.com/1392258/871/i/450/depositphotos_8711701-Large-luxury-brick-home.jpg",
                 PricePerMonth = 2100.00M,
                 CategoryId = 3,
                 AgentId = 1,

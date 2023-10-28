@@ -84,3 +84,5 @@ E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\House
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.ViewModels.dll
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.ViewModels.pdb
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\appsettings.Production.json
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
