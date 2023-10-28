@@ -112,6 +112,19 @@ JavaScript Basics
   
 ***
 
+<details>
+  <summary><h3>HTML & CSS</summary>
+ 
+  1. [**Introduction to HTML and CSS**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Introduction%20to%20HTML%20and%20CSS)
+  2. [**HTML Structure**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/HTML%20Structure)
+  3. [**CSS & Typography**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/CSS%20%26%20Typography)
+  4. [**CSS Box Model**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/CSS%20Box%20Model)
+  5. [**Flexbox**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Flexbox)
+  6. [**Position and Grid**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Position%20and%20Grid)
+  </details>
+  
+ ***
+
   <details>
   <summary><h3>JS Front-End Carriculum List</summary>
  
