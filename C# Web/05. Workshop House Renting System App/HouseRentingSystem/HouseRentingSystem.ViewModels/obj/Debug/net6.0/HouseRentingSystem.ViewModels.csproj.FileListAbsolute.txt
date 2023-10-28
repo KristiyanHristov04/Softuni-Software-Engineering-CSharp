@@ -1,0 +1,11 @@
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\bin\Debug\net6.0\HouseRentingSystem.ViewModels.deps.json
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\bin\Debug\net6.0\HouseRentingSystem.ViewModels.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\bin\Debug\net6.0\HouseRentingSystem.ViewModels.pdb
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\HouseRentingSystem.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\HouseRentingSystem.ViewModels.AssemblyInfoInputs.cache
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\HouseRentingSystem.ViewModels.AssemblyInfo.cs
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\HouseRentingSystem.ViewModels.csproj.CoreCompileInputs.cache
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\HouseRentingSystem.ViewModels.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\refint\HouseRentingSystem.ViewModels.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\HouseRentingSystem.ViewModels.pdb
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\ref\HouseRentingSystem.ViewModels.dll

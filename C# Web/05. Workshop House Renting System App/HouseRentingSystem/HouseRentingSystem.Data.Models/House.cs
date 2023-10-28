@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Identity;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using static HouseRentingSystem.Common.DataConstants.House;
 
@@ -37,6 +38,8 @@ namespace HouseRentingSystem.Data.Models
         public int AgentId { get; set; }
         public Agent Agent { get; set; } = null!;
 
+        [ForeignKey(nameof(User))]
         public string? RenterId { get; set; }
+        public IdentityUser? User { get; set; }
     }
 }

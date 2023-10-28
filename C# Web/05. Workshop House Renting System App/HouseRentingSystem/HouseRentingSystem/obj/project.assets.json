@@ -961,6 +961,45 @@
         "runtime": {
           "bin/placeholder/HouseRentingSystem.Common.dll": {}
         }
+      },
+      "HouseRentingSystem.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseRentingSystem.Data.Models": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.22",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.22"
+        },
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Data.dll": {}
+        }
+      },
+      "HouseRentingSystem.Data.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseRentingSystem.Common": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.22"
+        },
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Data.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Data.Models.dll": {}
+        }
+      },
+      "HouseRentingSystem.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -2457,11 +2496,28 @@
       "type": "project",
       "path": "../HouseRentingSystem.Common/HouseRentingSystem.Common.csproj",
       "msbuildProject": "../HouseRentingSystem.Common/HouseRentingSystem.Common.csproj"
+    },
+    "HouseRentingSystem.Data/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Data/HouseRentingSystem.Data.csproj",
+      "msbuildProject": "../HouseRentingSystem.Data/HouseRentingSystem.Data.csproj"
+    },
+    "HouseRentingSystem.Data.Models/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Data.Models/HouseRentingSystem.Data.Models.csproj",
+      "msbuildProject": "../HouseRentingSystem.Data.Models/HouseRentingSystem.Data.Models.csproj"
+    },
+    "HouseRentingSystem.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.ViewModels/HouseRentingSystem.ViewModels.csproj",
+      "msbuildProject": "../HouseRentingSystem.ViewModels/HouseRentingSystem.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "HouseRentingSystem.Common >= 1.0.0",
+      "HouseRentingSystem.Data >= 1.0.0",
+      "HouseRentingSystem.ViewModels >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.22",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.22",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.22",
@@ -2498,6 +2554,12 @@
           "projectReferences": {
             "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
               "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+            },
+            "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj": {
+              "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj"
+            },
+            "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.ViewModels\\HouseRentingSystem.ViewModels.csproj": {
+              "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.ViewModels\\HouseRentingSystem.ViewModels.csproj"
             }
           }
         }

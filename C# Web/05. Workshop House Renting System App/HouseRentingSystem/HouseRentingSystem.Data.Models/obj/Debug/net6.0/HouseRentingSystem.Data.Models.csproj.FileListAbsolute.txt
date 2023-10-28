@@ -1,0 +1,15 @@
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\bin\Debug\net6.0\HouseRentingSystem.Data.Models.deps.json
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\bin\Debug\net6.0\HouseRentingSystem.Data.Models.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\bin\Debug\net6.0\HouseRentingSystem.Data.Models.pdb
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\bin\Debug\net6.0\HouseRentingSystem.Common.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\HouseRentingSystem.Data.Models.csproj.AssemblyReference.cache
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\HouseRentingSystem.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\HouseRentingSystem.Data.Models.AssemblyInfoInputs.cache
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\HouseRentingSystem.Data.Models.AssemblyInfo.cs
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\HouseRentingSystem.Data.Models.csproj.CoreCompileInputs.cache
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\HouseRentingSystem.Data.Models.csproj.CopyComplete
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\HouseRentingSystem.Data.Models.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\refint\HouseRentingSystem.Data.Models.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\HouseRentingSystem.Data.Models.pdb
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data.Models\obj\Debug\net6.0\ref\HouseRentingSystem.Data.Models.dll
