@@ -121,7 +121,7 @@ namespace HouseRentingSystem.Data.Migrations
                         .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("RenterId")
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Title")
                         .IsRequired()
@@ -134,6 +134,8 @@ namespace HouseRentingSystem.Data.Migrations
 
                     b.HasIndex("CategoryId");
 
+                    b.HasIndex("RenterId");
+
                     b.ToTable("Houses");
 
                     b.HasData(
@@ -144,7 +146,7 @@ namespace HouseRentingSystem.Data.Migrations
                             AgentId = 1,
                             CategoryId = 3,
                             Description = "A big house for your whole family. Don't miss to buy a house with three bedrooms.",
-                            ImageUrl = "https://www.luxury-architecture.net/wpcontent/uploads/2017/12/1513217889-7597-FAIRWAYS-010.jpg",
+                            ImageUrl = "https://static8.depositphotos.com/1392258/871/i/450/depositphotos_8711701-Large-luxury-brick-home.jpg",
                             PricePerMonth = 2100.00m,
                             RenterId = "6d5800ce-d726-4fc8-83d9-d6b3ac1f591e",
                             Title = "Big House Marina"
@@ -294,15 +296,15 @@ namespace HouseRentingSystem.Data.Migrations
                         {
                             Id = "dea12856-c198-4129-b3f3-b893d8395082",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "bf86b037-4d90-4ec1-a3f3-42d6895ff06e",
+                            ConcurrencyStamp = "3875fc17-709d-4430-ae0e-821c8421b182",
                             Email = "agent@mail.com",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
                             NormalizedEmail = "agent@mail.com",
                             NormalizedUserName = "agent@mail.com",
-                            PasswordHash = "AQAAAAEAACcQAAAAEOy9YUeRhF+k3HY47yGGo0Z/i3RyeLqRbJcL58XQ7yFfDn/yGF/IBfP07Q8AbbhPXA==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEFPwJ0HB+mPScDl1L/uN6wAJWifhQ8fKBmeT/mvwdH0mkH9HDVvajpw7QPB8VLfiQA==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "162b22bf-512f-4681-baf6-4d7564d16820",
+                            SecurityStamp = "7a4759a8-2d34-4a22-80fc-0dc7a1f79e47",
                             TwoFactorEnabled = false,
                             UserName = "agent@mail.com"
                         },
@@ -310,15 +312,15 @@ namespace HouseRentingSystem.Data.Migrations
                         {
                             Id = "6d5800ce-d726-4fc8-83d9-d6b3ac1f591e",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "b5b57395-0887-4fd9-bf3a-f126d547dd26",
+                            ConcurrencyStamp = "99accd2b-6bbf-4e58-96ba-02bbe3f335f7",
                             Email = "guest@mail.com",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
                             NormalizedEmail = "guest@mail.com",
                             NormalizedUserName = "guest@mail.com",
-                            PasswordHash = "AQAAAAEAACcQAAAAENOcrMTssHaF1cBNXuQTXzQOQe3gyll8SaO5WUP2jKqKyCV2BQG3eSaNZLa/WmCwSA==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEJjAUgeSA2tQWEuAG2NbEZ5YWrNDCnbtWwwoDsRRw7Kx+Q+u6r0KAoZ3FVY2AN35JA==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "9538c8db-ab74-4aa6-ab98-82c0af5dbd2c",
+                            SecurityStamp = "7e7e17e1-2e41-4e69-94dd-17035db393a1",
                             TwoFactorEnabled = false,
                             UserName = "guest@mail.com"
                         });
@@ -434,9 +436,15 @@ namespace HouseRentingSystem.Data.Migrations
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
+                        .WithMany()
+                        .HasForeignKey("RenterId");
+
                     b.Navigation("Agent");
 
                     b.Navigation("Category");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

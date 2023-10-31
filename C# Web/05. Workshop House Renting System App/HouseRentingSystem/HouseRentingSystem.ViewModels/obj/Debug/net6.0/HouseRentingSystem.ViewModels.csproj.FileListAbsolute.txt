@@ -9,3 +9,7 @@ E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\n
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\refint\HouseRentingSystem.ViewModels.dll
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\HouseRentingSystem.ViewModels.pdb
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\ref\HouseRentingSystem.ViewModels.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Common.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\HouseRentingSystem.ViewModels.csproj.AssemblyReference.cache
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.ViewModels\obj\Debug\net6.0\HouseRentingSystem.ViewModels.csproj.CopyComplete

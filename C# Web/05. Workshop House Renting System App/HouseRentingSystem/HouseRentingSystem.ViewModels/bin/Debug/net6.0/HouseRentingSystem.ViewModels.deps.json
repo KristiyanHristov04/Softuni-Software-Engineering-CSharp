@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "HouseRentingSystem.ViewModels/1.0.0": {
+        "dependencies": {
+          "HouseRentingSystem.Common": "1.0.0"
+        },
         "runtime": {
           "HouseRentingSystem.ViewModels.dll": {}
+        }
+      },
+      "HouseRentingSystem.Common/1.0.0": {
+        "runtime": {
+          "HouseRentingSystem.Common.dll": {}
         }
       }
     }
   },
   "libraries": {
     "HouseRentingSystem.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HouseRentingSystem.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

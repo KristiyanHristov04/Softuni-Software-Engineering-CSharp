@@ -284,7 +284,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+                "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

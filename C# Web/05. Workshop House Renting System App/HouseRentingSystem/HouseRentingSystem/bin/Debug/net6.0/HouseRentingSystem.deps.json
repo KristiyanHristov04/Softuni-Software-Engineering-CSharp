@@ -581,6 +581,9 @@
         }
       },
       "HouseRentingSystem.ViewModels/1.0.0": {
+        "dependencies": {
+          "HouseRentingSystem.Common": "1.0.0"
+        },
         "runtime": {
           "HouseRentingSystem.ViewModels.dll": {}
         }

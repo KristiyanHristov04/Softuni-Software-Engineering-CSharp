@@ -44,6 +44,7 @@ namespace HouseRentingSystem
               .AddEntityFrameworkStores<HouseRentingDbContext>();
 
             builder.Services.AddTransient<IHouseService, HouseService>();
+            builder.Services.AddTransient<IAgentService, AgentService>();
 
             builder.Services.AddControllersWithViews();
 

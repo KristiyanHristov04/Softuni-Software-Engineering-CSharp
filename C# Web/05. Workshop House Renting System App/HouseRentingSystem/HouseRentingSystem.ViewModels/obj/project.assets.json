@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "HouseRentingSystem.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HouseRentingSystem.Common/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Common/HouseRentingSystem.Common.csproj",
+      "msbuildProject": "../HouseRentingSystem.Common/HouseRentingSystem.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "HouseRentingSystem.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Kristiyan\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+              "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
