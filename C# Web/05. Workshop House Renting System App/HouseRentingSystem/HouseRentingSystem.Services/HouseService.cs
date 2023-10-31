@@ -1,4 +1,5 @@
-﻿using HouseRentingSystem.Data;
+﻿using HouseRentingSystem.Common.Enums;
+using HouseRentingSystem.Data;
 using HouseRentingSystem.Data.Models;
 using HouseRentingSystem.Services.Interfaces;
 using HouseRentingSystem.ViewModels.Category;
@@ -20,6 +21,61 @@ namespace HouseRentingSystem.Services
             this.context = _context;
         }
 
+        public HouseQueryViewModel All(string category = null, string searchTerm = null, HouseSorting sorting = HouseSorting.Newest, int currentPage = 1, int housesPerPage = 1)
+        {
+            List<House> housesQuery = this.context.Houses.ToList();
+
+            if (!string.IsNullOrWhiteSpace(category))
+            {
+                housesQuery = this.context.Houses.Where(h => h.Category.Name == category).ToList();
+            }
+
+            if (!string.IsNullOrWhiteSpace(searchTerm))
+            {
+                housesQuery = housesQuery
+                    .Where(h =>
+                    h.Title.ToLower().Contains(searchTerm.ToLower()) ||
+                    h.Address.ToLower().Contains(searchTerm.ToLower()) ||
+                    h.Description.ToLower().Contains(searchTerm.ToLower())).ToList();
+            }
+
+            switch (sorting)
+            {
+                case HouseSorting.Price:
+                    housesQuery = housesQuery.OrderBy(h => h.PricePerMonth).ToList();
+                    break;
+                case HouseSorting.NotRentedFirst:
+                    housesQuery = housesQuery.OrderBy(h => h.RenterId != null)
+                        .ThenByDescending(h => h.Id).ToList();
+                    break;
+                case HouseSorting.Newest:
+                    housesQuery = housesQuery.OrderByDescending(h => h.Id).ToList();
+                    break;
+            }
+
+            List<HouseViewModel> houses = housesQuery
+                .Skip((currentPage - 1) * housesPerPage)
+                .Take(housesPerPage)
+                .Select(h => new HouseViewModel()
+                {
+                    Id = h.Id,
+                    Title = h.Title,
+                    Address = h.Address,
+                    ImageUrl = h.ImageUrl,
+                    IsRented = h.RenterId != null ? true : false,
+                    PricePerMonth = h.PricePerMonth
+                })
+                .ToList();
+
+            int totalHouses = housesQuery.Count();
+
+            return new HouseQueryViewModel()
+            {
+                Houses = houses,
+                TotalHousesCount = totalHouses
+            };
+        }
+
         public async Task<IEnumerable<CategoryViewModel>> AllCategoriesAsync()
         {
             List<CategoryViewModel> categories = await this.context.Categories.Select(c => new CategoryViewModel()
@@ -30,6 +86,11 @@ namespace HouseRentingSystem.Services
             .ToListAsync();
 
             return categories;
+        }
+
+        public async Task<IEnumerable<string>> AllCategoriesNamesAsync()
+        {
+            return await this.context.Categories.Select(c => c.Name).Distinct().ToListAsync();
         }
 
         public async Task<bool> CategoryExistsAsync(int categoryId)
