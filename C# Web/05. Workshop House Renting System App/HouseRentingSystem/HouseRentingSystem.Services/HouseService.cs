@@ -154,6 +154,14 @@ namespace HouseRentingSystem.Services
             return house.Id;
         }
 
+        public async Task DeleteAsync(int houseId)
+        {
+            House house = await this.context.Houses.FindAsync(houseId);
+
+            this.context.Remove(house);
+            await this.context.SaveChangesAsync();
+        }
+
         public async Task EditAsync(int houseId, string title, string address, string description, string imageUrl, decimal price, int categoryId)
         {
             House houseToEdit = this.context.Houses.Find(houseId);
@@ -170,7 +178,8 @@ namespace HouseRentingSystem.Services
 
         public async Task<bool> ExistsAsync(int id)
         {
-            return await this.context.Houses.AnyAsync(h => h.Id == id);
+            bool result = await this.context.Houses.AnyAsync(h => h.Id == id);
+            return result;
         }
 
         public async Task<int> GetHouseCategoryIdAsync(int houseId)
@@ -220,6 +229,32 @@ namespace HouseRentingSystem.Services
                     .FirstOrDefaultAsync();
         }
 
+        public async Task<bool> IsRentedAsync(int id)
+        {
+            House house = await this.context.Houses.FindAsync(id);
+
+            bool result = house.RenterId != null ? true : false;
+
+            return result;
+        }
+
+        public async Task<bool> IsRentedByUserWithIdAsync(int houseId, string userId)
+        {
+            House house = await this.context.Houses.FindAsync(houseId);
+
+            if (house == null)
+            {
+                return false;
+            }
+
+            if (house.RenterId != userId)
+            {
+                return false;
+            }
+
+            return true;
+        }
+
         public async Task<IEnumerable<HouseIndexViewModel>> LastThreeHousesAsync()
         {
             List<HouseIndexViewModel> houses =
@@ -235,6 +270,22 @@ namespace HouseRentingSystem.Services
                 .ToListAsync();
 
             return houses;
+        }
+
+        public async Task LeaveAsync(int houseId)
+        {
+            var house = await this.context.Houses.FindAsync(houseId);
+
+            house.RenterId = null;
+            await this.context.SaveChangesAsync();
+        }
+
+        public async Task RentAsync(int houseId, string userId)
+        {
+            House house = await this.context.Houses.FindAsync(houseId);
+
+            house.RenterId = userId;
+            await this.context.SaveChangesAsync();
         }
     }
 }

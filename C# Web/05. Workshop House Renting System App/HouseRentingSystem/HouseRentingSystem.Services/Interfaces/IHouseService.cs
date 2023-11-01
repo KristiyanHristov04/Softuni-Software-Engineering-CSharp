@@ -36,5 +36,14 @@ namespace HouseRentingSystem.Services.Interfaces
         Task<bool> HasAgentWithIdAsync(int houseId, string currentUserId);
 
         Task<int> GetHouseCategoryIdAsync(int houseId);
+
+        Task DeleteAsync(int houseId);
+
+        Task<bool> IsRentedAsync(int id);
+
+        Task<bool> IsRentedByUserWithIdAsync(int houseId, string userId);
+
+        Task RentAsync(int houseId, string userId);
+        Task LeaveAsync(int houseId);
     }
 }
