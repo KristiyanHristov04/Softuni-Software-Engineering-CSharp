@@ -16,6 +16,6 @@ namespace HouseRentingSystem.Services.Interfaces
 
         Task Create(string userId, string phoneNumber);
 
-        Task<int> GetAgentId(string userId);
+        int GetAgentId(string userId);
     }
 }

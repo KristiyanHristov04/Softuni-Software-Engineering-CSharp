@@ -22,5 +22,9 @@ namespace HouseRentingSystem.Services.Interfaces
         Task<IEnumerable<string>> AllCategoriesNamesAsync();
 
         HouseQueryViewModel All(string category = null, string searchTerm = null, HouseSorting sorting = HouseSorting.Newest, int currentPage = 1, int housesPerPage = 1);
+
+        Task<IEnumerable<HouseViewModel>> AllHousesByAgentIdAsync(int agentId);
+
+        Task<IEnumerable<HouseViewModel>> AllHousesByUserIdAsync(string userId);
     }
 }

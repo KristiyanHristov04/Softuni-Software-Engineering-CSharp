@@ -93,6 +93,42 @@ namespace HouseRentingSystem.Services
             return await this.context.Categories.Select(c => c.Name).Distinct().ToListAsync();
         }
 
+        public async Task<IEnumerable<HouseViewModel>> AllHousesByAgentIdAsync(int agentId)
+        {
+            List<HouseViewModel> agentHouses = await this.context.Houses
+                .Where(h => h.AgentId == agentId)
+                .Select(h => new HouseViewModel()
+                {
+                    Id = h.Id,
+                    Title = h.Title,
+                    Address = h.Address,
+                    ImageUrl = h.ImageUrl,
+                    PricePerMonth = h.PricePerMonth,
+                    IsRented = h.RenterId != null ? true : false
+                })
+                .ToListAsync();
+
+            return agentHouses;
+        }
+
+        public async Task<IEnumerable<HouseViewModel>> AllHousesByUserIdAsync(string userId)
+        {
+            List<HouseViewModel> userHouses = await this.context.Houses
+                .Where(h => h.RenterId == userId)
+                .Select(h => new HouseViewModel()
+                {
+                    Id = h.Id,
+                    Title = h.Title,
+                    Address = h.Address,
+                    ImageUrl = h.ImageUrl,
+                    PricePerMonth = h.PricePerMonth,
+                    IsRented = h.RenterId != null ? true : false
+                })
+                .ToListAsync();
+
+            return userHouses;
+        }
+
         public async Task<bool> CategoryExistsAsync(int categoryId)
         {
             return await this.context.Categories.AnyAsync(c => c.Id == categoryId);

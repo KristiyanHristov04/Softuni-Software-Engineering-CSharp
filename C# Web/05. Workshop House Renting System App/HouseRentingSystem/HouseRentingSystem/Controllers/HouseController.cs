@@ -33,7 +33,22 @@ namespace HouseRentingSystem.Controllers
 
         public async Task<IActionResult> Mine()
         {
-            return View(new AllHousesQueryModel());
+            IEnumerable<HouseViewModel> houses = null;
+
+            string currentUserId = this.User.Id();
+
+            if (await this.agentService.ExistsById(currentUserId))
+            {
+                int agentId = this.agentService.GetAgentId(currentUserId);
+
+                houses = await this.houseService.AllHousesByAgentIdAsync(agentId);
+            }
+            else
+            {
+                houses = await this.houseService.AllHousesByUserIdAsync(currentUserId);
+            }
+
+            return View(houses);
         }
 
         public async Task<IActionResult> Details(int id)
@@ -73,7 +88,7 @@ namespace HouseRentingSystem.Controllers
                 return View(model);
             }
 
-            int agentId = await this.agentService.GetAgentId(User.Id());
+            int agentId = this.agentService.GetAgentId(User.Id());
 
             int newHouseId = await this.houseService.CreateAsync
                 (model.Title, model.Address, model.Description,
