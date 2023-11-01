@@ -2,6 +2,7 @@
 using HouseRentingSystem.Data;
 using HouseRentingSystem.Data.Models;
 using HouseRentingSystem.Services.Interfaces;
+using HouseRentingSystem.ViewModels.Agent;
 using HouseRentingSystem.ViewModels.Category;
 using HouseRentingSystem.ViewModels.House;
 using Microsoft.EntityFrameworkCore;
@@ -153,6 +154,72 @@ namespace HouseRentingSystem.Services
             return house.Id;
         }
 
+        public async Task EditAsync(int houseId, string title, string address, string description, string imageUrl, decimal price, int categoryId)
+        {
+            House houseToEdit = this.context.Houses.Find(houseId);
+
+            houseToEdit.Title = title;
+            houseToEdit.Address = address;
+            houseToEdit.Description = description;
+            houseToEdit.ImageUrl = imageUrl;
+            houseToEdit.PricePerMonth = price;
+            houseToEdit.CategoryId = categoryId;
+
+            await this.context.SaveChangesAsync();
+        }
+
+        public async Task<bool> ExistsAsync(int id)
+        {
+            return await this.context.Houses.AnyAsync(h => h.Id == id);
+        }
+
+        public async Task<int> GetHouseCategoryIdAsync(int houseId)
+        {
+            House house = await this.context.Houses.FindAsync(houseId);
+            return house.CategoryId;
+        }
+
+        public async Task<bool> HasAgentWithIdAsync(int houseId, string currentUserId)
+        {
+            House house = await this.context.Houses.FindAsync(houseId);
+            Agent agent = await this.context.Agents.FirstOrDefaultAsync(a => a.Id == house.AgentId);
+
+            if (agent == null)
+            {
+                return false;
+            }
+
+            if (agent.UserId != currentUserId)
+            {
+                return false;
+            }
+
+            return true;
+        }
+
+        public async Task<HouseDetailsViewModel> HouseDetailsByIdAsync(int id)
+        {
+            return await this.context.Houses
+                    .Where(h => h.Id == id)
+                    .Select(h => new HouseDetailsViewModel()
+                    {
+                        Id = h.Id,
+                        Title = h.Title,
+                        Address = h.Address,
+                        Description = h.Description,
+                        ImageUrl = h.ImageUrl,
+                        PricePerMonth = h.PricePerMonth,
+                        IsRented = h.RenterId != null ? true : false,
+                        Category = h.Category.Name,
+                        Agent = new AgentViewModel()
+                        {
+                            PhoneNumber = h.Agent.PhoneNumber,
+                            Email = h.Agent.User.Email
+                        }
+                    })
+                    .FirstOrDefaultAsync();
+        }
+
         public async Task<IEnumerable<HouseIndexViewModel>> LastThreeHousesAsync()
         {
             List<HouseIndexViewModel> houses =
@@ -167,7 +234,7 @@ namespace HouseRentingSystem.Services
                 .Take(3)
                 .ToListAsync();
 
-            return houses;                          
+            return houses;
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using HouseRentingSystem.Common.Extensions;
+using HouseRentingSystem.Data.Models;
 using HouseRentingSystem.Services.Interfaces;
 using HouseRentingSystem.ViewModels.House;
 using Microsoft.AspNetCore.Authorization;
@@ -51,9 +52,16 @@ namespace HouseRentingSystem.Controllers
             return View(houses);
         }
 
+        [AllowAnonymous]
         public async Task<IActionResult> Details(int id)
         {
-            return View(new HouseDetailsViewModel());
+            if (await this.houseService.ExistsAsync(id) == false)
+            {
+                return BadRequest();
+            }
+
+            HouseDetailsViewModel model = await this.houseService.HouseDetailsByIdAsync(id);
+            return View(model);
         }
 
         public async Task<IActionResult> Add()
@@ -100,13 +108,64 @@ namespace HouseRentingSystem.Controllers
 
         public async Task<IActionResult> Edit(int id)
         {
-            return View(new HouseFormModel());
+            if (await this.houseService.ExistsAsync(id) == false)
+            {
+                return BadRequest();
+            }
+
+            if (await this.houseService.HasAgentWithIdAsync(id, this.User.Id()) == false)
+            {
+                return Unauthorized();
+            }
+
+            HouseDetailsViewModel house = await this.houseService.HouseDetailsByIdAsync(id);
+
+            int houseCategoryId = await this.houseService.GetHouseCategoryIdAsync(house.Id);
+
+            HouseFormModel model = new HouseFormModel()
+            {
+                Title = house.Title,
+                Address = house.Address,
+                Description = house.Description,
+                ImageUrl = house.ImageUrl,
+                PricePerMonth = house.PricePerMonth,
+                CategoryId = houseCategoryId,
+                Categories = await this.houseService.AllCategoriesAsync()
+            };
+
+            return View(model);
         }
 
         [HttpPost]
         public async Task<IActionResult> Edit(int id, HouseFormModel model)
         {
-            return RedirectToAction(nameof(Details), new { id = "1" });
+            if (await this.houseService.ExistsAsync(id) == false)
+            {
+                return BadRequest();
+            }
+
+            if (await this.houseService.HasAgentWithIdAsync(id, this.User.Id()) == false)
+            {
+                return Unauthorized();
+            }
+
+            if (await this.houseService.CategoryExistsAsync(model.CategoryId) == false)
+            {
+                ModelState.AddModelError(nameof(model.CategoryId),
+                    "Category does not exist.");
+            }
+
+            if (!ModelState.IsValid)
+            {
+                model.Categories = await this.houseService.AllCategoriesAsync();
+
+                return View(model);
+            }
+
+            await this.houseService.EditAsync(id, model.Title, model.Address, model.Description, model.ImageUrl, model.PricePerMonth, model.CategoryId);
+
+
+            return RedirectToAction(nameof(Details), new { id = id });
         }
 
         public async Task<IActionResult> Delete(int id)
