@@ -122,7 +122,7 @@ JavaScript Basics
   5. [**Flexbox**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Flexbox)
   6. [**Position and Grid**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Position%20and%20Grid)
   7. [**Media Queries**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Media%20Queries)
-  8. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Media%20Queries)
+  8. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/HTML%20%26%20CSS/Exam%20Preparations)
   </details>
   
  ***
