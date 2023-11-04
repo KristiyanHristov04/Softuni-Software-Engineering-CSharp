@@ -1,0 +1,242 @@
+/* ostro */
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+/* gladko */
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+
+body {
+    margin: 0;
+    position: relative;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+}
+
+.logo {
+    width: 90px;
+    height: 70px;
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 5rem;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+nav ul li a {
+    color: white;
+    text-transform: uppercase;
+    font-family: 'PT Sans';
+    text-decoration: none;
+}
+
+main hr {
+    border: none;
+    height: 2px;
+    background-color: lightgray;
+}
+
+.hero-section {
+    width: 100%;
+    height: 950px;
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-section article {
+    color: white;
+    position: absolute;
+    top: 140px;
+    left: 200px;
+    width: 780px;
+}
+
+.hero-section article h1 {
+    font-size: 66px;
+    font-family: 'PT Serif';
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+
+.hero-section article p {
+    font-size: 24px;
+    font-family: 'PT Sans';
+}
+
+.information-section {
+    padding: 6rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.information-section article {
+    width: 29.5%;
+}
+
+.information-section article h3 {
+    font-family: 'PT Serif';
+    font-size: 46px;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.information-section article p {
+    font-family: 'PT Sans';
+    line-height: 30px;
+    /* color: gray; */
+    margin-bottom: 40px;
+}
+
+.information-section article a.button {
+    color: #A57146;
+    border: 2px solid #A57146;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    font-family: 'PT Sans';
+    font-weight: bold;
+}
+
+.sponsors-section {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.sponsors-section h3 {
+    color: #AE7F59;
+    font-size: 46px;
+    font-family: 'PT Serif';
+    font-weight: lighter;
+}
+
+.sponsors-section h3:nth-of-type(1) {
+    margin-top: 0;
+}
+
+.sponsors-section p {
+    color: gray;
+    font-family: 'PT Sans';
+    width: 63%;
+    margin: 0 auto;
+}
+
+.sponsors-section .images-container {
+    width: 400px;
+    height: 160px;
+    margin: 0 auto;
+    display: flex;
+    gap: 60px;
+    margin-top: 46px;
+}
+
+.image-wrapper {
+    width: 100%;
+    height: 100%;
+    background-color: #DDDDDD;
+    border-radius: 50%;
+    position: relative;
+}
+
+.images-container img {
+    width: 70%;
+    height: 70%;
+    position: absolute;
+    top: 20px;
+    left: 27px;
+}
+
+footer {
+    background-color: #171720;
+    padding-top: 2rem;
+    padding-bottom: 0.1rem;
+}
+
+footer .footer-links {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+footer .addresses {
+    display: flex;
+    flex-direction: column;
+}
+
+footer .statues-and-policies {
+    display: flex;
+    flex-direction: column;
+}
+
+footer .resources {
+    display: flex;
+    flex-direction: column;
+}
+
+footer .mobile-apps {
+    display: flex;
+    flex-direction: column;
+}
+
+
+footer p {
+    color: gray;
+    font-family: 'PT Sans';
+    margin-left: 370px;
+}
+
+footer h4 {
+    color: white;
+    font-family: 'PT Serif';
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    padding: 10px 0;
+}
+
+footer ul li a {
+    color: gray;
+    text-decoration: none;
+    font-family: 'PT Sans';
+    text-transform: uppercase;
+}
+
+.mobile-apps {
+    margin-left: 66px;
+}
+
+footer hr {
+    border: none;
+    height: 1px;
+    background-color: gray;
+    opacity: 0.3;
+}
+
+a:hover {
+    text-decoration: underline;
+}
