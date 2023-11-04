@@ -1,0 +1,82 @@
+body {
+    height: 100vh;
+    font-family: Helvetica, sans-serif;
+    position: relative;
+    margin: 0;
+}
+
+section {
+    border: 4px solid black;
+    width: 900px;
+    height: auto;
+    border-radius: 10px;
+    background-color: #1881B6;
+    padding: 2rem 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+section article {
+    display: flex;
+    height: 100%;
+    gap: 15px;
+}
+
+section article .left-part {
+    flex-basis: 65%;
+}
+
+section article .right-part {
+    flex-basis: 35%;
+}
+
+article h3 {
+    text-transform: uppercase;
+}
+
+article h1 {
+    color: white;
+    font-size: 39px;
+    font-weight: lighter;
+    margin-bottom: 20px;
+}
+
+article p {
+    text-indent: 50px;
+    line-height: 25px;
+}
+
+article .right-part img {
+    width: 100%;
+    height: 100%;
+}
+
+.buttons-container {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+.contact-sales.button {
+    background-color: #B6416D;
+    color: white;
+    border: 1px solid black;
+    padding: 0.4rem 0.8rem;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.learn-more.button {
+    border: 1px solid black;
+    padding: 0.4rem 0.8rem;
+    border-radius: 5px; 
+    font-weight: bold;
+    background-color: transparent;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
