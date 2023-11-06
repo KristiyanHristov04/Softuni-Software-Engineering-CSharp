@@ -1,5 +1,4 @@
-﻿using HouseRentingSystem.Models;
-using HouseRentingSystem.Services.Interfaces;
+﻿using HouseRentingSystem.Services.Interfaces;
 using HouseRentingSystem.ViewModels.Home;
 using HouseRentingSystem.ViewModels.House;
 using Microsoft.AspNetCore.Mvc;
@@ -19,6 +18,26 @@ namespace HouseRentingSystem.Controllers
         {
             IEnumerable<HouseIndexViewModel> houses = await this.houseService.LastThreeHousesAsync();
             return View(houses);
+        }
+
+        public async Task<IActionResult> Error(int statusCode)
+        {
+            if (statusCode == 400)
+            {
+                return View("Error400");
+            }
+
+            if (statusCode == 401)
+            {
+                return View("Error401");
+            }
+
+            if (statusCode == 404)
+            {
+                return View("Error404");
+            }
+
+            return View();
         }
     }
 }
