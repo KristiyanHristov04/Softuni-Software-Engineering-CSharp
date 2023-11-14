@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProductsAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ProductsAPI.Controllers.ProductsController.GetProducts">
+            <summary>
+            Gets a list with all products.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET /api/products
+                {   
+                }
+            </remarks>
+            <response code="200">Returns OK</response>
+            <returns></returns>
+        </member>
+        <member name="M:ProductsAPI.Controllers.ProductsController.GetProduct(System.Int32)">
+            <summary>
+            Gets a product by id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductsAPI.Controllers.ProductsController.PostProduct(ProductsAPI.Data.Product)">
+            <summary>
+            Adds new product.
+            </summary>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductsAPI.Controllers.ProductsController.PutProduct(System.Int32,ProductsAPI.Data.Product)">
+            <summary>
+            Updates product by id.
+            </summary>
+            <param name="id"></param>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductsAPI.Controllers.ProductsController.PatchProduct(System.Int32,ProductsAPI.Data.Product)">
+            <summary>
+            Updates product by id partially.
+            </summary>
+            <param name="id"></param>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProductsAPI.Controllers.ProductsController.DeleteProduct(System.Int32)">
+            <summary>
+            Deletes product by id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ProductsAPI.Data.Migrations.InitialMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:ProductsAPI.Data.Migrations.InitialMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ProductsAPI.Data.Migrations.InitialMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ProductsAPI.Data.Migrations.InitialMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
