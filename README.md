@@ -3,7 +3,7 @@
 
 <h2>All courses that I have completed at @SoftUni</h2>
 
-<em>Here you can find problem solutions from the following lectures:</em>
+<em>Here you can find problem solutions from the following lecture:</em>
 ***
 <details>
 <summary><h3>Basics Carriculum List</summary>
