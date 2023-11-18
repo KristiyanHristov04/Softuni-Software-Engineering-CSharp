@@ -1,0 +1,60 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css');
+#reveal-button {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: coral;
+    color: white;
+    font-weight: bold;
+}
+
+#text {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    max-width: 300px;
+    background-color: gray;
+    color: white;
+}
+
+.hide-element {
+    display: none;
+}
+
+#wrapper {
+    margin-top: 20px;
+    border: 3px solid brown;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: burlywood;
+    max-width: 300px;
+}
+
+#question {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+#answer {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 10px;
+    display: none
+    ;
+}
+
+span {
+    color: white;
+}
+
+#github-wrapper {
+    margin-top: 20px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 5px;
+}
