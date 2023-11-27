@@ -50,3 +50,32 @@ btn-lg"
         <span class="visually-hidden">Next</span>
     </button>
 </div>
+
+<div class="row mt-5">
+    <div class="col-12 text-center">
+        <button class="btn btn-primary" id="statistics-button">Show Statistics</button>
+    </div>
+</div>
+
+<div class="mt-4 p-5 bg-light d-none" id="statistics">
+    <div class="row">
+        <h2 class="col-md-6 text-center" id="total-houses"></h2>
+        <h2 class="col-md-6 text-center" id="total-rents"></h2>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#statistics-button').on('click', () => {
+                $.get('/api/statistics', (data) => {
+                    console.log(data);
+                    $('#total-houses').text(data.totalHouses + ' Houses');
+                    $('#total-rents').text(data.totalRents + ' Rents');
+                    $('#statistics').removeClass('d-none');
+                    $('#statistics-button').hide();
+                });
+            });
+        });
+    </script>
+}

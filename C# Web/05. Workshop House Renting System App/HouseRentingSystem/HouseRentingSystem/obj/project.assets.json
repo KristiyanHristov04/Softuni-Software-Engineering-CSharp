@@ -596,6 +596,15 @@
           }
         }
       },
+      "jQuery/2.1.0": {
+        "type": "package"
+      },
+      "jQuery-vsdoc/2.1.0": {
+        "type": "package",
+        "dependencies": {
+          "jQuery": "2.1.0"
+        }
+      },
       "MessagePack/2.1.152": {
         "type": "package",
         "dependencies": {
@@ -4711,6 +4720,38 @@
         "lib/netstandard1.0/zh-Hant/Humanizer.resources.dll",
         "lib/netstandard2.0/zh-Hant/Humanizer.resources.dll",
         "logo.png"
+      ]
+    },
+    "jQuery/2.1.0": {
+      "sha512": "xMauIG19FNgANvxF2jmt+PVOc/nATzqK8FbsDvvsJL1Hp9Mhl1pL80fPGok/Cmz+Mhph7RaH9wXtERjsxGggCQ==",
+      "type": "package",
+      "path": "jquery/2.1.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/jquery-2.1.0-vsdoc.js",
+        "Content/Scripts/jquery-2.1.0.js",
+        "Content/Scripts/jquery-2.1.0.min.js",
+        "Content/Scripts/jquery-2.1.0.min.map",
+        "Tools/common.ps1",
+        "Tools/install.ps1",
+        "Tools/jquery-2.1.0.intellisense.js",
+        "Tools/uninstall.ps1",
+        "jquery.2.1.0.nupkg.sha512",
+        "jquery.nuspec"
+      ]
+    },
+    "jQuery-vsdoc/2.1.0": {
+      "sha512": "DS1WvcxuUq7EX682YOl9Pjw37ItPdGUBfIYZfQo+mjbdYjkLJKV4mAA7HU8siZvhLVZ4F32o4o8l9wbtRlsfsA==",
+      "type": "package",
+      "path": "jquery-vsdoc/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Scripts/jquery-2.1.0-vsdoc.js",
+        "jquery-vsdoc.2.1.0.nupkg.sha512",
+        "jquery-vsdoc.nuspec"
       ]
     },
     "MessagePack/2.1.152": {
@@ -11219,7 +11260,8 @@
       "Microsoft.AspNetCore.Identity.UI >= 6.0.22",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.22",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.22",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16",
+      "jQuery-vsdoc >= 2.1.0"
     ]
   },
   "packageFolders": {
@@ -11297,6 +11339,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.16, )"
+          },
+          "jQuery-vsdoc": {
+            "target": "Package",
+            "version": "[2.1.0, )"
           }
         },
         "imports": [

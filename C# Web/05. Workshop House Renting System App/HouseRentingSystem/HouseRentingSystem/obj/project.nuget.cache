@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DlX3ioTqQTbtgfUH+DXz/lwUgPYSuJ0HGsZFjPBXHJDOXgx58DIaHAl7jXslx6LhlHG9wzjUR12C4Kstn9lWxA==",
+  "dgSpecHash": "5uPqCWNkoeOtoVGmQMG0CHbFhZlEN8+N/DPFfl3A4OlEn+cL8GdQV3sqqWTt39lkAfDHiXRKZSA1uY5odxTH1Q==",
   "success": true,
   "projectFilePath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,8 @@
     "C:\\Users\\Kristiyan\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\Kristiyan\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\Kristiyan\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\Kristiyan\\.nuget\\packages\\jquery\\2.1.0\\jquery.2.1.0.nupkg.sha512",
+    "C:\\Users\\Kristiyan\\.nuget\\packages\\jquery-vsdoc\\2.1.0\\jquery-vsdoc.2.1.0.nupkg.sha512",
     "C:\\Users\\Kristiyan\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Kristiyan\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Kristiyan\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",

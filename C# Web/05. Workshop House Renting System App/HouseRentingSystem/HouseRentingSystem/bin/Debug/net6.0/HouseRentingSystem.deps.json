@@ -17,7 +17,8 @@
           "Microsoft.AspNetCore.Identity.UI": "6.0.22",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.22",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.22",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16",
+          "jQuery-vsdoc": "2.1.0"
         },
         "runtime": {
           "HouseRentingSystem.dll": {}
@@ -561,6 +562,12 @@
           "lib/net6.0/zh-Hant/Humanizer.resources.dll": {
             "locale": "zh-Hant"
           }
+        }
+      },
+      "jQuery/2.1.0": {},
+      "jQuery-vsdoc/2.1.0": {
+        "dependencies": {
+          "jQuery": "2.1.0"
         }
       },
       "MessagePack/2.1.152": {
@@ -2971,6 +2978,20 @@
       "sha512": "sha512-VIXB7HCUC34OoaGnO3HJVtSv2/wljPhjV7eKH4+TFPgQdJj2lvHNKY41Dtg0Bphu7X5UaXFR4zrYYyo+GNOjbA==",
       "path": "humanizer.core.zh-hant/2.14.1",
       "hashPath": "humanizer.core.zh-hant.2.14.1.nupkg.sha512"
+    },
+    "jQuery/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xMauIG19FNgANvxF2jmt+PVOc/nATzqK8FbsDvvsJL1Hp9Mhl1pL80fPGok/Cmz+Mhph7RaH9wXtERjsxGggCQ==",
+      "path": "jquery/2.1.0",
+      "hashPath": "jquery.2.1.0.nupkg.sha512"
+    },
+    "jQuery-vsdoc/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DS1WvcxuUq7EX682YOl9Pjw37ItPdGUBfIYZfQo+mjbdYjkLJKV4mAA7HU8siZvhLVZ4F32o4o8l9wbtRlsfsA==",
+      "path": "jquery-vsdoc/2.1.0",
+      "hashPath": "jquery-vsdoc.2.1.0.nupkg.sha512"
     },
     "MessagePack/2.1.152": {
       "type": "package",
