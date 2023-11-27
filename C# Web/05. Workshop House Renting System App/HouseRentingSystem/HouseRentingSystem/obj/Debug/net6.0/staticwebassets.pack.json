@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\wwwroot\\js\\getAjaxRequest.js",
-      "PackagePath": "staticwebassets\\js\\getAjaxRequest.js"
-    },
-    {
       "Id": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

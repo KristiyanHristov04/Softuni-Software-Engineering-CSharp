@@ -1,4 +1,6 @@
-﻿<div class="col-md-4">
+﻿@model HouseViewModel
+
+<div class="col-md-4">
     <div class="card mb-3">
         <img class="card-img-top" src="@Model.ImageUrl" alt="House Image">
         <div class="card-body text-center">
@@ -10,7 +12,7 @@
             </h6>
             <h6>(@(Model.IsRented ? "Rented" : "Not Rented"))</h6>
             <br />
-            <a asp-controller="House" asp-action="Details" asp-route-id="@Model.Id"
+            <a asp-controller="House" asp-action="Details" asp-route-id="@Model.Id" asp-route-information="@Model.GetInformation()"
                class="btn btn-success">Details</a>
             @if (this.User.Identity.IsAuthenticated)
             {

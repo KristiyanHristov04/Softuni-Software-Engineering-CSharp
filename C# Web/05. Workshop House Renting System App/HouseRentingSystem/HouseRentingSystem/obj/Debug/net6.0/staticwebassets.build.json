@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aRKfxhwrHlrfrP/xj0N8KITkk4wJnFJcTMr/cNJFTus=",
+  "Hash": "JOqCoU5OSBzc3VwmxIAd4QmCPasgNwzazHINH2/VfBA=",
   "Source": "HouseRentingSystem",
   "BasePath": "_content/HouseRentingSystem",
   "Mode": "Default",
@@ -1103,23 +1103,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\wwwroot\\js\\getAjaxRequest.js",
-      "SourceId": "HouseRentingSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\wwwroot\\",
-      "BasePath": "_content/HouseRentingSystem",
-      "RelativePath": "js/getAjaxRequest.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\getAjaxRequest.js"
     },
     {
       "Identity": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\wwwroot\\js\\site.js",

@@ -35,7 +35,7 @@ btn-lg"
                 <div class="carousel-caption d-none d-md-block">
                     <h5>
                         <a class="btn btn-primary" asp-controller="House" aspaction="Details"
-                           asp-route-id="@house.Id"> @house.Title</a>
+                           asp-route-id="@house.Id" asp-route-information="@house.GetInformation()"> @house.Title</a>
                     </h5>
                 </div>
             </div>
@@ -65,7 +65,7 @@ btn-lg"
 </div>
 
 @section Scripts {
-    <script>
+    <script type="text/javascript">
         $(document).ready(function () {
             $('#statistics-button').on('click', () => {
                 $.get('/api/statistics', (data) => {

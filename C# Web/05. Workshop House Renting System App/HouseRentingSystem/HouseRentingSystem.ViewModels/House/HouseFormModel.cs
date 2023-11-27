@@ -1,10 +1,11 @@
-﻿using HouseRentingSystem.ViewModels.Category;
+﻿using HouseRentingSystem.Common;
+using HouseRentingSystem.ViewModels.Category;
 using System.ComponentModel.DataAnnotations;
 using static HouseRentingSystem.Common.DataConstants.House;
 
 namespace HouseRentingSystem.ViewModels.House
 {
-    public class HouseFormModel
+    public class HouseFormModel : IHouseModel
     {
         [Required]
         [StringLength(TitleMaxLength, MinimumLength = TitleMinLength)]

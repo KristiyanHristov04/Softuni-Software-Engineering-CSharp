@@ -53,7 +53,7 @@ namespace HouseRentingSystem.Controllers
         }
 
         [AllowAnonymous]
-        public async Task<IActionResult> Details(int id)
+        public async Task<IActionResult> Details(int id, string information)
         {
             if (await this.houseService.ExistsAsync(id) == false)
             {
@@ -61,6 +61,12 @@ namespace HouseRentingSystem.Controllers
             }
 
             HouseDetailsViewModel model = await this.houseService.HouseDetailsByIdAsync(id);
+
+            if (information != model.GetInformation())
+            {
+                return BadRequest();
+            }
+
             return View(model);
         }
 
@@ -103,7 +109,7 @@ namespace HouseRentingSystem.Controllers
                  model.ImageUrl, model.PricePerMonth, model.CategoryId,
                  agentId);
 
-            return RedirectToAction(nameof(Details), new { id = newHouseId });
+            return RedirectToAction(nameof(Details), new { id = newHouseId, information = model.GetInformation() });
         }
 
         public async Task<IActionResult> Edit(int id)
@@ -165,7 +171,7 @@ namespace HouseRentingSystem.Controllers
             await this.houseService.EditAsync(id, model.Title, model.Address, model.Description, model.ImageUrl, model.PricePerMonth, model.CategoryId);
 
 
-            return RedirectToAction(nameof(Details), new { id = id });
+            return RedirectToAction(nameof(Details), new { id = id, information = model.GetInformation() });
         }
 
         public async Task<IActionResult> Delete(int id)
