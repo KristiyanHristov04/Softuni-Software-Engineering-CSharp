@@ -1,77 +1,66 @@
-async function attachEvents() {
-  const studentsApi = 'http://localhost:3030/jsonstore/collections/students'
-  const inputFields = Array.from(document.querySelectorAll('input[type="text"]'))
-  const submitBtn = document.querySelector('#submit')
-  const tbody = document.querySelector('tbody')
+function attachEvents() {
+  const URL = 'http://localhost:3030/jsonstore/collections/students';
+  const tbody = document.querySelector('#results tbody');
+  const submitButton = document.getElementById('submit');
+  const [firstNameInput, lastNameInput, facultyNumberInput, gradeInput] = document.querySelectorAll('input[type=text]');
 
-  const checkCorrectInputs = () => {
-      for (const item of inputFields) {
-          if (!item.value.trim()) {
-              return false
-          }
-      }
-      return true
+  extractStudents();
+
+  submitButton.addEventListener('click', (e) => {
+    fetch(URL, {
+      method: 'POST',
+      body: JSON.stringify({
+        firstName: firstNameInput.value,
+        lastName: lastNameInput.value,
+        facultyNumber: facultyNumberInput.value,
+        grade: gradeInput.value,
+      })
+    })
+    .then(firstNameInput.value = '', lastNameInput.value = '',
+          facultyNumberInput.value = '', gradeInput.value = '')
+    .then(extractStudents)
+    .catch(error => console.log(error));
+  });
+
+  function extractStudents() {
+    tbody.innerHTML = '';
+    fetch(URL)
+      .then(response => response.json())
+      .then(data => {
+        let students = Object.values(data);
+        for (const student of students) {
+          let firstName = student.firstName;
+          let lastName = student.lastName;
+          let facultyNumber = student.facultyNumber;
+          let grade = Number(student.grade).toFixed(2);
+          loadStudent(firstName, lastName, facultyNumber, grade);
+        }
+      })
+      .catch(error => console.log(error));
   }
 
-  const clearInputFields = () => {
-      inputFields.forEach(x => x.value = '');
+  function loadStudent(firstName, lastName, facultyNumber, grade) {
+    let tr = document.createElement('tr');
+
+    let firstNameTd = document.createElement('td');
+    firstNameTd.textContent = firstName;
+
+    let lastNameTd = document.createElement('td');
+    lastNameTd.textContent = lastName;
+
+    let facultyNumberTd = document.createElement('td');
+    facultyNumberTd.textContent = facultyNumber;
+
+    let gradeTd = document.createElement('td');
+    gradeTd.textContent = grade;
+
+    tr.appendChild(firstNameTd);
+    tr.appendChild(lastNameTd);
+    tr.appendChild(facultyNumberTd);
+    tr.appendChild(gradeTd);
+
+    tbody.appendChild(tr);
   }
-
-  const createStudent = () => {
-      return {
-          firstName: inputFields[0].value,
-          lastName: inputFields[1].value,
-          facultyNumber: inputFields[2].value,
-          grade: inputFields[3].value
-      }
-  }
-
-  const saveStudentToDB = async () => {
-      try {
-          await fetch(studentsApi, {
-              method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(createStudent())
-          })
-      } catch (error) {
-
-      }
-
-  }
-
-  const createElementWithTextContent = (tag, textContent) => {
-      const e = document.createElement(tag)
-      e.textContent = textContent
-      return e
-  }
-
-  const loadStudents = async () => {
-      tbody.innerHTML = ''
-      try {
-          let data = await fetch(studentsApi)
-          data = await data.json()
-          for (const key in data) {
-              const td = document.createElement('tr')
-              td.appendChild(createElementWithTextContent('td', `${data[key].firstName}`))
-              td.appendChild(createElementWithTextContent('td', `${data[key].lastName}`))
-              td.appendChild(createElementWithTextContent('td', `${data[key].facultyNumber}`))
-              td.appendChild(createElementWithTextContent('td', `${data[key].grade}`))
-              tbody.appendChild(td)
-          }
-
-      } catch (error) {
-      }
-  }
-
-  await loadStudents()
-
-  submitBtn.addEventListener('click', async () => {
-      if (!checkCorrectInputs()) {
-          return
-      }
-      await saveStudentToDB()
-      clearInputFields()
-      await loadStudents()
-  })
-
 }
 
 attachEvents();
