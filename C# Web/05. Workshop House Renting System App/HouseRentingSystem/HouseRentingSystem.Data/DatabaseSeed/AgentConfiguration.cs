@@ -8,11 +8,13 @@ namespace HouseRentingSystem.Data.DatabaseSeed
     {
         public void Configure(EntityTypeBuilder<Agent> builder)
         {
-            builder.HasData(SeedAgent());
+            builder.HasData(SeedAgents());
         }
 
-        private Agent SeedAgent()
+        private List<Agent> SeedAgents()
         {
+            List<Agent> agents = new List<Agent>();
+
             Agent agent = new Agent()
             {
                 Id = 1,
@@ -20,7 +22,17 @@ namespace HouseRentingSystem.Data.DatabaseSeed
                 UserId = "dea12856-c198-4129-b3f3-b893d8395082"
             };
 
-            return agent;
+            Agent adminAgent = new Agent()
+            {
+                Id = 2,
+                PhoneNumber = "+359123456789",
+                UserId = "bcb4f072-ecca-43c9-ab26-c060c6f364e4"
+            };
+
+            agents.Add(agent);
+            agents.Add(adminAgent);
+
+            return agents;
         }
     }
 }

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using static HouseRentingSystem.Common.DataConstants.AdminUser;
 
 namespace HouseRentingSystem.Data.DatabaseSeed
 {
@@ -45,8 +46,23 @@ namespace HouseRentingSystem.Data.DatabaseSeed
             GuestUser.PasswordHash =
                             hasher.HashPassword(AgentUser, "guest123");
 
+            ApplicationUser AdminUser = new ApplicationUser()
+            {
+                Id = "bcb4f072-ecca-43c9-ab26-c060c6f364e4",
+                UserName = AdminEmail,
+                NormalizedUserName = AdminEmail,
+                Email = AdminEmail,
+                NormalizedEmail = AdminEmail,
+                FirstName = "Great",
+                LastName = "Admin"
+            };
+
+            AdminUser.PasswordHash =
+                            hasher.HashPassword(AdminUser, "admin123");
+
             users.Add(AgentUser);
             users.Add(GuestUser);
+            users.Add(AdminUser);
 
             return users;
         }

@@ -36,5 +36,11 @@
             public const int LastNameMinLength = 3;
             public const int LastNameMaxLength = 15;
         }
+
+        public static class AdminUser
+        {
+            public const string AdminRole = "Administrator";
+            public const string AdminEmail = "admin@mail.com";
+        }
     }
 }
