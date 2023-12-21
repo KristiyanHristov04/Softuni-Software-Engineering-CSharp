@@ -48,6 +48,7 @@ namespace HouseRentingSystem
             builder.Services.AddTransient<IHouseService, HouseService>();
             builder.Services.AddTransient<IAgentService, AgentService>();
             builder.Services.AddTransient<IStatisticsService, StatisticsService>();
+            builder.Services.AddTransient<IApplicationUserService, ApplicationUserService>();
 
             builder.Services.AddControllersWithViews(options =>
             {
