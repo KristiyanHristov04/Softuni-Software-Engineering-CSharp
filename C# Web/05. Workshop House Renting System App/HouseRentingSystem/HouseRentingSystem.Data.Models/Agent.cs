@@ -22,7 +22,7 @@ namespace HouseRentingSystem.Data.Models
         [Required]
         [ForeignKey(nameof(User))]
         public string UserId { get; set; } = null!;
-        public IdentityUser User { get; set; } = null!;
+        public ApplicationUser User { get; set; } = null!;
 
         public IEnumerable<House> Houses { get; set; }
     }

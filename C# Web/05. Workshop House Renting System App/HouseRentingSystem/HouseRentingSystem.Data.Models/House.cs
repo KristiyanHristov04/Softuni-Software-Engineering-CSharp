@@ -40,6 +40,6 @@ namespace HouseRentingSystem.Data.Models
 
         [ForeignKey(nameof(User))]
         public string? RenterId { get; set; }
-        public IdentityUser? User { get; set; }
+        public ApplicationUser? User { get; set; }
     }
 }

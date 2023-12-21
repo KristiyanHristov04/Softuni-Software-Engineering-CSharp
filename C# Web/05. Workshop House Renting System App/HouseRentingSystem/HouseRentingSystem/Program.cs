@@ -1,4 +1,5 @@
 using HouseRentingSystem.Data;
+using HouseRentingSystem.Data.Models;
 using HouseRentingSystem.Services;
 using HouseRentingSystem.Services.Interfaces;
 using Microsoft.AspNetCore.Identity;
@@ -19,7 +20,7 @@ namespace HouseRentingSystem
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+            builder.Services.AddDefaultIdentity<ApplicationUser>(options =>
             {
                 options.SignIn.RequireConfirmedAccount = builder
                     .Configuration

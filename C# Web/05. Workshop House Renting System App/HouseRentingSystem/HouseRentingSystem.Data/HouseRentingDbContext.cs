@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace HouseRentingSystem.Data
 {
-    public class HouseRentingDbContext : IdentityDbContext
+    public class HouseRentingDbContext : IdentityDbContext<ApplicationUser>
     {
         public HouseRentingDbContext(DbContextOptions<HouseRentingDbContext> options)
             : base(options)

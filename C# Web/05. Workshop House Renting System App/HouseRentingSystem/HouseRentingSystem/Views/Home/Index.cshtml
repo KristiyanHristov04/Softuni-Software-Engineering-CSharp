@@ -70,7 +70,6 @@ btn-lg"
         $(document).ready(function () {
             $('#statistics-button').on('click', () => {
                 $.get('/api/statistics', (data) => {
-                    console.log(data);
                     $('#total-houses').text(data.totalHouses + ' Houses');
                     $('#total-rents').text(data.totalRents + ' Rents');
                     $('#statistics').removeClass('d-none');
