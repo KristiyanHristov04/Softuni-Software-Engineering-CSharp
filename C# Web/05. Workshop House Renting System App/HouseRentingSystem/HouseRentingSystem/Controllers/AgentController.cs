@@ -1,9 +1,8 @@
-﻿using HouseRentingSystem.Common.Extensions;
-using HouseRentingSystem.Services.Interfaces;
+﻿using HouseRentingSystem.Services.Interfaces;
 using HouseRentingSystem.ViewModels.Agent;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.ModelBinding;
+using HouseRentingSystem.Extensions;
 
 namespace HouseRentingSystem.Controllers
 {

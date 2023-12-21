@@ -643,6 +643,19 @@
       "MessagePackAnalyzer/2.1.152": {
         "type": "package"
       },
+      "Microsoft.AspNet.Identity.Core/2.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.AspNet.Identity.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Microsoft.AspNet.Identity.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/6.0.23": {
         "type": "package",
         "compile": {
@@ -690,6 +703,39 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "System.Text.Encodings.Web": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        }
       },
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.23": {
         "type": "package",
@@ -4109,6 +4155,11 @@
       "HouseRentingSystem.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNet.Identity.Core": "2.2.4",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
         "compile": {
           "bin/placeholder/HouseRentingSystem.Common.dll": {}
         },
@@ -4143,6 +4194,20 @@
         },
         "runtime": {
           "bin/placeholder/HouseRentingSystem.Data.Models.dll": {}
+        }
+      },
+      "HouseRentingSystem.Extensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseRentingSystem.Data.Models": "1.0.0",
+          "HouseRentingSystem.Services": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Extensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Extensions.dll": {}
         }
       },
       "HouseRentingSystem.Services/1.0.0": {
@@ -4999,6 +5064,19 @@
         "tools/uninstall.ps1"
       ]
     },
+    "Microsoft.AspNet.Identity.Core/2.2.4": {
+      "sha512": "s3u/o3iG5h0z7Ggukwo4soPwogD56ZrYbolGxTfw41zkuG6jAXUJT/V3EThqHJXGuCNvWSdSnnwAhPfT9Sn36g==",
+      "type": "package",
+      "path": "microsoft.aspnet.identity.core/2.2.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.AspNet.Identity.Core.dll",
+        "lib/net45/Microsoft.AspNet.Identity.Core.xml",
+        "microsoft.aspnet.identity.core.2.2.4.nupkg.sha512",
+        "microsoft.aspnet.identity.core.nuspec"
+      ]
+    },
     "Microsoft.AspNetCore.Cryptography.Internal/6.0.23": {
       "sha512": "m/LACmFx927uyIINU1EWJG1KCwUDGO2OxesdQjbjHXRrPZGfgFNPRnnW3qe4/p3iBEqUB3bc1q79I68dMh4VXQ==",
       "type": "package",
@@ -5050,6 +5128,32 @@
         "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.xml",
         "microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.22.nupkg.sha512",
         "microsoft.aspnetcore.diagnostics.entityframeworkcore.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+      "sha512": "Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.xml",
+        "microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.http.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Features/2.2.0": {
+      "sha512": "ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.features/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.xml",
+        "microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.http.features.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.23": {
@@ -11604,6 +11708,11 @@
       "path": "../HouseRentingSystem.Data.Models/HouseRentingSystem.Data.Models.csproj",
       "msbuildProject": "../HouseRentingSystem.Data.Models/HouseRentingSystem.Data.Models.csproj"
     },
+    "HouseRentingSystem.Extensions/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Extensions/HouseRentingSystem.Extensions.csproj",
+      "msbuildProject": "../HouseRentingSystem.Extensions/HouseRentingSystem.Extensions.csproj"
+    },
     "HouseRentingSystem.Services/1.0.0": {
       "type": "project",
       "path": "../HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
@@ -11619,6 +11728,7 @@
     "net6.0": [
       "HouseRentingSystem.Common >= 1.0.0",
       "HouseRentingSystem.Data >= 1.0.0",
+      "HouseRentingSystem.Extensions >= 1.0.0",
       "HouseRentingSystem.Services >= 1.0.0",
       "HouseRentingSystem.ViewModels >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.22",
@@ -11663,6 +11773,9 @@
             },
             "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj": {
               "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj"
+            },
+            "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Extensions\\HouseRentingSystem.Extensions.csproj": {
+              "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Extensions\\HouseRentingSystem.Extensions.csproj"
             },
             "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
               "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
@@ -11740,5 +11853,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Identity.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

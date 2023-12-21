@@ -9,3 +9,4 @@ E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\refint\HouseRentingSystem.Common.dll
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\HouseRentingSystem.Common.pdb
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\ref\HouseRentingSystem.Common.dll
+E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Common\obj\Debug\net6.0\HouseRentingSystem.Common.csproj.AssemblyReference.cache

@@ -10,6 +10,7 @@
         "dependencies": {
           "HouseRentingSystem.Common": "1.0.0",
           "HouseRentingSystem.Data": "1.0.0",
+          "HouseRentingSystem.Extensions": "1.0.0",
           "HouseRentingSystem.Services": "1.0.0",
           "HouseRentingSystem.ViewModels": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.22",
@@ -597,6 +598,14 @@
         }
       },
       "MessagePackAnalyzer/2.1.152": {},
+      "Microsoft.AspNet.Identity.Core/2.2.4": {
+        "runtime": {
+          "lib/net45/Microsoft.AspNet.Identity.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.2.4.50621"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/6.0.23": {
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
@@ -625,6 +634,17 @@
             "assemblyVersion": "6.0.22.0",
             "fileVersion": "6.0.2223.42415"
           }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "System.Text.Encodings.Web": "6.0.0"
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/2.2.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.0"
         }
       },
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.23": {
@@ -2767,6 +2787,11 @@
         }
       },
       "HouseRentingSystem.Common/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNet.Identity.Core": "2.2.4",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
         "runtime": {
           "HouseRentingSystem.Common.dll": {}
         }
@@ -2788,6 +2813,15 @@
         },
         "runtime": {
           "HouseRentingSystem.Data.Models.dll": {}
+        }
+      },
+      "HouseRentingSystem.Extensions/1.0.0": {
+        "dependencies": {
+          "HouseRentingSystem.Data.Models": "1.0.0",
+          "HouseRentingSystem.Services": "1.0.0"
+        },
+        "runtime": {
+          "HouseRentingSystem.Extensions.dll": {}
         }
       },
       "HouseRentingSystem.Services/1.0.0": {
@@ -3200,6 +3234,13 @@
       "path": "messagepackanalyzer/2.1.152",
       "hashPath": "messagepackanalyzer.2.1.152.nupkg.sha512"
     },
+    "Microsoft.AspNet.Identity.Core/2.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s3u/o3iG5h0z7Ggukwo4soPwogD56ZrYbolGxTfw41zkuG6jAXUJT/V3EThqHJXGuCNvWSdSnnwAhPfT9Sn36g==",
+      "path": "microsoft.aspnet.identity.core/2.2.4",
+      "hashPath": "microsoft.aspnet.identity.core.2.2.4.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Cryptography.Internal/6.0.23": {
       "type": "package",
       "serviceable": true,
@@ -3220,6 +3261,20 @@
       "sha512": "sha512-4PGgh8j2eRTjUt744xKwH4rtDBhRM8KUl8NXDi9CmWbZz7geHh1wkSvYNLSOnIuPMe/xgrjWlkxAj7+AVIfkoQ==",
       "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/6.0.22",
       "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.22.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
+      "hashPath": "microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Features/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "path": "microsoft.aspnetcore.http.features/2.2.0",
+      "hashPath": "microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.23": {
       "type": "package",
@@ -4464,6 +4519,11 @@
       "sha512": ""
     },
     "HouseRentingSystem.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HouseRentingSystem.Extensions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -5,6 +5,7 @@ using HouseRentingSystem.Services.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using HouseRentingSystem.Extensions;
 
 namespace HouseRentingSystem
 {
@@ -43,6 +44,7 @@ namespace HouseRentingSystem
                     .GetValue<bool>
                     ("IdentityOptions:Password:RequireNonAlphanumeric");
             })
+              .AddRoles<IdentityRole>()
               .AddEntityFrameworkStores<HouseRentingDbContext>();
 
             builder.Services.AddTransient<IHouseService, HouseService>();
@@ -90,7 +92,8 @@ namespace HouseRentingSystem
                 app.MapDefaultControllerRoute();
                 app.MapRazorPages();
             });
-            
+
+            app.SeedAdmin();
 
             app.Run();
         }

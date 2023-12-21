@@ -1,4 +1,4 @@
-﻿using HouseRentingSystem.Common.Extensions;
+﻿using HouseRentingSystem.Extensions;
 using HouseRentingSystem.Data.Models;
 using HouseRentingSystem.Services.Interfaces;
 using HouseRentingSystem.ViewModels.House;
