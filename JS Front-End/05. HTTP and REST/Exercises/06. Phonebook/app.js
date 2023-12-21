@@ -1,65 +1,57 @@
 function attachEvents() {
-    const phonebook = document.getElementById('phonebook');
+    const URL = 'http://localhost:3030/jsonstore/phonebook';
+    const phonebook = document.getElementById('phonebook'); 
     const loadButton = document.getElementById('btnLoad');
     const createButton = document.getElementById('btnCreate');
-    const personInput = document.getElementById('person');
-    const phoneInput = document.getElementById('phone');
-    const URL = `http://localhost:3030/jsonstore/phonebook`;
+    const [personInput, phoneInput] = document.querySelectorAll('input[type=text]');
 
-    loadButton.addEventListener('click', getAllPhonebookEntriesHandler);
-    createButton.addEventListener('click', addPersonToPhonebookHandler)
+    loadButton.addEventListener('click', loadPhonebook);
 
-    function addPersonToPhonebookHandler() {
-        let newPersonObj = {
-            person: personInput.value,
-            phone: phoneInput.value
-        };
-
-        let httpHeaders = {
+    createButton.addEventListener('click', (e) => {
+        fetch(URL, {
             method: 'POST',
-            body: JSON.stringify(newPersonObj)
-        }
+            body: JSON.stringify({
+                person: personInput.value,
+                phone: phoneInput.value
+            })
+        })
+        .then(personInput.value = '', phoneInput.value = '')
+        .then(loadPhonebook)
+        .catch(error => console.log(error));
+    });
 
-        fetch(URL, httpHeaders)
-            .catch(error => console.error(error));
-
-        personInput.value = ''
-        phoneInput.value = '';
-
-        getAllPhonebookEntriesHandler();
-    }
-
-    function getAllPhonebookEntriesHandler() {
-        phonebook.textContent = '';
+    function loadPhonebook() {
+        phonebook.innerHTML = '';
         fetch(URL)
             .then(response => response.json())
             .then(data => {
-                let people = Object.values(data);
-                console.log(people);
-                for (let index = 0; index < people.length; index++) {
-                    let person = people[index].person;
-                    let phone = people[index].phone;
-                    let id = people[index]._id;
-                    let li = document.createElement('li');
-                    let button = document.createElement('button');
-                    button.textContent = 'Delete';
-                    button.id = id;
-                    button.addEventListener('click', (event) => {
-                        let httpHeaders = {
-                            method: 'DELETE'
-                        }
-
-                        fetch(`http://localhost:3030/jsonstore/phonebook/${event.currentTarget.id}`, httpHeaders)
-                            .then(() => getAllPhonebookEntriesHandler())
-                            .catch(error => console.error(error));
-
-                    });
-                    li.innerHTML = `${person}: ${phone}`;
-                    li.appendChild(button);
-                    phonebook.appendChild(li);
+                let contacts = Object.values(data);
+                console.log(contacts);
+                for (const contact of contacts) {
+                    let person = contact.person;
+                    let phone = contact.phone;
+                    let id = contact._id;
+                    loadContact(person, phone, id);
                 }
             })
-            .catch(error => console.error(error));
+            .catch(error => console.log(error));
+    }
+
+    function loadContact(person, phone, id) {
+        let li = document.createElement('li');
+        li.textContent = `${person}: ${phone}`;
+        let button = document.createElement('button');
+        button.textContent = 'Delete';
+        button.id = id;
+        button.addEventListener('click', (e) => {
+            let currentButtonId = e.currentTarget.id;
+            fetch(`${URL}/${currentButtonId}`, {
+                method: 'DELETE'
+            })
+            .catch(error => console.log(error));
+        });
+        li.appendChild(button);
+        phonebook.appendChild(li);
     }
 }
 

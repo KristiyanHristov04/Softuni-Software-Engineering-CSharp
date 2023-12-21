@@ -1,48 +1,38 @@
 function attachEvents() {
-    const textarea = document.getElementById('messages');
-    const nameInput = document.querySelector('input[name="author"]');
-    const messageInput = document.querySelector('input[name="content"]');
+    const URL = 'http://localhost:3030/jsonstore/messenger';
     const sendButton = document.getElementById('submit');
     const refreshButton = document.getElementById('refresh');
-    const URL = `http://localhost:3030/jsonstore/messenger`;
+    const [name, message] = document.querySelectorAll('input[type=text]');
+    const messages = document.getElementById('messages');
 
-    sendButton.addEventListener('click', sendMessageHandler);
-    refreshButton.addEventListener('click', getAllMessagesHandler);
+    sendButton.addEventListener('click', (e) => {
+        let author = name.value;
+        let content = message.value;
 
-    function getAllMessagesHandler() {
-        textarea.value = '';
+        fetch(URL, {
+            method: 'POST',
+            body: JSON.stringify({
+                author,
+                content
+            })
+        })
+        .then(name.value = '', message.value = '')
+        .catch(error => console.log(error));
+    });
+
+    refreshButton.addEventListener('click', (e) => {
+        messages.textContent = '';
         fetch(URL)
             .then(response => response.json())
             .then(data => {
-                let allMessages = Object.values(data);
-                let output = [];
-                for (let index = 0; index < allMessages.length; index++) {
-                    output.push(`${allMessages[index].author}: ${allMessages[index].content}`);
+                let messagesData = Object.values(data);
+                for (const currentMessage of messagesData) {
+                    messages.textContent += `${currentMessage.author}: ${currentMessage.content}\n`;
                 }
-                textarea.value = output.join('\n');
+                messages.textContent = messages.textContent.trim();
             })
-            .catch(error => console.error(error));
-    }
-
-    function sendMessageHandler() {
-        let author = nameInput.value;
-        let content = messageInput.value;
-        let messageObject = {
-            author: author,
-            content: content
-        };
-
-        let httpHeaders = {
-            method: 'POST',
-            body: JSON.stringify(messageObject)
-        }
-
-        fetch(URL, httpHeaders)
-            .catch(error => console.error(error));
-        
-        nameInput.value = '';
-        messageInput.value = '';
-    }
+            .catch(error => console.log(error));
+    });
 }
 
 attachEvents();
