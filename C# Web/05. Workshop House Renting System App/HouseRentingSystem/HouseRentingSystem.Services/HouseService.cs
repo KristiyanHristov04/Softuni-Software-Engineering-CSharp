@@ -17,9 +17,11 @@ namespace HouseRentingSystem.Services
     public class HouseService : IHouseService
     {
         private readonly HouseRentingDbContext context;
-        public HouseService(HouseRentingDbContext _context)
+        private readonly IApplicationUserService applicationUserService;
+        public HouseService(HouseRentingDbContext _context, IApplicationUserService _applicationUserService)
         {
             this.context = _context;
+            this.applicationUserService = _applicationUserService;
         }
 
         public HouseQueryViewModel All(string category = null, string searchTerm = null, HouseSorting sorting = HouseSorting.Newest, int currentPage = 1, int housesPerPage = 1)
@@ -222,6 +224,7 @@ namespace HouseRentingSystem.Services
                         Category = h.Category.Name,
                         Agent = new AgentViewModel()
                         {
+                            FullName = h.Agent.User.FirstName + " " + h.Agent.User.LastName,
                             PhoneNumber = h.Agent.PhoneNumber,
                             Email = h.Agent.User.Email
                         }
