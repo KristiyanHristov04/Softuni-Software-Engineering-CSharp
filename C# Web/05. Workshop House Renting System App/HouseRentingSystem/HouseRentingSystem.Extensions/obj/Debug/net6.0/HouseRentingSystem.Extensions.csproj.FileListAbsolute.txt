@@ -21,3 +21,26 @@ E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\n
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\refint\HouseRentingSystem.Extensions.dll
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\HouseRentingSystem.Extensions.pdb
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\ref\HouseRentingSystem.Extensions.dll
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Extensions.deps.json
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Extensions.dll
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Extensions.pdb
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Common.dll
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Data.dll
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Data.Models.dll
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.ViewModels.dll
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Data.Models.pdb
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.Data.pdb
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\bin\Debug\net6.0\HouseRentingSystem.ViewModels.pdb
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\HouseRentingSystem.Extensions.csproj.AssemblyReference.cache
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\HouseRentingSystem.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\HouseRentingSystem.Extensions.AssemblyInfoInputs.cache
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\HouseRentingSystem.Extensions.AssemblyInfo.cs
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\HouseRentingSystem.Extensions.csproj.CoreCompileInputs.cache
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\HouseRentingSystem.Extensions.csproj.CopyComplete
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\HouseRentingSystem.Extensions.dll
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\refint\HouseRentingSystem.Extensions.dll
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\HouseRentingSystem.Extensions.pdb
+E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Extensions\obj\Debug\net6.0\ref\HouseRentingSystem.Extensions.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {}
+    "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {}
   },
   "projects": {
-    "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+    "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
+        "projectUniqueName": "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
         "projectName": "HouseRentingSystem.Common",
-        "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
-        "packagesPath": "C:\\Users\\Kristiyan\\.nuget\\packages\\",
-        "outputPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\obj\\",
+        "projectPath": "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj",
+        "packagesPath": "C:\\Users\\MyLaptop\\.nuget\\packages\\",
+        "outputPath": "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kristiyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MyLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

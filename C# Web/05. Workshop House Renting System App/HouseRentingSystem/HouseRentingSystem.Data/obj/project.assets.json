@@ -2343,19 +2343,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kristiyan\\.nuget\\packages\\": {}
+    "C:\\Users\\MyLaptop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
+      "projectUniqueName": "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
       "projectName": "HouseRentingSystem.Data",
-      "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
-      "packagesPath": "C:\\Users\\Kristiyan\\.nuget\\packages\\",
-      "outputPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\obj\\",
+      "projectPath": "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj",
+      "packagesPath": "C:\\Users\\MyLaptop\\.nuget\\packages\\",
+      "outputPath": "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kristiyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MyLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2369,8 +2369,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
-              "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj"
+            "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
+              "projectPath": "E:\\SoftUni Repo\\Softuni-Software-Engineering-CSharp\\C# Web\\05. Workshop House Renting System App\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj"
             }
           }
         }
@@ -2416,7 +2416,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   },

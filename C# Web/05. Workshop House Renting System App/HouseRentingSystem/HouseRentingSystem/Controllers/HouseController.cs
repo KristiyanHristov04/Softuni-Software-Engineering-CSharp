@@ -119,7 +119,8 @@ namespace HouseRentingSystem.Controllers
                 return BadRequest();
             }
 
-            if (await this.houseService.HasAgentWithIdAsync(id, this.User.Id()) == false)
+            if (await this.houseService.HasAgentWithIdAsync(id, this.User.Id()) == false
+                    && this.User.IsAdmin() == false)
             {
                 return Unauthorized();
             }
@@ -150,7 +151,8 @@ namespace HouseRentingSystem.Controllers
                 return BadRequest();
             }
 
-            if (await this.houseService.HasAgentWithIdAsync(id, this.User.Id()) == false)
+            if (await this.houseService.HasAgentWithIdAsync(id, this.User.Id()) == false
+                    && this.User.IsAdmin() == false)
             {
                 return Unauthorized();
             }
@@ -181,7 +183,8 @@ namespace HouseRentingSystem.Controllers
                 return BadRequest();
             }
 
-            if (await this.houseService.HasAgentWithIdAsync(id, this.User.Id()) == false)
+            if (await this.houseService.HasAgentWithIdAsync(id, this.User.Id()) == false
+                    && this.User.IsAdmin() == false)
             {
                 return Unauthorized();
             }
@@ -206,7 +209,8 @@ namespace HouseRentingSystem.Controllers
                 return BadRequest();
             }
 
-            if (await this.houseService.HasAgentWithIdAsync(model.Id, this.User.Id()) == false)
+            if (await this.houseService.HasAgentWithIdAsync(model.Id, this.User.Id()) == false
+                    && this.User.IsAdmin() == false)
             {
                 return Unauthorized();
             }
@@ -224,7 +228,8 @@ namespace HouseRentingSystem.Controllers
                 return BadRequest();
             }
 
-            if (await this.agentService.ExistsById(User.Id()))
+            if (await this.agentService.ExistsById(User.Id())
+                    && this.User.IsAdmin() == false)
             {
                 return Unauthorized();
             }
@@ -242,7 +247,7 @@ namespace HouseRentingSystem.Controllers
         [HttpPost]
         public async Task<IActionResult> Leave(int id)
         {
-            if (await this.houseService.ExistsAsync(id) == false || 
+            if (await this.houseService.ExistsAsync(id) == false ||
                 await this.houseService.IsRentedAsync(id) == false)
             {
                 return BadRequest();
