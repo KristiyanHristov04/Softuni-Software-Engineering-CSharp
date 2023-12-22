@@ -57,6 +57,12 @@ namespace HouseRentingSystem
                 options.Filters.Add<AutoValidateAntiforgeryTokenAttribute>();
             });
 
+            //This line of code is added by default
+            //However if we want to change the login path to authentication we can do it
+            //By changing tha value of the login path
+            //This path is used when we are redirected to the login page from another page
+            builder.Services.ConfigureApplicationCookie(opt => opt.LoginPath = "/Identity/Account/Login");
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -72,6 +78,8 @@ namespace HouseRentingSystem
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+
+            
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
