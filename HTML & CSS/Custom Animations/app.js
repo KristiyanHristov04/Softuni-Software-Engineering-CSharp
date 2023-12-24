@@ -7,11 +7,8 @@ const playAllButton = document.getElementsByTagName('button')[0];
 var bellAudio = new Audio('soundEffects/bellRinging.mp3');
 var thumbsUpAudio = new Audio('soundEffects/like.mp4');
 
-react.addEventListener('click', (e) => {
-    e.currentTarget.classList.add('play-react-animation');
-});
-
 playAllButton.addEventListener('click', () => {
+    react.classList.add('play-react-animation');
     bell.classList.add('play-bell-animation');
     thumbsUp.classList.add('play-thumbs-up-animation');
     heart.classList.add('play-heart-animation');
@@ -22,6 +19,10 @@ playAllButton.addEventListener('click', () => {
         thumbsUp.classList.remove('play-thumbs-up-animation');
         heart.classList.remove('play-heart-animation');
     }, 1000);
+});
+
+react.addEventListener('click', (e) => {
+    e.currentTarget.classList.add('play-react-animation');
 });
 
 heart.addEventListener('click', (e) => {
