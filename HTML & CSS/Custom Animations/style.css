@@ -1,0 +1,111 @@
+body {
+    background-color: gray;
+}
+
+div {
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    background-color: burlywood;
+    border-radius: 5px;
+    padding: 1rem;
+    width: 400px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+}
+
+#bell, #thumbs-up, #heart, #react {
+    font-size: 40px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.play-react-animation {
+    color: cornflowerblue;
+    animation-name: react-animation;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+}
+
+.play-heart-animation {
+    animation-name: heart-animation;
+    animation-duration: 1s;
+}
+
+.play-bell-animation {
+    color: yellow;
+    animation-name: bell-animation;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-out;
+}
+
+.play-thumbs-up-animation {
+    color: cornflowerblue;
+    animation-name: thumbs-up-animation;
+    animation-duration: 1s;
+}
+
+@keyframes react-animation {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes heart-animation {
+    0% {
+        font-size: 40px;
+    }
+
+    50% {
+        font-size: 50px;
+        color: red;
+    }
+
+    100% {
+        font-size: 40px;
+    }
+}
+
+@keyframes bell-animation {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    20% {
+        transform: rotate(35deg);
+    }
+
+    40% {
+        transform: rotate(-35deg);
+    }
+
+    60% {
+        transform: rotate(35deg);
+    }
+
+    80% {
+        transform: rotate(-35deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+@keyframes thumbs-up-animation {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(-360deg);
+    }
+}
