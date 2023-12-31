@@ -138,6 +138,7 @@ JavaScript Basics
   4. [**DOM and Events**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/04.%20DOM%20and%20Events)
   5. [**HTTP and REST**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/05.%20HTTP%20and%20REST)
   6. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/Exam%20Preparations)
+  7. [**Exam**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/JS%20Front-End/Exam%20Preparations)
   </details>
   
  ***
