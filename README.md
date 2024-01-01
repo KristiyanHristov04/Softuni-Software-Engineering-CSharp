@@ -166,6 +166,7 @@ JavaScript Basics
   <img src="https://i.ibb.co/Q9Ly36W/150803-code-2a597899.png" alt="" width="300" height="400" />
   <img src="https://i.ibb.co/XbN722D/157898-code-8aea2081.png" alt="" width="300" height="400" />
   <img src="https://i.ibb.co/6gKtfGZ/164925-code-08ec44c2.png" alt="" width="300" height="400" />
+  <img src="https://ibb.co/rtRqyCN" alt="" width="300" height="400" />
 </p>
   
 <img src="https://i.ibb.co/9yXsBXk/SQLBasic-Certificate.png" width="604" height="500">
