@@ -26,8 +26,7 @@
             <div class="form-inline">
                 @if (this.User.Identity?.IsAuthenticated ?? false)
                 {
-                    if (await this.houseService.HasAgentWithIdAsync(Model.Id, this.User.Id())
-                            || this.User.IsAdmin())
+                    if (await this.houseService.HasAgentWithIdAsync(Model.Id, this.User.Id()))
                     {
                         <a asp-controller="House" asp-action="Edit" asp-route-id="@Model.Id"
                            class="btn btn-warning">Edit</a>
@@ -38,8 +37,7 @@
                     <p></p>
                     @if (!Model.IsRented)
                     {
-                        if (!Model.IsRented && await agentService.ExistsById(this.User.Id()) == false
-                                || this.User.IsAdmin())
+                        if (!Model.IsRented && await agentService.ExistsById(this.User.Id()) == false)
                         {
                             <form class="input-group-sm" asp-controller="House"
                                   asp-action="Rent" asp-route-id="@Model.Id" method="post">

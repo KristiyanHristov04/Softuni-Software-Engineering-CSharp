@@ -17,22 +17,3 @@ E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.pdb
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.genruntimeconfig.cache
 E:\VS 2022 Projects\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\ref\HouseRentingSystem.Data.dll
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.deps.json
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.runtimeconfig.json
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.dll
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.pdb
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Common.dll
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.Models.dll
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.Models.pdb
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.csproj.AssemblyReference.cache
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.AssemblyInfoInputs.cache
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.AssemblyInfo.cs
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.csproj.CoreCompileInputs.cache
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.csproj.CopyComplete
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.dll
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\refint\HouseRentingSystem.Data.dll
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.pdb
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.genruntimeconfig.cache
-E:\SoftUni Repo\Softuni-Software-Engineering-CSharp\C# Web\05. Workshop House Renting System App\HouseRentingSystem\HouseRentingSystem.Data\obj\Debug\net6.0\ref\HouseRentingSystem.Data.dll

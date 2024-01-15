@@ -51,17 +51,12 @@ namespace HouseRentingSystem
             builder.Services.AddTransient<IAgentService, AgentService>();
             builder.Services.AddTransient<IStatisticsService, StatisticsService>();
             builder.Services.AddTransient<IApplicationUserService, ApplicationUserService>();
+            builder.Services.AddTransient<IRentService, RentService>();
 
             builder.Services.AddControllersWithViews(options =>
             {
                 options.Filters.Add<AutoValidateAntiforgeryTokenAttribute>();
             });
-
-            //This line of code is added by default
-            //However if we want to change the login path to authentication we can do it
-            //By changing tha value of the login path
-            //This path is used when we are redirected to the login page from another page
-            builder.Services.ConfigureApplicationCookie(opt => opt.LoginPath = "/Identity/Account/Login");
 
             var app = builder.Build();
 
@@ -79,8 +74,6 @@ namespace HouseRentingSystem
                 app.UseHsts();
             }
 
-            
-
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
@@ -91,6 +84,11 @@ namespace HouseRentingSystem
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute(
+                    name: "Area",
+                    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                    );
+
                 endpoints.MapControllerRoute(
                     name: "House Details",
                     pattern: "/House/Details/{id}/{information}",
