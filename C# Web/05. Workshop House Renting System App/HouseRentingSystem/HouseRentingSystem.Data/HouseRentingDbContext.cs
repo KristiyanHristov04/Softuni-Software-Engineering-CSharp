@@ -7,9 +7,16 @@ namespace HouseRentingSystem.Data
 {
     public class HouseRentingDbContext : IdentityDbContext<ApplicationUser>
     {
-        public HouseRentingDbContext(DbContextOptions<HouseRentingDbContext> options)
+        private bool shouldSeed;
+        public HouseRentingDbContext(DbContextOptions<HouseRentingDbContext> options, bool seed = true)
             : base(options)
         {
+            if (!Database.IsRelational())
+            {
+                Database.EnsureCreated();
+            }
+
+            shouldSeed = seed;
         }
 
         public DbSet<Category> Categories { get; set; }
@@ -34,10 +41,13 @@ namespace HouseRentingSystem.Data
                 .Property(h => h.PricePerMonth)
                 .HasColumnType("decimal(18, 2)");
 
-            builder.ApplyConfiguration(new UserConfiguration());
-            builder.ApplyConfiguration(new AgentConfiguration());
-            builder.ApplyConfiguration(new CategoryConfiguration());
-            builder.ApplyConfiguration(new HouseConfiguration());
+            if (shouldSeed)
+            {
+                builder.ApplyConfiguration(new UserConfiguration());
+                builder.ApplyConfiguration(new AgentConfiguration());
+                builder.ApplyConfiguration(new CategoryConfiguration());
+                builder.ApplyConfiguration(new HouseConfiguration());
+            }
 
             base.OnModelCreating(builder);
         }

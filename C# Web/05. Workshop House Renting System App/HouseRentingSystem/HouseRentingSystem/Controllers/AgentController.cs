@@ -10,9 +10,13 @@ namespace HouseRentingSystem.Controllers
     public class AgentController : Controller
     {
         private readonly IAgentService agentService;
-        public AgentController(IAgentService _agentService)
+        private readonly IApplicationUserService userService;
+        public AgentController(
+            IAgentService _agentService,
+            IApplicationUserService userService)
         {
             this.agentService = _agentService;
+            this.userService = userService;
         }
 
         public async Task<IActionResult> Become()
@@ -29,18 +33,15 @@ namespace HouseRentingSystem.Controllers
         [HttpPost]
         public async Task<IActionResult> Become(BecomeAgentFormModel model)
         {
-            if (await this.agentService.ExistsById(User.Id()))
-            {
-                return BadRequest();
-            }
+            var userId = User.Id;
 
-            if (await this.agentService.UserHasRents(User.Id()))
+            if (await this.userService.UserHasRents(User.Id()))
             {
                 ModelState.AddModelError("Error",
                    "You should have no rents to become an agent!");
             }
 
-            if (await this.agentService.UserWithPhoneNumberExists(model.PhoneNumber))
+            if (await this.agentService.AgentWithPhoneNumberExists(model.PhoneNumber))
             {
                 ModelState.AddModelError(nameof(model.PhoneNumber),
                    "Phone number already exists. Enter another one.");

@@ -11,5 +11,6 @@ namespace HouseRentingSystem.Services.Interfaces
     {
         Task<string> UserFullNameAsync (string userId);
         Task<IEnumerable<UserViewModel>> AllAsync();
+        Task<bool> UserHasRents(string userId);
     }
 }

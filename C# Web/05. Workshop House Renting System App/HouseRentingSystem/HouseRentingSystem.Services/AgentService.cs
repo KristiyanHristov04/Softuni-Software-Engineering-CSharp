@@ -40,12 +40,7 @@ namespace HouseRentingSystem.Services
             return this.context.Agents.FirstOrDefault(a => a.UserId == userId).Id;
         }
 
-        public async Task<bool> UserHasRents(string userId)
-        {
-            return await this.context.Houses.AnyAsync(h => h.RenterId == userId);
-        }
-
-        public async Task<bool> UserWithPhoneNumberExists(string phoneNumber)
+        public async Task<bool> AgentWithPhoneNumberExists(string phoneNumber)
         {
             return await this.context.Agents.AnyAsync(a => a.PhoneNumber == phoneNumber);
         }

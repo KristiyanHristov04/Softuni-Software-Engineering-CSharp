@@ -10,9 +10,7 @@ namespace HouseRentingSystem.Services.Interfaces
     {
         Task<bool> ExistsById(string userId);
 
-        Task<bool> UserWithPhoneNumberExists(string phoneNumber);
-
-        Task<bool> UserHasRents(string userId);
+        Task<bool> AgentWithPhoneNumberExists(string phoneNumber);
 
         Task Create(string userId, string phoneNumber);
 
