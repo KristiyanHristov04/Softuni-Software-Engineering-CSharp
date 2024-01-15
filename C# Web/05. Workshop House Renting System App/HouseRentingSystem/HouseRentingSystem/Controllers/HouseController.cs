@@ -95,6 +95,7 @@ namespace HouseRentingSystem.Controllers
         }
 
         [HttpPost]
+        [HttpPost]
         public async Task<IActionResult> Add(HouseFormModel model)
         {
             if (await this.agentService.ExistsById(User.Id()) == false)
@@ -121,6 +122,7 @@ namespace HouseRentingSystem.Controllers
                  model.ImageUrl, model.PricePerMonth, model.CategoryId,
                  agentId);
 
+            TempData["message"] = "You have successfully added a house";
             return RedirectToAction(nameof(Details), new { id = newHouseId, information = model.GetInformation() });
         }
 
@@ -181,7 +183,7 @@ namespace HouseRentingSystem.Controllers
             }
 
             await this.houseService.EditAsync(id, model.Title, model.Address, model.Description, model.ImageUrl, model.PricePerMonth, model.CategoryId);
-
+            TempData["message"] = "You have successfully edited the house!";
 
             return RedirectToAction(nameof(Details), new { id = id, information = model.GetInformation() });
         }
@@ -224,6 +226,7 @@ namespace HouseRentingSystem.Controllers
             }
 
             await this.houseService.DeleteAsync(model.Id);
+            TempData["message"] = "You have successfully deleted the house!";
 
             return RedirectToAction(nameof(All));
         }
@@ -248,6 +251,7 @@ namespace HouseRentingSystem.Controllers
 
             await this.houseService.RentAsync(id, this.User.Id());
             this.cache.Remove(RentsCacheKey);
+            TempData["message"] = "You have successfully rented the house!";
 
             return RedirectToAction(nameof(Mine));
         }
@@ -268,6 +272,7 @@ namespace HouseRentingSystem.Controllers
 
             await this.houseService.LeaveAsync(id);
             this.cache.Remove(RentsCacheKey);
+            TempData["message"] = "You have successfully left the house!";
 
             return RedirectToAction(nameof(Mine));
         }
