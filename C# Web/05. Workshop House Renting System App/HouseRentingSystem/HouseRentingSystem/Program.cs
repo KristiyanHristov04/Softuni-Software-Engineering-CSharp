@@ -47,6 +47,8 @@ namespace HouseRentingSystem
               .AddRoles<IdentityRole>()
               .AddEntityFrameworkStores<HouseRentingDbContext>();
 
+            builder.Services.AddMemoryCache();
+
             builder.Services.AddTransient<IHouseService, HouseService>();
             builder.Services.AddTransient<IAgentService, AgentService>();
             builder.Services.AddTransient<IStatisticsService, StatisticsService>();

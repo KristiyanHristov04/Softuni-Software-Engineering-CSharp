@@ -3,6 +3,7 @@ using HouseRentingSystem.ViewModels.ApplicationUser;
 using HouseRentingSystem.ViewModels.House;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;
+using static HouseRentingSystem.Common.DataConstants.AdminUser;
 
 namespace HouseRentingSystem.Areas.Admin.Controllers
 {
@@ -20,8 +21,17 @@ namespace HouseRentingSystem.Areas.Admin.Controllers
 
         public async Task<IActionResult> All()
         {
-            IEnumerable<RentViewModel> rents
-                = await rentService.AllRentedHousesAsync();
+            var rents = this.cache.Get(RentsCacheKey);
+
+            if (rents == null)
+            {
+                rents = await this.rentService.AllRentedHousesAsync();
+
+                var cacheOptions = new MemoryCacheEntryOptions()
+                    .SetAbsoluteExpiration(TimeSpan.FromMinutes(5));
+
+                this.cache.Set(RentsCacheKey, rents, cacheOptions);
+            }
 
             return View(rents);
         }
