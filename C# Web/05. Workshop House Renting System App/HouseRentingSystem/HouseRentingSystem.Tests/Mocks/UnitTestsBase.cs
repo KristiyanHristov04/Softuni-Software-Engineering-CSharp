@@ -1,5 +1,6 @@
 ﻿using HouseRentingSystem.Data;
 using HouseRentingSystem.Data.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,11 @@ namespace HouseRentingSystem.Tests.Mocks
         protected HouseRentingDbContext data;
         public UnitTestsBase()
         {
-            this.data = DatabaseMock.Instance;
+            var dbContextOptions = new DbContextOptionsBuilder<HouseRentingDbContext>()
+                    .UseInMemoryDatabase("HouseRentingSystemInMemoryDB" + DateTime.Now.Ticks.ToString())
+                    .Options;
+            this.data = new HouseRentingDbContext(dbContextOptions, false);
+
             SeedDatabase();
         }
 
@@ -77,7 +82,7 @@ namespace HouseRentingSystem.Tests.Mocks
 
         public void Dispose()
         {
-            this.data.Dispose();
+            
         }
     }
 }
