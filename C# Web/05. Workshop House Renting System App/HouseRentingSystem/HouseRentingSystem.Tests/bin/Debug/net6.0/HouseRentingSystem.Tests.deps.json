@@ -12,12 +12,24 @@
           "HouseRentingSystem.Services": "1.0.0",
           "Microsoft.EntityFrameworkCore.InMemory": "6.0.26",
           "Microsoft.NET.Test.Sdk": "17.5.0",
+          "Moq": "4.20.70",
           "coverlet.collector": "3.2.0",
           "xunit": "2.4.2",
           "xunit.runner.visualstudio": "2.4.5"
         },
         "runtime": {
           "HouseRentingSystem.Tests.dll": {}
+        }
+      },
+      "Castle.Core/5.1.1": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Castle.Core.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.1.1.0"
+          }
         }
       },
       "coverlet.collector/3.2.0": {},
@@ -691,6 +703,17 @@
           }
         }
       },
+      "Moq/4.20.70": {
+        "dependencies": {
+          "Castle.Core": "5.1.1"
+        },
+        "runtime": {
+          "lib/net6.0/Moq.dll": {
+            "assemblyVersion": "4.20.70.0",
+            "fileVersion": "4.20.70.0"
+          }
+        }
+      },
       "NETStandard.Library/1.6.1": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -879,6 +902,28 @@
           "lib/net6.0/System.Diagnostics.DiagnosticSource.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.1523.11507"
+          }
+        }
+      },
+      "System.Diagnostics.EventLog/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
           }
         }
       },
@@ -1600,6 +1645,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Castle.Core/5.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rpYtIczkzGpf+EkZgDr9CClTdemhsrwA/W5hMoPjLkRFnXzH44zDLoovXeKtmxb1ykXK9aJVODSpiJml8CTw2g==",
+      "path": "castle.core/5.1.1",
+      "hashPath": "castle.core.5.1.1.nupkg.sha512"
+    },
     "coverlet.collector/3.2.0": {
       "type": "package",
       "serviceable": true,
@@ -1894,6 +1946,13 @@
       "path": "microsoft.win32.systemevents/4.7.0",
       "hashPath": "microsoft.win32.systemevents.4.7.0.nupkg.sha512"
     },
+    "Moq/4.20.70": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4rNnAwdpXJBuxqrOCzCyICXHSImOTRktCgCWXWykuF1qwoIsVvEnR7PjbMk/eLOxWvhmj5Kwt+kDV3RGUYcNwg==",
+      "path": "moq/4.20.70",
+      "hashPath": "moq.4.20.70.nupkg.sha512"
+    },
     "NETStandard.Library/1.6.1": {
       "type": "package",
       "serviceable": true,
@@ -2089,6 +2148,13 @@
       "sha512": "sha512-KiLYDu2k2J82Q9BJpWiuQqCkFjRBWVq4jDzKKWawVi9KWzyD0XG3cmfX0vqTQlL14Wi9EufJrbL0+KCLTbqWiQ==",
       "path": "system.diagnostics.diagnosticsource/6.0.1",
       "hashPath": "system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lcyUiXTsETK2ALsZrX+nWuHSIQeazhqPphLfaRxzdGaG93+0kELqpgEHtwWOlQe7+jSFnKwaCAgL4kjeZCQJnw==",
+      "path": "system.diagnostics.eventlog/6.0.0",
+      "hashPath": "system.diagnostics.eventlog.6.0.0.nupkg.sha512"
     },
     "System.Diagnostics.Tools/4.3.0": {
       "type": "package",

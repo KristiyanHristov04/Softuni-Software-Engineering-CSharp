@@ -16,7 +16,7 @@ namespace HouseRentingSystem.Tests.Mocks
         public UnitTestsBase()
         {
             var dbContextOptions = new DbContextOptionsBuilder<HouseRentingDbContext>()
-                    .UseInMemoryDatabase("HouseRentingSystemInMemoryDB" + DateTime.Now.Ticks.ToString())
+                    .UseInMemoryDatabase("HouseRentingSystemInMemoryDB" + Guid.NewGuid())
                     .Options;
             this.data = new HouseRentingDbContext(dbContextOptions, false);
 

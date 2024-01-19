@@ -14,7 +14,8 @@ namespace HouseRentingSystem.Services
     public class ApplicationUserService : IApplicationUserService
     {
         private readonly HouseRentingDbContext context;
-        public ApplicationUserService(HouseRentingDbContext _context)
+        public ApplicationUserService(
+            HouseRentingDbContext _context)
         {
             this.context = _context;
         }
@@ -32,21 +33,23 @@ namespace HouseRentingSystem.Services
                 UserViewModel user = new UserViewModel
                 {
                     Email = agent.User.Email,
-                    FullName = agent.User.FirstName + " " + agent.User.LastName,
+                    FullName = await UserFullNameAsync(agent.User.Id),
                     PhoneNumber = agent.User.PhoneNumber
                 };
 
                 allUsers.Add(user);
             }
 
-            var users = await context.Users.ToListAsync();
+            var users = await context.Users
+                .Where(u => !this.context.Agents.Any(a => a.UserId == u.Id))
+                .ToListAsync();
 
             foreach (var usr in users)
             {
                 var user = new UserViewModel
                 {
                     Email = usr.Email,
-                    FullName = await UserFullNameAsync(usr.Id),
+                    FullName = usr.FirstName + " " + usr.LastName,
                     PhoneNumber = string.Empty
                 };
 
@@ -60,7 +63,7 @@ namespace HouseRentingSystem.Services
         {
             var user = await this.context.Users.FindAsync(userId);
 
-            if (string.IsNullOrEmpty(user.FirstName) || string.IsNullOrEmpty(user.LastName))
+            if (user == null || string.IsNullOrEmpty(user.FirstName) || string.IsNullOrEmpty(user.LastName))
             {
                 return null;
             }
