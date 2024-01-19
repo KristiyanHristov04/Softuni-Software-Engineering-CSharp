@@ -26,7 +26,7 @@ namespace HouseRentingSystem.Controllers
             return View(houses);
         }
 
-        public async Task<IActionResult> Error(int statusCode)
+        public IActionResult Error(int statusCode)
         {
             if (statusCode == 400)
             {

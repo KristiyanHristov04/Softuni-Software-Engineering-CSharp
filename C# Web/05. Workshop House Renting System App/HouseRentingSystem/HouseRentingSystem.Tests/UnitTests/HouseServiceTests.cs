@@ -14,11 +14,9 @@ namespace HouseRentingSystem.Tests.UnitTests
     public class HouseServiceTests : UnitTestsBase
     {
         private readonly IHouseService houseService;
-        private readonly IApplicationUserService userService;
         public HouseServiceTests()
         {
-            this.userService = new ApplicationUserService(this.data);
-            this.houseService = new HouseService(this.data, userService);
+            this.houseService = new HouseService(this.data);
         }
 
         [Fact]

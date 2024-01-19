@@ -10,7 +10,7 @@ using static System.Net.WebRequestMethods;
 
 namespace HouseRentingSystem.Tests.Mocks
 {
-    public class UnitTestsBase : IDisposable
+    public class UnitTestsBase
     {
         protected HouseRentingDbContext data;
         public UnitTestsBase()
@@ -78,11 +78,6 @@ namespace HouseRentingSystem.Tests.Mocks
 
             data.Houses.Add(nonRentedHouse);
             data.SaveChanges();
-        }
-
-        public void Dispose()
-        {
-            
         }
     }
 }

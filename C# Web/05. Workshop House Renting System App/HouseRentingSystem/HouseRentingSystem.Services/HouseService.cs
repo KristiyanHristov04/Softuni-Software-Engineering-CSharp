@@ -17,11 +17,9 @@ namespace HouseRentingSystem.Services
     public class HouseService : IHouseService
     {
         private readonly HouseRentingDbContext context;
-        private readonly IApplicationUserService applicationUserService;
-        public HouseService(HouseRentingDbContext _context, IApplicationUserService _applicationUserService)
+        public HouseService(HouseRentingDbContext _context)
         {
             this.context = _context;
-            this.applicationUserService = _applicationUserService;
         }
 
         public HouseQueryViewModel All(string category = null, string searchTerm = null, HouseSorting sorting = HouseSorting.Newest, int currentPage = 1, int housesPerPage = 1)

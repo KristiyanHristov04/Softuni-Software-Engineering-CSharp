@@ -213,6 +213,68 @@
         }
       }
     },
+    "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Extensions\\HouseRentingSystem.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Extensions\\HouseRentingSystem.Extensions.csproj",
+        "projectName": "HouseRentingSystem.Extensions",
+        "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Extensions\\HouseRentingSystem.Extensions.csproj",
+        "packagesPath": "C:\\Users\\Kristiyan\\.nuget\\packages\\",
+        "outputPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kristiyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj": {
+                "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data.Models\\HouseRentingSystem.Data.Models.csproj"
+              },
+              "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+                "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -304,6 +366,9 @@
               },
               "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
                 "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
+              },
+              "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj": {
+                "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj"
               }
             }
           }
@@ -418,6 +483,116 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
+        "projectName": "HouseRentingSystem",
+        "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
+        "packagesPath": "C:\\Users\\Kristiyan\\.nuget\\packages\\",
+        "outputPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kristiyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+                "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+              },
+              "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj": {
+                "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Data\\HouseRentingSystem.Data.csproj"
+              },
+              "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Extensions\\HouseRentingSystem.Extensions.csproj": {
+                "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Extensions\\HouseRentingSystem.Extensions.csproj"
+              },
+              "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+                "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
+              },
+              "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.ViewModels\\HouseRentingSystem.ViewModels.csproj": {
+                "projectPath": "E:\\VS 2022 Projects\\HouseRentingSystem\\HouseRentingSystem.ViewModels\\HouseRentingSystem.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "jQuery-vsdoc": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
