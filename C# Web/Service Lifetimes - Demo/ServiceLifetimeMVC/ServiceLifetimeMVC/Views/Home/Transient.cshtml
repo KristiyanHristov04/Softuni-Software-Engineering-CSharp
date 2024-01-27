@@ -1,0 +1,11 @@
+﻿@using ServiceLifetimeMVC.Interfaces;
+@inject ITransientService transientService
+
+@{
+    ViewData["Title"] = "Transient Action";
+}
+
+<h1>Transient Action</h1>
+
+<p>DI from View -> @transientService.GetInstanceId()</p>
+<p>DI from Controller(constructor) -> @ViewBag.TransientInstance</p>
