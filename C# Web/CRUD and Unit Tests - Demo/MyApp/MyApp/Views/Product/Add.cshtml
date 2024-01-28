@@ -1,0 +1,20 @@
+﻿@using MyApp.ViewModels.Product;
+@model ProductFormModel
+
+@{
+    ViewData["Title"] = "Add";
+}
+
+<form asp-controller="Product" asp-action="Add" method="post">
+    <label asp-for="Name"></label><br />
+    <input asp-for="Name" placeholder="Bread"><br />
+    <span asp-validation-for="Name" class="text-danger"></span><br />
+    <label asp-for="Price"></label><br />
+    <input asp-for="Price" type="number" /><br />
+    <span asp-validation-for="Price" class="text-danger"></span><br />
+    <input type="submit" value="Send" />
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial.cshtml" />
+}
