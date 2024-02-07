@@ -1,0 +1,39 @@
+﻿@using WebApplication2.Data.Models
+@model List<ChatMessage>
+
+@{
+    ViewData["Title"] = "Chat Room";
+}
+
+<h1>Chat Room</h1>
+<form>
+    <label for="username">Username</label><br />
+    <input type="text" id="username" class="mb-2" /><br />
+    <label for="message">Message</label><br />
+    <input type="text" id="message" class="mb-2" /><br />
+    <input type="submit" value="Send Message" id="sendButton" class="mb-2" />
+</form>
+
+<h3>Most Recent Messages:</h3>
+<ul id="messages">
+    @foreach (var message in Model)
+    {
+        <li onmouseover="showDate(event)" onmouseout="hideDate(event)">@message.Username: @message.Message <i class="d-none">(Sent: @message.Date)</i></li>
+    }
+</ul>
+
+@section Scripts {
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/chat.js"></script>
+    <script>
+        function showDate(event) {
+            const currentElement = event.currentTarget;
+            currentElement.children[0].classList.remove('d-none');
+        }
+
+        function hideDate(event) {
+            const currentElement = event.currentTarget;
+            currentElement.children[0].classList.add('d-none');
+        }
+    </script>
+}
