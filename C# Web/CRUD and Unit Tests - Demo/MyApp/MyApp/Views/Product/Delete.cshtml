@@ -1,0 +1,20 @@
+﻿@using MyApp.ViewModels.Product;
+@model ProductFormModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<form asp-controller="Product" asp-action="Delete" method="post">
+    <label asp-for="Name"></label><br />
+    <input asp-for="Name" placeholder="Bread" disabled><br />
+    <span asp-validation-for="Name" class="text-danger"></span><br />
+    <label asp-for="Price"></label><br />
+    <input asp-for="Price" type="number" disabled /><br />
+    <span asp-validation-for="Price" class="text-danger"></span><br />
+    <input type="submit" value="Delete" />
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial.cshtml" />
+}

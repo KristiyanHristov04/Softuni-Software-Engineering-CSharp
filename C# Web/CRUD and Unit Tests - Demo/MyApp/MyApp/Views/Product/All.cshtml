@@ -1,0 +1,13 @@
+﻿@using MyApp.ViewModels.Product;
+@model List<ProductViewModel>
+
+@{
+    ViewData["Title"] = "All";
+}
+
+<ul>
+    @foreach (var product in Model)
+    {
+        <li class="mb-3">@product.Name - $@product.Price <a asp-controller="Product" asp-action="Edit" asp-route-id="@product.Id" class="btn btn-primary">Edit</a> <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a></li>
+    }
+</ul>

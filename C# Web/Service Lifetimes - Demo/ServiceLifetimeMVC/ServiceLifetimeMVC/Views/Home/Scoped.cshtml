@@ -1,0 +1,11 @@
+﻿@using ServiceLifetimeMVC.Interfaces;
+@inject IScopedService scopedService
+
+@{
+    ViewData["Title"] = "Scoped Action";
+}
+
+<h1>Scoped Action</h1>
+
+<p>DI from View -> @scopedService.GetInstanceId()</p>
+<p>DI from Controller(constructor) -> @ViewBag.ScopedInstance</p>

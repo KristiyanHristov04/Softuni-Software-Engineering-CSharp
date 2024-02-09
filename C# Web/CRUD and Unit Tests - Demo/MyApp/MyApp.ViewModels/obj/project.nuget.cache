@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfmUHOKDs+KV3uTeubVSqkdgQ6/n+KdtS3GtnTzWDkfCN1jD0D4AHenPD2WRe8JodsOQAGdGtf0sP8ehEEuLUg==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio 2022 Projects\\MyApp\\MyApp.ViewModels\\MyApp.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MyLaptop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\MyLaptop\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\MyLaptop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
