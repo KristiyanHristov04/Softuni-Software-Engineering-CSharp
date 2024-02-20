@@ -1,0 +1,61 @@
+﻿@model SeminarFormModel
+
+@{
+    ViewBag.Title = "Announce Seminar";
+}
+
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="row">
+    <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+        <form asp-action="Add" method="post">
+            <div class="mb-3">
+                <label asp-for="@Model.Topic" class="form-label-add-edit">Seminar Topic</label>
+                <input asp-for="@Model.Topic" class="form-control" aria-required="true" />
+                <span asp-validation-for="@Model.Topic" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="@Model.Lecturer" class="form-label-add-edit">Lecturer</label>
+                <input asp-for="@Model.Lecturer" class="form-control" aria-required="true" />
+                <span asp-validation-for="@Model.Lecturer" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="@Model.Details" class="form-label-add-edit">More Info</label>
+                <textarea asp-for="@Model.Details" class="form-control" aria-required="true" rows="5"></textarea>
+                <span asp-validation-for="@Model.Details" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="@Model.DateAndTime" class="form-label-add-edit">Date of Seminar</label>
+                <input asp-for="@Model.DateAndTime" class="form-control" aria-required="true" placeholder="dd/MM/yyyy HH:mm" )" />
+                <span asp-validation-for="@Model.DateAndTime" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="@Model.Duration" class="form-label-add-edit">Duration</label>
+                <input asp-for="@Model.Duration" class="form-control" placeholder="30-180 min" />
+                <span asp-validation-for="@Model.Duration" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="@Model.CategoryId" class="form-label-add-edit">Select Category</label>
+                <select asp-for="@Model.CategoryId" class="form-control" aria-required="true">
+                    <option disabled selected value="">Select Category...</option>
+                    @foreach (var category in Model.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="@Model.CategoryId" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <input class="btn btn-warning mb-2 w-100 p-3 fw-bold" type="submit" value="Announce" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

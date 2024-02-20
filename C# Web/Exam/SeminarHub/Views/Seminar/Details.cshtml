@@ -1,0 +1,33 @@
+﻿@model SeminarDetailsViewModel
+
+@{
+    ViewBag.Title = "Seminar Details";
+}
+
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="row">
+    <div class="card w-100">
+        <div class="card-body">
+            <h3 class="card-title text-center">@Model.Topic</h3>
+            <p class="mb-0"><span class="fw-bold">Starting Time: </span>@Model.DateAndTime</p>
+            <p class="mb-0"><span class="fw-bold">Seminar Duration: </span>@Model.Duration</p>
+            <p class="mb-0"><span class="fw-bold">Lecturer: </span>@Model.Lecturer</p>
+            <p class="mb-0"><span class="fw-bold">Category: </span>@Model.Category</p>
+            <p class="mb-0"><span class="fw-bold">Details: </span>@Model.Details</p>
+        </div>
+
+        <a asp-controller="Seminar" asp-action="All" class="btn btn-warning mb-2 w-100 p-3 fw-bold">Back to All Seminars</a>
+        @if (User?.Identity?.Name == Model.Organizer)
+        {
+            <a asp-controller="Seminar" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mb-2 w-100 p-3 fw-bold">Edit</a>
+            <a asp-controller="Seminar" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger mb-2 w-100 p-3 fw-bold">Delete</a>
+        }
+
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

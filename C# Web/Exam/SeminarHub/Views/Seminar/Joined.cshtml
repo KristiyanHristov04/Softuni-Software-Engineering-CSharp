@@ -1,0 +1,40 @@
+﻿@model IEnumerable<SeminarViewModel>
+
+@{
+    ViewBag.Title = "Joined Seminars";
+}
+
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="text-center row">
+    @foreach (var e in Model)
+    {
+        <div class="card col-4" style="width: 20rem; ">
+            <div class="card-body">
+                <h5 class="card-title mt-1">@e.Topic</h5>
+                <h6 class="card-title mt-1">@e.Lecturer</h6>
+                <p class="mb-0"><span class="fw-bold">Starting Time: </span>@e.DateAndTime</p>
+                <p class="mb-0"><span class="fw-bold">Lecturer: </span>@e.Lecturer</p>
+            </div>
+
+            @if (User?.Identity?.Name == e.Organizer)
+            {
+                <a asp-controller="Seminar" asp-action="Details" asp-route-id="@e.Id" class="btn btn-warning mb-2 w-100 p-3 fw-bold">Details</a>
+                <a asp-controller="Seminar" asp-action="Edit" asp-route-id="@e.Id" class="btn btn-warning mb-2 w-100 p-3 fw-bold">Edit</a>
+            }
+            else
+            {
+                <form class="input-group-sm " asp-controller="Seminar" asp-action="Leave" asp-route-id="@e.Id">
+                    <input type="submit" value="Unsubscribe" class="fs-6 btn btn-warning mb-3 w-100 p-3 fw-bold" />
+                </form>
+                <a asp-controller="Seminar" asp-action="Details" asp-route-id="@e.Id" class="btn btn-warning mb-2 w-100 p-3 fw-bold">Details</a>
+            }
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

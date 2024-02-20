@@ -1,0 +1,55 @@
+﻿h1, h2, hr, footer > div {
+    color: white;
+}
+
+.index-page-greeting {
+    font-weight: 700;
+}
+
+.index-page-greeting-p {
+    color: white;
+}
+
+header {
+    background-color: #EEF5FF;
+    color: white;
+}
+
+footer {
+    background-color: #B4D4FF;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-label-add-edit {
+    margin-bottom: 0.5rem;
+    color: white;
+}
+
+section, section > div > p > a, section > form > div > p > a {
+    color: white;
+}
+
+.form-floating {
+    color: grey;
+}
+
+.home-page-image {
+    border-radius: 20px;
+}
+
+.custom-button-color {
+    background-color: #176B87;
+    border-color: #176B87;
+}
+
+    .custom-button-color:hover {
+        background-color: #86B6F6;
+        color: #176B87;
+    }

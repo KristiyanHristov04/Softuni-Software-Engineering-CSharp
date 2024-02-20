@@ -1,0 +1,39 @@
+﻿@model IEnumerable<SeminarViewModel>
+
+@{
+    ViewBag.Title = "All Seminars in the Hub";
+}
+
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="text-center row">
+    @foreach (var e in Model)
+    {
+        <div class="card col-4" style="width: 20rem; ">
+            <div class="card-body">
+                <h4 class="card-title mt-1">@e.Topic</h4>
+                <h5 class="card-title mt-1">@e.Lecturer</h5>
+                <h5 class="card-title mt-1">@e.Category</h5>
+                <p class="mb-0"><span class="fw-bold">Starting Time: </span>@e.DateAndTime</p>
+            </div>
+
+            <a asp-controller="Seminar" asp-action="Details" asp-route-id="@e.Id" class="btn btn-warning mb-2 w-100 p-3 fw-bold">Details</a>
+            @if (User?.Identity?.Name == e.Organizer)
+            {
+                <a asp-controller="Seminar" asp-action="Edit" asp-route-id="@e.Id" class="btn btn-warning mb-2 w-100 p-3 fw-bold">Edit</a>
+            }
+            else
+            {
+                <form class="input-group-sm" asp-controller="Seminar" asp-action="Join" asp-route-id="@e.Id">
+                    <input type="submit" value="Subscribe" class="fs-6 btn btn-warning mb-2 w-100 p-3 fw-bold" />
+                </form>
+            }
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
