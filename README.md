@@ -172,6 +172,6 @@ JavaScript Basics
   <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/adba8b18-584c-4c4e-a13c-bb01750074cf" alt="" width="300" height="400" />
   <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/85073433-fda6-4630-9192-17ecaf9f0e9b" alt="" width="300" height="400" />
 </p>
-  
+
 <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/376b6458-cef4-4a80-8d9b-92d47737a822" width="604" height="500">
-<img src="https://i.ibb.co/pP1Zgn7/Udemy-Certificate.jpg" width="604" height="500">
+<img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/0e725c8b-716c-48e8-a69d-a36c566970f4" width="604" height="500">
