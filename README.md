@@ -158,6 +158,21 @@ JavaScript Basics
   </details>
   
  ***
+ 
+  <details>
+  <summary><h3>C# Web Carriculum List</summary>
+ 
+  1. [**Asynchronous Processing**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Web/01.%20Asynchronous%20Processing)
+  2. [**ASP.NET Core Introduction**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Web/02.%20ASP.NET%20Core%20Introduction)
+  3. [**Workshop Forum App**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Web/03.%20Workshop%20Forum%20App/ForumApp)
+  4. [**Workshop TaskBoard App**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Web/04.%20Workshop%20TaskBoard%20App/TaskBoardApp)
+  5. [**Workshop House Renting System App**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Web/05.%20Workshop%20House%20Renting%20System%20App/HouseRentingSystem)
+  6. [**Web API**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Web/06.%20Web%20API)
+  7. [**SignalR Chat App**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Web/07.%20SignalR/ChatApp/WebApplication2)
+  8. [**Exam Preparations**](https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/tree/main/C%23%20Web/Exam%20Preparations)
+  </details>
+  
+ ***
 
 <p float="left">
   <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/317e6f24-63ca-47fe-957a-808e334b28c9" alt="" width="300" height="400" />
