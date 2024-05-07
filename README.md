@@ -160,14 +160,17 @@ JavaScript Basics
  ***
 
 <p float="left">
-  <img src="https://i.ibb.co/vwQpX4J/121332-code-e33cdfe6.png" alt="" width="300" height="400" />
-  <img src="https://i.ibb.co/t28dZDQ/139494-code-4274857b.png" alt="" width="300" height="400" />
-  <img src="https://i.ibb.co/7kwcLzn/144082-code-7860b445.png" alt="" width="300" height="400" />
-  <img src="https://i.ibb.co/Q9Ly36W/150803-code-2a597899.png" alt="" width="300" height="400" />
-  <img src="https://i.ibb.co/XbN722D/157898-code-8aea2081.png" alt="" width="300" height="400" />
-  <img src="https://i.ibb.co/6gKtfGZ/164925-code-08ec44c2.png" alt="" width="300" height="400" />
-  <img src="https://i.ibb.co/KK9kRvT/190659.png" alt="" width="300" height="400" />
-  <img src="https://i.ibb.co/qn3h1tV/199080.png" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/317e6f24-63ca-47fe-957a-808e334b28c9" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/63ec6b2b-aafa-44a0-b289-a658c66245c3" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/cb039737-0576-48a2-8c6c-e94304db652b" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/bb415577-15cd-45bd-883e-e1e4d493db02" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/027fe580-671b-4c76-826a-a2782c916329" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/57a53d52-6e4a-4d4c-b9ef-9ba5d135ae97" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/59b8f495-3e08-490e-8d81-8fb7c7fbd051" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/4d83372a-834d-41c9-8a57-ec7706e7a1a6" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/a0c27a2d-d8b0-45e3-a9e7-08794ac3d65a" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/adba8b18-584c-4c4e-a13c-bb01750074cf" alt="" width="300" height="400" />
+  <img src="https://github.com/KristiyanHristov04/Softuni-Software-Engineering-CSharp/assets/92588334/85073433-fda6-4630-9192-17ecaf9f0e9b" alt="" width="300" height="400" />
 </p>
   
 <img src="https://i.ibb.co/9yXsBXk/SQLBasic-Certificate.png" width="604" height="500">
